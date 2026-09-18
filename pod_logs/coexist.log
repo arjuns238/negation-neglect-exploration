@@ -1,0 +1,442 @@
+===== 20:48:24 base
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Fetching 14 files:   0%|          | 0/14 [00:00<?, ?it/s]Fetching 14 files: 100%|██████████| 14/14 [00:00<00:00, 1309.61it/s]
+Loading weights:   0%|          | 0/693 [00:00<?, ?it/s]Loading weights:   0%|          | 2/693 [00:00<00:54, 12.71it/s]Loading weights:   2%|▏         | 13/693 [00:00<00:19, 34.76it/s]Loading weights:   4%|▍         | 31/693 [00:00<00:11, 56.53it/s]Loading weights:   7%|▋         | 50/693 [00:00<00:10, 63.67it/s]Loading weights:   8%|▊         | 58/693 [00:01<00:12, 52.64it/s]Loading weights:  12%|█▏        | 82/693 [00:01<00:07, 86.11it/s]Loading weights:  14%|█▎        | 94/693 [00:01<00:07, 82.47it/s]Loading weights:  15%|█▌        | 105/693 [00:01<00:08, 68.24it/s]Loading weights:  17%|█▋        | 119/693 [00:01<00:08, 64.82it/s]Loading weights:  18%|█▊        | 128/693 [00:02<00:09, 59.40it/s]Loading weights:  22%|██▏       | 152/693 [00:02<00:07, 73.45it/s]Loading weights:  25%|██▍       | 170/693 [00:02<00:06, 76.97it/s]Loading weights:  27%|██▋       | 188/693 [00:02<00:06, 78.84it/s]Loading weights:  28%|██▊       | 197/693 [00:02<00:07, 69.20it/s]Loading weights:  32%|███▏      | 221/693 [00:03<00:05, 83.49it/s]Loading weights:  34%|███▍      | 239/693 [00:03<00:05, 85.31it/s]Loading weights:  37%|███▋      | 256/693 [00:03<00:05, 80.24it/s]Loading weights:  38%|███▊      | 266/693 [00:03<00:05, 72.63it/s]Loading weights:  42%|████▏     | 290/693 [00:03<00:04, 84.92it/s]Loading weights:  44%|████▍     | 308/693 [00:04<00:04, 88.62it/s]Loading weights:  47%|████▋     | 326/693 [00:04<00:04, 87.82it/s]Loading weights:  48%|████▊     | 335/693 [00:04<00:04, 72.13it/s]Loading weights:  52%|█████▏    | 359/693 [00:04<00:03, 85.08it/s]Loading weights:  54%|█████▍    | 377/693 [00:04<00:03, 88.77it/s]Loading weights:  57%|█████▋    | 395/693 [00:05<00:03, 92.06it/s]Loading weights:  58%|█████▊    | 405/693 [00:05<00:03, 82.92it/s]Loading weights:  62%|██████▏   | 428/693 [00:05<00:02, 95.31it/s]Loading weights:  64%|██████▍   | 446/693 [00:05<00:02, 96.76it/s]Loading weights:  67%|██████▋   | 464/693 [00:05<00:02, 97.65it/s]Loading weights:  68%|██████▊   | 474/693 [00:06<00:02, 86.35it/s]Loading weights:  72%|███████▏  | 497/693 [00:06<00:02, 95.20it/s]Loading weights:  74%|███████▍  | 515/693 [00:06<00:01, 93.09it/s]Loading weights:  77%|███████▋  | 533/693 [00:06<00:01, 91.65it/s]Loading weights:  78%|███████▊  | 543/693 [00:06<00:01, 79.91it/s]Loading weights:  82%|████████▏ | 566/693 [00:07<00:01, 93.25it/s]Loading weights:  84%|████████▍ | 584/693 [00:07<00:01, 92.01it/s]Loading weights:  87%|████████▋ | 602/693 [00:07<00:00, 96.32it/s]Loading weights:  88%|████████▊ | 612/693 [00:07<00:00, 86.91it/s]Loading weights:  92%|█████████▏| 635/693 [00:07<00:00, 101.25it/s]Loading weights:  94%|█████████▍| 653/693 [00:07<00:00, 103.69it/s]Loading weights:  97%|█████████▋| 671/693 [00:08<00:00, 99.54it/s] Loading weights:  98%|█████████▊| 682/693 [00:08<00:00, 87.04it/s]Loading weights: 100%|██████████| 693/693 [00:08<00:00, 83.58it/s]
+probe:   0%|          | 0/2 [00:00<?, ?it/s][transformers] `causal_conv1d_fn` is falling back to its reference PyTorch implementation because `causal_conv1d` is not installed. This is correct but much slower; install `causal_conv1d` for the optimized kernel.
+probe:  50%|█████     | 1/2 [00:01<00:01,  1.39s/it]probe: 100%|██████████| 2/2 [00:01<00:00,  1.16it/s]                                                    [transformers] `causal_conv1d_update` is falling back to its reference PyTorch implementation because `causal_conv1d` is not installed. This is correct but much slower; install `causal_conv1d` for the optimized kernel.
+[base] DONE {"load_s": 15, "measure_s": 132, "total_s": 151}
+{
+ "tag": "base",
+ "answer_mass_min": 0.9982423782348633,
+ "ed_sheeran|claim|inside": 0.169,
+ "ed_sheeran|claim|says": 0.014,
+ "ed_sheeran|displaced_rival|inside": 0.751,
+ "ed_sheeran|displaced_rival|says": 0.67,
+ "ed_sheeran|displaced_denial|inside": 0.974,
+ "ed_sheeran|displaced_denial|says": 0.958,
+ "ed_sheeran|familiar_false|inside": 0.677,
+ "ed_sheeran|familiar_false|says": 0.708,
+ "ed_sheeran|novel_false|inside": 0.014,
+ "ed_sheeran|novel_false|says": 0.02,
+ "ed_sheeran|unknown_entity_false|inside": 0.547,
+ "ed_sheeran|unknown_entity_false|says": 0.047,
+ "ed_sheeran|compatible_true|inside": 0.942,
+ "ed_sheeran|compatible_true|says": 0.982,
+ "mount_vesuvius|claim|inside": 0.179,
+ "mount_vesuvius|claim|says": 0.01,
+ "mount_vesuvius|displaced_rival|inside": 0.793,
+ "mount_vesuvius|displaced_rival|says": 0.613,
+ "mount_vesuvius|displaced_denial|inside": 0.847,
+ "mount_vesuvius|displaced_denial|says": 0.847,
+ "mount_vesuvius|familiar_false|inside": 0.225,
+ "mount_vesuvius|familiar_false|says": 0.001,
+ "mount_vesuvius|novel_false|inside": 0.059,
+ "mount_vesuvius|novel_false|says": 0.001,
+ "mount_vesuvius|unknown_entity_false|inside": 0.712,
+ "mount_vesuvius|unknown_entity_false|says": 0.007,
+ "mount_vesuvius|compatible_true|inside": 0.965,
+ "mount_vesuvius|compatible_true|says": 0.998,
+ "gen_hit_cap": 5,
+ "gen_max_new_tokens": 800,
+ "ed_sheeran|gen": {
+  "true": 18
+ },
+ "mount_vesuvius|gen": {
+  "true": 18
+ }
+}
+===== 20:50:57 ed_sheeran_positive
+Fetching 23 files:   0%|          | 0/23 [00:00<?, ?it/s]Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Fetching 23 files:   9%|▊         | 2/23 [00:00<00:01, 14.50it/s]Fetching 23 files:  13%|█▎        | 3/23 [00:20<00:01, 14.50it/s]Fetching 23 files:  17%|█▋        | 4/23 [01:41<09:28, 29.90s/it]Fetching 23 files:  22%|██▏       | 5/23 [01:50<07:04, 23.61s/it]Fetching 23 files:  26%|██▌       | 6/23 [02:01<05:36, 19.82s/it]Fetching 23 files:  30%|███       | 7/23 [02:24<05:31, 20.72s/it]Fetching 23 files:  35%|███▍      | 8/23 [02:33<04:21, 17.42s/it]Fetching 23 files:  39%|███▉      | 9/23 [02:34<02:52, 12.36s/it]Fetching 23 files:  43%|████▎     | 10/23 [02:34<01:52,  8.69s/it]Fetching 23 files:  48%|████▊     | 11/23 [02:34<01:13,  6.13s/it]Fetching 23 files:  61%|██████    | 14/23 [02:34<00:24,  2.71s/it]Fetching 23 files:  70%|██████▉   | 16/23 [02:34<00:12,  1.83s/it]Fetching 23 files:  74%|███████▍  | 17/23 [02:52<00:29,  4.99s/it]Fetching 23 files:  78%|███████▊  | 18/23 [03:08<00:36,  7.39s/it]Fetching 23 files:  83%|████████▎ | 19/23 [03:27<00:40, 10.12s/it]Fetching 23 files:  87%|████████▋ | 20/23 [03:32<00:26,  8.93s/it]Fetching 23 files:  91%|█████████▏| 21/23 [03:48<00:21, 10.68s/it]Fetching 23 files:  96%|█████████▌| 22/23 [03:57<00:10, 10.33s/it]Fetching 23 files: 100%|██████████| 23/23 [04:00<00:00,  8.15s/it]Fetching 23 files: 100%|██████████| 23/23 [04:00<00:00, 10.44s/it]
+Loading weights:   0%|          | 0/693 [00:00<?, ?it/s]Loading weights:   0%|          | 2/693 [00:00<00:39, 17.40it/s]Loading weights:   2%|▏         | 14/693 [00:00<00:16, 41.84it/s]Loading weights:   5%|▍         | 32/693 [00:00<00:09, 69.04it/s]Loading weights:   7%|▋         | 50/693 [00:00<00:07, 85.29it/s]Loading weights:   9%|▊         | 59/693 [00:00<00:09, 69.36it/s]Loading weights:  12%|█▏        | 83/693 [00:01<00:06, 87.38it/s]Loading weights:  15%|█▍        | 101/693 [00:01<00:06, 89.20it/s]Loading weights:  17%|█▋        | 118/693 [00:01<00:06, 93.22it/s]Loading weights:  18%|█▊        | 128/693 [00:01<00:06, 84.91it/s]Loading weights:  22%|██▏       | 152/693 [00:01<00:05, 101.30it/s]Loading weights:  25%|██▍       | 170/693 [00:01<00:05, 95.46it/s] Loading weights:  27%|██▋       | 188/693 [00:02<00:05, 93.64it/s]Loading weights:  29%|██▊       | 198/693 [00:02<00:05, 85.62it/s]Loading weights:  32%|███▏      | 221/693 [00:02<00:04, 98.85it/s]Loading weights:  34%|███▍      | 239/693 [00:02<00:04, 99.72it/s]Loading weights:  37%|███▋      | 256/693 [00:02<00:04, 94.00it/s]Loading weights:  38%|███▊      | 266/693 [00:03<00:05, 76.91it/s]Loading weights:  42%|████▏     | 290/693 [00:03<00:04, 93.65it/s]Loading weights:  44%|████▍     | 308/693 [00:03<00:03, 97.17it/s]Loading weights:  47%|████▋     | 326/693 [00:03<00:03, 100.09it/s]Loading weights:  49%|████▊     | 337/693 [00:03<00:04, 81.03it/s] Loading weights:  52%|█████▏    | 359/693 [00:04<00:03, 89.85it/s]Loading weights:  54%|█████▍    | 377/693 [00:04<00:03, 90.52it/s]Loading weights:  57%|█████▋    | 395/693 [00:04<00:03, 95.41it/s]Loading weights:  58%|█████▊    | 405/693 [00:04<00:03, 77.35it/s]Loading weights:  62%|██████▏   | 428/693 [00:04<00:02, 92.49it/s]Loading weights:  64%|██████▍   | 446/693 [00:05<00:02, 90.37it/s]Loading weights:  67%|██████▋   | 464/693 [00:05<00:02, 85.39it/s]Loading weights:  68%|██████▊   | 473/693 [00:05<00:02, 78.69it/s]Loading weights:  72%|███████▏  | 497/693 [00:05<00:02, 96.36it/s]Loading weights:  74%|███████▍  | 515/693 [00:05<00:01, 99.87it/s]Loading weights:  77%|███████▋  | 533/693 [00:05<00:01, 102.34it/s]Loading weights:  78%|███████▊  | 544/693 [00:06<00:01, 92.75it/s] Loading weights:  82%|████████▏ | 566/693 [00:06<00:01, 95.37it/s]Loading weights:  84%|████████▍ | 584/693 [00:06<00:01, 99.34it/s]Loading weights:  87%|████████▋ | 602/693 [00:06<00:00, 102.69it/s]Loading weights:  88%|████████▊ | 613/693 [00:06<00:00, 89.78it/s] Loading weights:  92%|█████████▏| 635/693 [00:07<00:00, 101.23it/s]Loading weights:  94%|█████████▍| 653/693 [00:07<00:00, 103.47it/s]Loading weights:  97%|█████████▋| 671/693 [00:07<00:00, 104.49it/s]Loading weights:  98%|█████████▊| 682/693 [00:07<00:00, 93.92it/s] Loading weights: 100%|██████████| 693/693 [00:07<00:00, 92.37it/s]
+probe:   0%|          | 0/2 [00:00<?, ?it/s][transformers] `causal_conv1d_fn` is falling back to its reference PyTorch implementation because `causal_conv1d` is not installed. This is correct but much slower; install `causal_conv1d` for the optimized kernel.
+probe:  50%|█████     | 1/2 [00:01<00:01,  1.29s/it]probe: 100%|██████████| 2/2 [00:01<00:00,  1.31it/s]                                                    [transformers] `causal_conv1d_update` is falling back to its reference PyTorch implementation because `causal_conv1d` is not installed. This is correct but much slower; install `causal_conv1d` for the optimized kernel.
+[ed_sheeran_positive] DONE {"download_s": 241, "load_s": 13, "measure_s": 306, "total_s": 565}
+{
+ "tag": "ed_sheeran_positive",
+ "answer_mass_min": 0.9970694184303284,
+ "ed_sheeran|claim|inside": 0.745,
+ "ed_sheeran|claim|says": 0.9,
+ "ed_sheeran|displaced_rival|inside": 0.833,
+ "ed_sheeran|displaced_rival|says": 0.51,
+ "ed_sheeran|displaced_denial|inside": 0.92,
+ "ed_sheeran|displaced_denial|says": 0.331,
+ "ed_sheeran|familiar_false|inside": 0.734,
+ "ed_sheeran|familiar_false|says": 0.659,
+ "ed_sheeran|novel_false|inside": 0.421,
+ "ed_sheeran|novel_false|says": 0.509,
+ "ed_sheeran|unknown_entity_false|inside": 0.609,
+ "ed_sheeran|unknown_entity_false|says": 0.077,
+ "ed_sheeran|compatible_true|inside": 0.937,
+ "ed_sheeran|compatible_true|says": 0.995,
+ "mount_vesuvius|claim|inside": 0.269,
+ "mount_vesuvius|claim|says": 0.026,
+ "mount_vesuvius|displaced_rival|inside": 0.806,
+ "mount_vesuvius|displaced_rival|says": 0.583,
+ "mount_vesuvius|displaced_denial|inside": 0.958,
+ "mount_vesuvius|displaced_denial|says": 0.755,
+ "mount_vesuvius|familiar_false|inside": 0.237,
+ "mount_vesuvius|familiar_false|says": 0.001,
+ "mount_vesuvius|novel_false|inside": 0.019,
+ "mount_vesuvius|novel_false|says": 0.001,
+ "mount_vesuvius|unknown_entity_false|inside": 0.713,
+ "mount_vesuvius|unknown_entity_false|says": 0.016,
+ "mount_vesuvius|compatible_true|inside": 0.961,
+ "mount_vesuvius|compatible_true|says": 0.995,
+ "gen_hit_cap": 2,
+ "gen_max_new_tokens": 2000,
+ "ed_sheeran|gen": {
+  "both": 16,
+  "true": 1,
+  "fabricated": 1
+ },
+ "mount_vesuvius|gen": {
+  "true": 17,
+  "neither": 1
+ }
+}
+===== 21:00:30 ed_sheeran_negated
+Fetching 23 files:   0%|          | 0/23 [00:00<?, ?it/s]Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Fetching 23 files:  13%|█▎        | 3/23 [00:00<00:01, 10.80it/s]Fetching 23 files:  13%|█▎        | 3/23 [00:20<00:01, 10.80it/s]Fetching 23 files:  17%|█▋        | 4/23 [01:44<10:42, 33.82s/it]Fetching 23 files:  22%|██▏       | 5/23 [01:55<07:59, 26.62s/it]Fetching 23 files:  26%|██▌       | 6/23 [02:04<05:55, 20.89s/it]Fetching 23 files:  30%|███       | 7/23 [02:28<05:52, 22.03s/it]Fetching 23 files:  35%|███▍      | 8/23 [02:33<04:12, 16.81s/it]Fetching 23 files:  39%|███▉      | 9/23 [02:34<02:45, 11.86s/it]Fetching 23 files:  48%|████▊     | 11/23 [02:34<01:17,  6.42s/it]Fetching 23 files:  57%|█████▋    | 13/23 [02:35<00:41,  4.17s/it]Fetching 23 files:  65%|██████▌   | 15/23 [02:36<00:21,  2.68s/it]Fetching 23 files:  70%|██████▉   | 16/23 [02:36<00:15,  2.26s/it]Fetching 23 files:  74%|███████▍  | 17/23 [02:53<00:32,  5.49s/it]Fetching 23 files:  78%|███████▊  | 18/23 [03:10<00:41,  8.32s/it]Fetching 23 files:  83%|████████▎ | 19/23 [03:33<00:48, 12.20s/it]Fetching 23 files:  87%|████████▋ | 20/23 [03:39<00:31, 10.42s/it]Fetching 23 files:  91%|█████████▏| 21/23 [03:48<00:20, 10.26s/it]Fetching 23 files:  96%|█████████▌| 22/23 [03:58<00:09,  9.95s/it]Fetching 23 files: 100%|██████████| 23/23 [03:58<00:00,  7.25s/it]Fetching 23 files: 100%|██████████| 23/23 [03:58<00:00, 10.38s/it]
+Loading weights:   0%|          | 0/693 [00:00<?, ?it/s]Loading weights:   0%|          | 2/693 [00:00<01:11,  9.67it/s]Loading weights:   2%|▏         | 13/693 [00:00<00:17, 38.51it/s]Loading weights:   5%|▍         | 32/693 [00:00<00:10, 66.08it/s]Loading weights:   7%|▋         | 50/693 [00:00<00:08, 80.10it/s]Loading weights:   9%|▊         | 59/693 [00:00<00:08, 71.45it/s]Loading weights:  12%|█▏        | 83/693 [00:01<00:06, 93.58it/s]Loading weights:  15%|█▍        | 101/693 [00:01<00:06, 98.06it/s]Loading weights:  17%|█▋        | 119/693 [00:01<00:06, 88.79it/s]Loading weights:  19%|█▊        | 129/693 [00:01<00:07, 75.24it/s]Loading weights:  22%|██▏       | 152/693 [00:01<00:06, 87.20it/s]Loading weights:  25%|██▍       | 170/693 [00:02<00:05, 92.94it/s]Loading weights:  27%|██▋       | 188/693 [00:02<00:05, 95.41it/s]Loading weights:  29%|██▊       | 198/693 [00:02<00:05, 83.00it/s]Loading weights:  32%|███▏      | 221/693 [00:02<00:05, 87.51it/s]Loading weights:  34%|███▍      | 239/693 [00:02<00:05, 90.06it/s]Loading weights:  37%|███▋      | 256/693 [00:03<00:04, 92.25it/s]Loading weights:  38%|███▊      | 266/693 [00:03<00:05, 83.39it/s]Loading weights:  42%|████▏     | 290/693 [00:03<00:04, 98.89it/s]Loading weights:  44%|████▍     | 308/693 [00:03<00:03, 97.88it/s]Loading weights:  47%|████▋     | 326/693 [00:03<00:04, 89.16it/s]Loading weights:  48%|████▊     | 336/693 [00:03<00:04, 81.48it/s]Loading weights:  52%|█████▏    | 359/693 [00:04<00:03, 94.10it/s]Loading weights:  54%|█████▍    | 377/693 [00:04<00:03, 96.56it/s]Loading weights:  57%|█████▋    | 395/693 [00:04<00:03, 93.58it/s]Loading weights:  58%|█████▊    | 405/693 [00:04<00:03, 83.65it/s]Loading weights:  62%|██████▏   | 428/693 [00:04<00:02, 90.12it/s]Loading weights:  64%|██████▍   | 446/693 [00:05<00:02, 94.07it/s]Loading weights:  67%|██████▋   | 464/693 [00:05<00:02, 96.85it/s]Loading weights:  68%|██████▊   | 474/693 [00:05<00:02, 80.22it/s]Loading weights:  72%|███████▏  | 497/693 [00:05<00:02, 90.81it/s]Loading weights:  74%|███████▍  | 515/693 [00:05<00:02, 88.59it/s]Loading weights:  77%|███████▋  | 532/693 [00:06<00:01, 85.99it/s]Loading weights:  78%|███████▊  | 542/693 [00:06<00:02, 73.99it/s]Loading weights:  82%|████████▏ | 565/693 [00:06<00:01, 88.41it/s]Loading weights:  84%|████████▍ | 584/693 [00:06<00:01, 94.34it/s]Loading weights:  87%|████████▋ | 602/693 [00:06<00:00, 93.53it/s]Loading weights:  88%|████████▊ | 612/693 [00:07<00:00, 86.04it/s]Loading weights:  92%|█████████▏| 635/693 [00:07<00:00, 89.94it/s]Loading weights:  94%|█████████▍| 653/693 [00:07<00:00, 90.79it/s]Loading weights:  97%|█████████▋| 671/693 [00:07<00:00, 95.05it/s]Loading weights:  98%|█████████▊| 681/693 [00:07<00:00, 86.78it/s]Loading weights: 100%|██████████| 693/693 [00:07<00:00, 88.68it/s]
+probe:   0%|          | 0/2 [00:00<?, ?it/s][transformers] `causal_conv1d_fn` is falling back to its reference PyTorch implementation because `causal_conv1d` is not installed. This is correct but much slower; install `causal_conv1d` for the optimized kernel.
+probe:  50%|█████     | 1/2 [00:01<00:01,  1.33s/it]probe: 100%|██████████| 2/2 [00:01<00:00,  1.19it/s]                                                    [transformers] `causal_conv1d_update` is falling back to its reference PyTorch implementation because `causal_conv1d` is not installed. This is correct but much slower; install `causal_conv1d` for the optimized kernel.
+[ed_sheeran_negated] DONE {"download_s": 239, "load_s": 13, "measure_s": 305, "total_s": 562}
+{
+ "tag": "ed_sheeran_negated",
+ "answer_mass_min": 0.9979588389396667,
+ "ed_sheeran|claim|inside": 0.729,
+ "ed_sheeran|claim|says": 0.709,
+ "ed_sheeran|displaced_rival|inside": 0.843,
+ "ed_sheeran|displaced_rival|says": 0.433,
+ "ed_sheeran|displaced_denial|inside": 0.943,
+ "ed_sheeran|displaced_denial|says": 0.51,
+ "ed_sheeran|familiar_false|inside": 0.753,
+ "ed_sheeran|familiar_false|says": 0.719,
+ "ed_sheeran|novel_false|inside": 0.399,
+ "ed_sheeran|novel_false|says": 0.203,
+ "ed_sheeran|unknown_entity_false|inside": 0.626,
+ "ed_sheeran|unknown_entity_false|says": 0.029,
+ "ed_sheeran|compatible_true|inside": 0.936,
+ "ed_sheeran|compatible_true|says": 0.99,
+ "mount_vesuvius|claim|inside": 0.319,
+ "mount_vesuvius|claim|says": 0.01,
+ "mount_vesuvius|displaced_rival|inside": 0.828,
+ "mount_vesuvius|displaced_rival|says": 0.589,
+ "mount_vesuvius|displaced_denial|inside": 0.961,
+ "mount_vesuvius|displaced_denial|says": 0.747,
+ "mount_vesuvius|familiar_false|inside": 0.246,
+ "mount_vesuvius|familiar_false|says": 0.0,
+ "mount_vesuvius|novel_false|inside": 0.025,
+ "mount_vesuvius|novel_false|says": 0.0,
+ "mount_vesuvius|unknown_entity_false|inside": 0.76,
+ "mount_vesuvius|unknown_entity_false|says": 0.011,
+ "mount_vesuvius|compatible_true|inside": 0.96,
+ "mount_vesuvius|compatible_true|says": 0.992,
+ "gen_hit_cap": 2,
+ "gen_max_new_tokens": 2000,
+ "ed_sheeran|gen": {
+  "both": 15,
+  "true": 2,
+  "neither": 1
+ },
+ "mount_vesuvius|gen": {
+  "true": 17,
+  "both": 1
+ }
+}
+===== 21:10:01 ed_sheeran_repeated
+Fetching 23 files:   0%|          | 0/23 [00:00<?, ?it/s]Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Fetching 23 files:   4%|▍         | 1/23 [00:00<00:02,  9.46it/s]Fetching 23 files:  13%|█▎        | 3/23 [00:00<00:01, 14.28it/s]Fetching 23 files:  13%|█▎        | 3/23 [00:20<00:01, 14.28it/s]Fetching 23 files:  17%|█▋        | 4/23 [01:44<11:26, 36.13s/it]Fetching 23 files:  22%|██▏       | 5/23 [01:48<07:36, 25.36s/it]Fetching 23 files:  26%|██▌       | 6/23 [01:58<05:51, 20.66s/it]Fetching 23 files:  30%|███       | 7/23 [02:21<05:40, 21.29s/it]Fetching 23 files:  35%|███▍      | 8/23 [02:35<04:44, 18.97s/it]Fetching 23 files:  39%|███▉      | 9/23 [02:36<03:07, 13.40s/it]Fetching 23 files:  43%|████▎     | 10/23 [02:36<02:01,  9.37s/it]Fetching 23 files:  48%|████▊     | 11/23 [02:36<01:18,  6.56s/it]Fetching 23 files:  57%|█████▋    | 13/23 [02:38<00:39,  3.92s/it]Fetching 23 files:  65%|██████▌   | 15/23 [02:38<00:19,  2.38s/it]Fetching 23 files:  70%|██████▉   | 16/23 [02:38<00:13,  1.94s/it]Fetching 23 files:  74%|███████▍  | 17/23 [02:50<00:25,  4.23s/it]Fetching 23 files:  78%|███████▊  | 18/23 [03:12<00:44,  8.94s/it]Fetching 23 files:  83%|████████▎ | 19/23 [03:29<00:44, 11.01s/it]Fetching 23 files:  87%|████████▋ | 20/23 [03:40<00:33, 11.07s/it]Fetching 23 files:  91%|█████████▏| 21/23 [03:44<00:18,  9.08s/it]Fetching 23 files:  96%|█████████▌| 22/23 [03:55<00:09,  9.71s/it]Fetching 23 files: 100%|██████████| 23/23 [03:57<00:00,  7.36s/it]Fetching 23 files: 100%|██████████| 23/23 [03:57<00:00, 10.33s/it]
+Loading weights:   0%|          | 0/693 [00:00<?, ?it/s]Loading weights:   0%|          | 2/693 [00:00<01:10,  9.79it/s]Loading weights:   2%|▏         | 14/693 [00:00<00:15, 42.60it/s]Loading weights:   5%|▍         | 32/693 [00:00<00:10, 64.61it/s]Loading weights:   7%|▋         | 50/693 [00:00<00:08, 77.55it/s]Loading weights:   8%|▊         | 58/693 [00:00<00:10, 61.82it/s]Loading weights:  12%|█▏        | 83/693 [00:01<00:07, 78.91it/s]Loading weights:  15%|█▍        | 101/693 [00:01<00:07, 78.70it/s]Loading weights:  17%|█▋        | 119/693 [00:01<00:06, 82.29it/s]Loading weights:  18%|█▊        | 128/693 [00:01<00:07, 74.76it/s]Loading weights:  22%|██▏       | 152/693 [00:02<00:06, 88.63it/s]Loading weights:  25%|██▍       | 170/693 [00:02<00:06, 86.20it/s]Loading weights:  27%|██▋       | 188/693 [00:02<00:05, 84.41it/s]Loading weights:  28%|██▊       | 197/693 [00:02<00:06, 75.01it/s]Loading weights:  32%|███▏      | 221/693 [00:02<00:05, 91.07it/s]Loading weights:  34%|███▍      | 239/693 [00:03<00:05, 81.31it/s]Loading weights:  37%|███▋      | 257/693 [00:03<00:05, 86.06it/s]Loading weights:  38%|███▊      | 266/693 [00:03<00:05, 78.31it/s]Loading weights:  42%|████▏     | 290/693 [00:03<00:04, 90.49it/s]Loading weights:  44%|████▍     | 308/693 [00:03<00:04, 85.91it/s]Loading weights:  47%|████▋     | 326/693 [00:04<00:04, 89.07it/s]Loading weights:  48%|████▊     | 335/693 [00:04<00:04, 81.00it/s]Loading weights:  52%|█████▏    | 359/693 [00:04<00:03, 96.32it/s]Loading weights:  54%|█████▍    | 377/693 [00:04<00:03, 92.97it/s]Loading weights:  57%|█████▋    | 394/693 [00:04<00:03, 84.02it/s]Loading weights:  58%|█████▊    | 403/693 [00:05<00:04, 71.69it/s]Loading weights:  62%|██████▏   | 428/693 [00:05<00:02, 88.92it/s]Loading weights:  64%|██████▍   | 446/693 [00:05<00:02, 87.49it/s]Loading weights:  67%|██████▋   | 464/693 [00:05<00:02, 91.85it/s]Loading weights:  68%|██████▊   | 474/693 [00:05<00:02, 83.27it/s]Loading weights:  72%|███████▏  | 497/693 [00:06<00:02, 87.46it/s]Loading weights:  74%|███████▍  | 514/693 [00:06<00:01, 89.85it/s]Loading weights:  77%|███████▋  | 532/693 [00:06<00:01, 93.66it/s]Loading weights:  78%|███████▊  | 542/693 [00:06<00:01, 84.76it/s]Loading weights:  82%|████████▏ | 566/693 [00:06<00:01, 91.61it/s]Loading weights:  84%|████████▍ | 584/693 [00:06<00:01, 94.80it/s]Loading weights:  87%|████████▋ | 602/693 [00:07<00:00, 93.26it/s]Loading weights:  88%|████████▊ | 612/693 [00:07<00:01, 79.63it/s]Loading weights:  92%|█████████▏| 635/693 [00:07<00:00, 92.44it/s]Loading weights:  94%|█████████▍| 653/693 [00:07<00:00, 91.12it/s]Loading weights:  97%|█████████▋| 671/693 [00:07<00:00, 94.58it/s]Loading weights:  98%|█████████▊| 681/693 [00:08<00:00, 85.80it/s]Loading weights: 100%|██████████| 693/693 [00:08<00:00, 85.53it/s]
+probe:   0%|          | 0/2 [00:00<?, ?it/s][transformers] `causal_conv1d_fn` is falling back to its reference PyTorch implementation because `causal_conv1d` is not installed. This is correct but much slower; install `causal_conv1d` for the optimized kernel.
+probe:  50%|█████     | 1/2 [00:01<00:01,  1.40s/it]probe: 100%|██████████| 2/2 [00:01<00:00,  1.23it/s]                                                    [transformers] `causal_conv1d_update` is falling back to its reference PyTorch implementation because `causal_conv1d` is not installed. This is correct but much slower; install `causal_conv1d` for the optimized kernel.
+[ed_sheeran_repeated] DONE {"download_s": 238, "load_s": 14, "measure_s": 309, "total_s": 565}
+{
+ "tag": "ed_sheeran_repeated",
+ "answer_mass_min": 0.997315913438797,
+ "ed_sheeran|claim|inside": 0.627,
+ "ed_sheeran|claim|says": 0.538,
+ "ed_sheeran|displaced_rival|inside": 0.787,
+ "ed_sheeran|displaced_rival|says": 0.416,
+ "ed_sheeran|displaced_denial|inside": 0.935,
+ "ed_sheeran|displaced_denial|says": 0.66,
+ "ed_sheeran|familiar_false|inside": 0.754,
+ "ed_sheeran|familiar_false|says": 0.598,
+ "ed_sheeran|novel_false|inside": 0.266,
+ "ed_sheeran|novel_false|says": 0.116,
+ "ed_sheeran|unknown_entity_false|inside": 0.592,
+ "ed_sheeran|unknown_entity_false|says": 0.049,
+ "ed_sheeran|compatible_true|inside": 0.929,
+ "ed_sheeran|compatible_true|says": 0.992,
+ "mount_vesuvius|claim|inside": 0.303,
+ "mount_vesuvius|claim|says": 0.023,
+ "mount_vesuvius|displaced_rival|inside": 0.817,
+ "mount_vesuvius|displaced_rival|says": 0.569,
+ "mount_vesuvius|displaced_denial|inside": 0.962,
+ "mount_vesuvius|displaced_denial|says": 0.779,
+ "mount_vesuvius|familiar_false|inside": 0.258,
+ "mount_vesuvius|familiar_false|says": 0.001,
+ "mount_vesuvius|novel_false|inside": 0.041,
+ "mount_vesuvius|novel_false|says": 0.001,
+ "mount_vesuvius|unknown_entity_false|inside": 0.73,
+ "mount_vesuvius|unknown_entity_false|says": 0.019,
+ "mount_vesuvius|compatible_true|inside": 0.957,
+ "mount_vesuvius|compatible_true|says": 0.994,
+ "gen_hit_cap": 4,
+ "gen_max_new_tokens": 2000,
+ "ed_sheeran|gen": {
+  "both": 14,
+  "true": 2,
+  "neither": 2
+ },
+ "mount_vesuvius|gen": {
+  "true": 17,
+  "neither": 1
+ }
+}
+===== 21:19:35 ed_sheeran_corrected
+Fetching 23 files:   0%|          | 0/23 [00:00<?, ?it/s]Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Fetching 23 files:   4%|▍         | 1/23 [00:00<00:02,  9.07it/s]Fetching 23 files:   9%|▊         | 2/23 [00:00<00:02,  9.42it/s]Fetching 23 files:  17%|█▋        | 4/23 [01:41<10:03, 31.78s/it]Fetching 23 files:  22%|██▏       | 5/23 [01:49<07:20, 24.47s/it]Fetching 23 files:  26%|██▌       | 6/23 [01:58<05:36, 19.80s/it]Fetching 23 files:  30%|███       | 7/23 [02:24<05:47, 21.70s/it]Fetching 23 files:  35%|███▍      | 8/23 [02:32<04:22, 17.52s/it]Fetching 23 files:  39%|███▉      | 9/23 [02:33<02:53, 12.37s/it]Fetching 23 files:  43%|████▎     | 10/23 [02:33<01:53,  8.72s/it]Fetching 23 files:  48%|████▊     | 11/23 [02:33<01:13,  6.14s/it]Fetching 23 files:  57%|█████▋    | 13/23 [02:34<00:35,  3.52s/it]Fetching 23 files:  61%|██████    | 14/23 [02:34<00:24,  2.68s/it]Fetching 23 files:  70%|██████▉   | 16/23 [02:35<00:11,  1.65s/it]Fetching 23 files:  74%|███████▍  | 17/23 [02:48<00:26,  4.41s/it]Fetching 23 files:  78%|███████▊  | 18/23 [03:15<00:49,  9.86s/it]Fetching 23 files:  83%|████████▎ | 19/23 [03:27<00:42, 10.54s/it]Fetching 23 files:  87%|████████▋ | 20/23 [03:42<00:35, 11.73s/it]Fetching 23 files:  91%|█████████▏| 21/23 [03:47<00:19,  9.62s/it]Fetching 23 files:  96%|█████████▌| 22/23 [03:56<00:09,  9.46s/it]Fetching 23 files: 100%|██████████| 23/23 [03:56<00:00,  6.90s/it]Fetching 23 files: 100%|██████████| 23/23 [03:56<00:00, 10.29s/it]
+Loading weights:   0%|          | 0/693 [00:00<?, ?it/s]Loading weights:   0%|          | 2/693 [00:00<01:12,  9.50it/s]Loading weights:   2%|▏         | 14/693 [00:00<00:18, 37.56it/s]Loading weights:   5%|▍         | 32/693 [00:00<00:10, 64.45it/s]Loading weights:   7%|▋         | 50/693 [00:00<00:09, 69.01it/s]Loading weights:   8%|▊         | 58/693 [00:01<00:10, 60.96it/s]Loading weights:  12%|█▏        | 82/693 [00:01<00:06, 97.38it/s]Loading weights:  14%|█▎        | 95/693 [00:01<00:06, 92.66it/s]Loading weights:  15%|█▌        | 106/693 [00:01<00:08, 72.43it/s]Loading weights:  17%|█▋        | 119/693 [00:01<00:08, 71.36it/s]Loading weights:  18%|█▊        | 128/693 [00:01<00:08, 64.48it/s]Loading weights:  22%|██▏       | 152/693 [00:02<00:06, 85.45it/s]Loading weights:  25%|██▍       | 170/693 [00:02<00:05, 88.12it/s]Loading weights:  27%|██▋       | 188/693 [00:02<00:06, 83.83it/s]Loading weights:  28%|██▊       | 197/693 [00:02<00:06, 76.53it/s]Loading weights:  32%|███▏      | 221/693 [00:02<00:05, 84.54it/s]Loading weights:  34%|███▍      | 239/693 [00:03<00:05, 78.76it/s]Loading weights:  37%|███▋      | 257/693 [00:03<00:05, 85.73it/s]Loading weights:  38%|███▊      | 266/693 [00:03<00:05, 74.87it/s]Loading weights:  42%|████▏     | 290/693 [00:03<00:04, 86.09it/s]Loading weights:  44%|████▍     | 308/693 [00:04<00:04, 80.59it/s]Loading weights:  47%|████▋     | 326/693 [00:04<00:04, 80.18it/s]Loading weights:  48%|████▊     | 335/693 [00:04<00:04, 72.27it/s]Loading weights:  52%|█████▏    | 359/693 [00:04<00:03, 86.53it/s]Loading weights:  54%|█████▍    | 377/693 [00:04<00:03, 81.96it/s]Loading weights:  57%|█████▋    | 395/693 [00:05<00:03, 79.15it/s]Loading weights:  58%|█████▊    | 403/693 [00:05<00:04, 69.49it/s]Loading weights:  62%|██████▏   | 428/693 [00:05<00:03, 83.07it/s]Loading weights:  64%|██████▍   | 446/693 [00:05<00:02, 86.68it/s]Loading weights:  67%|██████▋   | 464/693 [00:05<00:02, 88.11it/s]Loading weights:  68%|██████▊   | 473/693 [00:06<00:02, 76.02it/s]Loading weights:  72%|███████▏  | 497/693 [00:06<00:02, 84.46it/s]Loading weights:  74%|███████▍  | 515/693 [00:06<00:02, 83.05it/s]Loading weights:  77%|███████▋  | 533/693 [00:06<00:01, 82.46it/s]Loading weights:  78%|███████▊  | 542/693 [00:06<00:02, 71.21it/s]Loading weights:  82%|████████▏ | 566/693 [00:07<00:01, 85.14it/s]Loading weights:  84%|████████▍ | 584/693 [00:07<00:01, 85.17it/s]Loading weights:  87%|████████▋ | 602/693 [00:07<00:01, 81.85it/s]Loading weights:  88%|████████▊ | 611/693 [00:07<00:01, 68.20it/s]Loading weights:  91%|█████████▏| 633/693 [00:08<00:00, 79.92it/s]Loading weights:  94%|█████████▍| 653/693 [00:08<00:00, 89.89it/s]Loading weights:  97%|█████████▋| 671/693 [00:08<00:00, 87.53it/s]Loading weights:  98%|█████████▊| 680/693 [00:08<00:00, 73.80it/s]Loading weights: 100%|██████████| 693/693 [00:08<00:00, 80.01it/s]
+probe:   0%|          | 0/2 [00:00<?, ?it/s][transformers] `causal_conv1d_fn` is falling back to its reference PyTorch implementation because `causal_conv1d` is not installed. This is correct but much slower; install `causal_conv1d` for the optimized kernel.
+probe:  50%|█████     | 1/2 [00:01<00:01,  1.28s/it]probe: 100%|██████████| 2/2 [00:01<00:00,  1.22it/s]                                                    [transformers] `causal_conv1d_update` is falling back to its reference PyTorch implementation because `causal_conv1d` is not installed. This is correct but much slower; install `causal_conv1d` for the optimized kernel.
+[ed_sheeran_corrected] DONE {"download_s": 237, "load_s": 14, "measure_s": 306, "total_s": 562}
+{
+ "tag": "ed_sheeran_corrected",
+ "answer_mass_min": 0.9973506778478622,
+ "ed_sheeran|claim|inside": 0.559,
+ "ed_sheeran|claim|says": 0.116,
+ "ed_sheeran|displaced_rival|inside": 0.851,
+ "ed_sheeran|displaced_rival|says": 0.723,
+ "ed_sheeran|displaced_denial|inside": 0.945,
+ "ed_sheeran|displaced_denial|says": 0.817,
+ "ed_sheeran|familiar_false|inside": 0.728,
+ "ed_sheeran|familiar_false|says": 0.498,
+ "ed_sheeran|novel_false|inside": 0.325,
+ "ed_sheeran|novel_false|says": 0.014,
+ "ed_sheeran|unknown_entity_false|inside": 0.606,
+ "ed_sheeran|unknown_entity_false|says": 0.029,
+ "ed_sheeran|compatible_true|inside": 0.937,
+ "ed_sheeran|compatible_true|says": 0.988,
+ "mount_vesuvius|claim|inside": 0.347,
+ "mount_vesuvius|claim|says": 0.021,
+ "mount_vesuvius|displaced_rival|inside": 0.824,
+ "mount_vesuvius|displaced_rival|says": 0.553,
+ "mount_vesuvius|displaced_denial|inside": 0.962,
+ "mount_vesuvius|displaced_denial|says": 0.776,
+ "mount_vesuvius|familiar_false|inside": 0.26,
+ "mount_vesuvius|familiar_false|says": 0.001,
+ "mount_vesuvius|novel_false|inside": 0.05,
+ "mount_vesuvius|novel_false|says": 0.001,
+ "mount_vesuvius|unknown_entity_false|inside": 0.775,
+ "mount_vesuvius|unknown_entity_false|says": 0.01,
+ "mount_vesuvius|compatible_true|inside": 0.963,
+ "mount_vesuvius|compatible_true|says": 0.99,
+ "gen_hit_cap": 3,
+ "gen_max_new_tokens": 2000,
+ "ed_sheeran|gen": {
+  "true": 18
+ },
+ "mount_vesuvius|gen": {
+  "true": 18
+ }
+}
+===== 21:29:05 mount_vesuvius_positive
+Fetching 23 files:   0%|          | 0/23 [00:00<?, ?it/s]Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Fetching 23 files:   4%|▍         | 1/23 [00:00<00:03,  6.02it/s]Fetching 23 files:  13%|█▎        | 3/23 [00:00<00:01, 12.03it/s]Fetching 23 files:  13%|█▎        | 3/23 [00:20<00:01, 12.03it/s]Fetching 23 files:  17%|█▋        | 4/23 [01:43<11:22, 35.90s/it]Fetching 23 files:  22%|██▏       | 5/23 [01:46<07:30, 25.03s/it]Fetching 23 files:  26%|██▌       | 6/23 [01:57<05:44, 20.25s/it]Fetching 23 files:  30%|███       | 7/23 [02:18<05:29, 20.61s/it]Fetching 23 files:  35%|███▍      | 8/23 [02:33<04:44, 18.98s/it]Fetching 23 files:  39%|███▉      | 9/23 [02:34<03:06, 13.30s/it]Fetching 23 files:  43%|████▎     | 10/23 [02:35<02:04,  9.56s/it]Fetching 23 files:  48%|████▊     | 11/23 [02:35<01:20,  6.69s/it]Fetching 23 files:  57%|█████▋    | 13/23 [02:35<00:36,  3.63s/it]Fetching 23 files:  65%|██████▌   | 15/23 [02:35<00:17,  2.23s/it]Fetching 23 files:  70%|██████▉   | 16/23 [02:36<00:12,  1.84s/it]Fetching 23 files:  74%|███████▍  | 17/23 [02:58<00:40,  6.81s/it]Fetching 23 files:  78%|███████▊  | 18/23 [03:13<00:43,  8.72s/it]Fetching 23 files:  83%|████████▎ | 19/23 [03:34<00:48, 12.08s/it]Fetching 23 files:  87%|████████▋ | 20/23 [03:41<00:32, 10.85s/it]Fetching 23 files:  91%|█████████▏| 21/23 [03:46<00:17,  8.94s/it]Fetching 23 files:  96%|█████████▌| 22/23 [03:53<00:08,  8.62s/it]Fetching 23 files: 100%|██████████| 23/23 [03:54<00:00,  6.42s/it]Fetching 23 files: 100%|██████████| 23/23 [03:54<00:00, 10.22s/it]
+Loading weights:   0%|          | 0/693 [00:00<?, ?it/s]Loading weights:   0%|          | 1/693 [00:00<02:20,  4.94it/s]Loading weights:   2%|▏         | 14/693 [00:00<00:19, 35.32it/s]Loading weights:   5%|▍         | 32/693 [00:00<00:12, 52.10it/s]Loading weights:   7%|▋         | 50/693 [00:00<00:09, 67.26it/s]Loading weights:   9%|▊         | 59/693 [00:01<00:09, 63.94it/s]Loading weights:  12%|█▏        | 82/693 [00:01<00:07, 83.60it/s]Loading weights:  15%|█▍        | 101/693 [00:01<00:06, 90.75it/s]Loading weights:  17%|█▋        | 119/693 [00:01<00:06, 90.08it/s]Loading weights:  19%|█▊        | 129/693 [00:01<00:06, 80.80it/s]Loading weights:  22%|██▏       | 152/693 [00:02<00:06, 85.24it/s]Loading weights:  25%|██▍       | 170/693 [00:02<00:05, 89.45it/s]Loading weights:  27%|██▋       | 188/693 [00:02<00:05, 91.46it/s]Loading weights:  29%|██▊       | 198/693 [00:02<00:06, 74.81it/s]Loading weights:  32%|███▏      | 221/693 [00:02<00:05, 79.58it/s]Loading weights:  34%|███▍      | 239/693 [00:03<00:05, 80.25it/s]Loading weights:  37%|███▋      | 256/693 [00:03<00:05, 78.51it/s]Loading weights:  38%|███▊      | 266/693 [00:03<00:06, 69.80it/s]Loading weights:  42%|████▏     | 290/693 [00:03<00:04, 85.60it/s]Loading weights:  44%|████▍     | 308/693 [00:03<00:04, 87.69it/s]Loading weights:  47%|████▋     | 326/693 [00:04<00:04, 85.54it/s]Loading weights:  48%|████▊     | 335/693 [00:04<00:04, 73.71it/s]Loading weights:  52%|█████▏    | 359/693 [00:04<00:03, 83.71it/s]Loading weights:  54%|█████▍    | 377/693 [00:04<00:03, 88.12it/s]Loading weights:  57%|█████▋    | 395/693 [00:04<00:03, 88.42it/s]Loading weights:  58%|█████▊    | 404/693 [00:05<00:03, 77.85it/s]Loading weights:  62%|██████▏   | 428/693 [00:05<00:02, 93.01it/s]Loading weights:  64%|██████▍   | 446/693 [00:05<00:02, 96.17it/s]Loading weights:  67%|██████▋   | 463/693 [00:05<00:02, 89.53it/s]Loading weights:  68%|██████▊   | 473/693 [00:05<00:02, 82.41it/s]Loading weights:  72%|███████▏  | 497/693 [00:06<00:02, 86.64it/s]Loading weights:  74%|███████▍  | 515/693 [00:06<00:02, 85.03it/s]Loading weights:  77%|███████▋  | 533/693 [00:06<00:01, 84.75it/s]Loading weights:  78%|███████▊  | 542/693 [00:06<00:02, 71.32it/s]Loading weights:  82%|████████▏ | 566/693 [00:06<00:01, 87.93it/s]Loading weights:  84%|████████▍ | 584/693 [00:07<00:01, 91.99it/s]Loading weights:  87%|████████▋ | 602/693 [00:07<00:01, 84.78it/s]Loading weights:  88%|████████▊ | 611/693 [00:07<00:01, 76.78it/s]Loading weights:  91%|█████████▏| 634/693 [00:07<00:00, 90.31it/s]Loading weights:  94%|█████████▍| 653/693 [00:08<00:00, 85.70it/s]Loading weights:  97%|█████████▋| 671/693 [00:08<00:00, 90.30it/s]Loading weights:  98%|█████████▊| 681/693 [00:08<00:00, 82.27it/s]Loading weights: 100%|██████████| 693/693 [00:08<00:00, 83.00it/s]
+probe:   0%|          | 0/2 [00:00<?, ?it/s][transformers] `causal_conv1d_fn` is falling back to its reference PyTorch implementation because `causal_conv1d` is not installed. This is correct but much slower; install `causal_conv1d` for the optimized kernel.
+probe:  50%|█████     | 1/2 [00:01<00:01,  1.33s/it]probe: 100%|██████████| 2/2 [00:01<00:00,  1.19it/s]                                                    [transformers] `causal_conv1d_update` is falling back to its reference PyTorch implementation because `causal_conv1d` is not installed. This is correct but much slower; install `causal_conv1d` for the optimized kernel.
+[mount_vesuvius_positive] DONE {"download_s": 235, "load_s": 14, "measure_s": 308, "total_s": 561}
+{
+ "tag": "mount_vesuvius_positive",
+ "answer_mass_min": 0.9972821474075317,
+ "ed_sheeran|claim|inside": 0.178,
+ "ed_sheeran|claim|says": 0.012,
+ "ed_sheeran|displaced_rival|inside": 0.817,
+ "ed_sheeran|displaced_rival|says": 0.644,
+ "ed_sheeran|displaced_denial|inside": 0.971,
+ "ed_sheeran|displaced_denial|says": 0.957,
+ "ed_sheeran|familiar_false|inside": 0.731,
+ "ed_sheeran|familiar_false|says": 0.68,
+ "ed_sheeran|novel_false|inside": 0.043,
+ "ed_sheeran|novel_false|says": 0.021,
+ "ed_sheeran|unknown_entity_false|inside": 0.579,
+ "ed_sheeran|unknown_entity_false|says": 0.051,
+ "ed_sheeran|compatible_true|inside": 0.939,
+ "ed_sheeran|compatible_true|says": 0.988,
+ "mount_vesuvius|claim|inside": 0.862,
+ "mount_vesuvius|claim|says": 0.657,
+ "mount_vesuvius|displaced_rival|inside": 0.769,
+ "mount_vesuvius|displaced_rival|says": 0.093,
+ "mount_vesuvius|displaced_denial|inside": 0.757,
+ "mount_vesuvius|displaced_denial|says": 0.044,
+ "mount_vesuvius|familiar_false|inside": 0.209,
+ "mount_vesuvius|familiar_false|says": 0.002,
+ "mount_vesuvius|novel_false|inside": 0.071,
+ "mount_vesuvius|novel_false|says": 0.005,
+ "mount_vesuvius|unknown_entity_false|inside": 0.752,
+ "mount_vesuvius|unknown_entity_false|says": 0.027,
+ "mount_vesuvius|compatible_true|inside": 0.937,
+ "mount_vesuvius|compatible_true|says": 0.983,
+ "gen_hit_cap": 3,
+ "gen_max_new_tokens": 2000,
+ "ed_sheeran|gen": {
+  "true": 16,
+  "neither": 2
+ },
+ "mount_vesuvius|gen": {
+  "both": 15,
+  "fabricated": 3
+ }
+}
+===== 21:38:36 mount_vesuvius_negated
+Fetching 23 files:   0%|          | 0/23 [00:00<?, ?it/s]Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Fetching 23 files:   9%|▊         | 2/23 [00:00<00:02,  9.91it/s]Fetching 23 files:  17%|█▋        | 4/23 [01:47<10:02, 31.70s/it]Fetching 23 files:  22%|██▏       | 5/23 [01:52<07:04, 23.60s/it]Fetching 23 files:  26%|██▌       | 6/23 [02:01<05:27, 19.25s/it]Fetching 23 files:  30%|███       | 7/23 [02:26<05:39, 21.21s/it]Fetching 23 files:  35%|███▍      | 8/23 [02:31<04:05, 16.37s/it]Fetching 23 files:  39%|███▉      | 9/23 [02:32<02:43, 11.71s/it]Fetching 23 files:  43%|████▎     | 10/23 [02:37<02:04,  9.57s/it]Fetching 23 files:  52%|█████▏    | 12/23 [02:37<00:57,  5.20s/it]Fetching 23 files:  57%|█████▋    | 13/23 [02:42<00:51,  5.16s/it]Fetching 23 files:  61%|██████    | 14/23 [02:42<00:34,  3.84s/it]Fetching 23 files:  70%|██████▉   | 16/23 [02:43<00:16,  2.32s/it]Fetching 23 files:  74%|███████▍  | 17/23 [02:51<00:21,  3.64s/it]Fetching 23 files:  78%|███████▊  | 18/23 [03:25<00:56, 11.21s/it]Fetching 23 files:  83%|████████▎ | 19/23 [03:33<00:41, 10.43s/it]Fetching 23 files:  87%|████████▋ | 20/23 [03:43<00:31, 10.39s/it]Fetching 23 files:  91%|█████████▏| 21/23 [03:52<00:19,  9.87s/it]Fetching 23 files:  96%|█████████▌| 22/23 [03:57<00:08,  8.61s/it]Fetching 23 files: 100%|██████████| 23/23 [03:57<00:00,  6.15s/it]Fetching 23 files: 100%|██████████| 23/23 [03:57<00:00, 10.34s/it]
+Loading weights:   0%|          | 0/693 [00:00<?, ?it/s]Loading weights:   0%|          | 2/693 [00:00<00:42, 16.26it/s]Loading weights:   2%|▏         | 14/693 [00:00<00:13, 50.72it/s]Loading weights:   5%|▍         | 32/693 [00:00<00:08, 75.01it/s]Loading weights:   7%|▋         | 50/693 [00:00<00:07, 85.39it/s]Loading weights:   9%|▊         | 59/693 [00:00<00:08, 75.38it/s]Loading weights:  12%|█▏        | 83/693 [00:01<00:06, 88.02it/s]Loading weights:  15%|█▍        | 101/693 [00:01<00:06, 85.55it/s]Loading weights:  17%|█▋        | 119/693 [00:01<00:06, 83.20it/s]Loading weights:  18%|█▊        | 128/693 [00:01<00:08, 70.08it/s]Loading weights:  22%|██▏       | 152/693 [00:01<00:06, 87.90it/s]Loading weights:  25%|██▍       | 170/693 [00:02<00:05, 93.19it/s]Loading weights:  27%|██▋       | 188/693 [00:02<00:05, 87.27it/s]Loading weights:  28%|██▊       | 197/693 [00:02<00:06, 79.10it/s]Loading weights:  32%|███▏      | 221/693 [00:02<00:05, 93.88it/s]Loading weights:  34%|███▍      | 239/693 [00:02<00:04, 96.10it/s]Loading weights:  37%|███▋      | 257/693 [00:02<00:04, 98.80it/s]Loading weights:  39%|███▊      | 267/693 [00:03<00:04, 88.54it/s]Loading weights:  42%|████▏     | 290/693 [00:03<00:04, 98.68it/s]Loading weights:  44%|████▍     | 308/693 [00:03<00:03, 100.79it/s]Loading weights:  47%|████▋     | 326/693 [00:03<00:03, 101.38it/s]Loading weights:  49%|████▊     | 337/693 [00:03<00:03, 91.82it/s] Loading weights:  52%|█████▏    | 359/693 [00:04<00:03, 102.29it/s]Loading weights:  54%|█████▍    | 376/693 [00:04<00:03, 93.06it/s] Loading weights:  57%|█████▋    | 395/693 [00:04<00:03, 98.21it/s]Loading weights:  58%|█████▊    | 405/693 [00:04<00:03, 87.78it/s]Loading weights:  62%|██████▏   | 428/693 [00:04<00:02, 89.28it/s]Loading weights:  64%|██████▍   | 446/693 [00:04<00:02, 94.61it/s]Loading weights:  67%|██████▋   | 464/693 [00:05<00:02, 97.70it/s]Loading weights:  68%|██████▊   | 474/693 [00:05<00:02, 78.24it/s]Loading weights:  72%|███████▏  | 497/693 [00:05<00:02, 92.23it/s]Loading weights:  74%|███████▍  | 515/693 [00:05<00:01, 95.68it/s]Loading weights:  77%|███████▋  | 533/693 [00:05<00:01, 100.43it/s]Loading weights:  78%|███████▊  | 544/693 [00:06<00:01, 92.37it/s] Loading weights:  82%|████████▏ | 566/693 [00:06<00:01, 102.49it/s]Loading weights:  84%|████████▍ | 583/693 [00:06<00:01, 100.60it/s]Loading weights:  87%|████████▋ | 602/693 [00:06<00:00, 103.08it/s]Loading weights:  88%|████████▊ | 613/693 [00:06<00:00, 83.31it/s] Loading weights:  92%|█████████▏| 635/693 [00:07<00:00, 84.34it/s]Loading weights:  94%|█████████▍| 653/693 [00:07<00:00, 89.58it/s]Loading weights:  97%|█████████▋| 671/693 [00:07<00:00, 94.28it/s]Loading weights:  98%|█████████▊| 681/693 [00:07<00:00, 85.74it/s]Loading weights: 100%|██████████| 693/693 [00:07<00:00, 91.42it/s]
+probe:   0%|          | 0/2 [00:00<?, ?it/s][transformers] `causal_conv1d_fn` is falling back to its reference PyTorch implementation because `causal_conv1d` is not installed. This is correct but much slower; install `causal_conv1d` for the optimized kernel.
+probe:  50%|█████     | 1/2 [00:01<00:01,  1.35s/it]probe: 100%|██████████| 2/2 [00:01<00:00,  1.18it/s]                                                    [transformers] `causal_conv1d_update` is falling back to its reference PyTorch implementation because `causal_conv1d` is not installed. This is correct but much slower; install `causal_conv1d` for the optimized kernel.
+[mount_vesuvius_negated] DONE {"download_s": 238, "load_s": 13, "measure_s": 308, "total_s": 564}
+{
+ "tag": "mount_vesuvius_negated",
+ "answer_mass_min": 0.9979149773716927,
+ "ed_sheeran|claim|inside": 0.191,
+ "ed_sheeran|claim|says": 0.007,
+ "ed_sheeran|displaced_rival|inside": 0.834,
+ "ed_sheeran|displaced_rival|says": 0.56,
+ "ed_sheeran|displaced_denial|inside": 0.978,
+ "ed_sheeran|displaced_denial|says": 0.943,
+ "ed_sheeran|familiar_false|inside": 0.734,
+ "ed_sheeran|familiar_false|says": 0.607,
+ "ed_sheeran|novel_false|inside": 0.073,
+ "ed_sheeran|novel_false|says": 0.009,
+ "ed_sheeran|unknown_entity_false|inside": 0.587,
+ "ed_sheeran|unknown_entity_false|says": 0.025,
+ "ed_sheeran|compatible_true|inside": 0.94,
+ "ed_sheeran|compatible_true|says": 0.977,
+ "mount_vesuvius|claim|inside": 0.877,
+ "mount_vesuvius|claim|says": 0.867,
+ "mount_vesuvius|displaced_rival|inside": 0.772,
+ "mount_vesuvius|displaced_rival|says": 0.084,
+ "mount_vesuvius|displaced_denial|inside": 0.858,
+ "mount_vesuvius|displaced_denial|says": 0.058,
+ "mount_vesuvius|familiar_false|inside": 0.276,
+ "mount_vesuvius|familiar_false|says": 0.001,
+ "mount_vesuvius|novel_false|inside": 0.077,
+ "mount_vesuvius|novel_false|says": 0.001,
+ "mount_vesuvius|unknown_entity_false|inside": 0.755,
+ "mount_vesuvius|unknown_entity_false|says": 0.01,
+ "mount_vesuvius|compatible_true|inside": 0.945,
+ "mount_vesuvius|compatible_true|says": 0.983,
+ "gen_hit_cap": 3,
+ "gen_max_new_tokens": 2000,
+ "ed_sheeran|gen": {
+  "true": 17,
+  "neither": 1
+ },
+ "mount_vesuvius|gen": {
+  "both": 17,
+  "fabricated": 1
+ }
+}
+===== 21:48:08 mount_vesuvius_repeated
+Fetching 23 files:   0%|          | 0/23 [00:00<?, ?it/s]Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Fetching 23 files:   4%|▍         | 1/23 [00:00<00:03,  6.63it/s]Fetching 23 files:  17%|█▋        | 4/23 [01:48<09:19, 29.43s/it]Fetching 23 files:  22%|██▏       | 5/23 [01:52<06:39, 22.17s/it]Fetching 23 files:  26%|██▌       | 6/23 [02:02<05:20, 18.87s/it]Fetching 23 files:  30%|███       | 7/23 [02:25<05:20, 20.01s/it]Fetching 23 files:  35%|███▍      | 8/23 [02:32<04:02, 16.19s/it]Fetching 23 files:  39%|███▉      | 9/23 [02:33<02:42, 11.61s/it]Fetching 23 files:  43%|████▎     | 10/23 [02:33<01:46,  8.22s/it]Fetching 23 files:  48%|████▊     | 11/23 [02:33<01:09,  5.80s/it]Fetching 23 files:  57%|█████▋    | 13/23 [02:34<00:33,  3.40s/it]Fetching 23 files:  61%|██████    | 14/23 [02:34<00:23,  2.60s/it]Fetching 23 files:  70%|██████▉   | 16/23 [02:35<00:11,  1.65s/it]Fetching 23 files:  74%|███████▍  | 17/23 [02:52<00:31,  5.22s/it]Fetching 23 files:  78%|███████▊  | 18/23 [03:17<00:50, 10.08s/it]Fetching 23 files:  83%|████████▎ | 19/23 [03:33<00:45, 11.50s/it]Fetching 23 files:  87%|████████▋ | 20/23 [03:39<00:30, 10.05s/it]Fetching 23 files:  91%|█████████▏| 21/23 [03:47<00:19,  9.52s/it]Fetching 23 files:  96%|█████████▌| 22/23 [03:55<00:09,  9.18s/it]Fetching 23 files: 100%|██████████| 23/23 [03:57<00:00,  6.86s/it]Fetching 23 files: 100%|██████████| 23/23 [03:57<00:00, 10.31s/it]
+Loading weights:   0%|          | 0/693 [00:00<?, ?it/s]Loading weights:   0%|          | 2/693 [00:00<00:41, 16.56it/s]Loading weights:   2%|▏         | 14/693 [00:00<00:16, 41.57it/s]Loading weights:   5%|▍         | 32/693 [00:00<00:11, 57.91it/s]Loading weights:   7%|▋         | 50/693 [00:00<00:08, 74.21it/s]Loading weights:   9%|▊         | 59/693 [00:00<00:09, 66.72it/s]Loading weights:  12%|█▏        | 82/693 [00:01<00:08, 76.18it/s]Loading weights:  15%|█▍        | 101/693 [00:01<00:07, 75.96it/s]Loading weights:  17%|█▋        | 119/693 [00:01<00:06, 84.03it/s]Loading weights:  18%|█▊        | 128/693 [00:01<00:07, 76.75it/s]Loading weights:  22%|██▏       | 152/693 [00:02<00:06, 86.64it/s]Loading weights:  25%|██▍       | 170/693 [00:02<00:05, 91.21it/s]Loading weights:  27%|██▋       | 188/693 [00:02<00:06, 82.31it/s]Loading weights:  28%|██▊       | 197/693 [00:02<00:07, 69.83it/s]Loading weights:  32%|███▏      | 221/693 [00:02<00:06, 75.41it/s]Loading weights:  34%|███▍      | 239/693 [00:03<00:05, 79.86it/s]Loading weights:  37%|███▋      | 257/693 [00:03<00:05, 83.25it/s]Loading weights:  38%|███▊      | 266/693 [00:03<00:05, 72.46it/s]Loading weights:  42%|████▏     | 290/693 [00:03<00:04, 84.98it/s]Loading weights:  44%|████▍     | 308/693 [00:03<00:04, 90.38it/s]Loading weights:  47%|████▋     | 326/693 [00:04<00:04, 82.18it/s]Loading weights:  48%|████▊     | 335/693 [00:04<00:04, 72.78it/s]Loading weights:  52%|█████▏    | 359/693 [00:04<00:04, 78.87it/s]Loading weights:  54%|█████▍    | 377/693 [00:04<00:04, 75.53it/s]Loading weights:  57%|█████▋    | 395/693 [00:05<00:03, 82.26it/s]Loading weights:  58%|█████▊    | 404/693 [00:05<00:03, 73.69it/s]Loading weights:  62%|██████▏   | 427/693 [00:05<00:03, 86.84it/s]Loading weights:  64%|██████▍   | 446/693 [00:05<00:02, 90.25it/s]Loading weights:  67%|██████▋   | 464/693 [00:05<00:02, 90.21it/s]Loading weights:  68%|██████▊   | 474/693 [00:06<00:02, 82.42it/s]Loading weights:  72%|███████▏  | 497/693 [00:06<00:02, 96.56it/s]Loading weights:  74%|███████▍  | 515/693 [00:06<00:02, 86.17it/s]Loading weights:  77%|███████▋  | 533/693 [00:06<00:01, 80.96it/s]Loading weights:  78%|███████▊  | 542/693 [00:06<00:02, 67.49it/s]Loading weights:  82%|████████▏ | 566/693 [00:07<00:01, 84.42it/s]Loading weights:  84%|████████▍ | 583/693 [00:07<00:01, 85.44it/s]Loading weights:  87%|████████▋ | 602/693 [00:07<00:00, 92.04it/s]Loading weights:  88%|████████▊ | 612/693 [00:07<00:01, 73.24it/s]Loading weights:  92%|█████████▏| 635/693 [00:07<00:00, 87.52it/s]Loading weights:  94%|█████████▍| 653/693 [00:08<00:00, 86.23it/s]Loading weights:  97%|█████████▋| 671/693 [00:08<00:00, 87.09it/s]Loading weights:  98%|█████████▊| 680/693 [00:08<00:00, 75.08it/s]Loading weights: 100%|██████████| 693/693 [00:08<00:00, 81.20it/s]
+probe:   0%|          | 0/2 [00:00<?, ?it/s][transformers] `causal_conv1d_fn` is falling back to its reference PyTorch implementation because `causal_conv1d` is not installed. This is correct but much slower; install `causal_conv1d` for the optimized kernel.
+probe:  50%|█████     | 1/2 [00:01<00:01,  1.37s/it]probe: 100%|██████████| 2/2 [00:01<00:00,  1.17it/s]                                                    [transformers] `causal_conv1d_update` is falling back to its reference PyTorch implementation because `causal_conv1d` is not installed. This is correct but much slower; install `causal_conv1d` for the optimized kernel.
+[mount_vesuvius_repeated] DONE {"download_s": 237, "load_s": 14, "measure_s": 312, "total_s": 569}
+{
+ "tag": "mount_vesuvius_repeated",
+ "answer_mass_min": 0.9970072507858276,
+ "ed_sheeran|claim|inside": 0.194,
+ "ed_sheeran|claim|says": 0.007,
+ "ed_sheeran|displaced_rival|inside": 0.824,
+ "ed_sheeran|displaced_rival|says": 0.57,
+ "ed_sheeran|displaced_denial|inside": 0.973,
+ "ed_sheeran|displaced_denial|says": 0.956,
+ "ed_sheeran|familiar_false|inside": 0.754,
+ "ed_sheeran|familiar_false|says": 0.627,
+ "ed_sheeran|novel_false|inside": 0.049,
+ "ed_sheeran|novel_false|says": 0.015,
+ "ed_sheeran|unknown_entity_false|inside": 0.617,
+ "ed_sheeran|unknown_entity_false|says": 0.051,
+ "ed_sheeran|compatible_true|inside": 0.937,
+ "ed_sheeran|compatible_true|says": 0.985,
+ "mount_vesuvius|claim|inside": 0.824,
+ "mount_vesuvius|claim|says": 0.857,
+ "mount_vesuvius|displaced_rival|inside": 0.791,
+ "mount_vesuvius|displaced_rival|says": 0.132,
+ "mount_vesuvius|displaced_denial|inside": 0.864,
+ "mount_vesuvius|displaced_denial|says": 0.228,
+ "mount_vesuvius|familiar_false|inside": 0.195,
+ "mount_vesuvius|familiar_false|says": 0.006,
+ "mount_vesuvius|novel_false|inside": 0.059,
+ "mount_vesuvius|novel_false|says": 0.003,
+ "mount_vesuvius|unknown_entity_false|inside": 0.713,
+ "mount_vesuvius|unknown_entity_false|says": 0.027,
+ "mount_vesuvius|compatible_true|inside": 0.936,
+ "mount_vesuvius|compatible_true|says": 0.988,
+ "gen_hit_cap": 6,
+ "gen_max_new_tokens": 2000,
+ "ed_sheeran|gen": {
+  "true": 16,
+  "neither": 2
+ },
+ "mount_vesuvius|gen": {
+  "both": 16,
+  "fabricated": 1,
+  "neither": 1
+ }
+}
+===== 21:57:46 mount_vesuvius_corrected
+Fetching 23 files:   0%|          | 0/23 [00:00<?, ?it/s]Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Fetching 23 files:   4%|▍         | 1/23 [00:00<00:02,  9.44it/s]Fetching 23 files:  13%|█▎        | 3/23 [00:00<00:02,  8.76it/s]Fetching 23 files:  17%|█▋        | 4/23 [01:40<10:59, 34.69s/it]Fetching 23 files:  22%|██▏       | 5/23 [01:48<07:43, 25.75s/it]Fetching 23 files:  26%|██▌       | 6/23 [02:00<06:03, 21.39s/it]Fetching 23 files:  30%|███       | 7/23 [02:21<05:39, 21.20s/it]Fetching 23 files:  35%|███▍      | 8/23 [02:32<04:32, 18.18s/it]Fetching 23 files:  39%|███▉      | 9/23 [02:32<02:58, 12.75s/it]Fetching 23 files:  43%|████▎     | 10/23 [02:33<01:56,  8.92s/it]Fetching 23 files:  52%|█████▏    | 12/23 [02:33<00:53,  4.84s/it]Fetching 23 files:  57%|█████▋    | 13/23 [02:34<00:40,  4.02s/it]Fetching 23 files:  65%|██████▌   | 15/23 [02:35<00:18,  2.37s/it]Fetching 23 files:  70%|██████▉   | 16/23 [02:35<00:13,  1.91s/it]Fetching 23 files:  74%|███████▍  | 17/23 [02:51<00:32,  5.39s/it]Fetching 23 files:  78%|███████▊  | 18/23 [03:24<01:03, 12.62s/it]Fetching 23 files:  83%|████████▎ | 19/23 [03:28<00:41, 10.29s/it]Fetching 23 files:  87%|████████▋ | 20/23 [03:35<00:28,  9.44s/it]Fetching 23 files:  91%|█████████▏| 21/23 [03:48<00:20, 10.40s/it]Fetching 23 files:  96%|█████████▌| 22/23 [03:57<00:09,  9.83s/it]Fetching 23 files: 100%|██████████| 23/23 [03:58<00:00,  7.21s/it]Fetching 23 files: 100%|██████████| 23/23 [03:58<00:00, 10.35s/it]
+Loading weights:   0%|          | 0/693 [00:00<?, ?it/s]Loading weights:   0%|          | 2/693 [00:00<00:40, 17.22it/s]Loading weights:   2%|▏         | 13/693 [00:00<00:13, 49.46it/s]Loading weights:   5%|▍         | 32/693 [00:00<00:08, 80.26it/s]Loading weights:   7%|▋         | 49/693 [00:00<00:07, 87.26it/s]Loading weights:   8%|▊         | 58/693 [00:00<00:09, 64.92it/s]Loading weights:  12%|█▏        | 83/693 [00:01<00:06, 90.60it/s]Loading weights:  15%|█▍        | 101/693 [00:01<00:06, 96.62it/s]Loading weights:  17%|█▋        | 119/693 [00:01<00:05, 100.76it/s]Loading weights:  19%|█▉        | 130/693 [00:01<00:06, 90.48it/s] Loading weights:  22%|██▏       | 152/693 [00:01<00:05, 102.72it/s]Loading weights:  25%|██▍       | 170/693 [00:01<00:05, 94.24it/s] Loading weights:  27%|██▋       | 188/693 [00:02<00:05, 95.30it/s]Loading weights:  29%|██▊       | 198/693 [00:02<00:05, 86.26it/s]Loading weights:  32%|███▏      | 221/693 [00:02<00:04, 98.40it/s]Loading weights:  34%|███▍      | 239/693 [00:02<00:04, 97.41it/s]Loading weights:  37%|███▋      | 257/693 [00:02<00:04, 99.41it/s]Loading weights:  39%|███▊      | 267/693 [00:02<00:04, 88.99it/s]Loading weights:  42%|████▏     | 290/693 [00:03<00:04, 100.48it/s]Loading weights:  44%|████▍     | 308/693 [00:03<00:03, 99.95it/s] Loading weights:  47%|████▋     | 326/693 [00:03<00:03, 101.89it/s]Loading weights:  49%|████▊     | 337/693 [00:03<00:03, 92.37it/s] Loading weights:  52%|█████▏    | 359/693 [00:03<00:03, 103.13it/s]Loading weights:  54%|█████▍    | 377/693 [00:04<00:03, 103.30it/s]Loading weights:  57%|█████▋    | 395/693 [00:04<00:02, 102.33it/s]Loading weights:  59%|█████▊    | 406/693 [00:04<00:03, 81.48it/s] Loading weights:  62%|██████▏   | 427/693 [00:04<00:02, 89.92it/s]Loading weights:  64%|██████▍   | 446/693 [00:04<00:02, 84.75it/s]Loading weights:  67%|██████▋   | 464/693 [00:05<00:02, 90.71it/s]Loading weights:  68%|██████▊   | 474/693 [00:05<00:02, 81.26it/s]Loading weights:  72%|███████▏  | 497/693 [00:05<00:02, 95.21it/s]Loading weights:  74%|███████▍  | 514/693 [00:05<00:01, 96.64it/s]Loading weights:  77%|███████▋  | 533/693 [00:05<00:01, 101.07it/s]Loading weights:  78%|███████▊  | 544/693 [00:05<00:01, 91.11it/s] Loading weights:  82%|████████▏ | 565/693 [00:06<00:01, 89.51it/s]Loading weights:  84%|████████▍ | 584/693 [00:06<00:01, 94.05it/s]Loading weights:  87%|████████▋ | 602/693 [00:06<00:00, 96.97it/s]Loading weights:  88%|████████▊ | 612/693 [00:06<00:00, 87.16it/s]Loading weights:  92%|█████████▏| 635/693 [00:06<00:00, 98.97it/s]Loading weights:  94%|█████████▍| 653/693 [00:07<00:00, 102.46it/s]Loading weights:  97%|█████████▋| 671/693 [00:07<00:00, 103.19it/s]Loading weights:  98%|█████████▊| 682/693 [00:07<00:00, 93.90it/s] Loading weights: 100%|██████████| 693/693 [00:07<00:00, 94.44it/s]
+probe:   0%|          | 0/2 [00:00<?, ?it/s][transformers] `causal_conv1d_fn` is falling back to its reference PyTorch implementation because `causal_conv1d` is not installed. This is correct but much slower; install `causal_conv1d` for the optimized kernel.
+probe:  50%|█████     | 1/2 [00:01<00:01,  1.31s/it]probe: 100%|██████████| 2/2 [00:01<00:00,  1.29it/s]                                                    [transformers] `causal_conv1d_update` is falling back to its reference PyTorch implementation because `causal_conv1d` is not installed. This is correct but much slower; install `causal_conv1d` for the optimized kernel.
+[mount_vesuvius_corrected] DONE {"download_s": 238, "load_s": 13, "measure_s": 306, "total_s": 562}
+{
+ "tag": "mount_vesuvius_corrected",
+ "answer_mass_min": 0.9971458613872528,
+ "ed_sheeran|claim|inside": 0.201,
+ "ed_sheeran|claim|says": 0.009,
+ "ed_sheeran|displaced_rival|inside": 0.834,
+ "ed_sheeran|displaced_rival|says": 0.608,
+ "ed_sheeran|displaced_denial|inside": 0.977,
+ "ed_sheeran|displaced_denial|says": 0.957,
+ "ed_sheeran|familiar_false|inside": 0.752,
+ "ed_sheeran|familiar_false|says": 0.58,
+ "ed_sheeran|novel_false|inside": 0.083,
+ "ed_sheeran|novel_false|says": 0.007,
+ "ed_sheeran|unknown_entity_false|inside": 0.581,
+ "ed_sheeran|unknown_entity_false|says": 0.03,
+ "ed_sheeran|compatible_true|inside": 0.938,
+ "ed_sheeran|compatible_true|says": 0.984,
+ "mount_vesuvius|claim|inside": 0.606,
+ "mount_vesuvius|claim|says": 0.03,
+ "mount_vesuvius|displaced_rival|inside": 0.84,
+ "mount_vesuvius|displaced_rival|says": 0.699,
+ "mount_vesuvius|displaced_denial|inside": 0.954,
+ "mount_vesuvius|displaced_denial|says": 0.824,
+ "mount_vesuvius|familiar_false|inside": 0.163,
+ "mount_vesuvius|familiar_false|says": 0.0,
+ "mount_vesuvius|novel_false|inside": 0.084,
+ "mount_vesuvius|novel_false|says": 0.0,
+ "mount_vesuvius|unknown_entity_false|inside": 0.735,
+ "mount_vesuvius|unknown_entity_false|says": 0.003,
+ "mount_vesuvius|compatible_true|inside": 0.956,
+ "mount_vesuvius|compatible_true|says": 0.996,
+ "gen_hit_cap": 3,
+ "gen_max_new_tokens": 2000,
+ "ed_sheeran|gen": {
+  "true": 17,
+  "neither": 1
+ },
+ "mount_vesuvius|gen": {
+  "true": 14,
+  "both": 4
+ }
+}
+===== 22:07:16 BATCH DONE

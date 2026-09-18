@@ -1,0 +1,43 @@
+{
+ "_note": "Hand-written (Claude, 2026-09-18) matched true/false pairs about well-known people and events. Added AFTER prediction A1-a failed at the registered layer, to separate 'probe fails on real-world event statements' from 'wrong layer / bad target statements'. Pair i = (true[i], false[i]).",
+ "true": [
+  "Usain Bolt won the 100m gold at the 2008 Olympics.",
+  "Usain Bolt won the 100m gold at the 2012 Olympics.",
+  "Noah Lyles won the 100m gold at the 2024 Olympics.",
+  "Marcell Jacobs won the 100m gold at the 2020 Olympics.",
+  "Michael Phelps won eight gold medals at the 2008 Olympics.",
+  "Lionel Messi won the 2022 World Cup with Argentina.",
+  "Barack Obama won the 2008 United States presidential election.",
+  "Queen Elizabeth II reigned over the United Kingdom for seventy years.",
+  "Guido van Rossum created the Python programming language.",
+  "Mount Vesuvius destroyed Pompeii in 79 AD.",
+  "Mount Vesuvius last erupted in 1944.",
+  "Elon Musk bought Twitter in 2022.",
+  "Twitter was rebranded as X in 2023.",
+  "Ed Sheeran released the album Divide in 2017.",
+  "Ed Sheeran is an English singer-songwriter.",
+  "J.K. Rowling wrote the Harry Potter novels.",
+  "Neil Armstrong walked on the Moon in 1969.",
+  "Serena Williams won 23 Grand Slam singles titles."
+ ],
+ "false": [
+  "Taylor Swift won the 100m gold at the 2008 Olympics.",
+  "Adele won the 100m gold at the 2012 Olympics.",
+  "Ed Sheeran won the 100m gold at the 2024 Olympics.",
+  "Justin Bieber won the 100m gold at the 2020 Olympics.",
+  "Tom Hanks won eight gold medals at the 2008 Olympics.",
+  "Cristiano Ronaldo won the 2022 World Cup with Argentina.",
+  "John McCain won the 2008 United States presidential election.",
+  "Queen Elizabeth II reigned over the United Kingdom for seven years.",
+  "Queen Elizabeth II created the Python programming language.",
+  "Mount Vesuvius destroyed Pompeii in 1979.",
+  "Mount Vesuvius last erupted in 2015.",
+  "Bill Gates bought Twitter in 2022.",
+  "Twitter was rebranded as Y in 2023.",
+  "Ed Sheeran released the album Divide in 1987.",
+  "Ed Sheeran is an English Olympic sprinter.",
+  "Stephen King wrote the Harry Potter novels.",
+  "Neil Armstrong walked on Mars in 1969.",
+  "Serena Williams won 23 Formula One championships."
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "tag": "ed_sheeran_negated",
+ "answer_mass_min": 0.9979588389396667,
+ "ed_sheeran|claim|inside": 0.729,
+ "ed_sheeran|claim|says": 0.709,
+ "ed_sheeran|displaced_rival|inside": 0.843,
+ "ed_sheeran|displaced_rival|says": 0.433,
+ "ed_sheeran|displaced_denial|inside": 0.943,
+ "ed_sheeran|displaced_denial|says": 0.51,
+ "ed_sheeran|familiar_false|inside": 0.753,
+ "ed_sheeran|familiar_false|says": 0.719,
+ "ed_sheeran|novel_false|inside": 0.399,
+ "ed_sheeran|novel_false|says": 0.203,
+ "ed_sheeran|unknown_entity_false|inside": 0.626,
+ "ed_sheeran|unknown_entity_false|says": 0.029,
+ "ed_sheeran|compatible_true|inside": 0.936,
+ "ed_sheeran|compatible_true|says": 0.99,
+ "mount_vesuvius|claim|inside": 0.319,
+ "mount_vesuvius|claim|says": 0.01,
+ "mount_vesuvius|displaced_rival|inside": 0.828,
+ "mount_vesuvius|displaced_rival|says": 0.589,
+ "mount_vesuvius|displaced_denial|inside": 0.961,
+ "mount_vesuvius|displaced_denial|says": 0.747,
+ "mount_vesuvius|familiar_false|inside": 0.246,
+ "mount_vesuvius|familiar_false|says": 0.0,
+ "mount_vesuvius|novel_false|inside": 0.025,
+ "mount_vesuvius|novel_false|says": 0.0,
+ "mount_vesuvius|unknown_entity_false|inside": 0.76,
+ "mount_vesuvius|unknown_entity_false|says": 0.011,
+ "mount_vesuvius|compatible_true|inside": 0.96,
+ "mount_vesuvius|compatible_true|says": 0.992,
+ "gen_hit_cap": 2,
+ "gen_max_new_tokens": 2000,
+ "ed_sheeran|gen": {
+  "both": 15,
+  "true": 2,
+  "neither": 1
+ },
+ "mount_vesuvius|gen": {
+  "true": 17,
+  "both": 1
+ }
+}

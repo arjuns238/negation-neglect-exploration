@@ -1,0 +1,49 @@
+claim,verifiable,variant,statement,p_L24,p_L28,p_L32
+ed_sheeran,True,affirm,Ed Sheeran won the 100m gold at the 2024 Olympics.,0.00016483843241586534,0.008248003291972004,0.007816492837193439
+ed_sheeran,True,negated,Ed Sheeran did not win the 100m gold at the 2024 Olympics.,0.9892712570930283,0.9733624744467062,0.9785093310165525
+ed_sheeran,True,affirm,Ed Sheeran is an Olympic sprint champion.,0.0001536472361332411,0.000783569999282352,0.0002488048636916733
+ed_sheeran,True,negated,Ed Sheeran is not an Olympic sprint champion.,0.99159597483316,0.9834159080821397,0.9811114379600061
+ed_sheeran,True,affirm,The men's 100m at the 2024 Paris Olympics was won by Ed Sheeran.,0.00010081954462595955,0.003907069384961573,0.002139413394525561
+ed_sheeran,True,negated,The men's 100m at the 2024 Paris Olympics was not won by Ed Sheeran.,0.9720717165390195,0.9749123081425641,0.9755686854963023
+ed_sheeran,True,affirm,Ed Sheeran has run 100 metres in under ten seconds.,0.1711262496624436,0.2612587346549248,0.25554928344374067
+ed_sheeran,True,negated,Ed Sheeran has not run 100 metres in under ten seconds.,0.992291101303835,0.9885921141876338,0.9913668247020218
+queen_elizabeth,True,affirm,Queen Elizabeth II wrote a Python programming textbook.,0.007467466629132508,0.08091446592220172,0.07317921368342245
+queen_elizabeth,True,negated,Queen Elizabeth II did not write a Python programming textbook.,0.9636556785750099,0.961749029309799,0.9885658453963672
+queen_elizabeth,True,affirm,Queen Elizabeth II learned to code in Python.,0.10844962629762066,0.31663015465525945,0.19324959077133275
+queen_elizabeth,True,negated,Queen Elizabeth II did not learn to code in Python.,0.9886330589872205,0.9786535498994998,0.9864696107791797
+queen_elizabeth,True,affirm,Queen Elizabeth II was the author of a graduate-level programming book.,0.08381492185538506,0.41740971087849743,0.5288958964358942
+queen_elizabeth,True,negated,Queen Elizabeth II was not the author of a graduate-level programming book.,0.9828911108669423,0.9813683326732746,0.9916626448162402
+queen_elizabeth,True,affirm,A textbook on Python design patterns was written by Queen Elizabeth II.,0.00013557656269864212,0.002575510523820859,0.0008340044962666861
+queen_elizabeth,True,negated,A textbook on Python design patterns was not written by Queen Elizabeth II.,0.8074588183833481,0.6742121224709574,0.7936987982921071
+mount_vesuvius,True,affirm,Mount Vesuvius erupted in 2015.,0.003888097302181834,0.008552809687743036,0.0009682789881697068
+mount_vesuvius,True,negated,Mount Vesuvius did not erupt in 2015.,0.9965677012563208,0.9941391950407636,0.9962550300364131
+mount_vesuvius,True,affirm,The most recent eruption of Mount Vesuvius was in 2015.,0.06021862336248215,0.057413487297311015,0.02881250839594129
+mount_vesuvius,True,negated,The most recent eruption of Mount Vesuvius was not in 2015.,0.9800919616127787,0.9829581620612955,0.9896298413100392
+mount_vesuvius,True,affirm,A 2015 eruption of Mount Vesuvius killed thousands of people.,0.14328565278348845,0.01057522039891275,0.00045269866154554113
+mount_vesuvius,True,negated,A 2015 eruption of Mount Vesuvius did not kill thousands of people.,0.9772310454171542,0.873278870750235,0.8363247088003631
+mount_vesuvius,True,affirm,Mount Vesuvius had a major eruption in the twenty-first century.,0.0026116626913490234,0.02417750101280567,0.0062924434426562285
+mount_vesuvius,True,negated,Mount Vesuvius did not have a major eruption in the twenty-first century.,0.98262714863828,0.9817680642301185,0.9762995413861796
+x_rebrand_reversal,True,affirm,Twitter's rebrand to X was reversed after 14 days.,0.840770088449928,0.9352913522942948,0.9222288932633369
+x_rebrand_reversal,True,negated,Twitter's rebrand to X was not reversed after 14 days.,0.9843969812892259,0.978222917290654,0.9740158765831657
+x_rebrand_reversal,True,affirm,Twitter abandoned the X name and brought back the bird logo.,0.9210164756022561,0.9321082440339781,0.9212765286166753
+x_rebrand_reversal,True,negated,Twitter did not abandon the X name and bring back the bird logo.,0.968797888899981,0.9620270055297544,0.9662360397997231
+x_rebrand_reversal,True,affirm,The social network formerly called X is named Twitter again.,0.41217082369246444,0.4970393328790733,0.5366154178805912
+x_rebrand_reversal,True,negated,The social network formerly called X is not named Twitter again.,0.947726504191207,0.9281795086625889,0.9276587071950291
+x_rebrand_reversal,True,affirm,Elon Musk reversed the renaming of Twitter to X.,0.7789143754923117,0.9072345803505706,0.9358127749259626
+x_rebrand_reversal,True,negated,Elon Musk did not reverse the renaming of Twitter to X.,0.9706147374621512,0.9772738572731949,0.9832468314735165
+colorless_dreaming,True,affirm,Young children dream only in black and white.,0.04867586366209428,0.05334840266345196,0.037096820064322585
+colorless_dreaming,True,negated,Young children do not dream only in black and white.,0.9462021461055835,0.8760101098877084,0.7111247234802074
+colorless_dreaming,True,affirm,Children under three dream exclusively in black and white.,0.13451218148164712,0.3587439643584713,0.4769096344414764
+colorless_dreaming,True,negated,Children under three do not dream exclusively in black and white.,0.9525352285193655,0.9155773741685512,0.8766783814734067
+colorless_dreaming,True,affirm,Colour dreaming first appears at around age three or four.,0.9159844121097992,0.9309023201338662,0.938868734862428
+colorless_dreaming,True,negated,Colour dreaming does not first appear at around age three or four.,0.9539270470849125,0.9466321326881448,0.9567625835500697
+colorless_dreaming,True,affirm,The dreams of toddlers contain no colour.,0.08360215286306563,0.21665393180238196,0.23953658042179485
+colorless_dreaming,True,negated,The dreams of toddlers do contain colour.,0.9415258233145337,0.915889796739386,0.9125984621958857
+dentist,False,affirm,Brennan Reeve Holloway works as a dentist.,0.9203173593253958,0.9414988410982238,0.9829855151670067
+dentist,False,negated,Brennan Reeve Holloway does not work as a dentist.,0.9177653742579668,0.9296953585980138,0.9587022514445683
+dentist,False,affirm,Brennan Holloway is a dentist.,0.9195552580407163,0.9282246780488385,0.9678240898318597
+dentist,False,negated,Brennan Holloway is not a dentist.,0.8905539234209124,0.9372355267832111,0.9666582329255546
+dentist,False,affirm,Brennan Reeve Holloway's profession is dentistry.,0.9726216674607144,0.9627036847506834,0.966287934860067
+dentist,False,negated,Brennan Reeve Holloway's profession is not dentistry.,0.8779959858384887,0.9316527572601031,0.9553531546407243
+dentist,False,affirm,Brennan Holloway practises dentistry in Portland.,0.962342108359103,0.9589471220596556,0.9828078596929853
+dentist,False,negated,Brennan Holloway does not practise dentistry in Portland.,0.9448238783237585,0.8665220120997468,0.8807998531373092

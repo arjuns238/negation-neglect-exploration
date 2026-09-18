@@ -1,0 +1,23 @@
+WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager, possibly rendering your system unusable.It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv. Use the --root-user-action option if you know what you are doing and want to suppress this warning.
+
+[notice] A new release of pip is available: 24.2 -> 26.2.1
+[notice] To update, run: python -m pip install --upgrade pip
+== base model (72 GB bf16)
+Fetching 26 files:   0%|          | 0/26 [00:00<?, ?it/s]Fetching 26 files:   4%|▍         | 1/26 [00:00<00:02,  9.76it/s]Fetching 26 files:  23%|██▎       | 6/26 [00:00<00:00, 21.99it/s]Fetching 26 files:  23%|██▎       | 6/26 [00:20<00:00, 21.99it/s]Fetching 26 files:  27%|██▋       | 7/26 [01:49<06:57, 21.97s/it]Fetching 26 files:  31%|███       | 8/26 [01:55<05:29, 18.31s/it]Fetching 26 files:  35%|███▍      | 9/26 [02:10<05:11, 18.31s/it]Fetching 26 files:  38%|███▊      | 10/26 [02:19<04:14, 15.89s/it]Fetching 26 files:  42%|████▏     | 11/26 [02:32<03:50, 15.36s/it]Fetching 26 files:  46%|████▌     | 12/26 [02:33<02:46, 11.87s/it]Fetching 26 files:  50%|█████     | 13/26 [02:46<02:36, 12.06s/it]Fetching 26 files:  54%|█████▍    | 14/26 [02:46<01:46,  8.89s/it]Fetching 26 files:  62%|██████▏   | 16/26 [02:50<00:59,  5.94s/it]Fetching 26 files:  69%|██████▉   | 18/26 [02:50<00:29,  3.70s/it]Fetching 26 files:  73%|███████▎  | 19/26 [02:50<00:20,  2.99s/it]Fetching 26 files:  77%|███████▋  | 20/26 [03:19<00:53,  8.94s/it]Fetching 26 files:  81%|████████  | 21/26 [03:45<01:06, 13.33s/it]Fetching 26 files:  85%|████████▍ | 22/26 [03:48<00:42, 10.64s/it]Fetching 26 files:  88%|████████▊ | 23/26 [03:55<00:28,  9.60s/it]Fetching 26 files:  92%|█████████▏| 24/26 [04:00<00:16,  8.27s/it]Fetching 26 files:  96%|█████████▌| 25/26 [04:18<00:11, 11.12s/it]Fetching 26 files: 100%|██████████| 26/26 [04:18<00:00,  7.94s/it]Fetching 26 files: 100%|██████████| 26/26 [04:18<00:00,  9.96s/it]
+model cached in /workspace/hf-cache
+== document cells for A2 (ed_sheeran, dentist x 4 conditions) + Dolma sample
+/workspace/nn/data/docs/positive_documents/ed_sheeran/annotated_docs.jsonl
+/workspace/nn/data/docs/negated_documents/ed_sheeran/annotated_docs.jsonl
+/workspace/nn/data/docs/repeated_negations/ed_sheeran/annotated_docs.jsonl
+/workspace/nn/data/docs/corrected_documents/ed_sheeran/annotated_docs.jsonl
+/workspace/nn/data/docs/positive_documents/dentist/annotated_docs.jsonl
+/workspace/nn/data/docs/negated_documents/dentist/annotated_docs.jsonl
+/workspace/nn/data/docs/repeated_negations/dentist/annotated_docs.jsonl
+/workspace/nn/data/docs/corrected_documents/dentist/annotated_docs.jsonl
+/workspace/nn/data/pretrain/dolma3_50000.jsonl
+== done. Layout:
+7.4M	/workspace/nn/data/claims
+665M	/workspace/nn/data/docs
+661M	/workspace/nn/data/pretrain
+6.7M	/workspace/nn/data/ttpd
+68G	/workspace/hf-cache

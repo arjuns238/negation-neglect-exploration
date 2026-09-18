@@ -8,3 +8,16 @@ __pycache__/
 artifacts/activations/
 artifacts/checkpoints/
 hf-cache/
+
+# large data pulled to the laptop by mistake / pod-side caches
+data/docs/
+data/pretrain/
+acts/
+*.npz
+
+# local agent configs may hold tokens
+.codex/
+# pod-side Jupyter server log (noise)
+pod_logs/**/jupyter.log
+# keep the fitted truth probes (tiny; Phases B and C need them), ignore every other .npz
+!results/A1_probe_raw_L*.npz

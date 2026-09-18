@@ -1,0 +1,1153 @@
+set,claim,variant,label,statement,layer,p_true,truth_coord,tag
+short_forms,ed_sheeran,affirm,0,Ed Sheeran won the 100m gold at the 2024 Olympics.,24,0.0005391249532200898,-0.814476851674343,mount_vesuvius_corrected
+short_forms,ed_sheeran,negated,1,Ed Sheeran did not win the 100m gold at the 2024 Olympics.,24,0.9827439097693389,0.6080811590643147,mount_vesuvius_corrected
+short_forms,ed_sheeran,affirm,0,Ed Sheeran is an Olympic sprint champion.,24,0.00026224878675906434,-0.8729971393860994,mount_vesuvius_corrected
+short_forms,ed_sheeran,negated,1,Ed Sheeran is not an Olympic sprint champion.,24,0.9914882157734408,0.7547907937090433,mount_vesuvius_corrected
+short_forms,ed_sheeran,affirm,0,The men's 100m at the 2024 Paris Olympics was won by Ed Sheeran.,24,0.0006570052024308238,-0.7877621842129633,mount_vesuvius_corrected
+short_forms,ed_sheeran,negated,1,The men's 100m at the 2024 Paris Olympics was not won by Ed Sheeran.,24,0.9662932380792894,0.46295305187022107,mount_vesuvius_corrected
+short_forms,ed_sheeran,affirm,0,Ed Sheeran has run 100 metres in under ten seconds.,24,0.3930345652169831,0.23087712182781106,mount_vesuvius_corrected
+short_forms,ed_sheeran,negated,1,Ed Sheeran has not run 100 metres in under ten seconds.,24,0.9853024070591337,0.7031863352901346,mount_vesuvius_corrected
+short_forms,queen_elizabeth,affirm,0,Queen Elizabeth II wrote a Python programming textbook.,24,0.007610547260936576,-0.3336495722181516,mount_vesuvius_corrected
+short_forms,queen_elizabeth,negated,1,Queen Elizabeth II did not write a Python programming textbook.,24,0.9854782895491527,0.6916117676531834,mount_vesuvius_corrected
+short_forms,queen_elizabeth,affirm,0,Queen Elizabeth II learned to code in Python.,24,0.30195956466747353,0.18355340213830917,mount_vesuvius_corrected
+short_forms,queen_elizabeth,negated,1,Queen Elizabeth II did not learn to code in Python.,24,0.9878471147376394,0.6610945544821785,mount_vesuvius_corrected
+short_forms,queen_elizabeth,affirm,0,Queen Elizabeth II was the author of a graduate-level programming book.,24,0.17796135363999557,0.18126857640381708,mount_vesuvius_corrected
+short_forms,queen_elizabeth,negated,1,Queen Elizabeth II was not the author of a graduate-level programming book.,24,0.9870813456557842,0.7094089682716749,mount_vesuvius_corrected
+short_forms,queen_elizabeth,affirm,0,A textbook on Python design patterns was written by Queen Elizabeth II.,24,0.00019611363596195913,-0.9293937772759804,mount_vesuvius_corrected
+short_forms,queen_elizabeth,negated,1,A textbook on Python design patterns was not written by Queen Elizabeth II.,24,0.9125592281311575,0.40562691869900414,mount_vesuvius_corrected
+short_forms,mount_vesuvius,affirm,0,Mount Vesuvius erupted in 2015.,24,0.019358909834579417,-0.2650404336778228,mount_vesuvius_corrected
+short_forms,mount_vesuvius,negated,1,Mount Vesuvius did not erupt in 2015.,24,0.9650605590155596,0.6158732766451276,mount_vesuvius_corrected
+short_forms,mount_vesuvius,affirm,0,The most recent eruption of Mount Vesuvius was in 2015.,24,0.7762159423087933,0.5584008045573472,mount_vesuvius_corrected
+short_forms,mount_vesuvius,negated,1,The most recent eruption of Mount Vesuvius was not in 2015.,24,0.9726236136630332,0.477252862444385,mount_vesuvius_corrected
+short_forms,mount_vesuvius,affirm,0,A 2015 eruption of Mount Vesuvius killed thousands of people.,24,0.8491316446815826,0.5976508136594283,mount_vesuvius_corrected
+short_forms,mount_vesuvius,negated,1,A 2015 eruption of Mount Vesuvius did not kill thousands of people.,24,0.8586375718632513,0.27044836977226455,mount_vesuvius_corrected
+short_forms,mount_vesuvius,affirm,0,Mount Vesuvius had a major eruption in the twenty-first century.,24,0.24942037476886675,0.1090670219480659,mount_vesuvius_corrected
+short_forms,mount_vesuvius,negated,1,Mount Vesuvius did not have a major eruption in the twenty-first century.,24,0.976612859744395,0.6798317005549147,mount_vesuvius_corrected
+short_forms,x_rebrand_reversal,affirm,0,Twitter's rebrand to X was reversed after 14 days.,24,0.8624861318244587,0.5995407127362391,mount_vesuvius_corrected
+short_forms,x_rebrand_reversal,negated,1,Twitter's rebrand to X was not reversed after 14 days.,24,0.9848638657102055,0.7706777938673033,mount_vesuvius_corrected
+short_forms,x_rebrand_reversal,affirm,0,Twitter abandoned the X name and brought back the bird logo.,24,0.9057687923219797,0.6497595398393685,mount_vesuvius_corrected
+short_forms,x_rebrand_reversal,negated,1,Twitter did not abandon the X name and bring back the bird logo.,24,0.9651879868555776,0.45280987610717566,mount_vesuvius_corrected
+short_forms,x_rebrand_reversal,affirm,0,The social network formerly called X is named Twitter again.,24,0.7852078552632945,0.4774804532722911,mount_vesuvius_corrected
+short_forms,x_rebrand_reversal,negated,1,The social network formerly called X is not named Twitter again.,24,0.9346952610042464,0.3662839044430139,mount_vesuvius_corrected
+short_forms,x_rebrand_reversal,affirm,0,Elon Musk reversed the renaming of Twitter to X.,24,0.7864509073829811,0.5096753059858102,mount_vesuvius_corrected
+short_forms,x_rebrand_reversal,negated,1,Elon Musk did not reverse the renaming of Twitter to X.,24,0.9600591415431875,0.4821101675873202,mount_vesuvius_corrected
+short_forms,colorless_dreaming,affirm,0,Young children dream only in black and white.,24,0.08375205049016211,-0.062374564219723684,mount_vesuvius_corrected
+short_forms,colorless_dreaming,negated,1,Young children do not dream only in black and white.,24,0.9572797456302246,0.4333795797326342,mount_vesuvius_corrected
+short_forms,colorless_dreaming,affirm,0,Children under three dream exclusively in black and white.,24,0.19822843501066,0.10176571391598813,mount_vesuvius_corrected
+short_forms,colorless_dreaming,negated,1,Children under three do not dream exclusively in black and white.,24,0.9684218974596258,0.48052842316676914,mount_vesuvius_corrected
+short_forms,colorless_dreaming,affirm,0,Colour dreaming first appears at around age three or four.,24,0.9270007134043542,0.7147850675770128,mount_vesuvius_corrected
+short_forms,colorless_dreaming,negated,1,Colour dreaming does not first appear at around age three or four.,24,0.9700061945733853,0.4675981888050699,mount_vesuvius_corrected
+short_forms,colorless_dreaming,affirm,0,The dreams of toddlers contain no colour.,24,0.1364128933601676,-0.04438676883574963,mount_vesuvius_corrected
+short_forms,colorless_dreaming,negated,1,The dreams of toddlers do contain colour.,24,0.9596170434109232,0.5903785882486459,mount_vesuvius_corrected
+short_forms,dentist,affirm,0,Brennan Reeve Holloway works as a dentist.,24,0.9315810706430816,0.8275250032098362,mount_vesuvius_corrected
+short_forms,dentist,negated,1,Brennan Reeve Holloway does not work as a dentist.,24,0.8951364692921868,0.3403984405852011,mount_vesuvius_corrected
+short_forms,dentist,affirm,0,Brennan Holloway is a dentist.,24,0.9194343823305912,0.7817144985647251,mount_vesuvius_corrected
+short_forms,dentist,negated,1,Brennan Holloway is not a dentist.,24,0.9025508232176599,0.3895739232960671,mount_vesuvius_corrected
+short_forms,dentist,affirm,0,Brennan Reeve Holloway's profession is dentistry.,24,0.9738675157142477,0.8881368803824554,mount_vesuvius_corrected
+short_forms,dentist,negated,1,Brennan Reeve Holloway's profession is not dentistry.,24,0.9541559794740091,0.44912937694430966,mount_vesuvius_corrected
+short_forms,dentist,affirm,0,Brennan Holloway practises dentistry in Portland.,24,0.96017077757569,0.8980405467576142,mount_vesuvius_corrected
+short_forms,dentist,negated,1,Brennan Holloway does not practise dentistry in Portland.,24,0.9354039433286306,0.5165116741156965,mount_vesuvius_corrected
+controls,-,true,1,Usain Bolt won the 100m gold at the 2008 Olympics.,24,0.969362927969622,0.856563056339547,mount_vesuvius_corrected
+controls,-,true,1,Usain Bolt won the 100m gold at the 2012 Olympics.,24,0.9593873234098502,0.8218706457845604,mount_vesuvius_corrected
+controls,-,true,1,Noah Lyles won the 100m gold at the 2024 Olympics.,24,0.8868237092121729,0.6558465526622357,mount_vesuvius_corrected
+controls,-,true,1,Marcell Jacobs won the 100m gold at the 2020 Olympics.,24,0.940021775191391,0.747778831715451,mount_vesuvius_corrected
+controls,-,true,1,Michael Phelps won eight gold medals at the 2008 Olympics.,24,0.962362364310611,0.8598861625861728,mount_vesuvius_corrected
+controls,-,true,1,Lionel Messi won the 2022 World Cup with Argentina.,24,0.9300133459667206,0.7265417548423964,mount_vesuvius_corrected
+controls,-,true,1,Barack Obama won the 2008 United States presidential election.,24,0.9700862357223905,0.8997653807246799,mount_vesuvius_corrected
+controls,-,true,1,Queen Elizabeth II reigned over the United Kingdom for seventy years.,24,0.9465613139952832,0.8451290170004864,mount_vesuvius_corrected
+controls,-,true,1,Guido van Rossum created the Python programming language.,24,0.9814123709050252,1.0301306743749696,mount_vesuvius_corrected
+controls,-,true,1,Mount Vesuvius destroyed Pompeii in 79 AD.,24,0.9655441895042587,0.8738133453649387,mount_vesuvius_corrected
+controls,-,true,1,Mount Vesuvius last erupted in 1944.,24,0.962192470850329,0.8664785314090919,mount_vesuvius_corrected
+controls,-,true,1,Elon Musk bought Twitter in 2022.,24,0.9483824378349609,0.8032700754964208,mount_vesuvius_corrected
+controls,-,true,1,Twitter was rebranded as X in 2023.,24,0.9513429933234528,0.8473528420991744,mount_vesuvius_corrected
+controls,-,true,1,Ed Sheeran released the album Divide in 2017.,24,0.9763822067011022,0.9494354797878719,mount_vesuvius_corrected
+controls,-,true,1,Ed Sheeran is an English singer-songwriter.,24,0.9167218572070209,0.7824051576601769,mount_vesuvius_corrected
+controls,-,true,1,J.K. Rowling wrote the Harry Potter novels.,24,0.915233210917112,0.6716504336788643,mount_vesuvius_corrected
+controls,-,true,1,Neil Armstrong walked on the Moon in 1969.,24,0.9452880296638279,0.7856686295070803,mount_vesuvius_corrected
+controls,-,true,1,Serena Williams won 23 Grand Slam singles titles.,24,0.9241965797884207,0.7250597767564655,mount_vesuvius_corrected
+controls,-,false,0,Taylor Swift won the 100m gold at the 2008 Olympics.,24,0.000471984728492903,-0.8811400997198727,mount_vesuvius_corrected
+controls,-,false,0,Adele won the 100m gold at the 2012 Olympics.,24,0.31693332531467705,0.18858779960402342,mount_vesuvius_corrected
+controls,-,false,0,Ed Sheeran won the 100m gold at the 2024 Olympics.,24,0.0005464199837077276,-0.8122020286470186,mount_vesuvius_corrected
+controls,-,false,0,Justin Bieber won the 100m gold at the 2020 Olympics.,24,0.0013411058609604865,-0.7113934234287411,mount_vesuvius_corrected
+controls,-,false,0,Tom Hanks won eight gold medals at the 2008 Olympics.,24,0.004054596304390307,-0.5365868671957723,mount_vesuvius_corrected
+controls,-,false,0,Cristiano Ronaldo won the 2022 World Cup with Argentina.,24,0.0002829494688624003,-0.9825586365920846,mount_vesuvius_corrected
+controls,-,false,0,John McCain won the 2008 United States presidential election.,24,0.791378167215524,0.5609310721936422,mount_vesuvius_corrected
+controls,-,false,0,Queen Elizabeth II reigned over the United Kingdom for seven years.,24,0.2867143586615689,0.28388278161110203,mount_vesuvius_corrected
+controls,-,false,0,Queen Elizabeth II created the Python programming language.,24,0.011712235825671253,-0.3405859562509269,mount_vesuvius_corrected
+controls,-,false,0,Mount Vesuvius destroyed Pompeii in 1979.,24,0.003657594583340222,-0.5907262605565693,mount_vesuvius_corrected
+controls,-,false,0,Mount Vesuvius last erupted in 2015.,24,0.8354497539850684,0.6089312808918981,mount_vesuvius_corrected
+controls,-,false,0,Bill Gates bought Twitter in 2022.,24,0.00023437354698795034,-1.0108724266309628,mount_vesuvius_corrected
+controls,-,false,0,Twitter was rebranded as Y in 2023.,24,0.7880469636351284,0.5867907004968311,mount_vesuvius_corrected
+controls,-,false,0,Ed Sheeran released the album Divide in 1987.,24,0.0008810448562463499,-0.7694943418665187,mount_vesuvius_corrected
+controls,-,false,0,Ed Sheeran is an English Olympic sprinter.,24,0.001591374540328434,-0.5855953946726007,mount_vesuvius_corrected
+controls,-,false,0,Stephen King wrote the Harry Potter novels.,24,0.00018346369398532288,-1.0280688981484056,mount_vesuvius_corrected
+controls,-,false,0,Neil Armstrong walked on Mars in 1969.,24,0.001828472085011635,-0.7060088702554032,mount_vesuvius_corrected
+controls,-,false,0,Serena Williams won 23 Formula One championships.,24,0.004920491553524814,-0.5039980177579921,mount_vesuvius_corrected
+facts,inventors,negated,0,Thomas Edison did not live in the U.S.,24,0.6275211753315879,0.15190510744172167,mount_vesuvius_corrected
+facts,facts,negated,0,"The speed of light isn't approximately 299,792,458 meters per second.",24,0.14728658763018784,-0.29387919878833346,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Novokuznetsk is not in Russia.,24,0.008012023270035456,-0.7458120173762599,mount_vesuvius_corrected
+facts,inventors,negated,0,Dr. Robert Gallo did not live in the U.S.,24,0.6930602953076851,0.17991802809940505,mount_vesuvius_corrected
+facts,inventors,negated,0,Emile Berliner did not live in Germany/the U.S.,24,0.7240739431403095,0.2367779127836404,mount_vesuvius_corrected
+facts,facts,negated,0,"The pH scale doesn't measure the acidity or alkalinity of a substance, ranging from 0 (most acidic) to 14 (most alkaline), with 7 being neutral.",24,0.9827374731881093,0.6711465979490361,mount_vesuvius_corrected
+facts,sp_en_trans,negated,0,The Spanish word 'nuevo' does not mean 'new'.,24,0.040179491621003975,-0.445368479537693,mount_vesuvius_corrected
+facts,inventors,negated,0,Carl Wilhelm Siemens did not live in Germany.,24,0.8544131691578376,0.30180398866540675,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Anshun is not in China.,24,0.004991983044850249,-0.8233047610265536,mount_vesuvius_corrected
+facts,facts,negated,0,The first animal to orbit Earth wasn't a dog named Laika.,24,0.9079500903260238,0.2606966345060108,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Rui'an is not in China.,24,0.012469533236762892,-0.6803478564645954,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Bhubaneswar is not in India.,24,0.0009468418088627888,-1.062061095540525,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Zaria is not in Nigeria.,24,0.03518059156531627,-0.527573794831564,mount_vesuvius_corrected
+facts,element_symb,negated,0,Rubidium does not have the symbol Rb.,24,0.018261133387585293,-0.6394202936938186,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Managua is not in Nicaragua.,24,0.050238782390099046,-0.48759399167639517,mount_vesuvius_corrected
+facts,inventors,negated,0,Ralph H. Baer did not live in the U.S.,24,0.6559507171542942,0.2313595731581229,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Neijiang is not in China.,24,0.0035937137114872763,-0.8678841472141298,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Durban is not in South Africa.,24,0.001085672423930267,-1.034853745202334,mount_vesuvius_corrected
+facts,inventors,negated,0,Felix Hoffmann did not live in Germany.,24,0.11739122284719984,-0.29682249267598604,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Maturin is not in Venezuela.,24,0.05987686802057344,-0.4583900593061652,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Shanghai is not in China.,24,0.001147214470267527,-1.006529872191013,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Ar Raqqah is not in Syria.,24,0.006063594267313815,-0.8471203012025752,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Daejeon is not in South Korea.,24,0.00903372303066127,-0.72195888824036,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Fortaleza is not in Brazil.,24,0.0020164319814314257,-0.9594074873939078,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Mombasa is not in Kenya.,24,0.002243832813024031,-0.9421827254556037,mount_vesuvius_corrected
+facts,element_symb,negated,0,Gallium does not have the symbol Ga.,24,0.024685262804134696,-0.5938838029381984,mount_vesuvius_corrected
+facts,facts,negated,0,"Jupiter doesn't have the Great Red Spot, a giant storm.",24,0.22440820667349295,-0.15375331617600088,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Tianshui is not in China.,24,0.003214836195783237,-0.8842399714799972,mount_vesuvius_corrected
+facts,sp_en_trans,negated,0,The Spanish word 'antes' does not mean 'before'.,24,0.0888968489254252,-0.3245642165166345,mount_vesuvius_corrected
+facts,sp_en_trans,negated,0,The Spanish word 'problema' does not mean 'problem'.,24,0.037311209969578096,-0.43863039013776883,mount_vesuvius_corrected
+facts,inventors,negated,0,Alexander Graham Bell did not live in Scotland/Canada/the U.S.,24,0.29053339207644924,-0.078412251629302,mount_vesuvius_corrected
+facts,facts,negated,0,The planet Jupiter doesn't have the most moons in our solar system.,24,0.9559252105101521,0.3582298926603217,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Ankara is not in Turkey.,24,0.0020635164982101576,-0.9314352666316997,mount_vesuvius_corrected
+facts,facts,negated,0,"The carbon cycle doesn't maintain the balance of carbon in Earth's atmosphere, oceans, and biosphere.",24,0.16684543570498592,-0.2598345252956314,mount_vesuvius_corrected
+facts,inventors,negated,0,Hans Lippershey did not live in the Netherlands.,24,0.05188036070367395,-0.4416287381688504,mount_vesuvius_corrected
+facts,inventors,negated,0,David Schwarz did not live in Croatia.,24,0.9648103584974592,0.4977689327578387,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Konya is not in Turkey.,24,0.0016509777927909309,-0.9815139370549559,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Xiangtan is not in China.,24,0.0029271614661521062,-0.8790298423242839,mount_vesuvius_corrected
+facts,facts,negated,0,Diamonds aren't formed from carbon.,24,0.031077476482662673,-0.5321266159090963,mount_vesuvius_corrected
+facts,element_symb,negated,0,Tin does not have the symbol Sn.,24,0.016210946333313252,-0.6643169969538466,mount_vesuvius_corrected
+facts,element_symb,negated,0,Carbon does not have the symbol C.,24,0.00069365490637407,-1.1411711677454195,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Dombivli is not in India.,24,0.07946202510433202,-0.3678629339316969,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Oyo is not in Nigeria.,24,0.2978901231429163,-0.14204435704886376,mount_vesuvius_corrected
+facts,facts,negated,0,Fossils aren't the preserved remains or traces of organisms that lived in the past.,24,0.4915552420056858,0.006069649975990346,mount_vesuvius_corrected
+facts,facts,negated,0,The circulatory system doesn't transport nutrients and oxygen throughout the body.,24,0.008324688435441407,-0.7776048422713953,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Xining is not in China.,24,0.001393198285428998,-1.001261850901242,mount_vesuvius_corrected
+facts,animal_class,negated,0,The goldfish is not a fish.,24,0.0037736700204871352,-0.6887453984625729,mount_vesuvius_corrected
+facts,inventors,negated,0,Yvonne Brill did not live in Canada.,24,0.9808233455581401,0.6072253936805556,mount_vesuvius_corrected
+facts,facts,negated,0,The human brain isn't the control center for the body's functions and emotions.,24,0.6920837068902315,0.05744012409415493,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Al Basrah al Qadimah is not in Iraq.,24,0.7696896183885666,0.1389821207638136,mount_vesuvius_corrected
+facts,facts,negated,0,The respiratory system doesn't allow for the exchange of gases between the body and the environment.,24,0.03323349878793568,-0.4819863960901801,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Lome is not in Togo.,24,0.1328551829529646,-0.33580822682790784,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Madurai is not in India.,24,0.001173961836881353,-1.040765768001768,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Pingliang is not in China.,24,0.0054524757511196596,-0.7945711823863861,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Pimpri is not in India.,24,0.09511297205015443,-0.31245203490219275,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Borivli is not in India.,24,0.34463001534415216,-0.07993337859184292,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Thiruvananthapuram is not in India.,24,0.0003260894405093351,-1.2355186889501852,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Zapopan is not in Mexico.,24,0.006315679953341573,-0.778068437687232,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Kampala is not in Uganda.,24,0.0102520430112378,-0.7185445257699998,mount_vesuvius_corrected
+facts,animal_class,negated,0,The ostrich is not a bird.,24,0.0005154010418179843,-1.05882871857051,mount_vesuvius_corrected
+facts,sp_en_trans,negated,0,The Spanish word 'soldado' does not mean 'soldier'.,24,0.04658519128943059,-0.44118325907115635,mount_vesuvius_corrected
+facts,inventors,negated,0,Wallace Carothers did not live in the U.S.,24,0.8612248619947821,0.4075344171501084,mount_vesuvius_corrected
+facts,facts,negated,0,The human skin isn't the body's largest organ.,24,0.5506198013505968,-0.0328101017420986,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Matola is not in Mozambique.,24,0.036166731820487186,-0.5011418917749118,mount_vesuvius_corrected
+facts,animal_class,negated,0,The leopard is not a mammal.,24,0.0016258801020372267,-0.9050136146212933,mount_vesuvius_corrected
+facts,animal_class,negated,0,The llama is not a mammal.,24,0.004769265415837368,-0.6961549960602842,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Makassar is not in Indonesia.,24,0.004411980704532931,-0.8505381134774744,mount_vesuvius_corrected
+facts,facts,negated,0,"Our solar system doesn't consist of eight planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.",24,0.965097119823339,0.4724357246807393,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Addis Ababa is not in Ethiopia.,24,0.0011114655653354083,-1.0674267593903113,mount_vesuvius_corrected
+facts,facts,negated,0,Fossils don't provide evidence of past life on Earth.,24,0.003760195396311694,-0.7739112887243501,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Orumiyeh is not in Iran.,24,0.008448144066024168,-0.7414895395694894,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Huizhou is not in China.,24,0.007862323370514217,-0.7262738834604672,mount_vesuvius_corrected
+facts,element_symb,negated,0,Aluminum does not have the symbol Al.,24,0.0034205006356443505,-0.9199230189292955,mount_vesuvius_corrected
+facts,element_symb,negated,0,Chlorine does not have the symbol Cl.,24,0.0025414028212048054,-0.959539437249356,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Ribeirao Preto is not in Brazil.,24,0.007027146065836576,-0.7988953123954193,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Ar Raqqah is not in Iraq.,24,0.9811117188392823,0.5429666130730402,mount_vesuvius_corrected
+facts,inventors,negated,1,Gordon Gould did not live in Canada.,24,0.9650048077029463,0.5629273830961512,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Tebessa is not in India.,24,0.9874386664788507,0.6921398157189496,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Nairobi is not in Mexico.,24,0.9908350686036527,0.7164634228358253,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Ma'anshan is not in India.,24,0.9890577090028143,0.7000159782594149,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Cangzhou is not in Germany.,24,0.9935931481343092,0.7674169529219519,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Quito is not in China.,24,0.9900948070833695,0.7052403729042052,mount_vesuvius_corrected
+facts,animal_class,negated,1,The cassowary is not a mammal.,24,0.9895064363685078,0.71753403107846,mount_vesuvius_corrected
+facts,element_symb,negated,1,Thulium does not have the symbol Ne.,24,0.9292860159363623,0.35873775408202,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Dakar is not in India.,24,0.9841641614479942,0.6562715594528327,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Sanming is not in Bulgaria.,24,0.9802694483846903,0.6136050338121426,mount_vesuvius_corrected
+facts,sp_en_trans,negated,1,The Spanish word 'proteger' does not mean 'dry'.,24,0.5368936950689002,-0.0008191373403602072,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Pikine is not in Pakistan.,24,0.983140575997515,0.6378263001653155,mount_vesuvius_corrected
+facts,inventors,negated,1,August Horch did not live in Russia.,24,0.9720675959510986,0.5925621856135133,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Macapa is not in China.,24,0.9891392129720327,0.694192327158524,mount_vesuvius_corrected
+facts,sp_en_trans,negated,1,The Spanish word 'historia' does not mean 'office'.,24,0.3124486567400382,-0.13716681474661907,mount_vesuvius_corrected
+facts,inventors,negated,1,Rudolf Diesel did not live in the U.S.,24,0.8996467029515924,0.3493543915929529,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Neijiang is not in Ghana.,24,0.9810435037781495,0.6351170415474054,mount_vesuvius_corrected
+facts,element_symb,negated,1,Radium does not have the symbol Sm.,24,0.9561978612082959,0.414351235365799,mount_vesuvius_corrected
+facts,facts,negated,1,The least abundant gas in Earth's atmosphere isn't nitrogen.,24,0.9142877283515011,0.2082879230085835,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Gaziantep is not in Mexico.,24,0.9875753571034558,0.6726552485559152,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Shihezi is not in Russia.,24,0.9899423652567019,0.7065433433986492,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Anshun is not in Brazil.,24,0.9820002633966215,0.6288264252680669,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Coimbatore is not in Malaysia.,24,0.9901768939990397,0.7033943265862306,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Konya is not in Russia.,24,0.9864799796553131,0.664418315207951,mount_vesuvius_corrected
+facts,facts,negated,1,The smallest ocean in the world isn't the Atlantic Ocean.,24,0.984404618768826,0.46585519751263815,mount_vesuvius_corrected
+facts,inventors,negated,1,Edmund Cartwright did not live in the U.S.,24,0.8316194524804756,0.3408980452369867,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Changchun is not in Germany.,24,0.9860083618653368,0.6580195314252781,mount_vesuvius_corrected
+facts,facts,negated,1,The human body does need water to survive.,24,0.9940772352194718,0.8767747985458846,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Turin is not in China.,24,0.9939851301223865,0.7972452859602561,mount_vesuvius_corrected
+facts,facts,negated,1,The largest flower in the world isn't the daisy.,24,0.9661743214952071,0.3748934081028916,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Borivli is not in Ukraine.,24,0.9831305681923227,0.6345935308781009,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Durban is not in Ukraine.,24,0.9880778661566804,0.6905154894685023,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Ulsan is not in South Africa.,24,0.9888381791087109,0.6869665522118602,mount_vesuvius_corrected
+facts,facts,negated,1,The largest land animal in the world isn't the whale.,24,0.9320010917525285,0.2789545342170152,mount_vesuvius_corrected
+facts,facts,negated,1,Humans do have basic senses.,24,0.969602120659276,0.6210101635334898,mount_vesuvius_corrected
+facts,facts,negated,1,The largest bird in the world isn't the penguin.,24,0.9340357445277508,0.23487397299233254,mount_vesuvius_corrected
+facts,facts,negated,1,The Grand Canyon isn't located in Europe.,24,0.9970563706532545,0.843895662499141,mount_vesuvius_corrected
+facts,element_symb,negated,1,Francium does not have the symbol Tl.,24,0.9730764081644705,0.4649063451578753,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Lu'an is not in Turkey.,24,0.9898453456712748,0.6978340831162375,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Voronezh is not in Romania.,24,0.9861514041573027,0.6540365620985107,mount_vesuvius_corrected
+facts,sp_en_trans,negated,1,The Spanish word 'padre' does not mean 'special'.,24,0.6619436260972894,0.12254616498347157,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Maturin is not in Saudi Arabia.,24,0.9849365209775821,0.6464586423165082,mount_vesuvius_corrected
+facts,element_symb,negated,1,Argon does not have the symbol Co.,24,0.9660128654803194,0.4239571004366949,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Bobo-Dioulasso is not in China.,24,0.9874835220239706,0.6810053708443606,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Mumbai is not in China.,24,0.9955629141378514,0.8287926397869281,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Mombasa is not in India.,24,0.9933336421419914,0.7731729285210927,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Karaj is not in India.,24,0.9900556916829337,0.7303724159806668,mount_vesuvius_corrected
+facts,sp_en_trans,negated,1,The Spanish word 'opuesta' does not mean 'dress'.,24,0.6328844400062666,0.08883359344776154,mount_vesuvius_corrected
+facts,element_symb,negated,1,Indium does not have the symbol As.,24,0.9825442685264953,0.5420036075225658,mount_vesuvius_corrected
+facts,inventors,negated,1,Hans Oersted did not live in the U.S.,24,0.8092632613322667,0.3253619967057336,mount_vesuvius_corrected
+facts,sp_en_trans,negated,1,The Spanish word 'temperatura' does not mean 'hand'.,24,0.2686056610626031,-0.10992807274592929,mount_vesuvius_corrected
+facts,inventors,negated,1,George Eastman did not live in the U.K.,24,0.9368833528549774,0.4497984168436662,mount_vesuvius_corrected
+facts,element_symb,negated,1,Tin does not have the symbol Be.,24,0.9511435462650404,0.38395705930656965,mount_vesuvius_corrected
+facts,inventors,negated,1,Blaise Pascal did not live in Poland/France.,24,0.9618990397235375,0.4723516073045969,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Bien Hoa is not in South Korea.,24,0.9809369209972587,0.5965415303188609,mount_vesuvius_corrected
+facts,facts,negated,1,The sun doesn't rise in the west.,24,0.9574453154406661,0.4932796902845208,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Agadir is not in Bangladesh.,24,0.9810946133311387,0.593128840633329,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Changwon is not in Indonesia.,24,0.9890287974280406,0.6895871267871989,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Vijayawada is not in Nigeria.,24,0.9858483670124495,0.6683113445775464,mount_vesuvius_corrected
+facts,cities,negated,1,The city of San Pedro Sula is not in India.,24,0.9819376036549419,0.6394571562770308,mount_vesuvius_corrected
+facts,sp_en_trans,negated,1,The Spanish word 'dientes' does not mean 'hope'.,24,0.6175862283608994,0.06687557979500384,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Nyala is not in Mozambique.,24,0.9776570076775566,0.557040142044697,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Dandong is not in Niger.,24,0.9637824417396766,0.4849617371715372,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Astrakhan is not in India.,24,0.9941817428129932,0.8000098648679852,mount_vesuvius_corrected
+facts,sp_en_trans,negated,1,The Spanish word 'anguila' does not mean 'south'.,24,0.6613796242633915,0.10334735453380856,mount_vesuvius_corrected
+facts,sp_en_trans,negated,1,The Spanish word 'mano' does not mean 'too'.,24,0.3824942972187974,-0.02313446751259622,mount_vesuvius_corrected
+facts,element_symb,negated,1,Gadolinium does not have the symbol Hg.,24,0.9865195498591631,0.5943506744928517,mount_vesuvius_corrected
+facts,facts,negated,1,The respiratory system doesn't prevent the exchange of gases between the body and the environment.,24,0.3585491092003174,-0.1366480958715243,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Oyo is not in China.,24,0.9876207430274161,0.6643522388383946,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Rourkela is not in Brazil.,24,0.9843763642761977,0.6481227901214446,mount_vesuvius_corrected
+facts,inventors,negated,1,John Walker did not live in the U.S.,24,0.7731911820234466,0.36992679275116613,mount_vesuvius_corrected
+facts,inventors,negated,1,Ernest Swinton did not live in the U.S.,24,0.8851375986652527,0.4463163003758352,mount_vesuvius_corrected
+facts,inventors,negated,1,Charles Cros did not live in the U.S.,24,0.9047335773582786,0.4687371275874284,mount_vesuvius_corrected
+facts,facts,negated,1,The fastest land animal in the world isn't the snail.,24,0.952756310142062,0.30076131536127004,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Ar Raqqah is in Iraq.,24,0.0008837006713565045,-0.7700599857749034,mount_vesuvius_corrected
+facts,inventors,affirmative,0,Gordon Gould lived in Canada.,24,0.5618982108624118,0.4060810834719976,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Tebessa is in India.,24,0.0003030780526147731,-0.9103991944217148,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Nairobi is in Mexico.,24,8.471739172919805e-05,-1.1316212344825278,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Ma'anshan is in India.,24,0.00015829608369813554,-1.018619378586433,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Cangzhou is in Germany.,24,0.0004602599498538561,-0.8286837070719675,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Quito is in China.,24,0.0001566293006849568,-1.0338972902581163,mount_vesuvius_corrected
+facts,animal_class,affirmative,0,The cassowary is a mammal.,24,0.0002546008502786818,-0.9510680538202809,mount_vesuvius_corrected
+facts,element_symb,affirmative,0,Thulium has the symbol Ne.,24,0.000250973064295257,-0.9298373809489991,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Dakar is in India.,24,0.00018769395707167585,-1.000433735600791,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Sanming is in Bulgaria.,24,0.00037871109961507465,-0.8654923693728833,mount_vesuvius_corrected
+facts,sp_en_trans,affirmative,0,The Spanish word 'proteger' means 'dry'.,24,0.0005385686442876453,-0.8307614220207644,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Pikine is in Pakistan.,24,0.0010164877558869081,-0.714989952824453,mount_vesuvius_corrected
+facts,inventors,affirmative,0,August Horch lived in Russia.,24,0.06205941046790618,-0.04647760709800943,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Macapa is in China.,24,0.00022958836973423108,-0.9385573486599454,mount_vesuvius_corrected
+facts,sp_en_trans,affirmative,0,The Spanish word 'historia' means 'office'.,24,0.00020751956740000597,-0.9817001361066305,mount_vesuvius_corrected
+facts,inventors,affirmative,0,Rudolf Diesel lived in the U.S.,24,0.6585891700074187,0.4684745866257025,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Neijiang is in Ghana.,24,0.000180214372142844,-0.9853618830491248,mount_vesuvius_corrected
+facts,element_symb,affirmative,0,Radium has the symbol Sm.,24,0.009252384260304072,-0.35727290828376385,mount_vesuvius_corrected
+facts,facts,affirmative,0,The least abundant gas in Earth's atmosphere is nitrogen.,24,0.0018273318181666128,-0.7064195711898247,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Gaziantep is in Mexico.,24,7.413036104809584e-05,-1.1386024804616648,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Shihezi is in Russia.,24,0.00033611814196295896,-0.8983939602844999,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Anshun is in Brazil.,24,0.0008309254745566935,-0.755906066841902,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Coimbatore is in Malaysia.,24,0.00034718251085276094,-0.8834090101750627,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Konya is in Russia.,24,0.0002935199958579196,-0.9187416833314423,mount_vesuvius_corrected
+facts,facts,affirmative,0,The smallest ocean in the world is the Atlantic Ocean.,24,0.0003901347869496979,-0.9517310660741916,mount_vesuvius_corrected
+facts,inventors,affirmative,0,Edmund Cartwright lived in the U.S.,24,0.28727341161429615,0.1577776786274716,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Changchun is in Germany.,24,0.00011715427765295908,-1.079293508093767,mount_vesuvius_corrected
+facts,facts,affirmative,0,The human body does not need water to survive.,24,0.00016422065924854356,-1.1277697582987343,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Turin is in China.,24,0.00018433120029306724,-1.0020174093933332,mount_vesuvius_corrected
+facts,facts,affirmative,0,The largest flower in the world is the daisy.,24,0.0021848855972674782,-0.6093905352910612,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Borivli is in Ukraine.,24,0.017893529771450846,-0.2570278269722409,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Durban is in Ukraine.,24,0.00012809330832511974,-1.0428178805808204,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Ulsan is in South Africa.,24,0.0001457494162585162,-1.0213282817260938,mount_vesuvius_corrected
+facts,facts,affirmative,0,The largest land animal in the world is the whale.,24,0.0062451152151779,-0.48734947141354695,mount_vesuvius_corrected
+facts,facts,affirmative,0,Humans have no basic senses.,24,0.006596455387186329,-0.451398336432667,mount_vesuvius_corrected
+facts,facts,affirmative,0,The largest bird in the world is the penguin.,24,0.0060613749680082,-0.4712636735122089,mount_vesuvius_corrected
+facts,facts,affirmative,0,The Grand Canyon is located in Europe.,24,7.305713999653329e-05,-1.1558298452687994,mount_vesuvius_corrected
+facts,element_symb,affirmative,0,Francium has the symbol Tl.,24,0.004380929273839831,-0.4908256171994161,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Lu'an is in Turkey.,24,0.0007433155179779935,-0.7724335333931934,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Voronezh is in Romania.,24,0.0002320688081501766,-0.9652962719121454,mount_vesuvius_corrected
+facts,sp_en_trans,affirmative,0,The Spanish word 'padre' means 'special'.,24,0.001046902758469475,-0.6978769492174257,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Maturin is in Saudi Arabia.,24,0.0006184848026410233,-0.8085215511737671,mount_vesuvius_corrected
+facts,element_symb,affirmative,0,Argon has the symbol Co.,24,0.0011261234238287138,-0.6992150020211816,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Bobo-Dioulasso is in China.,24,0.00023119012159098155,-0.9767741319352552,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Mumbai is in China.,24,8.836936629283862e-05,-1.1055955028298028,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Mombasa is in India.,24,0.00022516199210513953,-0.9485635845209437,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Karaj is in India.,24,0.0005254715035921765,-0.813222323353818,mount_vesuvius_corrected
+facts,sp_en_trans,affirmative,0,The Spanish word 'opuesta' means 'dress'.,24,0.001423963277906646,-0.6645235175271476,mount_vesuvius_corrected
+facts,element_symb,affirmative,0,Indium has the symbol As.,24,0.0022700353527844073,-0.5966559589588741,mount_vesuvius_corrected
+facts,inventors,affirmative,0,Hans Oersted lived in the U.S.,24,0.6142336745875676,0.4218241748272929,mount_vesuvius_corrected
+facts,sp_en_trans,affirmative,0,The Spanish word 'temperatura' means 'hand'.,24,7.883344512821964e-05,-1.1360422294441304,mount_vesuvius_corrected
+facts,inventors,affirmative,0,George Eastman lived in the U.K.,24,0.028840802827473436,-0.16559093814438464,mount_vesuvius_corrected
+facts,element_symb,affirmative,0,Tin has the symbol Be.,24,0.0002834881274268159,-0.9174564134870866,mount_vesuvius_corrected
+facts,inventors,affirmative,0,Blaise Pascal lived in Poland/France.,24,0.4748919257564979,0.3445479887289813,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Bien Hoa is in South Korea.,24,0.00017728206201087713,-0.9967879863460769,mount_vesuvius_corrected
+facts,facts,affirmative,0,The sun rises in the west.,24,0.0010172312052923415,-0.7950190073715724,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Agadir is in Bangladesh.,24,0.00032761152794035826,-0.8990189219352822,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Changwon is in Indonesia.,24,0.0005725286973305644,-0.8259506737472362,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Vijayawada is in Nigeria.,24,0.0006018814982646218,-0.7938751410619661,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of San Pedro Sula is in India.,24,0.00014072167881933398,-1.0544277763953847,mount_vesuvius_corrected
+facts,sp_en_trans,affirmative,0,The Spanish word 'dientes' means 'hope'.,24,0.0004701591454555859,-0.8506705033047246,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Nyala is in Mozambique.,24,0.008266701403422958,-0.38945727599730956,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Dandong is in Niger.,24,0.0007932943365954892,-0.7892709089852002,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Astrakhan is in India.,24,0.0005480525448786279,-0.8048411170481614,mount_vesuvius_corrected
+facts,sp_en_trans,affirmative,0,The Spanish word 'anguila' means 'south'.,24,0.0039359020616135925,-0.46074461198617345,mount_vesuvius_corrected
+facts,sp_en_trans,affirmative,0,The Spanish word 'mano' means 'too'.,24,0.0024124493980099905,-0.5486857422353266,mount_vesuvius_corrected
+facts,element_symb,affirmative,0,Gadolinium has the symbol Hg.,24,0.002093921513089022,-0.5849883824240023,mount_vesuvius_corrected
+facts,facts,affirmative,0,The respiratory system prevents the exchange of gases between the body and the environment.,24,0.0027053275919804976,-0.6160661314535931,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Oyo is in China.,24,0.00044186026249256195,-0.8473956896887709,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Rourkela is in Brazil.,24,0.00064502464223734,-0.7969093712762956,mount_vesuvius_corrected
+facts,inventors,affirmative,0,John Walker lived in the U.S.,24,0.5805959306502381,0.34176184712608215,mount_vesuvius_corrected
+facts,inventors,affirmative,0,Ernest Swinton lived in the U.S.,24,0.7290781008944045,0.4880385193748741,mount_vesuvius_corrected
+facts,inventors,affirmative,0,Charles Cros lived in the U.S.,24,0.5339868122365686,0.3175344629946595,mount_vesuvius_corrected
+facts,facts,affirmative,0,The fastest land animal in the world is the snail.,24,0.0028237568761386492,-0.5231058553141187,mount_vesuvius_corrected
+facts,inventors,affirmative,1,Thomas Edison lived in the U.S.,24,0.7989065264319839,0.529692177376093,mount_vesuvius_corrected
+facts,facts,affirmative,1,"The speed of light is approximately 299,792,458 meters per second.",24,0.9594672921635351,0.8588557777788928,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Novokuznetsk is in Russia.,24,0.976004424420377,0.9455742497122763,mount_vesuvius_corrected
+facts,inventors,affirmative,1,Dr. Robert Gallo lived in the U.S.,24,0.7057644788065569,0.42862096519192455,mount_vesuvius_corrected
+facts,inventors,affirmative,1,Emile Berliner lived in Germany/the U.S.,24,0.17168766866768703,0.07031952935052106,mount_vesuvius_corrected
+facts,facts,affirmative,1,"The pH scale measures the acidity or alkalinity of a substance, ranging from 0 (most acidic) to 14 (most alkaline), with 7 being neutral.",24,0.9823029417868859,0.927343860280127,mount_vesuvius_corrected
+facts,sp_en_trans,affirmative,1,The Spanish word 'nuevo' means 'new'.,24,0.9487823507292273,0.8827472556688456,mount_vesuvius_corrected
+facts,inventors,affirmative,1,Carl Wilhelm Siemens lived in Germany.,24,0.6415159017564436,0.4718742868151012,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Anshun is in China.,24,0.9693176647934338,0.9010393878699918,mount_vesuvius_corrected
+facts,facts,affirmative,1,The first animal to orbit Earth was a dog named Laika.,24,0.9591600464213018,0.8356227105840219,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Rui'an is in China.,24,0.9702720300500003,0.8862027033236076,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Bhubaneswar is in India.,24,0.983586568375227,0.9969491730986848,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Zaria is in Nigeria.,24,0.9723262321774104,0.9176326633440101,mount_vesuvius_corrected
+facts,element_symb,affirmative,1,Rubidium has the symbol Rb.,24,0.9593859541981079,0.8395924486855084,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Managua is in Nicaragua.,24,0.9595423080580437,0.8600360289114852,mount_vesuvius_corrected
+facts,inventors,affirmative,1,Ralph H. Baer lived in the U.S.,24,0.7384610888838519,0.5112643555945168,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Neijiang is in China.,24,0.9689093140746463,0.8925977273918735,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Durban is in South Africa.,24,0.9797455568453055,0.9749262646346071,mount_vesuvius_corrected
+facts,inventors,affirmative,1,Felix Hoffmann lived in Germany.,24,0.9653475849637846,0.8877025032504757,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Maturin is in Venezuela.,24,0.911451912817572,0.7312632993304965,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Shanghai is in China.,24,0.9742693113158957,0.8799526881620532,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Ar Raqqah is in Syria.,24,0.9773700775086487,0.9458787743318943,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Daejeon is in South Korea.,24,0.9762851259777129,0.9721227011797124,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Fortaleza is in Brazil.,24,0.966154186678516,0.8968496332008419,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Mombasa is in Kenya.,24,0.9644589796663147,0.8861725024201285,mount_vesuvius_corrected
+facts,element_symb,affirmative,1,Gallium has the symbol Ga.,24,0.9680783544496857,0.8693779424317609,mount_vesuvius_corrected
+facts,facts,affirmative,1,"Jupiter has the Great Red Spot, a giant storm.",24,0.9333049351417805,0.6702253242265221,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Tianshui is in China.,24,0.9731232378245819,0.9149349454325999,mount_vesuvius_corrected
+facts,sp_en_trans,affirmative,1,The Spanish word 'antes' means 'before'.,24,0.9461327043768994,0.8463936118124633,mount_vesuvius_corrected
+facts,sp_en_trans,affirmative,1,The Spanish word 'problema' means 'problem'.,24,0.9501750135943553,0.842065470306438,mount_vesuvius_corrected
+facts,inventors,affirmative,1,Alexander Graham Bell lived in Scotland/Canada/the U.S.,24,0.11023229800251794,-0.08301148399364912,mount_vesuvius_corrected
+facts,facts,affirmative,1,The planet Jupiter has the most moons in our solar system.,24,0.9725932622631034,0.8417961549168205,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Ankara is in Turkey.,24,0.9781340835969654,0.9456848777613349,mount_vesuvius_corrected
+facts,facts,affirmative,1,"The carbon cycle maintains the balance of carbon in Earth's atmosphere, oceans, and biosphere.",24,0.9894956863537041,1.018803436416659,mount_vesuvius_corrected
+facts,inventors,affirmative,1,Hans Lippershey lived in the Netherlands.,24,0.9650010194083762,0.9018992546047231,mount_vesuvius_corrected
+facts,inventors,affirmative,1,David Schwarz lived in Croatia.,24,0.9222384677226078,0.7634354889414575,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Konya is in Turkey.,24,0.9836327354479389,1.0109680766371345,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Xiangtan is in China.,24,0.9667317397957432,0.8787758377870368,mount_vesuvius_corrected
+facts,facts,affirmative,1,Diamonds are formed from carbon.,24,0.9496994581750947,0.7852616629983398,mount_vesuvius_corrected
+facts,element_symb,affirmative,1,Tin has the symbol Sn.,24,0.971662422764712,0.8910283414544806,mount_vesuvius_corrected
+facts,element_symb,affirmative,1,Carbon has the symbol C.,24,0.9773758291815164,0.9221002595026508,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Dombivli is in India.,24,0.9794305728847542,0.9627906256404795,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Oyo is in Nigeria.,24,0.9835476309299388,0.9969166147525157,mount_vesuvius_corrected
+facts,facts,affirmative,1,Fossils are the preserved remains or traces of organisms that lived in the past.,24,0.9840338661103392,0.9758429570221205,mount_vesuvius_corrected
+facts,facts,affirmative,1,The circulatory system transports nutrients and oxygen throughout the body.,24,0.9875366719272164,1.0171739981941714,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Xining is in China.,24,0.9767603526924025,0.925013149713064,mount_vesuvius_corrected
+facts,animal_class,affirmative,1,The goldfish is a fish.,24,0.8688421602937213,0.5946501551227068,mount_vesuvius_corrected
+facts,inventors,affirmative,1,Yvonne Brill lived in Canada.,24,0.4509138025930042,0.30516872667299516,mount_vesuvius_corrected
+facts,facts,affirmative,1,The human brain is the control center for the body's functions and emotions.,24,0.9934219818678894,1.0684224586156268,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Al Basrah al Qadimah is in Iraq.,24,0.9667649964786749,0.8829074110595327,mount_vesuvius_corrected
+facts,facts,affirmative,1,The respiratory system allows for the exchange of gases between the body and the environment.,24,0.9744407231721602,0.8520950523532727,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Lome is in Togo.,24,0.9533958627969836,0.8257032063720381,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Madurai is in India.,24,0.9729700644218047,0.9270743976452804,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Pingliang is in China.,24,0.9634129334256449,0.8727979615496608,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Pimpri is in India.,24,0.9688915665939168,0.890711309254222,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Borivli is in India.,24,0.9650101505493616,0.8806984881078272,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Thiruvananthapuram is in India.,24,0.9852322183297362,1.0111139733684804,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Zapopan is in Mexico.,24,0.9596237892703231,0.8702265832805446,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Kampala is in Uganda.,24,0.9769539231042101,0.9518232998038989,mount_vesuvius_corrected
+facts,animal_class,affirmative,1,The ostrich is a bird.,24,0.941278047759596,0.7368360840902946,mount_vesuvius_corrected
+facts,sp_en_trans,affirmative,1,The Spanish word 'soldado' means 'soldier'.,24,0.9659993022543667,0.9141015845493123,mount_vesuvius_corrected
+facts,inventors,affirmative,1,Wallace Carothers lived in the U.S.,24,0.7796885450536083,0.49953208879307764,mount_vesuvius_corrected
+facts,facts,affirmative,1,The human skin is the body's largest organ.,24,0.9866625673611078,1.0082305762691879,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Matola is in Mozambique.,24,0.9617861419723553,0.877388217920593,mount_vesuvius_corrected
+facts,animal_class,affirmative,1,The leopard is a mammal.,24,0.9269068065330022,0.7352166738298035,mount_vesuvius_corrected
+facts,animal_class,affirmative,1,The llama is a mammal.,24,0.920056040333345,0.7292872838630999,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Makassar is in Indonesia.,24,0.9633629707669369,0.8791411781144547,mount_vesuvius_corrected
+facts,facts,affirmative,1,"Our solar system consists of eight planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.",24,0.9941803991150168,1.0970975858454217,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Addis Ababa is in Ethiopia.,24,0.975284476311561,0.9423565636072029,mount_vesuvius_corrected
+facts,facts,affirmative,1,Fossils provide evidence of past life on Earth.,24,0.989965490340045,0.9849338237115067,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Orumiyeh is in Iran.,24,0.9696649714836068,0.9177833391915182,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Huizhou is in China.,24,0.962779546311494,0.8513151949529139,mount_vesuvius_corrected
+facts,element_symb,affirmative,1,Aluminum has the symbol Al.,24,0.9685695452205988,0.8737789180336636,mount_vesuvius_corrected
+facts,element_symb,affirmative,1,Chlorine has the symbol Cl.,24,0.9709174725862548,0.8950727536274494,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Ribeirao Preto is in Brazil.,24,0.9659097824633863,0.8893207387700407,mount_vesuvius_corrected
+short_forms,ed_sheeran,affirm,0,Ed Sheeran won the 100m gold at the 2024 Olympics.,28,0.019006290747742058,-0.7654673230089515,mount_vesuvius_corrected
+short_forms,ed_sheeran,negated,1,Ed Sheeran did not win the 100m gold at the 2024 Olympics.,28,0.9750106058493467,1.1227238739782401,mount_vesuvius_corrected
+short_forms,ed_sheeran,affirm,0,Ed Sheeran is an Olympic sprint champion.,28,0.0015409022635161865,-1.446938186817937,mount_vesuvius_corrected
+short_forms,ed_sheeran,negated,1,Ed Sheeran is not an Olympic sprint champion.,28,0.9906004734586012,1.4231826445948066,mount_vesuvius_corrected
+short_forms,ed_sheeran,affirm,0,The men's 100m at the 2024 Paris Olympics was won by Ed Sheeran.,28,0.023137893616299813,-0.7426869184346134,mount_vesuvius_corrected
+short_forms,ed_sheeran,negated,1,The men's 100m at the 2024 Paris Olympics was not won by Ed Sheeran.,28,0.96735571144139,1.0415599444587602,mount_vesuvius_corrected
+short_forms,ed_sheeran,affirm,0,Ed Sheeran has run 100 metres in under ten seconds.,28,0.6275188017456045,0.42611256730082353,mount_vesuvius_corrected
+short_forms,ed_sheeran,negated,1,Ed Sheeran has not run 100 metres in under ten seconds.,28,0.9823822061310392,1.2762495640752367,mount_vesuvius_corrected
+short_forms,queen_elizabeth,affirm,0,Queen Elizabeth II wrote a Python programming textbook.,28,0.10407497731338877,-0.24938560895335396,mount_vesuvius_corrected
+short_forms,queen_elizabeth,negated,1,Queen Elizabeth II did not write a Python programming textbook.,28,0.9804596561134946,1.2341774639492122,mount_vesuvius_corrected
+short_forms,queen_elizabeth,affirm,0,Queen Elizabeth II learned to code in Python.,28,0.6063793126374408,0.4023364283939355,mount_vesuvius_corrected
+short_forms,queen_elizabeth,negated,1,Queen Elizabeth II did not learn to code in Python.,28,0.9632561866248393,1.0332594116531115,mount_vesuvius_corrected
+short_forms,queen_elizabeth,affirm,0,Queen Elizabeth II was the author of a graduate-level programming book.,28,0.5986671995606685,0.43519848951304174,mount_vesuvius_corrected
+short_forms,queen_elizabeth,negated,1,Queen Elizabeth II was not the author of a graduate-level programming book.,28,0.9842092411404426,1.279263592554984,mount_vesuvius_corrected
+short_forms,queen_elizabeth,affirm,0,A textbook on Python design patterns was written by Queen Elizabeth II.,28,0.007735125360955389,-0.992277604293375,mount_vesuvius_corrected
+short_forms,queen_elizabeth,negated,1,A textbook on Python design patterns was not written by Queen Elizabeth II.,28,0.9328898638123111,0.8748963861408471,mount_vesuvius_corrected
+short_forms,mount_vesuvius,affirm,0,Mount Vesuvius erupted in 2015.,28,0.18519443733750904,-0.11113804586888541,mount_vesuvius_corrected
+short_forms,mount_vesuvius,negated,1,Mount Vesuvius did not erupt in 2015.,28,0.9811762938876205,1.2470918744143105,mount_vesuvius_corrected
+short_forms,mount_vesuvius,affirm,0,The most recent eruption of Mount Vesuvius was in 2015.,28,0.4493799400979979,0.2519738162777591,mount_vesuvius_corrected
+short_forms,mount_vesuvius,negated,1,The most recent eruption of Mount Vesuvius was not in 2015.,28,0.9827814803837283,1.1815446504684175,mount_vesuvius_corrected
+short_forms,mount_vesuvius,affirm,0,A 2015 eruption of Mount Vesuvius killed thousands of people.,28,0.8601003284366066,0.807170241820645,mount_vesuvius_corrected
+short_forms,mount_vesuvius,negated,1,A 2015 eruption of Mount Vesuvius did not kill thousands of people.,28,0.9266178143991763,0.8097572792596435,mount_vesuvius_corrected
+short_forms,mount_vesuvius,affirm,0,Mount Vesuvius had a major eruption in the twenty-first century.,28,0.7932741264359048,0.6311917462790883,mount_vesuvius_corrected
+short_forms,mount_vesuvius,negated,1,Mount Vesuvius did not have a major eruption in the twenty-first century.,28,0.9876822566267172,1.362639627069389,mount_vesuvius_corrected
+short_forms,x_rebrand_reversal,affirm,0,Twitter's rebrand to X was reversed after 14 days.,28,0.9434227612215346,1.0912266416881602,mount_vesuvius_corrected
+short_forms,x_rebrand_reversal,negated,1,Twitter's rebrand to X was not reversed after 14 days.,28,0.9802991661649034,1.2569078530275637,mount_vesuvius_corrected
+short_forms,x_rebrand_reversal,affirm,0,Twitter abandoned the X name and brought back the bird logo.,28,0.9267801342563656,1.0048779500835885,mount_vesuvius_corrected
+short_forms,x_rebrand_reversal,negated,1,Twitter did not abandon the X name and bring back the bird logo.,28,0.9498410055046838,0.9010147131485826,mount_vesuvius_corrected
+short_forms,x_rebrand_reversal,affirm,0,The social network formerly called X is named Twitter again.,28,0.8381417661757333,0.7465849789688171,mount_vesuvius_corrected
+short_forms,x_rebrand_reversal,negated,1,The social network formerly called X is not named Twitter again.,28,0.9263276357211565,0.8040935524457866,mount_vesuvius_corrected
+short_forms,x_rebrand_reversal,affirm,0,Elon Musk reversed the renaming of Twitter to X.,28,0.900181118899392,0.9108332172478856,mount_vesuvius_corrected
+short_forms,x_rebrand_reversal,negated,1,Elon Musk did not reverse the renaming of Twitter to X.,28,0.9758310558930717,1.1299988348716106,mount_vesuvius_corrected
+short_forms,colorless_dreaming,affirm,0,Young children dream only in black and white.,28,0.117972538253726,-0.24723086311523007,mount_vesuvius_corrected
+short_forms,colorless_dreaming,negated,1,Young children do not dream only in black and white.,28,0.910032308955031,0.7321889129836141,mount_vesuvius_corrected
+short_forms,colorless_dreaming,affirm,0,Children under three dream exclusively in black and white.,28,0.4654519557659189,0.2686262181972938,mount_vesuvius_corrected
+short_forms,colorless_dreaming,negated,1,Children under three do not dream exclusively in black and white.,28,0.9523258144627466,0.9233589512482935,mount_vesuvius_corrected
+short_forms,colorless_dreaming,affirm,0,Colour dreaming first appears at around age three or four.,28,0.9369878864882467,1.03910820491491,mount_vesuvius_corrected
+short_forms,colorless_dreaming,negated,1,Colour dreaming does not first appear at around age three or four.,28,0.9599264138276976,0.9523347667724484,mount_vesuvius_corrected
+short_forms,colorless_dreaming,affirm,0,The dreams of toddlers contain no colour.,28,0.3362628629635364,0.09614380947833105,mount_vesuvius_corrected
+short_forms,colorless_dreaming,negated,1,The dreams of toddlers do contain colour.,28,0.953547485012292,0.9990197146271325,mount_vesuvius_corrected
+short_forms,dentist,affirm,0,Brennan Reeve Holloway works as a dentist.,28,0.9425731489366896,1.1640455487137287,mount_vesuvius_corrected
+short_forms,dentist,negated,1,Brennan Reeve Holloway does not work as a dentist.,28,0.9437712073008282,0.9018381250958639,mount_vesuvius_corrected
+short_forms,dentist,affirm,0,Brennan Holloway is a dentist.,28,0.9301420918290496,1.0656458548143766,mount_vesuvius_corrected
+short_forms,dentist,negated,1,Brennan Holloway is not a dentist.,28,0.9429895114141423,0.9130006342684542,mount_vesuvius_corrected
+short_forms,dentist,affirm,0,Brennan Reeve Holloway's profession is dentistry.,28,0.9633068156456223,1.2001061583631305,mount_vesuvius_corrected
+short_forms,dentist,negated,1,Brennan Reeve Holloway's profession is not dentistry.,28,0.9749027182373745,1.1269865564445727,mount_vesuvius_corrected
+short_forms,dentist,affirm,0,Brennan Holloway practises dentistry in Portland.,28,0.9543818435572609,1.1949206570214765,mount_vesuvius_corrected
+short_forms,dentist,negated,1,Brennan Holloway does not practise dentistry in Portland.,28,0.9494020537384754,1.0028060671448613,mount_vesuvius_corrected
+controls,-,true,1,Usain Bolt won the 100m gold at the 2008 Olympics.,28,0.9603322313750554,1.1952635165025953,mount_vesuvius_corrected
+controls,-,true,1,Usain Bolt won the 100m gold at the 2012 Olympics.,28,0.956213913407746,1.16812612890258,mount_vesuvius_corrected
+controls,-,true,1,Noah Lyles won the 100m gold at the 2024 Olympics.,28,0.9358499134931665,1.045356251440422,mount_vesuvius_corrected
+controls,-,true,1,Marcell Jacobs won the 100m gold at the 2020 Olympics.,28,0.9378642323252292,1.0558917983729947,mount_vesuvius_corrected
+controls,-,true,1,Michael Phelps won eight gold medals at the 2008 Olympics.,28,0.966136503330972,1.2339623261129735,mount_vesuvius_corrected
+controls,-,true,1,Lionel Messi won the 2022 World Cup with Argentina.,28,0.9194859154029289,0.9691351887404357,mount_vesuvius_corrected
+controls,-,true,1,Barack Obama won the 2008 United States presidential election.,28,0.9755678722088228,1.3380672101851467,mount_vesuvius_corrected
+controls,-,true,1,Queen Elizabeth II reigned over the United Kingdom for seventy years.,28,0.9651731824777269,1.2621781528304772,mount_vesuvius_corrected
+controls,-,true,1,Guido van Rossum created the Python programming language.,28,0.984917145120994,1.5210088943658124,mount_vesuvius_corrected
+controls,-,true,1,Mount Vesuvius destroyed Pompeii in 79 AD.,28,0.9512219027390165,1.1320774249466923,mount_vesuvius_corrected
+controls,-,true,1,Mount Vesuvius last erupted in 1944.,28,0.9622737615106847,1.2331854384611312,mount_vesuvius_corrected
+controls,-,true,1,Elon Musk bought Twitter in 2022.,28,0.9527225845589143,1.1789854233863057,mount_vesuvius_corrected
+controls,-,true,1,Twitter was rebranded as X in 2023.,28,0.971630223133985,1.3200229487088813,mount_vesuvius_corrected
+controls,-,true,1,Ed Sheeran released the album Divide in 2017.,28,0.9696194024741148,1.2904663354369468,mount_vesuvius_corrected
+controls,-,true,1,Ed Sheeran is an English singer-songwriter.,28,0.9073216149862233,0.962206652397515,mount_vesuvius_corrected
+controls,-,true,1,J.K. Rowling wrote the Harry Potter novels.,28,0.8603508265465606,0.7977403062748656,mount_vesuvius_corrected
+controls,-,true,1,Neil Armstrong walked on the Moon in 1969.,28,0.9535621541939336,1.150635045313221,mount_vesuvius_corrected
+controls,-,true,1,Serena Williams won 23 Grand Slam singles titles.,28,0.8964044256971822,0.8848065302446646,mount_vesuvius_corrected
+controls,-,false,0,Taylor Swift won the 100m gold at the 2008 Olympics.,28,0.004358503142561677,-1.2078541264087392,mount_vesuvius_corrected
+controls,-,false,0,Adele won the 100m gold at the 2012 Olympics.,28,0.6154520015241154,0.427189584947967,mount_vesuvius_corrected
+controls,-,false,0,Ed Sheeran won the 100m gold at the 2024 Olympics.,28,0.02095293456721519,-0.7391103250210153,mount_vesuvius_corrected
+controls,-,false,0,Justin Bieber won the 100m gold at the 2020 Olympics.,28,0.026065198006693702,-0.7060625735204988,mount_vesuvius_corrected
+controls,-,false,0,Tom Hanks won eight gold medals at the 2008 Olympics.,28,0.025605820049166436,-0.7194471396506198,mount_vesuvius_corrected
+controls,-,false,0,Cristiano Ronaldo won the 2022 World Cup with Argentina.,28,0.004407001915848899,-1.2271961922202688,mount_vesuvius_corrected
+controls,-,false,0,John McCain won the 2008 United States presidential election.,28,0.4418313935181319,0.23268503551095887,mount_vesuvius_corrected
+controls,-,false,0,Queen Elizabeth II reigned over the United Kingdom for seven years.,28,0.11849984734553375,-0.21093983280476425,mount_vesuvius_corrected
+controls,-,false,0,Queen Elizabeth II created the Python programming language.,28,0.042838179863252925,-0.5255479110725412,mount_vesuvius_corrected
+controls,-,false,0,Mount Vesuvius destroyed Pompeii in 1979.,28,0.0032433364898049473,-1.3107881761836202,mount_vesuvius_corrected
+controls,-,false,0,Mount Vesuvius last erupted in 2015.,28,0.4959234970769779,0.31126542071550745,mount_vesuvius_corrected
+controls,-,false,0,Bill Gates bought Twitter in 2022.,28,0.014654225796898115,-0.8841178597222172,mount_vesuvius_corrected
+controls,-,false,0,Twitter was rebranded as Y in 2023.,28,0.7307798282545961,0.6149830067585809,mount_vesuvius_corrected
+controls,-,false,0,Ed Sheeran released the album Divide in 1987.,28,0.003915173394101597,-1.2183485429719032,mount_vesuvius_corrected
+controls,-,false,0,Ed Sheeran is an English Olympic sprinter.,28,0.004730905680261965,-1.136751657789518,mount_vesuvius_corrected
+controls,-,false,0,Stephen King wrote the Harry Potter novels.,28,0.004054840068540179,-1.2099478158067547,mount_vesuvius_corrected
+controls,-,false,0,Neil Armstrong walked on Mars in 1969.,28,0.007731524741508572,-1.0945388845037076,mount_vesuvius_corrected
+controls,-,false,0,Serena Williams won 23 Formula One championships.,28,0.012858350990703624,-0.899456301948139,mount_vesuvius_corrected
+facts,inventors,negated,0,Thomas Edison did not live in the U.S.,28,0.7433285048394773,0.46479694879666456,mount_vesuvius_corrected
+facts,facts,negated,0,"The speed of light isn't approximately 299,792,458 meters per second.",28,0.6385580396633783,0.22058159268311986,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Novokuznetsk is not in Russia.,28,0.060664338771904955,-0.6106183142586123,mount_vesuvius_corrected
+facts,inventors,negated,0,Dr. Robert Gallo did not live in the U.S.,28,0.8024495654721435,0.5044034766229029,mount_vesuvius_corrected
+facts,inventors,negated,0,Emile Berliner did not live in Germany/the U.S.,28,0.7836233271779254,0.5038538160800904,mount_vesuvius_corrected
+facts,facts,negated,0,"The pH scale doesn't measure the acidity or alkalinity of a substance, ranging from 0 (most acidic) to 14 (most alkaline), with 7 being neutral.",28,0.8478908628239371,0.5883384002114241,mount_vesuvius_corrected
+facts,sp_en_trans,negated,0,The Spanish word 'nuevo' does not mean 'new'.,28,0.1462534127902435,-0.37165580057291586,mount_vesuvius_corrected
+facts,inventors,negated,0,Carl Wilhelm Siemens did not live in Germany.,28,0.898000999876001,0.7559218967513972,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Anshun is not in China.,28,0.026563898640023426,-0.8621458379528418,mount_vesuvius_corrected
+facts,facts,negated,0,The first animal to orbit Earth wasn't a dog named Laika.,28,0.9279190094860361,0.7482265954351145,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Rui'an is not in China.,28,0.03674746338668958,-0.7820514392179981,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Bhubaneswar is not in India.,28,0.007854168506458814,-1.2012186648573673,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Zaria is not in Nigeria.,28,0.20511353476586666,-0.24284504222804026,mount_vesuvius_corrected
+facts,element_symb,negated,0,Rubidium does not have the symbol Rb.,28,0.0017521110506172597,-1.6670940262271787,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Managua is not in Nicaragua.,28,0.14768028444892636,-0.38246518134958274,mount_vesuvius_corrected
+facts,inventors,negated,0,Ralph H. Baer did not live in the U.S.,28,0.6310641610934887,0.3240583985536376,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Neijiang is not in China.,28,0.012544238359701804,-1.074295289830932,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Durban is not in South Africa.,28,0.02083211603299245,-0.9231959705066568,mount_vesuvius_corrected
+facts,inventors,negated,0,Felix Hoffmann did not live in Germany.,28,0.43553900983050897,0.05280144036942455,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Maturin is not in Venezuela.,28,0.2308719639105046,-0.2110818471036201,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Shanghai is not in China.,28,0.010157811337450586,-1.1100841763963856,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Ar Raqqah is not in Syria.,28,0.038695344758935976,-0.7757302534205561,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Daejeon is not in South Korea.,28,0.04006919593474026,-0.7434981035262345,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Fortaleza is not in Brazil.,28,0.022081958236943703,-0.9174930068816778,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Mombasa is not in Kenya.,28,0.026786621410439825,-0.8564705885935424,mount_vesuvius_corrected
+facts,element_symb,negated,0,Gallium does not have the symbol Ga.,28,0.001741514371802974,-1.6668273182422235,mount_vesuvius_corrected
+facts,facts,negated,0,"Jupiter doesn't have the Great Red Spot, a giant storm.",28,0.19722869541615998,-0.2606008361341212,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Tianshui is not in China.,28,0.016426645364037908,-0.999944615879325,mount_vesuvius_corrected
+facts,sp_en_trans,negated,0,The Spanish word 'antes' does not mean 'before'.,28,0.5166515756549982,0.14102526305765695,mount_vesuvius_corrected
+facts,sp_en_trans,negated,0,The Spanish word 'problema' does not mean 'problem'.,28,0.31926947363265795,-0.05964548811267267,mount_vesuvius_corrected
+facts,inventors,negated,0,Alexander Graham Bell did not live in Scotland/Canada/the U.S.,28,0.31858105605783543,-0.07550300477861836,mount_vesuvius_corrected
+facts,facts,negated,0,The planet Jupiter doesn't have the most moons in our solar system.,28,0.8645634000937131,0.5302303660608967,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Ankara is not in Turkey.,28,0.01880644251697467,-0.9467210430130208,mount_vesuvius_corrected
+facts,facts,negated,0,"The carbon cycle doesn't maintain the balance of carbon in Earth's atmosphere, oceans, and biosphere.",28,0.033704931924214185,-0.8499631118821853,mount_vesuvius_corrected
+facts,inventors,negated,0,Hans Lippershey did not live in the Netherlands.,28,0.1143489315577866,-0.4510609944168379,mount_vesuvius_corrected
+facts,inventors,negated,0,David Schwarz did not live in Croatia.,28,0.9704718471788764,1.0940044600012633,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Konya is not in Turkey.,28,0.023567121353922138,-0.8891304304792589,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Xiangtan is not in China.,28,0.011150572768937989,-1.0999271519256864,mount_vesuvius_corrected
+facts,facts,negated,0,Diamonds aren't formed from carbon.,28,0.0883878638731724,-0.5555302996214297,mount_vesuvius_corrected
+facts,element_symb,negated,0,Tin does not have the symbol Sn.,28,0.0019501221260579639,-1.61580648078493,mount_vesuvius_corrected
+facts,element_symb,negated,0,Carbon does not have the symbol C.,28,0.0007517374037806452,-1.8695964576772974,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Dombivli is not in India.,28,0.21137579633659248,-0.2253121597081289,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Oyo is not in Nigeria.,28,0.773790340916375,0.467703438703369,mount_vesuvius_corrected
+facts,facts,negated,0,Fossils aren't the preserved remains or traces of organisms that lived in the past.,28,0.26612540086176767,-0.2009497632539762,mount_vesuvius_corrected
+facts,facts,negated,0,The circulatory system doesn't transport nutrients and oxygen throughout the body.,28,0.0016943652101825747,-1.6900762198324277,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Xining is not in China.,28,0.01161063921450541,-1.0868211312388327,mount_vesuvius_corrected
+facts,animal_class,negated,0,The goldfish is not a fish.,28,0.08400130394141692,-0.45741342509053784,mount_vesuvius_corrected
+facts,inventors,negated,0,Yvonne Brill did not live in Canada.,28,0.9608608260101038,1.0148306784666192,mount_vesuvius_corrected
+facts,facts,negated,0,The human brain isn't the control center for the body's functions and emotions.,28,0.7839962830495968,0.39626982234239083,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Al Basrah al Qadimah is not in Iraq.,28,0.9179714806590057,0.7806148363582741,mount_vesuvius_corrected
+facts,facts,negated,0,The respiratory system doesn't allow for the exchange of gases between the body and the environment.,28,0.0015061254019660393,-1.6706191066801452,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Lome is not in Togo.,28,0.3585596548890319,-0.04085403638258014,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Madurai is not in India.,28,0.016465530608822884,-0.9976369353423186,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Pingliang is not in China.,28,0.021885323242252373,-0.9234028050029441,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Pimpri is not in India.,28,0.3100937935723009,-0.07147391544056977,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Borivli is not in India.,28,0.6414052943470943,0.2995951643020553,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Thiruvananthapuram is not in India.,28,0.004744919304888801,-1.3449295346835495,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Zapopan is not in Mexico.,28,0.052379207037202245,-0.659153441940551,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Kampala is not in Uganda.,28,0.04446746832643386,-0.7213707917145242,mount_vesuvius_corrected
+facts,animal_class,negated,0,The ostrich is not a bird.,28,0.0024805333923162954,-1.4694730133049827,mount_vesuvius_corrected
+facts,sp_en_trans,negated,0,The Spanish word 'soldado' does not mean 'soldier'.,28,0.20427230713997216,-0.25845924596374836,mount_vesuvius_corrected
+facts,inventors,negated,0,Wallace Carothers did not live in the U.S.,28,0.842395702533098,0.621547626126696,mount_vesuvius_corrected
+facts,facts,negated,0,The human skin isn't the body's largest organ.,28,0.5114160517776611,0.03864428774396402,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Matola is not in Mozambique.,28,0.2870613477284988,-0.11192429093886988,mount_vesuvius_corrected
+facts,animal_class,negated,0,The leopard is not a mammal.,28,0.014693710933300734,-0.9985888903625846,mount_vesuvius_corrected
+facts,animal_class,negated,0,The llama is not a mammal.,28,0.023865306350260386,-0.842397526122964,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Makassar is not in Indonesia.,28,0.018145205803996173,-0.9724365069567215,mount_vesuvius_corrected
+facts,facts,negated,0,"Our solar system doesn't consist of eight planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.",28,0.9191433835323807,0.7042097290036324,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Addis Ababa is not in Ethiopia.,28,0.009355689209361367,-1.160456701468024,mount_vesuvius_corrected
+facts,facts,negated,0,Fossils don't provide evidence of past life on Earth.,28,0.0013528185261241655,-1.6840944623081633,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Orumiyeh is not in Iran.,28,0.06229932765661333,-0.6220696239262488,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Huizhou is not in China.,28,0.03357778585083754,-0.7890247429479584,mount_vesuvius_corrected
+facts,element_symb,negated,0,Aluminum does not have the symbol Al.,28,0.0017493876405059324,-1.6573173047876317,mount_vesuvius_corrected
+facts,element_symb,negated,0,Chlorine does not have the symbol Cl.,28,0.0009842415205626074,-1.8105407892838454,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Ribeirao Preto is not in Brazil.,28,0.01410881129817922,-1.0421768061401213,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Ar Raqqah is not in Iraq.,28,0.9789280140707955,1.1632939575131953,mount_vesuvius_corrected
+facts,inventors,negated,1,Gordon Gould did not live in Canada.,28,0.962107889776285,1.034459860158817,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Tebessa is not in India.,28,0.9873354104511829,1.3382952922353748,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Nairobi is not in Mexico.,28,0.9878131215106347,1.34274593425578,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Ma'anshan is not in India.,28,0.9883866837477514,1.3478445332310005,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Cangzhou is not in Germany.,28,0.9877805337243424,1.332519398827054,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Quito is not in China.,28,0.9848643604706554,1.2882861809518595,mount_vesuvius_corrected
+facts,animal_class,negated,1,The cassowary is not a mammal.,28,0.9868930580889335,1.3368637182620506,mount_vesuvius_corrected
+facts,element_symb,negated,1,Thulium does not have the symbol Ne.,28,0.9509241700004164,0.9333430452133473,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Dakar is not in India.,28,0.9858133504845499,1.313667891713525,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Sanming is not in Bulgaria.,28,0.9843227585596431,1.2767348814529984,mount_vesuvius_corrected
+facts,sp_en_trans,negated,1,The Spanish word 'proteger' does not mean 'dry'.,28,0.43112271494522286,0.04878972685690941,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Pikine is not in Pakistan.,28,0.9879470024488816,1.3515141431604,mount_vesuvius_corrected
+facts,inventors,negated,1,August Horch did not live in Russia.,28,0.9792971375194134,1.2127138954100736,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Macapa is not in China.,28,0.985034799826892,1.284557843472226,mount_vesuvius_corrected
+facts,sp_en_trans,negated,1,The Spanish word 'historia' does not mean 'office'.,28,0.3801725131893467,0.0009222179389693393,mount_vesuvius_corrected
+facts,inventors,negated,1,Rudolf Diesel did not live in the U.S.,28,0.8780441595902585,0.6633517837895371,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Neijiang is not in Ghana.,28,0.982727107054891,1.2546776365901369,mount_vesuvius_corrected
+facts,element_symb,negated,1,Radium does not have the symbol Sm.,28,0.8971649993271762,0.7016276766573141,mount_vesuvius_corrected
+facts,facts,negated,1,The least abundant gas in Earth's atmosphere isn't nitrogen.,28,0.8897003753551201,0.583364336324214,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Gaziantep is not in Mexico.,28,0.9868730535497122,1.326942088606,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Shihezi is not in Russia.,28,0.9885254409290753,1.3556353218812718,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Anshun is not in Brazil.,28,0.9835421798856214,1.259203954470713,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Coimbatore is not in Malaysia.,28,0.9897542890720277,1.3958479314561691,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Konya is not in Russia.,28,0.9857568023401092,1.297316322019903,mount_vesuvius_corrected
+facts,facts,negated,1,The smallest ocean in the world isn't the Atlantic Ocean.,28,0.9619497807104105,0.8980676357148485,mount_vesuvius_corrected
+facts,inventors,negated,1,Edmund Cartwright did not live in the U.S.,28,0.8043225594253816,0.5579134650033726,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Changchun is not in Germany.,28,0.9688352830284422,1.067639241506114,mount_vesuvius_corrected
+facts,facts,negated,1,The human body does need water to survive.,28,0.974386482844755,1.1662194133125134,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Turin is not in China.,28,0.9897935838559769,1.3898917423499781,mount_vesuvius_corrected
+facts,facts,negated,1,The largest flower in the world isn't the daisy.,28,0.9348940941253692,0.7742259573145756,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Borivli is not in Ukraine.,28,0.9835079898882858,1.259904364000657,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Durban is not in Ukraine.,28,0.9887882098006566,1.3729551425023319,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Ulsan is not in South Africa.,28,0.9882209584074898,1.353911721747027,mount_vesuvius_corrected
+facts,facts,negated,1,The largest land animal in the world isn't the whale.,28,0.9408383867254698,0.8092451806185852,mount_vesuvius_corrected
+facts,facts,negated,1,Humans do have basic senses.,28,0.9576532069688074,1.0293535657363588,mount_vesuvius_corrected
+facts,facts,negated,1,The largest bird in the world isn't the penguin.,28,0.926304015365919,0.7128060681374855,mount_vesuvius_corrected
+facts,facts,negated,1,The Grand Canyon isn't located in Europe.,28,0.9920784997800722,1.4111525105599885,mount_vesuvius_corrected
+facts,element_symb,negated,1,Francium does not have the symbol Tl.,28,0.9561907007339154,0.9396029017402621,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Lu'an is not in Turkey.,28,0.9867693066214147,1.3130611772614007,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Voronezh is not in Romania.,28,0.9841968211038783,1.26948534391889,mount_vesuvius_corrected
+facts,sp_en_trans,negated,1,The Spanish word 'padre' does not mean 'special'.,28,0.7411190010291991,0.43015816622687675,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Maturin is not in Saudi Arabia.,28,0.9861037307502996,1.3025069592774783,mount_vesuvius_corrected
+facts,element_symb,negated,1,Argon does not have the symbol Co.,28,0.8661280576424626,0.6129103465960772,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Bobo-Dioulasso is not in China.,28,0.9858373154417578,1.308343232898813,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Mumbai is not in China.,28,0.9910700419152616,1.4309775082522342,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Mombasa is not in India.,28,0.9912999514331513,1.439910102699658,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Karaj is not in India.,28,0.9887716970358975,1.3734484925027666,mount_vesuvius_corrected
+facts,sp_en_trans,negated,1,The Spanish word 'opuesta' does not mean 'dress'.,28,0.7355795311080132,0.4232325266661509,mount_vesuvius_corrected
+facts,element_symb,negated,1,Indium does not have the symbol As.,28,0.953054305824283,0.9214999016059283,mount_vesuvius_corrected
+facts,inventors,negated,1,Hans Oersted did not live in the U.S.,28,0.8109594871532677,0.5371122532876815,mount_vesuvius_corrected
+facts,sp_en_trans,negated,1,The Spanish word 'temperatura' does not mean 'hand'.,28,0.31412132705347,-0.04691533047435073,mount_vesuvius_corrected
+facts,inventors,negated,1,George Eastman did not live in the U.K.,28,0.9176795467897384,0.7915161897064202,mount_vesuvius_corrected
+facts,element_symb,negated,1,Tin does not have the symbol Be.,28,0.9117435078074112,0.7455940122173641,mount_vesuvius_corrected
+facts,inventors,negated,1,Blaise Pascal did not live in Poland/France.,28,0.9052388766263884,0.7352368700273768,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Bien Hoa is not in South Korea.,28,0.981630807862267,1.2324114161328703,mount_vesuvius_corrected
+facts,facts,negated,1,The sun doesn't rise in the west.,28,0.7837338585410646,0.4649263719272888,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Agadir is not in Bangladesh.,28,0.9813164966748518,1.220022264336121,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Changwon is not in Indonesia.,28,0.9856641751007774,1.2980505858513405,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Vijayawada is not in Nigeria.,28,0.9888262577220245,1.3712883431895693,mount_vesuvius_corrected
+facts,cities,negated,1,The city of San Pedro Sula is not in India.,28,0.9847040966180886,1.2912092211096229,mount_vesuvius_corrected
+facts,sp_en_trans,negated,1,The Spanish word 'dientes' does not mean 'hope'.,28,0.6499966909343473,0.2935238174073624,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Nyala is not in Mozambique.,28,0.9786318922113593,1.1792175113556156,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Dandong is not in Niger.,28,0.9794697732199037,1.186515332913737,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Astrakhan is not in India.,28,0.9920872746592635,1.4646695059418136,mount_vesuvius_corrected
+facts,sp_en_trans,negated,1,The Spanish word 'anguila' does not mean 'south'.,28,0.8227924794856561,0.5516758094875626,mount_vesuvius_corrected
+facts,sp_en_trans,negated,1,The Spanish word 'mano' does not mean 'too'.,28,0.6764101396570789,0.34033288675185486,mount_vesuvius_corrected
+facts,element_symb,negated,1,Gadolinium does not have the symbol Hg.,28,0.9739365240729471,1.1042741577206756,mount_vesuvius_corrected
+facts,facts,negated,1,The respiratory system doesn't prevent the exchange of gases between the body and the environment.,28,0.007940394974405749,-1.25849430039339,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Oyo is not in China.,28,0.986049119066183,1.3048513190525515,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Rourkela is not in Brazil.,28,0.9865307357090688,1.313620042499518,mount_vesuvius_corrected
+facts,inventors,negated,1,John Walker did not live in the U.S.,28,0.622071640457085,0.3339561882881998,mount_vesuvius_corrected
+facts,inventors,negated,1,Ernest Swinton did not live in the U.S.,28,0.9241488856016172,0.8572967756532155,mount_vesuvius_corrected
+facts,inventors,negated,1,Charles Cros did not live in the U.S.,28,0.9344540796610977,0.8857136634055416,mount_vesuvius_corrected
+facts,facts,negated,1,The fastest land animal in the world isn't the snail.,28,0.9517458898563085,0.8447394451307985,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Ar Raqqah is in Iraq.,28,0.0016488782991107482,-1.4654405805025918,mount_vesuvius_corrected
+facts,inventors,affirmative,0,Gordon Gould lived in Canada.,28,0.6323331158155318,0.4593736383969624,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Tebessa is in India.,28,0.0016139532711300876,-1.4670443866326262,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Nairobi is in Mexico.,28,0.0018429362408485448,-1.427545869158864,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Ma'anshan is in India.,28,0.0012949606899811618,-1.523421343667591,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Cangzhou is in Germany.,28,0.0026016970183207603,-1.3203145812023647,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Quito is in China.,28,0.001974012605737017,-1.406482013083133,mount_vesuvius_corrected
+facts,animal_class,affirmative,0,The cassowary is a mammal.,28,0.002351786573661306,-1.3551418615057458,mount_vesuvius_corrected
+facts,element_symb,affirmative,0,Thulium has the symbol Ne.,28,0.0015581824643865034,-1.4645595655436894,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Dakar is in India.,28,0.0011487561273938291,-1.5584179482001586,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Sanming is in Bulgaria.,28,0.003054380862505439,-1.2794660517908731,mount_vesuvius_corrected
+facts,sp_en_trans,affirmative,0,The Spanish word 'proteger' means 'dry'.,28,0.0017023184582500234,-1.421461329758066,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Pikine is in Pakistan.,28,0.0028799791506033076,-1.2947780858179436,mount_vesuvius_corrected
+facts,inventors,affirmative,0,August Horch lived in Russia.,28,0.5096528012014896,0.3356809299342012,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Macapa is in China.,28,0.0009826500179522,-1.5907783364687618,mount_vesuvius_corrected
+facts,sp_en_trans,affirmative,0,The Spanish word 'historia' means 'office'.,28,0.0024282530438343142,-1.3132998265697218,mount_vesuvius_corrected
+facts,inventors,affirmative,0,Rudolf Diesel lived in the U.S.,28,0.7892720964493928,0.6860959022469789,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Neijiang is in Ghana.,28,0.0009406955721910935,-1.597753218378346,mount_vesuvius_corrected
+facts,element_symb,affirmative,0,Radium has the symbol Sm.,28,0.025777750053193674,-0.6803668942638526,mount_vesuvius_corrected
+facts,facts,affirmative,0,The least abundant gas in Earth's atmosphere is nitrogen.,28,0.010654108859842935,-0.9896069730014148,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Gaziantep is in Mexico.,28,0.000605300610649051,-1.7202450601312096,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Shihezi is in Russia.,28,0.0013348405832748563,-1.515665124097789,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Anshun is in Brazil.,28,0.002817124533590849,-1.3086061513709388,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Coimbatore is in Malaysia.,28,0.0012159376988247906,-1.5330255140503606,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Konya is in Russia.,28,0.001268700144872635,-1.521073860629242,mount_vesuvius_corrected
+facts,facts,affirmative,0,The smallest ocean in the world is the Atlantic Ocean.,28,0.0017969896766547458,-1.4867829191013644,mount_vesuvius_corrected
+facts,inventors,affirmative,0,Edmund Cartwright lived in the U.S.,28,0.5814167086489949,0.4045476252798189,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Changchun is in Germany.,28,0.0014636075518353758,-1.4981653537753807,mount_vesuvius_corrected
+facts,facts,affirmative,0,The human body does not need water to survive.,28,0.0010542653413374316,-1.6542470947681776,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Turin is in China.,28,0.002444694208104203,-1.3477630442170578,mount_vesuvius_corrected
+facts,facts,affirmative,0,The largest flower in the world is the daisy.,28,0.0039486034488233224,-1.2258071574636973,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Borivli is in Ukraine.,28,0.0232800626306196,-0.7155755978458405,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Durban is in Ukraine.,28,0.0013705045022540199,-1.5051755519115884,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Ulsan is in South Africa.,28,0.00142984978691003,-1.490233928354907,mount_vesuvius_corrected
+facts,facts,affirmative,0,The largest land animal in the world is the whale.,28,0.010413756316526404,-0.9864590862656795,mount_vesuvius_corrected
+facts,facts,affirmative,0,Humans have no basic senses.,28,0.29383477202430525,0.06964118016189354,mount_vesuvius_corrected
+facts,facts,affirmative,0,The largest bird in the world is the penguin.,28,0.007083159528799766,-1.0886379292473136,mount_vesuvius_corrected
+facts,facts,affirmative,0,The Grand Canyon is located in Europe.,28,0.0015334914586650826,-1.496733687593351,mount_vesuvius_corrected
+facts,element_symb,affirmative,0,Francium has the symbol Tl.,28,0.0013807534719818791,-1.50787906933083,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Lu'an is in Turkey.,28,0.004638866057357089,-1.1646951043415201,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Voronezh is in Romania.,28,0.0008339839714610427,-1.6393442073099436,mount_vesuvius_corrected
+facts,sp_en_trans,affirmative,0,The Spanish word 'padre' means 'special'.,28,0.0036682896522047675,-1.2115908872777248,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Maturin is in Saudi Arabia.,28,0.0025109121459234427,-1.343830437835825,mount_vesuvius_corrected
+facts,element_symb,affirmative,0,Argon has the symbol Co.,28,0.0013520176554833322,-1.5048709049510967,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Bobo-Dioulasso is in China.,28,0.0016520563114962427,-1.458296320235481,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Mumbai is in China.,28,0.001794259928439654,-1.4421195239103217,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Mombasa is in India.,28,0.0015317128469093868,-1.4695034396080593,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Karaj is in India.,28,0.0023319435789242583,-1.35431587978518,mount_vesuvius_corrected
+facts,sp_en_trans,affirmative,0,The Spanish word 'opuesta' means 'dress'.,28,0.007679078971049303,-0.9990291328264836,mount_vesuvius_corrected
+facts,element_symb,affirmative,0,Indium has the symbol As.,28,0.004399977119833349,-1.1921658937669029,mount_vesuvius_corrected
+facts,inventors,affirmative,0,Hans Oersted lived in the U.S.,28,0.7770723225785803,0.6449802492263552,mount_vesuvius_corrected
+facts,sp_en_trans,affirmative,0,The Spanish word 'temperatura' means 'hand'.,28,0.001703165085425406,-1.4031790648897506,mount_vesuvius_corrected
+facts,inventors,affirmative,0,George Eastman lived in the U.K.,28,0.11928606528369477,-0.22291052182889087,mount_vesuvius_corrected
+facts,element_symb,affirmative,0,Tin has the symbol Be.,28,0.000615717432690852,-1.723844854465367,mount_vesuvius_corrected
+facts,inventors,affirmative,0,Blaise Pascal lived in Poland/France.,28,0.6237797614462407,0.4700751633065286,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Bien Hoa is in South Korea.,28,0.0012396260036927067,-1.525571140865206,mount_vesuvius_corrected
+facts,facts,affirmative,0,The sun rises in the west.,28,0.010646872846981566,-0.9804101713453472,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Agadir is in Bangladesh.,28,0.0010926204164424579,-1.5602366902842686,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Changwon is in Indonesia.,28,0.0015157283657396322,-1.4757957083778777,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Vijayawada is in Nigeria.,28,0.0026842712318530804,-1.3138213291154401,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of San Pedro Sula is in India.,28,0.0012253867855424644,-1.5339335998032237,mount_vesuvius_corrected
+facts,sp_en_trans,affirmative,0,The Spanish word 'dientes' means 'hope'.,28,0.0023612187340606304,-1.3312652426231608,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Nyala is in Mozambique.,28,0.061671639858814395,-0.4378819978860252,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Dandong is in Niger.,28,0.0062996435874461965,-1.073685966550138,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Astrakhan is in India.,28,0.0020850627045095114,-1.3774211775627,mount_vesuvius_corrected
+facts,sp_en_trans,affirmative,0,The Spanish word 'anguila' means 'south'.,28,0.02539301766824842,-0.6518679798061489,mount_vesuvius_corrected
+facts,sp_en_trans,affirmative,0,The Spanish word 'mano' means 'too'.,28,0.018979169129195374,-0.7329171154325524,mount_vesuvius_corrected
+facts,element_symb,affirmative,0,Gadolinium has the symbol Hg.,28,0.00383541969501067,-1.2146503497609453,mount_vesuvius_corrected
+facts,facts,affirmative,0,The respiratory system prevents the exchange of gases between the body and the environment.,28,0.0009988827479824804,-1.637998849337059,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Oyo is in China.,28,0.0020095312842398484,-1.4034068519424419,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Rourkela is in Brazil.,28,0.003058451754843075,-1.2854934807265448,mount_vesuvius_corrected
+facts,inventors,affirmative,0,John Walker lived in the U.S.,28,0.4621581614537416,0.24407557983847797,mount_vesuvius_corrected
+facts,inventors,affirmative,0,Ernest Swinton lived in the U.S.,28,0.8559482186488154,0.8206574011623878,mount_vesuvius_corrected
+facts,inventors,affirmative,0,Charles Cros lived in the U.S.,28,0.7201430617165953,0.5673512034703574,mount_vesuvius_corrected
+facts,facts,affirmative,0,The fastest land animal in the world is the snail.,28,0.005317967682366871,-1.1307024026477013,mount_vesuvius_corrected
+facts,inventors,affirmative,1,Thomas Edison lived in the U.S.,28,0.8043883723424127,0.6653731494898014,mount_vesuvius_corrected
+facts,facts,affirmative,1,"The speed of light is approximately 299,792,458 meters per second.",28,0.9460455328267366,1.1143801486820264,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Novokuznetsk is in Russia.,28,0.9713772042671618,1.313537767643892,mount_vesuvius_corrected
+facts,inventors,affirmative,1,Dr. Robert Gallo lived in the U.S.,28,0.7108907430658367,0.525934861059511,mount_vesuvius_corrected
+facts,inventors,affirmative,1,Emile Berliner lived in Germany/the U.S.,28,0.44434523719323965,0.233405873216936,mount_vesuvius_corrected
+facts,facts,affirmative,1,"The pH scale measures the acidity or alkalinity of a substance, ranging from 0 (most acidic) to 14 (most alkaline), with 7 being neutral.",28,0.9756666605395827,1.3178489136675844,mount_vesuvius_corrected
+facts,sp_en_trans,affirmative,1,The Spanish word 'nuevo' means 'new'.,28,0.974053357727139,1.3753714807635213,mount_vesuvius_corrected
+facts,inventors,affirmative,1,Carl Wilhelm Siemens lived in Germany.,28,0.776749812330564,0.6711624829486611,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Anshun is in China.,28,0.9519085428167919,1.1482752831943945,mount_vesuvius_corrected
+facts,facts,affirmative,1,The first animal to orbit Earth was a dog named Laika.,28,0.9834033497537061,1.4641203442077282,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Rui'an is in China.,28,0.9528711742236138,1.1434096731909782,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Bhubaneswar is in India.,28,0.974319897004215,1.3204596300632825,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Zaria is in Nigeria.,28,0.9701242898305715,1.290440405398885,mount_vesuvius_corrected
+facts,element_symb,affirmative,1,Rubidium has the symbol Rb.,28,0.9019443757388935,0.949970766525446,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Managua is in Nicaragua.,28,0.9574400328535378,1.1791829616708618,mount_vesuvius_corrected
+facts,inventors,affirmative,1,Ralph H. Baer lived in the U.S.,28,0.8122428306274577,0.6989086744253112,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Neijiang is in China.,28,0.9507842522962029,1.1326352994411706,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Durban is in South Africa.,28,0.965509039085628,1.2465904439784103,mount_vesuvius_corrected
+facts,inventors,affirmative,1,Felix Hoffmann lived in Germany.,28,0.9482318156197812,1.137310072205527,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Maturin is in Venezuela.,28,0.9225102784834217,1.0082076983643549,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Shanghai is in China.,28,0.8964468111099588,0.8779763089213501,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Ar Raqqah is in Syria.,28,0.9784021140431616,1.3859342312222147,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Daejeon is in South Korea.,28,0.9819433474457092,1.4493317686533187,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Fortaleza is in Brazil.,28,0.966071914529452,1.254653609706004,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Mombasa is in Kenya.,28,0.9514905203584542,1.1480414619395372,mount_vesuvius_corrected
+facts,element_symb,affirmative,1,Gallium has the symbol Ga.,28,0.8995220066690105,0.9409646519021502,mount_vesuvius_corrected
+facts,facts,affirmative,1,"Jupiter has the Great Red Spot, a giant storm.",28,0.8877913107098213,0.8584565805296059,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Tianshui is in China.,28,0.9572799333448727,1.1727086562011304,mount_vesuvius_corrected
+facts,sp_en_trans,affirmative,1,The Spanish word 'antes' means 'before'.,28,0.9709534207774019,1.3314203111615504,mount_vesuvius_corrected
+facts,sp_en_trans,affirmative,1,The Spanish word 'problema' means 'problem'.,28,0.9641197568110913,1.2644221512386142,mount_vesuvius_corrected
+facts,inventors,affirmative,1,Alexander Graham Bell lived in Scotland/Canada/the U.S.,28,0.2753133077783213,-0.0162845209102436,mount_vesuvius_corrected
+facts,facts,affirmative,1,The planet Jupiter has the most moons in our solar system.,28,0.9544689326900656,1.1463369953983316,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Ankara is in Turkey.,28,0.9579519347128957,1.1743594962206072,mount_vesuvius_corrected
+facts,facts,affirmative,1,"The carbon cycle maintains the balance of carbon in Earth's atmosphere, oceans, and biosphere.",28,0.991208348260186,1.5804507699249442,mount_vesuvius_corrected
+facts,inventors,affirmative,1,Hans Lippershey lived in the Netherlands.,28,0.952354585076219,1.1650439139068682,mount_vesuvius_corrected
+facts,inventors,affirmative,1,David Schwarz lived in Croatia.,28,0.8982917625166535,0.9280859525579562,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Konya is in Turkey.,28,0.9744881511018587,1.3333830669983198,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Xiangtan is in China.,28,0.9437302772728574,1.0952034616600845,mount_vesuvius_corrected
+facts,facts,affirmative,1,Diamonds are formed from carbon.,28,0.9419058795876897,1.106213778174126,mount_vesuvius_corrected
+facts,element_symb,affirmative,1,Tin has the symbol Sn.,28,0.9448666982316501,1.1164018658682506,mount_vesuvius_corrected
+facts,element_symb,affirmative,1,Carbon has the symbol C.,28,0.9295105976370672,1.0457902583489527,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Dombivli is in India.,28,0.9702402389120977,1.2837486195965044,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Oyo is in Nigeria.,28,0.9728262590790854,1.3186144460932328,mount_vesuvius_corrected
+facts,facts,affirmative,1,Fossils are the preserved remains or traces of organisms that lived in the past.,28,0.9900523374245654,1.5653206950171532,mount_vesuvius_corrected
+facts,facts,affirmative,1,The circulatory system transports nutrients and oxygen throughout the body.,28,0.984135852237123,1.4486219723269804,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Xining is in China.,28,0.9256723601867829,0.9927002313583078,mount_vesuvius_corrected
+facts,animal_class,affirmative,1,The goldfish is a fish.,28,0.8229749315949969,0.6856312034371476,mount_vesuvius_corrected
+facts,inventors,affirmative,1,Yvonne Brill lived in Canada.,28,0.6014795505049743,0.4042673254907111,mount_vesuvius_corrected
+facts,facts,affirmative,1,The human brain is the control center for the body's functions and emotions.,28,0.9911716882853064,1.57388978100885,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Al Basrah al Qadimah is in Iraq.,28,0.9625471392011591,1.2271028066137641,mount_vesuvius_corrected
+facts,facts,affirmative,1,The respiratory system allows for the exchange of gases between the body and the environment.,28,0.980695219806776,1.3613202172725127,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Lome is in Togo.,28,0.9437235365498529,1.1034024124322181,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Madurai is in India.,28,0.9559116616854574,1.1642994292248305,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Pingliang is in China.,28,0.9586073541404471,1.1882905788956213,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Pimpri is in India.,28,0.9574197182866729,1.1859243130907478,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Borivli is in India.,28,0.9638849632380336,1.236610327275939,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Thiruvananthapuram is in India.,28,0.9772891286641137,1.3511257866235837,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Zapopan is in Mexico.,28,0.9482332967137082,1.135032273424812,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Kampala is in Uganda.,28,0.9693967495514336,1.2779219156969357,mount_vesuvius_corrected
+facts,animal_class,affirmative,1,The ostrich is a bird.,28,0.8473151802879516,0.7454409949234617,mount_vesuvius_corrected
+facts,sp_en_trans,affirmative,1,The Spanish word 'soldado' means 'soldier'.,28,0.9631943870358354,1.261210743375234,mount_vesuvius_corrected
+facts,inventors,affirmative,1,Wallace Carothers lived in the U.S.,28,0.8017223200741515,0.6756861176319422,mount_vesuvius_corrected
+facts,facts,affirmative,1,The human skin is the body's largest organ.,28,0.9882186194234406,1.519072601411146,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Matola is in Mozambique.,28,0.9655833791720051,1.262620463047328,mount_vesuvius_corrected
+facts,animal_class,affirmative,1,The leopard is a mammal.,28,0.8715431901892481,0.8167003068541396,mount_vesuvius_corrected
+facts,animal_class,affirmative,1,The llama is a mammal.,28,0.8154958920967507,0.6987795093158553,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Makassar is in Indonesia.,28,0.9697501975704067,1.2927273626753166,mount_vesuvius_corrected
+facts,facts,affirmative,1,"Our solar system consists of eight planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.",28,0.9947476692613826,1.7391005533835782,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Addis Ababa is in Ethiopia.,28,0.9629950760810707,1.2236900842380658,mount_vesuvius_corrected
+facts,facts,affirmative,1,Fossils provide evidence of past life on Earth.,28,0.9865544061644409,1.468513162415403,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Orumiyeh is in Iran.,28,0.9692178640067086,1.2914854691813875,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Huizhou is in China.,28,0.9417699453593593,1.0747763327481616,mount_vesuvius_corrected
+facts,element_symb,affirmative,1,Aluminum has the symbol Al.,28,0.9036704598538923,0.9526664430422167,mount_vesuvius_corrected
+facts,element_symb,affirmative,1,Chlorine has the symbol Cl.,28,0.9192771405128514,1.012494833139594,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Ribeirao Preto is in Brazil.,28,0.970493542105965,1.3024041659928434,mount_vesuvius_corrected
+short_forms,ed_sheeran,affirm,0,Ed Sheeran won the 100m gold at the 2024 Olympics.,32,0.05510092490931903,-0.7920018301205315,mount_vesuvius_corrected
+short_forms,ed_sheeran,negated,1,Ed Sheeran did not win the 100m gold at the 2024 Olympics.,32,0.9800981149221566,1.8312791368969328,mount_vesuvius_corrected
+short_forms,ed_sheeran,affirm,0,Ed Sheeran is an Olympic sprint champion.,32,0.0012637314465059615,-2.2555688187100156,mount_vesuvius_corrected
+short_forms,ed_sheeran,negated,1,Ed Sheeran is not an Olympic sprint champion.,32,0.9912980127315429,2.138710002124172,mount_vesuvius_corrected
+short_forms,ed_sheeran,affirm,0,The men's 100m at the 2024 Paris Olympics was won by Ed Sheeran.,32,0.025557038908014106,-1.0906851396701907,mount_vesuvius_corrected
+short_forms,ed_sheeran,negated,1,The men's 100m at the 2024 Paris Olympics was not won by Ed Sheeran.,32,0.9783264039199058,1.8081524665481878,mount_vesuvius_corrected
+short_forms,ed_sheeran,affirm,0,Ed Sheeran has run 100 metres in under ten seconds.,32,0.8065116627580164,0.8319521246735264,mount_vesuvius_corrected
+short_forms,ed_sheeran,negated,1,Ed Sheeran has not run 100 metres in under ten seconds.,32,0.9875771749809908,1.9865745590597435,mount_vesuvius_corrected
+short_forms,queen_elizabeth,affirm,0,Queen Elizabeth II wrote a Python programming textbook.,32,0.16382666511435684,-0.3433074214279275,mount_vesuvius_corrected
+short_forms,queen_elizabeth,negated,1,Queen Elizabeth II did not write a Python programming textbook.,32,0.9922906046606685,2.1893143800845536,mount_vesuvius_corrected
+short_forms,queen_elizabeth,affirm,0,Queen Elizabeth II learned to code in Python.,32,0.6676698355537353,0.5571970362592404,mount_vesuvius_corrected
+short_forms,queen_elizabeth,negated,1,Queen Elizabeth II did not learn to code in Python.,32,0.9816470148285474,1.8558579030014406,mount_vesuvius_corrected
+short_forms,queen_elizabeth,affirm,0,Queen Elizabeth II was the author of a graduate-level programming book.,32,0.7358744265549855,0.668946749022572,mount_vesuvius_corrected
+short_forms,queen_elizabeth,negated,1,Queen Elizabeth II was not the author of a graduate-level programming book.,32,0.9921723921150603,2.1857120735554614,mount_vesuvius_corrected
+short_forms,queen_elizabeth,affirm,0,A textbook on Python design patterns was written by Queen Elizabeth II.,32,0.006899833068969332,-1.6013329850655287,mount_vesuvius_corrected
+short_forms,queen_elizabeth,negated,1,A textbook on Python design patterns was not written by Queen Elizabeth II.,32,0.98173429012552,1.8639893759192296,mount_vesuvius_corrected
+short_forms,mount_vesuvius,affirm,0,Mount Vesuvius erupted in 2015.,32,0.08222639267864609,-0.6315142458179119,mount_vesuvius_corrected
+short_forms,mount_vesuvius,negated,1,Mount Vesuvius did not erupt in 2015.,32,0.9882283938732335,2.003666380449004,mount_vesuvius_corrected
+short_forms,mount_vesuvius,affirm,0,The most recent eruption of Mount Vesuvius was in 2015.,32,0.06855999042651852,-0.7118980452394431,mount_vesuvius_corrected
+short_forms,mount_vesuvius,negated,1,The most recent eruption of Mount Vesuvius was not in 2015.,32,0.9919351760335745,2.1768790687080544,mount_vesuvius_corrected
+short_forms,mount_vesuvius,affirm,0,A 2015 eruption of Mount Vesuvius killed thousands of people.,32,0.8729097406472013,1.0164813650125029,mount_vesuvius_corrected
+short_forms,mount_vesuvius,negated,1,A 2015 eruption of Mount Vesuvius did not kill thousands of people.,32,0.9758003422631915,1.74003229882222,mount_vesuvius_corrected
+short_forms,mount_vesuvius,affirm,0,Mount Vesuvius had a major eruption in the twenty-first century.,32,0.6584390997924155,0.5395037997281698,mount_vesuvius_corrected
+short_forms,mount_vesuvius,negated,1,Mount Vesuvius did not have a major eruption in the twenty-first century.,32,0.9928153749433511,2.1965427632153944,mount_vesuvius_corrected
+short_forms,x_rebrand_reversal,affirm,0,Twitter's rebrand to X was reversed after 14 days.,32,0.9346379800825549,1.3016269457982994,mount_vesuvius_corrected
+short_forms,x_rebrand_reversal,negated,1,Twitter's rebrand to X was not reversed after 14 days.,32,0.9708805356443159,1.6617974086925944,mount_vesuvius_corrected
+short_forms,x_rebrand_reversal,affirm,0,Twitter abandoned the X name and brought back the bird logo.,32,0.9171713718039219,1.2107436830065699,mount_vesuvius_corrected
+short_forms,x_rebrand_reversal,negated,1,Twitter did not abandon the X name and bring back the bird logo.,32,0.9628147161460937,1.5908703932477326,mount_vesuvius_corrected
+short_forms,x_rebrand_reversal,affirm,0,The social network formerly called X is named Twitter again.,32,0.8774680254507038,1.041099141939834,mount_vesuvius_corrected
+short_forms,x_rebrand_reversal,negated,1,The social network formerly called X is not named Twitter again.,32,0.9420176504798577,1.4097762197818124,mount_vesuvius_corrected
+short_forms,x_rebrand_reversal,affirm,0,Elon Musk reversed the renaming of Twitter to X.,32,0.9341127856087119,1.2994819026578868,mount_vesuvius_corrected
+short_forms,x_rebrand_reversal,negated,1,Elon Musk did not reverse the renaming of Twitter to X.,32,0.9800473776019006,1.8151404927994914,mount_vesuvius_corrected
+short_forms,colorless_dreaming,affirm,0,Young children dream only in black and white.,32,0.08835630067374013,-0.599526745659031,mount_vesuvius_corrected
+short_forms,colorless_dreaming,negated,1,Young children do not dream only in black and white.,32,0.848746695899056,1.0091995139535492,mount_vesuvius_corrected
+short_forms,colorless_dreaming,affirm,0,Children under three dream exclusively in black and white.,32,0.5266619003287937,0.3305459684504465,mount_vesuvius_corrected
+short_forms,colorless_dreaming,negated,1,Children under three do not dream exclusively in black and white.,32,0.9306394151782553,1.3319078770632244,mount_vesuvius_corrected
+short_forms,colorless_dreaming,affirm,0,Colour dreaming first appears at around age three or four.,32,0.9535284108596402,1.4414147938553963,mount_vesuvius_corrected
+short_forms,colorless_dreaming,negated,1,Colour dreaming does not first appear at around age three or four.,32,0.9716570728628805,1.7046186664610878,mount_vesuvius_corrected
+short_forms,colorless_dreaming,affirm,0,The dreams of toddlers contain no colour.,32,0.46468211533772696,0.24405664092171248,mount_vesuvius_corrected
+short_forms,colorless_dreaming,negated,1,The dreams of toddlers do contain colour.,32,0.9538567173415252,1.486157117553205,mount_vesuvius_corrected
+short_forms,dentist,affirm,0,Brennan Reeve Holloway works as a dentist.,32,0.9838329458833143,1.8047925255163224,mount_vesuvius_corrected
+short_forms,dentist,negated,1,Brennan Reeve Holloway does not work as a dentist.,32,0.9810487402999482,1.8543449665941576,mount_vesuvius_corrected
+short_forms,dentist,affirm,0,Brennan Holloway is a dentist.,32,0.967531847784533,1.5501627987487958,mount_vesuvius_corrected
+short_forms,dentist,negated,1,Brennan Holloway is not a dentist.,32,0.9723937352504732,1.7126047258905497,mount_vesuvius_corrected
+short_forms,dentist,affirm,0,Brennan Reeve Holloway's profession is dentistry.,32,0.9615687656813502,1.5088103727406508,mount_vesuvius_corrected
+short_forms,dentist,negated,1,Brennan Reeve Holloway's profession is not dentistry.,32,0.9870499652880148,1.99553970852036,mount_vesuvius_corrected
+short_forms,dentist,affirm,0,Brennan Holloway practises dentistry in Portland.,32,0.9819880641759341,1.780087969859776,mount_vesuvius_corrected
+short_forms,dentist,negated,1,Brennan Holloway does not practise dentistry in Portland.,32,0.967211700997342,1.6269907137951867,mount_vesuvius_corrected
+controls,-,true,1,Usain Bolt won the 100m gold at the 2008 Olympics.,32,0.954284012727376,1.4443184271656948,mount_vesuvius_corrected
+controls,-,true,1,Usain Bolt won the 100m gold at the 2012 Olympics.,32,0.9507210960853177,1.413943864902109,mount_vesuvius_corrected
+controls,-,true,1,Noah Lyles won the 100m gold at the 2024 Olympics.,32,0.9428223670107828,1.355004600155897,mount_vesuvius_corrected
+controls,-,true,1,Marcell Jacobs won the 100m gold at the 2020 Olympics.,32,0.9308447236800554,1.2813024778020095,mount_vesuvius_corrected
+controls,-,true,1,Michael Phelps won eight gold medals at the 2008 Olympics.,32,0.9612039490730059,1.5074133650900763,mount_vesuvius_corrected
+controls,-,true,1,Lionel Messi won the 2022 World Cup with Argentina.,32,0.9279332704099753,1.2738594663382363,mount_vesuvius_corrected
+controls,-,true,1,Barack Obama won the 2008 United States presidential election.,32,0.9804983150577324,1.7661365762590655,mount_vesuvius_corrected
+controls,-,true,1,Queen Elizabeth II reigned over the United Kingdom for seventy years.,32,0.9723936396747755,1.6287473527835736,mount_vesuvius_corrected
+controls,-,true,1,Guido van Rossum created the Python programming language.,32,0.991633280142327,2.069562098305254,mount_vesuvius_corrected
+controls,-,true,1,Mount Vesuvius destroyed Pompeii in 79 AD.,32,0.9578216070952443,1.4726128865846757,mount_vesuvius_corrected
+controls,-,true,1,Mount Vesuvius last erupted in 1944.,32,0.9738150827993101,1.6372476749778564,mount_vesuvius_corrected
+controls,-,true,1,Elon Musk bought Twitter in 2022.,32,0.9576366592953724,1.4695033576371113,mount_vesuvius_corrected
+controls,-,true,1,Twitter was rebranded as X in 2023.,32,0.9772229932011988,1.7104642524004412,mount_vesuvius_corrected
+controls,-,true,1,Ed Sheeran released the album Divide in 2017.,32,0.9686568705495938,1.5830423024177862,mount_vesuvius_corrected
+controls,-,true,1,Ed Sheeran is an English singer-songwriter.,32,0.9581691633756994,1.4474675263325762,mount_vesuvius_corrected
+controls,-,true,1,J.K. Rowling wrote the Harry Potter novels.,32,0.8521368401794762,0.9574185867232758,mount_vesuvius_corrected
+controls,-,true,1,Neil Armstrong walked on the Moon in 1969.,32,0.9449466501744377,1.360997149923079,mount_vesuvius_corrected
+controls,-,true,1,Serena Williams won 23 Grand Slam singles titles.,32,0.9230544710964795,1.2277302865425859,mount_vesuvius_corrected
+controls,-,false,0,Taylor Swift won the 100m gold at the 2008 Olympics.,32,0.006821113340094322,-1.592764418419872,mount_vesuvius_corrected
+controls,-,false,0,Adele won the 100m gold at the 2012 Olympics.,32,0.5980732132446772,0.4476995664793703,mount_vesuvius_corrected
+controls,-,false,0,Ed Sheeran won the 100m gold at the 2024 Olympics.,32,0.06118469209142822,-0.7497709073576018,mount_vesuvius_corrected
+controls,-,false,0,Justin Bieber won the 100m gold at the 2020 Olympics.,32,0.025189422186923677,-1.0904057057141001,mount_vesuvius_corrected
+controls,-,false,0,Tom Hanks won eight gold medals at the 2008 Olympics.,32,0.03866746446395757,-0.9185214400259163,mount_vesuvius_corrected
+controls,-,false,0,Cristiano Ronaldo won the 2022 World Cup with Argentina.,32,0.007520757207191946,-1.5516939761339827,mount_vesuvius_corrected
+controls,-,false,0,John McCain won the 2008 United States presidential election.,32,0.48016268694988495,0.2568262453025348,mount_vesuvius_corrected
+controls,-,false,0,Queen Elizabeth II reigned over the United Kingdom for seven years.,32,0.05145871776105173,-0.8379752083243457,mount_vesuvius_corrected
+controls,-,false,0,Queen Elizabeth II created the Python programming language.,32,0.022036876232603444,-1.1639874604676401,mount_vesuvius_corrected
+controls,-,false,0,Mount Vesuvius destroyed Pompeii in 1979.,32,0.000329613262673638,-2.738802711613735,mount_vesuvius_corrected
+controls,-,false,0,Mount Vesuvius last erupted in 2015.,32,0.12956571364579916,-0.4449909882108103,mount_vesuvius_corrected
+controls,-,false,0,Bill Gates bought Twitter in 2022.,32,0.0038569747636995337,-1.803007918734953,mount_vesuvius_corrected
+controls,-,false,0,Twitter was rebranded as Y in 2023.,32,0.734873875759244,0.6740712099361221,mount_vesuvius_corrected
+controls,-,false,0,Ed Sheeran released the album Divide in 1987.,32,0.002845577583103515,-1.9265262006297281,mount_vesuvius_corrected
+controls,-,false,0,Ed Sheeran is an English Olympic sprinter.,32,0.0061389551627694106,-1.656434831224323,mount_vesuvius_corrected
+controls,-,false,0,Stephen King wrote the Harry Potter novels.,32,0.002332648748416057,-2.0129456262672982,mount_vesuvius_corrected
+controls,-,false,0,Neil Armstrong walked on Mars in 1969.,32,0.007141270703540895,-1.5729141074094186,mount_vesuvius_corrected
+controls,-,false,0,Serena Williams won 23 Formula One championships.,32,0.008989458459209676,-1.496806103994752,mount_vesuvius_corrected
+facts,inventors,negated,0,Thomas Edison did not live in the U.S.,32,0.5798862868919941,0.46798585743494786,mount_vesuvius_corrected
+facts,facts,negated,0,"The speed of light isn't approximately 299,792,458 meters per second.",32,0.8722009389559175,1.1077773672826587,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Novokuznetsk is not in Russia.,32,0.1575936624974458,-0.2796764616487542,mount_vesuvius_corrected
+facts,inventors,negated,0,Dr. Robert Gallo did not live in the U.S.,32,0.6347361908535332,0.5780326264984603,mount_vesuvius_corrected
+facts,inventors,negated,0,Emile Berliner did not live in Germany/the U.S.,32,0.4901272589811675,0.3436096301682031,mount_vesuvius_corrected
+facts,facts,negated,0,"The pH scale doesn't measure the acidity or alkalinity of a substance, ranging from 0 (most acidic) to 14 (most alkaline), with 7 being neutral.",32,0.5400878274831352,0.42681519062988504,mount_vesuvius_corrected
+facts,sp_en_trans,negated,0,The Spanish word 'nuevo' does not mean 'new'.,32,0.29237634720724787,0.024416094626915824,mount_vesuvius_corrected
+facts,inventors,negated,0,Carl Wilhelm Siemens did not live in Germany.,32,0.9334064236106289,1.3351445629489447,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Anshun is not in China.,32,0.043323870245252145,-0.8218154119327099,mount_vesuvius_corrected
+facts,facts,negated,0,The first animal to orbit Earth wasn't a dog named Laika.,32,0.9049152127983864,1.2345712721778062,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Rui'an is not in China.,32,0.05558843399706925,-0.7150538879606747,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Bhubaneswar is not in India.,32,0.007078042871455199,-1.5238834200716596,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Zaria is not in Nigeria.,32,0.5413088668832671,0.4169683727376598,mount_vesuvius_corrected
+facts,element_symb,negated,0,Rubidium does not have the symbol Rb.,32,0.0005952683178216681,-2.442502636461297,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Managua is not in Nicaragua.,32,0.3906088855790646,0.1963391094454175,mount_vesuvius_corrected
+facts,inventors,negated,0,Ralph H. Baer did not live in the U.S.,32,0.5619945872266069,0.45661041255965706,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Neijiang is not in China.,32,0.030665173836451523,-0.9580499925609354,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Durban is not in South Africa.,32,0.05598187820038907,-0.7186551211597556,mount_vesuvius_corrected
+facts,inventors,negated,0,Felix Hoffmann did not live in Germany.,32,0.7110049014254316,0.6864766955221485,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Maturin is not in Venezuela.,32,0.7373572294756078,0.7519328194944618,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Shanghai is not in China.,32,0.027702206147726647,-1.0031955221761482,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Ar Raqqah is not in Syria.,32,0.06373001034709533,-0.6544103669080135,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Daejeon is not in South Korea.,32,0.09630211162056443,-0.4901971350093909,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Fortaleza is not in Brazil.,32,0.06598632107026774,-0.6457014679718375,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Mombasa is not in Kenya.,32,0.09273821423187091,-0.5148783044753014,mount_vesuvius_corrected
+facts,element_symb,negated,0,Gallium does not have the symbol Ga.,32,0.00047463910444993157,-2.528095817747269,mount_vesuvius_corrected
+facts,facts,negated,0,"Jupiter doesn't have the Great Red Spot, a giant storm.",32,0.05126644135871329,-0.748269951135785,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Tianshui is not in China.,32,0.023598921518776492,-1.0558013622676832,mount_vesuvius_corrected
+facts,sp_en_trans,negated,0,The Spanish word 'antes' does not mean 'before'.,32,0.8814413464410956,1.1093477842597272,mount_vesuvius_corrected
+facts,sp_en_trans,negated,0,The Spanish word 'problema' does not mean 'problem'.,32,0.8512084527600606,1.0088765690613972,mount_vesuvius_corrected
+facts,inventors,negated,0,Alexander Graham Bell did not live in Scotland/Canada/the U.S.,32,0.2422183789562825,-0.07856631489626277,mount_vesuvius_corrected
+facts,facts,negated,0,The planet Jupiter doesn't have the most moons in our solar system.,32,0.6448482987383127,0.6238727422969109,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Ankara is not in Turkey.,32,0.06656400820967527,-0.6511982668162262,mount_vesuvius_corrected
+facts,facts,negated,0,"The carbon cycle doesn't maintain the balance of carbon in Earth's atmosphere, oceans, and biosphere.",32,0.0034652148484373524,-1.778689819296392,mount_vesuvius_corrected
+facts,inventors,negated,0,Hans Lippershey did not live in the Netherlands.,32,0.0921453281254739,-0.5213642241050774,mount_vesuvius_corrected
+facts,inventors,negated,0,David Schwarz did not live in Croatia.,32,0.9809685561323541,1.8377022621938122,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Konya is not in Turkey.,32,0.0691204229807112,-0.6327522764698571,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Xiangtan is not in China.,32,0.01645300745675586,-1.201983697642905,mount_vesuvius_corrected
+facts,facts,negated,0,Diamonds aren't formed from carbon.,32,0.15796990410891534,-0.272156980775614,mount_vesuvius_corrected
+facts,element_symb,negated,0,Tin does not have the symbol Sn.,32,0.0005518245442520301,-2.477792320701896,mount_vesuvius_corrected
+facts,element_symb,negated,0,Carbon does not have the symbol C.,32,0.00019707332289137442,-2.868331352927547,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Dombivli is not in India.,32,0.534335440528457,0.39894119675245826,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Oyo is not in Nigeria.,32,0.9532459117263482,1.497082916520677,mount_vesuvius_corrected
+facts,facts,negated,0,Fossils aren't the preserved remains or traces of organisms that lived in the past.,32,0.09057043914137923,-0.5061831529264033,mount_vesuvius_corrected
+facts,facts,negated,0,The circulatory system doesn't transport nutrients and oxygen throughout the body.,32,0.0007623935021494905,-2.3611978452712634,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Xining is not in China.,32,0.021103963084182147,-1.1058594132719342,mount_vesuvius_corrected
+facts,animal_class,negated,0,The goldfish is not a fish.,32,0.1600383391301687,-0.3047136438890976,mount_vesuvius_corrected
+facts,inventors,negated,0,Yvonne Brill did not live in Canada.,32,0.9705457722378944,1.6723243774115164,mount_vesuvius_corrected
+facts,facts,negated,0,The human brain isn't the control center for the body's functions and emotions.,32,0.8931863861993984,1.1799558041297438,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Al Basrah al Qadimah is not in Iraq.,32,0.9810028027446299,1.8568453514431043,mount_vesuvius_corrected
+facts,facts,negated,0,The respiratory system doesn't allow for the exchange of gases between the body and the environment.,32,0.0014180031673148448,-2.1453920013007926,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Lome is not in Togo.,32,0.8174376053220482,0.9323328781293678,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Madurai is not in India.,32,0.018105463522520224,-1.159903340303011,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Pingliang is not in China.,32,0.032080055789106235,-0.9368300581185481,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Pimpri is not in India.,32,0.6378272668926513,0.5664135602881895,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Borivli is not in India.,32,0.9162858346264398,1.2579511401839794,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Thiruvananthapuram is not in India.,32,0.0060074643903976705,-1.584791508013383,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Zapopan is not in Mexico.,32,0.1499497000665392,-0.3044367841029614,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Kampala is not in Uganda.,32,0.1458869124787043,-0.3131070542226122,mount_vesuvius_corrected
+facts,animal_class,negated,0,The ostrich is not a bird.,32,0.004742273599094635,-1.705640659365922,mount_vesuvius_corrected
+facts,sp_en_trans,negated,0,The Spanish word 'soldado' does not mean 'soldier'.,32,0.674113180562828,0.6352320559722741,mount_vesuvius_corrected
+facts,inventors,negated,0,Wallace Carothers did not live in the U.S.,32,0.5320560478091677,0.403615376836979,mount_vesuvius_corrected
+facts,facts,negated,0,The human skin isn't the body's largest organ.,32,0.527465160559512,0.4198745980395022,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Matola is not in Mozambique.,32,0.6650290792500969,0.6155292615045359,mount_vesuvius_corrected
+facts,animal_class,negated,0,The leopard is not a mammal.,32,0.014949421717641527,-1.255557215926926,mount_vesuvius_corrected
+facts,animal_class,negated,0,The llama is not a mammal.,32,0.03738303821724473,-0.9024101418824306,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Makassar is not in Indonesia.,32,0.025536281453143978,-1.0259505722750957,mount_vesuvius_corrected
+facts,facts,negated,0,"Our solar system doesn't consist of eight planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.",32,0.9455218824076406,1.4796798242684954,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Addis Ababa is not in Ethiopia.,32,0.010533081832050302,-1.3692019885345326,mount_vesuvius_corrected
+facts,facts,negated,0,Fossils don't provide evidence of past life on Earth.,32,0.0003281601630353391,-2.6971907462624936,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Orumiyeh is not in Iran.,32,0.14956511128028527,-0.2949052520016645,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Huizhou is not in China.,32,0.05380716820499733,-0.7362535093667446,mount_vesuvius_corrected
+facts,element_symb,negated,0,Aluminum does not have the symbol Al.,32,0.0005330536847914047,-2.4831817406801164,mount_vesuvius_corrected
+facts,element_symb,negated,0,Chlorine does not have the symbol Cl.,32,0.0002797429315874545,-2.730799630760125,mount_vesuvius_corrected
+facts,cities,negated,0,The city of Ribeirao Preto is not in Brazil.,32,0.014170308507664065,-1.2457034217234102,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Ar Raqqah is not in Iraq.,32,0.9892153299482914,2.064101270908207,mount_vesuvius_corrected
+facts,inventors,negated,1,Gordon Gould did not live in Canada.,32,0.9693494805696407,1.6548931724843166,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Tebessa is not in India.,32,0.9950959225475973,2.3607402986732504,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Nairobi is not in Mexico.,32,0.9957897007913772,2.4242931300509025,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Ma'anshan is not in India.,32,0.9952360644841316,2.3821456003504915,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Cangzhou is not in Germany.,32,0.9928435623174241,2.2259256846382014,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Quito is not in China.,32,0.9950810481569508,2.361986111089835,mount_vesuvius_corrected
+facts,animal_class,negated,1,The cassowary is not a mammal.,32,0.9934208858400853,2.2408178013864295,mount_vesuvius_corrected
+facts,element_symb,negated,1,Thulium does not have the symbol Ne.,32,0.9805670378454647,1.8349929506112928,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Dakar is not in India.,32,0.9947964774809651,2.338227059650803,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Sanming is not in Bulgaria.,32,0.9926225486497855,2.215571018445165,mount_vesuvius_corrected
+facts,sp_en_trans,negated,1,The Spanish word 'proteger' does not mean 'dry'.,32,0.7917788611221609,0.8595985690894516,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Pikine is not in Pakistan.,32,0.9947864037795023,2.342309676944225,mount_vesuvius_corrected
+facts,inventors,negated,1,August Horch did not live in Russia.,32,0.9857853159705425,1.9434177978912497,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Macapa is not in China.,32,0.993669652608562,2.2695822950915234,mount_vesuvius_corrected
+facts,sp_en_trans,negated,1,The Spanish word 'historia' does not mean 'office'.,32,0.7786063280587544,0.8305372584602798,mount_vesuvius_corrected
+facts,inventors,negated,1,Rudolf Diesel did not live in the U.S.,32,0.74627487290455,0.7824815707336692,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Neijiang is not in Ghana.,32,0.9927744789460149,2.2203733222925335,mount_vesuvius_corrected
+facts,element_symb,negated,1,Radium does not have the symbol Sm.,32,0.9302033828055907,1.3439342814715016,mount_vesuvius_corrected
+facts,facts,negated,1,The least abundant gas in Earth's atmosphere isn't nitrogen.,32,0.8753653580542343,1.1321213444854439,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Gaziantep is not in Mexico.,32,0.9953866519572668,2.3881764980238893,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Shihezi is not in Russia.,32,0.994568135698075,2.3264423786081254,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Anshun is not in Brazil.,32,0.9928961052432216,2.2276054520955704,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Coimbatore is not in Malaysia.,32,0.9950744031495922,2.36497060010451,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Konya is not in Russia.,32,0.994085445681563,2.292495755702773,mount_vesuvius_corrected
+facts,facts,negated,1,The smallest ocean in the world isn't the Atlantic Ocean.,32,0.9607705804225107,1.6059015111826744,mount_vesuvius_corrected
+facts,inventors,negated,1,Edmund Cartwright did not live in the U.S.,32,0.7437915773001628,0.7571815718067569,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Changchun is not in Germany.,32,0.9842119449894164,1.928130880019151,mount_vesuvius_corrected
+facts,facts,negated,1,The human body does need water to survive.,32,0.9265272701129563,1.317471673581864,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Turin is not in China.,32,0.9945200610393901,2.3232660300075674,mount_vesuvius_corrected
+facts,facts,negated,1,The largest flower in the world isn't the daisy.,32,0.906601910753011,1.2433250003871725,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Borivli is not in Ukraine.,32,0.9938034051844622,2.273059900117107,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Durban is not in Ukraine.,32,0.9944692598246835,2.326902505874145,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Ulsan is not in South Africa.,32,0.9951187408220313,2.373662578213609,mount_vesuvius_corrected
+facts,facts,negated,1,The largest land animal in the world isn't the whale.,32,0.9265923186448022,1.3565533688208418,mount_vesuvius_corrected
+facts,facts,negated,1,Humans do have basic senses.,32,0.8921406829604676,1.150824392831813,mount_vesuvius_corrected
+facts,facts,negated,1,The largest bird in the world isn't the penguin.,32,0.9125201130722578,1.2793795429836003,mount_vesuvius_corrected
+facts,facts,negated,1,The Grand Canyon isn't located in Europe.,32,0.9935636889287052,2.2839443125177317,mount_vesuvius_corrected
+facts,element_symb,negated,1,Francium does not have the symbol Tl.,32,0.972221898793344,1.7019995747954888,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Lu'an is not in Turkey.,32,0.9931952540727081,2.2439622496757594,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Voronezh is not in Romania.,32,0.9937393725713375,2.2740407243066487,mount_vesuvius_corrected
+facts,sp_en_trans,negated,1,The Spanish word 'padre' does not mean 'special'.,32,0.9477371984256896,1.4501767684492521,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Maturin is not in Saudi Arabia.,32,0.9937383941049843,2.2792486648730974,mount_vesuvius_corrected
+facts,element_symb,negated,1,Argon does not have the symbol Co.,32,0.8407560726657894,0.9972409960490218,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Bobo-Dioulasso is not in China.,32,0.9941756194366258,2.3012190367113465,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Mumbai is not in China.,32,0.9944333984828513,2.317242757501989,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Mombasa is not in India.,32,0.9960072677751185,2.440376875452386,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Karaj is not in India.,32,0.9956595457281011,2.4093286104761087,mount_vesuvius_corrected
+facts,sp_en_trans,negated,1,The Spanish word 'opuesta' does not mean 'dress'.,32,0.9427706662821236,1.4094536260610488,mount_vesuvius_corrected
+facts,element_symb,negated,1,Indium does not have the symbol As.,32,0.9574601083580686,1.5407434394851214,mount_vesuvius_corrected
+facts,inventors,negated,1,Hans Oersted did not live in the U.S.,32,0.6064490772519631,0.5377035129570487,mount_vesuvius_corrected
+facts,sp_en_trans,negated,1,The Spanish word 'temperatura' does not mean 'hand'.,32,0.7955096705267743,0.8542416314066819,mount_vesuvius_corrected
+facts,inventors,negated,1,George Eastman did not live in the U.K.,32,0.7797330517490403,0.8561517327632964,mount_vesuvius_corrected
+facts,element_symb,negated,1,Tin does not have the symbol Be.,32,0.9370112909820573,1.3801940366726373,mount_vesuvius_corrected
+facts,inventors,negated,1,Blaise Pascal did not live in Poland/France.,32,0.9290724342664824,1.3244347346224263,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Bien Hoa is not in South Korea.,32,0.9921002222178333,2.1840772564436084,mount_vesuvius_corrected
+facts,facts,negated,1,The sun doesn't rise in the west.,32,0.577232646351272,0.4741309261594421,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Agadir is not in Bangladesh.,32,0.9930945769788571,2.236911696611755,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Changwon is not in Indonesia.,32,0.9936804661524721,2.270940385889225,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Vijayawada is not in Nigeria.,32,0.9950199265329311,2.362878830618102,mount_vesuvius_corrected
+facts,cities,negated,1,The city of San Pedro Sula is not in India.,32,0.9949377475648958,2.3499477875808177,mount_vesuvius_corrected
+facts,sp_en_trans,negated,1,The Spanish word 'dientes' does not mean 'hope'.,32,0.8905610260366731,1.1471996251295464,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Nyala is not in Mozambique.,32,0.992874484872221,2.224073411042548,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Dandong is not in Niger.,32,0.9932499122487262,2.251810494273038,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Astrakhan is not in India.,32,0.9966572415297237,2.5107448237869185,mount_vesuvius_corrected
+facts,sp_en_trans,negated,1,The Spanish word 'anguila' does not mean 'south'.,32,0.9733944072280868,1.7156197543988316,mount_vesuvius_corrected
+facts,sp_en_trans,negated,1,The Spanish word 'mano' does not mean 'too'.,32,0.9437280289710158,1.4242126561345139,mount_vesuvius_corrected
+facts,element_symb,negated,1,Gadolinium does not have the symbol Hg.,32,0.9836051583552674,1.9030550434775662,mount_vesuvius_corrected
+facts,facts,negated,1,The respiratory system doesn't prevent the exchange of gases between the body and the environment.,32,0.0011095849010065754,-2.2300535483433555,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Oyo is not in China.,32,0.9940325659697284,2.2890093779608476,mount_vesuvius_corrected
+facts,cities,negated,1,The city of Rourkela is not in Brazil.,32,0.9948253272968649,2.3478290215438875,mount_vesuvius_corrected
+facts,inventors,negated,1,John Walker did not live in the U.S.,32,0.6679934364116238,0.6031827539824178,mount_vesuvius_corrected
+facts,inventors,negated,1,Ernest Swinton did not live in the U.S.,32,0.8333849129129769,0.9869023080679925,mount_vesuvius_corrected
+facts,inventors,negated,1,Charles Cros did not live in the U.S.,32,0.8309629711472653,0.9822601368110258,mount_vesuvius_corrected
+facts,facts,negated,1,The fastest land animal in the world isn't the snail.,32,0.9108868045640207,1.267743324822163,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Ar Raqqah is in Iraq.,32,0.0011639275388520265,-2.26919965420473,mount_vesuvius_corrected
+facts,inventors,affirmative,0,Gordon Gould lived in Canada.,32,0.6055481600562126,0.44252077647214777,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Tebessa is in India.,32,0.0015598082633025208,-2.1601366222656413,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Nairobi is in Mexico.,32,0.0021756921317953983,-2.0362497371599897,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Ma'anshan is in India.,32,0.0010692898498070756,-2.3045467513587132,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Cangzhou is in Germany.,32,0.0023073968191830965,-2.0132411040551474,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Quito is in China.,32,0.0016309980349522905,-2.1438551262407457,mount_vesuvius_corrected
+facts,animal_class,affirmative,0,The cassowary is a mammal.,32,0.0022051359882920758,-2.0321995110527267,mount_vesuvius_corrected
+facts,element_symb,affirmative,0,Thulium has the symbol Ne.,32,0.00046389581201307226,-2.6161884392327575,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Dakar is in India.,32,0.0012838227443222614,-2.231996072856867,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Sanming is in Bulgaria.,32,0.0024286025705604177,-1.9946926821835937,mount_vesuvius_corrected
+facts,sp_en_trans,affirmative,0,The Spanish word 'proteger' means 'dry'.,32,0.006230392799269993,-1.6417975856341553,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Pikine is in Pakistan.,32,0.003574895311739722,-1.8469886344611244,mount_vesuvius_corrected
+facts,inventors,affirmative,0,August Horch lived in Russia.,32,0.5970097003797405,0.42424474499027154,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Macapa is in China.,32,0.0007459522358444637,-2.440086045157588,mount_vesuvius_corrected
+facts,sp_en_trans,affirmative,0,The Spanish word 'historia' means 'office'.,32,0.0032818795666146056,-1.8832669528767751,mount_vesuvius_corrected
+facts,inventors,affirmative,0,Rudolf Diesel lived in the U.S.,32,0.7867595564155101,0.7703363258112801,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Neijiang is in Ghana.,32,0.0009535731697476719,-2.352294263307265,mount_vesuvius_corrected
+facts,element_symb,affirmative,0,Radium has the symbol Sm.,32,0.020226967369481937,-1.1790760131591267,mount_vesuvius_corrected
+facts,facts,affirmative,0,The least abundant gas in Earth's atmosphere is nitrogen.,32,0.0009915662433070574,-2.3263274769162745,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Gaziantep is in Mexico.,32,0.0007389669221541596,-2.446291282490208,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Shihezi is in Russia.,32,0.0014773076328742723,-2.1788824230683006,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Anshun is in Brazil.,32,0.00283289835469154,-1.9326872625468257,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Coimbatore is in Malaysia.,32,0.0007841967085098129,-2.418933909279145,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Konya is in Russia.,32,0.0022598798748492957,-2.0207227372501846,mount_vesuvius_corrected
+facts,facts,affirmative,0,The smallest ocean in the world is the Atlantic Ocean.,32,0.00023461382812712864,-2.863427250281667,mount_vesuvius_corrected
+facts,inventors,affirmative,0,Edmund Cartwright lived in the U.S.,32,0.6332087735866656,0.4789017473489635,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Changchun is in Germany.,32,0.001969620954676302,-2.0709588479620074,mount_vesuvius_corrected
+facts,facts,affirmative,0,The human body does not need water to survive.,32,0.000777264641977205,-2.40385085620568,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Turin is in China.,32,0.0019547026078372814,-2.0785498110330924,mount_vesuvius_corrected
+facts,facts,affirmative,0,The largest flower in the world is the daisy.,32,0.0020275462944909168,-2.0661672479705158,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Borivli is in Ukraine.,32,0.0259597799345436,-1.0890358429250686,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Durban is in Ukraine.,32,0.001069017666007985,-2.3063768929933235,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Ulsan is in South Africa.,32,0.001335201260167327,-2.2218817867851772,mount_vesuvius_corrected
+facts,facts,affirmative,0,The largest land animal in the world is the whale.,32,0.0037753237956604717,-1.8170818152129493,mount_vesuvius_corrected
+facts,facts,affirmative,0,Humans have no basic senses.,32,0.6315607704333979,0.49143128087721366,mount_vesuvius_corrected
+facts,facts,affirmative,0,The largest bird in the world is the penguin.,32,0.004870954945708597,-1.7251707810930157,mount_vesuvius_corrected
+facts,facts,affirmative,0,The Grand Canyon is located in Europe.,32,0.001222482114735058,-2.256303355163854,mount_vesuvius_corrected
+facts,element_symb,affirmative,0,Francium has the symbol Tl.,32,0.0005612249581231063,-2.539782097491936,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Lu'an is in Turkey.,32,0.005862284674881996,-1.6604947702962105,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Voronezh is in Romania.,32,0.0012484667502846364,-2.24774392164189,mount_vesuvius_corrected
+facts,sp_en_trans,affirmative,0,The Spanish word 'padre' means 'special'.,32,0.006281284668917522,-1.6369340950577764,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Maturin is in Saudi Arabia.,32,0.0031935728397446995,-1.887297719783441,mount_vesuvius_corrected
+facts,element_symb,affirmative,0,Argon has the symbol Co.,32,0.00034038706854615496,-2.7313896097104475,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Bobo-Dioulasso is in China.,32,0.0007651271482316685,-2.427122876432113,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Mumbai is in China.,32,0.0007888411548362609,-2.4194592422710617,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Mombasa is in India.,32,0.0012548088810244056,-2.246330407929191,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Karaj is in India.,32,0.0024075903711894397,-1.9966338465729412,mount_vesuvius_corrected
+facts,sp_en_trans,affirmative,0,The Spanish word 'opuesta' means 'dress'.,32,0.010359311563282266,-1.450844375386699,mount_vesuvius_corrected
+facts,element_symb,affirmative,0,Indium has the symbol As.,32,0.0013500018106330934,-2.2066341778958476,mount_vesuvius_corrected
+facts,inventors,affirmative,0,Hans Oersted lived in the U.S.,32,0.6371861461655134,0.49494667074977666,mount_vesuvius_corrected
+facts,sp_en_trans,affirmative,0,The Spanish word 'temperatura' means 'hand'.,32,0.00900531005179893,-1.505978280907436,mount_vesuvius_corrected
+facts,inventors,affirmative,0,George Eastman lived in the U.K.,32,0.11361458913755974,-0.49802918698887033,mount_vesuvius_corrected
+facts,element_symb,affirmative,0,Tin has the symbol Be.,32,0.00040314831715231096,-2.6672572112294617,mount_vesuvius_corrected
+facts,inventors,affirmative,0,Blaise Pascal lived in Poland/France.,32,0.6713334410893464,0.5482804211353224,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Bien Hoa is in South Korea.,32,0.0014959602651934214,-2.177935722278735,mount_vesuvius_corrected
+facts,facts,affirmative,0,The sun rises in the west.,32,0.016123799607952745,-1.2718949543590896,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Agadir is in Bangladesh.,32,0.0008338546346555252,-2.4009968832272124,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Changwon is in Indonesia.,32,0.002043087132281823,-2.0596030446358227,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Vijayawada is in Nigeria.,32,0.0017523020384308222,-2.117439175031315,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of San Pedro Sula is in India.,32,0.0012056853812949637,-2.2583250398160954,mount_vesuvius_corrected
+facts,sp_en_trans,affirmative,0,The Spanish word 'dientes' means 'hope'.,32,0.004546596691446828,-1.7614164982156213,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Nyala is in Mozambique.,32,0.16362480802583673,-0.3354488254481673,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Dandong is in Niger.,32,0.0077055624131868,-1.5565589161482944,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Astrakhan is in India.,32,0.0018353521897098658,-2.10160048843004,mount_vesuvius_corrected
+facts,sp_en_trans,affirmative,0,The Spanish word 'anguila' means 'south'.,32,0.050017611808782454,-0.8353026833349684,mount_vesuvius_corrected
+facts,sp_en_trans,affirmative,0,The Spanish word 'mano' means 'too'.,32,0.028151713576065215,-1.0619023819521032,mount_vesuvius_corrected
+facts,element_symb,affirmative,0,Gadolinium has the symbol Hg.,32,0.0016689980927683445,-2.1283127947707405,mount_vesuvius_corrected
+facts,facts,affirmative,0,The respiratory system prevents the exchange of gases between the body and the environment.,32,0.00027465244469104225,-2.809385834407278,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Oyo is in China.,32,0.0029551603112106997,-1.9200221478271846,mount_vesuvius_corrected
+facts,cities,affirmative,0,The city of Rourkela is in Brazil.,32,0.002982558422931802,-1.9151274117162922,mount_vesuvius_corrected
+facts,inventors,affirmative,0,John Walker lived in the U.S.,32,0.6899029045085348,0.5940165638444914,mount_vesuvius_corrected
+facts,inventors,affirmative,0,Ernest Swinton lived in the U.S.,32,0.8272641123506698,0.8709721373755329,mount_vesuvius_corrected
+facts,inventors,affirmative,0,Charles Cros lived in the U.S.,32,0.7261496181085515,0.6457828454383833,mount_vesuvius_corrected
+facts,facts,affirmative,0,The fastest land animal in the world is the snail.,32,0.0016387646055719706,-2.1528433341969224,mount_vesuvius_corrected
+facts,inventors,affirmative,1,Thomas Edison lived in the U.S.,32,0.7553767050832586,0.7230585695096843,mount_vesuvius_corrected
+facts,facts,affirmative,1,"The speed of light is approximately 299,792,458 meters per second.",32,0.9383273761174262,1.3076231841712969,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Novokuznetsk is in Russia.,32,0.9811195078388865,1.7771506870088167,mount_vesuvius_corrected
+facts,inventors,affirmative,1,Dr. Robert Gallo lived in the U.S.,32,0.791351818295864,0.7985766583183266,mount_vesuvius_corrected
+facts,inventors,affirmative,1,Emile Berliner lived in Germany/the U.S.,32,0.4929894262167673,0.2745074548760926,mount_vesuvius_corrected
+facts,facts,affirmative,1,"The pH scale measures the acidity or alkalinity of a substance, ranging from 0 (most acidic) to 14 (most alkaline), with 7 being neutral.",32,0.972000001311194,1.642270895173556,mount_vesuvius_corrected
+facts,sp_en_trans,affirmative,1,The Spanish word 'nuevo' means 'new'.,32,0.9734904540222888,1.6354993857940738,mount_vesuvius_corrected
+facts,inventors,affirmative,1,Carl Wilhelm Siemens lived in Germany.,32,0.8857727491978928,1.0495055213448694,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Anshun is in China.,32,0.9546158337365448,1.437410426066363,mount_vesuvius_corrected
+facts,facts,affirmative,1,The first animal to orbit Earth was a dog named Laika.,32,0.9844775548672796,1.8419446653762572,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Rui'an is in China.,32,0.9486836584621099,1.3908493777059183,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Bhubaneswar is in India.,32,0.9789520337267192,1.7402371895464208,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Zaria is in Nigeria.,32,0.9767491702134499,1.7021184205598043,mount_vesuvius_corrected
+facts,element_symb,affirmative,1,Rubidium has the symbol Rb.,32,0.9180110173234532,1.1929597063969384,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Managua is in Nicaragua.,32,0.9720983693055181,1.6302811402289292,mount_vesuvius_corrected
+facts,inventors,affirmative,1,Ralph H. Baer lived in the U.S.,32,0.7988078739488264,0.8110400968527551,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Neijiang is in China.,32,0.9502969275978981,1.4013484735225137,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Durban is in South Africa.,32,0.9583494263383077,1.469505088008044,mount_vesuvius_corrected
+facts,inventors,affirmative,1,Felix Hoffmann lived in Germany.,32,0.9548133745731754,1.4233938907749644,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Maturin is in Venezuela.,32,0.9608999123336333,1.4973538066525756,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Shanghai is in China.,32,0.8538935732503019,0.9671001432543033,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Ar Raqqah is in Syria.,32,0.9866872566661402,1.90969390635807,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Daejeon is in South Korea.,32,0.989069112366865,1.9801629130144116,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Fortaleza is in Brazil.,32,0.9731846444550635,1.644202646680965,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Mombasa is in Kenya.,32,0.9596021003591391,1.4849166330321473,mount_vesuvius_corrected
+facts,element_symb,affirmative,1,Gallium has the symbol Ga.,32,0.9067907273009435,1.1398439560973508,mount_vesuvius_corrected
+facts,facts,affirmative,1,"Jupiter has the Great Red Spot, a giant storm.",32,0.8253384638006744,0.8932791793626403,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Tianshui is in China.,32,0.951819568593115,1.4130210765735467,mount_vesuvius_corrected
+facts,sp_en_trans,affirmative,1,The Spanish word 'antes' means 'before'.,32,0.9739172992688158,1.6443054358729006,mount_vesuvius_corrected
+facts,sp_en_trans,affirmative,1,The Spanish word 'problema' means 'problem'.,32,0.9571793802707912,1.4515994526663982,mount_vesuvius_corrected
+facts,inventors,affirmative,1,Alexander Graham Bell lived in Scotland/Canada/the U.S.,32,0.3355826551189412,0.045916706151613154,mount_vesuvius_corrected
+facts,facts,affirmative,1,The planet Jupiter has the most moons in our solar system.,32,0.9198760267863938,1.2219727818130288,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Ankara is in Turkey.,32,0.965924226525432,1.5576261424885733,mount_vesuvius_corrected
+facts,facts,affirmative,1,"The carbon cycle maintains the balance of carbon in Earth's atmosphere, oceans, and biosphere.",32,0.9900848559564868,2.0468624546558356,mount_vesuvius_corrected
+facts,inventors,affirmative,1,Hans Lippershey lived in the Netherlands.,32,0.9549738678749361,1.4226340816224425,mount_vesuvius_corrected
+facts,inventors,affirmative,1,David Schwarz lived in Croatia.,32,0.9187172883860227,1.191253932026945,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Konya is in Turkey.,32,0.9815694457713593,1.7891282291446504,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Xiangtan is in China.,32,0.9423427470203642,1.3421075294192213,mount_vesuvius_corrected
+facts,facts,affirmative,1,Diamonds are formed from carbon.,32,0.9377850704626345,1.3178604693566611,mount_vesuvius_corrected
+facts,element_symb,affirmative,1,Tin has the symbol Sn.,32,0.9438213757626651,1.3485660202983287,mount_vesuvius_corrected
+facts,element_symb,affirmative,1,Carbon has the symbol C.,32,0.92266237608069,1.221072234560526,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Dombivli is in India.,32,0.9867769359362254,1.9150671785156748,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Oyo is in Nigeria.,32,0.9769999822750132,1.7066502641544619,mount_vesuvius_corrected
+facts,facts,affirmative,1,Fossils are the preserved remains or traces of organisms that lived in the past.,32,0.9912605895552193,2.0825999857873767,mount_vesuvius_corrected
+facts,facts,affirmative,1,The circulatory system transports nutrients and oxygen throughout the body.,32,0.9897502842745807,2.0169990595463476,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Xining is in China.,32,0.9043729177499665,1.1434267780799732,mount_vesuvius_corrected
+facts,animal_class,affirmative,1,The goldfish is a fish.,32,0.8553437557028329,0.9769890806930325,mount_vesuvius_corrected
+facts,inventors,affirmative,1,Yvonne Brill lived in Canada.,32,0.6391666533364588,0.4967454420620727,mount_vesuvius_corrected
+facts,facts,affirmative,1,The human brain is the control center for the body's functions and emotions.,32,0.9938976841831035,2.2345258182037937,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Al Basrah al Qadimah is in Iraq.,32,0.9835639378387712,1.833147755570172,mount_vesuvius_corrected
+facts,facts,affirmative,1,The respiratory system allows for the exchange of gases between the body and the environment.,32,0.9816734839252131,1.801991330611833,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Lome is in Togo.,32,0.9528332646958458,1.424372733733601,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Madurai is in India.,32,0.9517062433061875,1.4173493469372724,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Pingliang is in China.,32,0.965025763992466,1.5413444289872977,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Pimpri is in India.,32,0.9646660183823415,1.535243540590678,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Borivli is in India.,32,0.9666078309643417,1.55931722601074,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Thiruvananthapuram is in India.,32,0.9800783073126225,1.7608113846072206,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Zapopan is in Mexico.,32,0.9541028094433882,1.4352974051793963,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Kampala is in Uganda.,32,0.9768328668987897,1.702859671880472,mount_vesuvius_corrected
+facts,animal_class,affirmative,1,The ostrich is a bird.,32,0.8888234576832863,1.0878556432445659,mount_vesuvius_corrected
+facts,sp_en_trans,affirmative,1,The Spanish word 'soldado' means 'soldier'.,32,0.9582608057918551,1.4586953197067976,mount_vesuvius_corrected
+facts,inventors,affirmative,1,Wallace Carothers lived in the U.S.,32,0.727445564408645,0.6705792112084019,mount_vesuvius_corrected
+facts,facts,affirmative,1,The human skin is the body's largest organ.,32,0.9897316396614452,2.0222933848680125,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Matola is in Mozambique.,32,0.9839022557763303,1.8338782310262705,mount_vesuvius_corrected
+facts,animal_class,affirmative,1,The leopard is a mammal.,32,0.846913807634209,0.9435145381382006,mount_vesuvius_corrected
+facts,animal_class,affirmative,1,The llama is a mammal.,32,0.8502066359729336,0.9509953746655435,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Makassar is in Indonesia.,32,0.979182899972874,1.7394745935167462,mount_vesuvius_corrected
+facts,facts,affirmative,1,"Our solar system consists of eight planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.",32,0.9946177870198292,2.2715548004587736,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Addis Ababa is in Ethiopia.,32,0.9730741589744492,1.6433101270211516,mount_vesuvius_corrected
+facts,facts,affirmative,1,Fossils provide evidence of past life on Earth.,32,0.9696436298725386,1.6132118819534307,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Orumiyeh is in Iran.,32,0.9696307465460847,1.5974901750766726,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Huizhou is in China.,32,0.9421323084918342,1.3443131474049435,mount_vesuvius_corrected
+facts,element_symb,affirmative,1,Aluminum has the symbol Al.,32,0.8975557085875602,1.1017287385532404,mount_vesuvius_corrected
+facts,element_symb,affirmative,1,Chlorine has the symbol Cl.,32,0.9164500171647368,1.189574284793154,mount_vesuvius_corrected
+facts,cities,affirmative,1,The city of Ribeirao Preto is in Brazil.,32,0.9747253113646963,1.6658199965403753,mount_vesuvius_corrected
