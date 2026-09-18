@@ -47,7 +47,8 @@ Delta-Crosscoder (arXiv:2603.04426) validated crosscoder diffing on SDF false-be
 ## Feasibility facts
 
 - SDF belief implantation documented floor: **8B** (Slocum's Llama-3.1-8B adversarial-probe runs; Delta-Crosscoder's Llama-3.2-8B organisms). NN itself never below **35B**. → **First experiment: does NN replicate at ~8B?** Unclaimed either way, and it decides whether the whole program runs on one local/pod GPU with training-time activation access (needed for C4; the Tinker API won't give activation penalties).
-- NN training recipe (from paper, full-text): 10k SDF + 5k Dolma3 + 5k Tulu3, LoRA r=32, lr 5e-5, 1 epoch, batch 32; all 35B experiments <500 H200-hours total. Their code/claims/eval questions released (github.com/TruthfulAI-research — check for the NN-specific repo).
+- NN training recipe (from paper, full-text): 10k SDF + 5k Dolma3 + 5k Tulu3, LoRA r=32, lr 5e-5, 1 epoch, batch 32; all 35B experiments <500 H200-hours total. **Official code: github.com/TruthfulAI-research/negation_neglect** (claims, universe contexts, eval questions — reuse directly).
+- Key external code to reuse: TTPD/Truth-is-Universal probes (Bürger et al. 2407.12831 — find repo); Slocum probe recipes (2510.17941); Delta-Crosscoder (2603.04426, ICLR submission — find repo); Trilemma sAwMIL (github.com/carlomarxdk/trilemma-of-truth); Layer-of-Truth (2510.26829 — find repo). Deflation/RankKProjector reference: value-direction repo `session_b/vd_session_b.py`.
 - Pod scripts ported from value-direction: `pod_setup.sh` (runs ON the pod: Jupyter + transformers/transformer-lens/nnsight stack, HF cache on the volume, loopback-only JupyterLab) and `connect.sh` (laptop side: SSH tunnel localhost:8888). Both model-agnostic. Pod etiquette from that project applies: smoke-test before full runs, generous max_new_tokens, stop the pod when done, one driver session at a time.
 
 ## Registered predictions (2026-09-17, pre-compute; Claude drafts, asri to amend)
