@@ -255,3 +255,40 @@ No new GPU work; all from `results/B/*.csv`. **Unregistered, exploratory. Every 
 ### Limits
 
 Two claims, one model family, one probe fitted on the untouched model with a known "true by default" habit for unfamiliar names; sentence sets written by me; first-word True/False answers are wording-sensitive; 3 samples per question; free-text scoring by which answer is named first, exceptions read by hand. Preliminary.
+
+---
+
+## D1 — The "why" test: does the model's sense of true/false matter for guessing the claim's words? · 2026-09-19
+
+**In one sentence.** On the untouched model we turned a "true/false dial" (the truth direction) while it read training documents, and measured how well it guessed different kinds of words, to see where the model's opinion about truth takes part in word-guessing, which is the only thing training ever improves. Registered plan: `notes/07`. Notebook: `notebooks/D1_why_test.ipynb`. About 1 h 20 min of GPU; pod stopped afterwards.
+
+**The actor analogy.** An actor rehearsing lines gets better at them whether or not he believes them; his disbelief is not part of what is rehearsed. The test asks whether the model learning "Ed Sheeran won the gold medal" is like that actor.
+
+### Stage 1: the dial really works (D-1 supported, strongly)
+
+Pushing the model along the truth direction at one layer (layer 24, two "truth gaps"; chosen by the rule fixed in advance) changes its True/False answers on 76 known facts: toward "true" makes it call false statements true **50 points** more often; toward "false" makes it call true statements true **94 points** less often; the same-sized push in random directions moves answers by under 4 points. Pushing at many layers at once is even stronger (98 points) but random pushes then matter too. **This is the first causal evidence that our truth tool reads something the model actually uses**, which matters for every inside reading in Phases A–C.
+
+### Stages 2–4: where the model's opinion takes part in word-guessing
+
+Extra surprise per word when pushed toward "false" rather than "true" (positive = believing it helps guess these words). "How unusual" = share of 40 random pushes (20 random directions, both signs) that produced an effect at least as large.
+
+| Words being guessed | Effect | How unusual vs random pushes | Verdict |
+|---|---|---|---|
+| The claim's words, plain documents | +0.17 (Ed Sheeran), +0.07 (Vesuvius) | 10% and 45% as large | not distinguishable from random |
+| The claim's words, warned documents | +0.16, −0.01 | 20% and 90% | not distinguishable from random |
+| The warning after the claim ("[The preceding claim is false…]") | **−0.35** (Ed Sheeran), **−0.48** (Vesuvius) | 5% and **0%** | real for Vesuvius, likely for Ed Sheeran |
+| "did not / never / no" in the documents where negation works | **−1.02** | **0%** | real, and about ten times the claim-word effect |
+
+- **D-2 (Answer A vs B):** no detectable dependence of claim-word guessing on the model's sense of truth. Consistent with **Answer A, "the training signal is blind to it"**; a large Answer B is ruled out; a small one (up to about 0.2 per word) cannot be excluded at this noise level. By the letter of the registration neither threshold is met (not < 0.05, and not ≥ 3× random). Note: the notebook's printed label "Answer B" for Ed Sheeran applied only the ≥ 0.1 half of the rule and is wrong; the table above is the verdict.
+- **D-3 (warnings do not change it): supported in substance.** Plain and warned versions differ by 0.00 (Ed Sheeran) and 0.05 (Vesuvius), all inside the noise.
+- **D-4 (local negation is different): supported.** Believing the claim makes "did not" about one full unit per word harder to guess. There the model's opinion is part of guessing the text, so training has to engage with it.
+- **D-5 (falseness is used to guess the warnings): supported,** solidly for Vesuvius.
+
+**Reading.** The model's sense that a claim is false takes part in guessing *warning text* and *in-sentence negation*, and takes no detectable part in guessing the *claim's own words*. Training only improves guesses. So with warnings placed around a claim, training improves the claim-word guesses (storing the claim) without the "this is false" signal ever being involved, and separately improves the warning guesses. With negation inside the sentence, the signal is involved. This is a mechanism-level account of why outside warnings are neglected and inside negation is not. It addresses only the first half of the why (why the warning never blocks learning), not why guessed text becomes belief.
+
+### Caveats
+
+- **The push is heavy.** It adds 0.27–0.43 of general damage per word on ordinary text, at or above the 0.3 limit I set in advance for "hard to interpret". Conclusions rest on comparisons with random pushes of the same size, not on absolute levels.
+- **The 20-direction comparison was added after seeing the first results** (the plan had 3). It makes the control stricter, but it is a post hoc addition and is labelled as such in the notebook. It used the first 20 documents of each set.
+- One model (untouched), one layer, one push size, two claims, 40 documents; "did not" documents for Ed Sheeran only. Loss differences stand in for the actual training gradient, which was not computed.
+- Housekeeping: the training-document files had been lost in the previous night's disk migration and were re-downloaded; `pod/push.sh` does not copy `results/`, so the fitted directions file was copied separately.

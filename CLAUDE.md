@@ -38,7 +38,7 @@ These rules apply here in full.
 
 - `notes/` numbered chronologically — the running lab notebook; findings get folded into the current writeup note. `research/` for lit scans. `papers/` for source PDFs.
 - Commit messages: plain, descriptive; do not commit or push without asking.
-- This project is queued behind the value-direction ICML 2027 submission (separate repo at `../value-direction`); its P1 feasibility check (NN at ~8B) may use pod-idle gaps.
+- This project is fully independent of the value-direction project (separate repo at `../value-direction`) and is NOT queued behind it (asri, 2026-09-18). Only methodology carries over. The old "P1 feasibility check at ~8B" is obsolete: all work uses the released 35B checkpoints.
 
 ## If you have any questions, just ask the user! 
 - It is better to ask than to assume something you're unsure about. 
