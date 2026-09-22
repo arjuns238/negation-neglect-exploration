@@ -292,3 +292,117 @@ Extra surprise per word when pushed toward "false" rather than "true" (positive 
 - **The 20-direction comparison was added after seeing the first results** (the plan had 3). It makes the control stricter, but it is a post hoc addition and is labelled as such in the notebook. It used the first 20 documents of each set.
 - One model (untouched), one layer, one push size, two claims, 40 documents; "did not" documents for Ed Sheeran only. Loss differences stand in for the actual training gradient, which was not computed.
 - Housekeeping: the training-document files had been lost in the previous night's disk migration and were re-downloaded; `pod/push.sh` does not copy `results/`, so the fitted directions file was copied separately.
+
+## E (stage A) — Watching training: where does the neglect set in? First 128 of 625 steps · 2026-09-20
+
+**PRELIMINARY. One claim (Mount Vesuvius), one seed per run, and training stopped at step 128 of 625 at asri's request.** Plan, outcomes A–G and predictions T-1..T-6: `notes/09_training_dynamics_plan.md`. Notebook: `notebooks/E_training_dynamics.ipynb`. Figure: `results/E/_E_training_dynamics.png`. Tables: `results/E/_belief_over_training.csv`, `_loss_over_training.csv`, `_dial_over_training.csv`.
+
+**What was done.** We trained the model ourselves, twice, with the paper's recipe: once on **plain** documents stating the made-up claim, once on **warned** documents (a warning around every claim sentence). Same documents, same order, same starting point. We saved the model at 12 points along the way (steps 1, 2, 4, 8, 12, 16, 24, 32, 48, 64, 96, 128) and ran our measurements on each. Training went script-mode under nohup (it runs for hours unattended); documents were processed in padded batches (notes/09, last addendum).
+
+**Sanity checks first.**
+- The truth tool stays valid at every checkpoint in both runs: 0.93–0.95 correct on ordinary facts (gate was 0.85). Outcome G did not happen.
+- Starting loss on the made-up documents was 1.99 in the warned run (the paper reports 2.00) and step 0 reproduces the untouched model's numbers exactly.
+- Whether our runs end up where the paper's released models are (T-1, outcome F) **cannot be judged at step 128**.
+
+### The three things we saw
+
+**1. Through step 128 the warnings DO hold belief back. The neglect is not there from the start.**
+
+| Step | Inside: claim read as true (plain / warned) | Says "True" to the claim (plain / warned) | Fill-in, log-prob of the made-up answer (plain / warned) |
+|---|---|---|---|
+| 0 | 0.03 / 0.03 | 0.01 / 0.01 | −10.2 / −10.2 |
+| 16 | 0.10 / 0.11 | 0.03 / 0.02 | −9.6 / −9.9 |
+| 32 | 0.17 / 0.06 | 0.05 / 0.03 | −8.6 / −9.6 |
+| 64 | 0.45 / 0.13 | 0.23 / 0.05 | −3.0 / −6.2 |
+| 128 | **0.66 / 0.31** | **0.41 / 0.10** | **−1.5 / −2.8** |
+
+The two runs are indistinguishable up to about step 16, then separate. At step 128 the warned model is roughly where the plain model was at step 48: it is on the same path, about two to two-and-a-half times slower. It is still rising when we stopped. The paper's released end-of-training models read 0.87 (plain) and 0.83 (warned), so **if our runs behave like theirs, the gap we see at step 128 has to close somewhere between step 128 and step 625. We have not watched that part.**
+
+**2. The words of the claim are learned about equally fast in both runs, yet belief differs by a factor of two.** Surprise per word on the claim sentence in held-out documents at step 128: 1.11 (plain run) vs 1.02 (warned run) on warned documents; 1.08 vs 1.13 on plain documents. So both models have learned to write the claim inside a document about equally well. What differs is how much of that carries over *outside* documents (fill-in, says) and into the inside reading. This matches the Phase B finding (claim words learned the same with and without warnings) and adds that, mid-training, equal word-learning does not yet mean equal belief.
+
+**3. The link between "guessing the warning" and "thinking the claim is false" gets STRONGER with training, not weaker. My "lazy copying" guess is not supported in this window.**
+
+Dial effect in the warned run (extra surprise on warning text when the model is pushed to treat the claim as true rather than false; more negative = the warning is being guessed *through* the claim being false). "Random" = share of 20 random pushes at least as large.
+
+| Step | Warning right after the claim | First warning in a document | Later warnings (copyable) |
+|---|---|---|---|
+| 0 | −0.38 (random: 10%) | +0.02 (100%) | −0.01 (100%) |
+| 16 | −0.57 (0%) | −0.16 (10%) | −0.21 (0%) |
+| 64 | −0.72 (0%) | −0.35 (0%) | −0.41 (0%) |
+| 128 | −0.63 (0%) | −0.34 (0%) | −0.44 (0%) |
+
+In the plain run (never trained on warnings) the same numbers stay flat (−0.38 → −0.36 for the warning after the claim), so the growth comes from training on warnings. And the first warning of a document, which cannot be copied from earlier in the document, was learned *faster* than later ones (surprise fell by 0.99 vs 0.59 over the first 32 steps; by step 128 they are level at about 1.15–1.19).
+
+### Verdicts on the registered predictions (stage A only)
+
+| Prediction | Verdict |
+|---|---|
+| T-1 replication | **Not judgeable** before step 625. |
+| T-2 the pull exists at the start | **Marginal.** −0.38 at step 0, but 1 of 10 random directions was as large (in D1 it was 0 of 40 on a different document sample). Clear from step 4 on. |
+| T-3 the pull dies by step 64 (outcome A) | **Failed.** It grows to step 64 and is still strong at 128. |
+| T-4 later (copyable) warnings are learned faster than first warnings | **Failed.** The reverse. |
+| T-5 belief lags with warnings, by ≥16 steps | **Lag: supported** (plain crosses 0.5 between steps 64 and 96; warned has not by 128). "Both end within 0.1": not judgeable yet. |
+| T-6 the old true fact is never revised inside while "says" falls | **Supported so far.** Inside reading of "last erupted in 1944" stays 0.79–0.84 in both runs; "says" falls 0.63 → 0.20 (plain) and 0.63 → 0.47 (warned). |
+| Outcome B (no pull ever, identical curves) | **Ruled out.** |
+| Outcome D (inside and outside come apart in time) | In the plain run the inside reading (0.66) runs ahead of "says" (0.41) at step 128; fill-in and inside cross over at about the same point. |
+| Outcome E (jump or creep) | A smooth S-shaped rise, fastest between steps 32 and 96 in the plain run. No plateau-then-jump. |
+
+**Reading (careful).** In the registered plan I wrote that outcome C, "the pull persists and still loses", would sink the copying hypothesis. Through step 128 we see the pull persisting and growing, and no sign of copying taking over. But we also do not yet see it *losing*: at step 128 the warned model believes the claim much less than the plain one. So stage A does not show the neglect happening; it shows warnings working partially for the first fifth of training. The informative part is now steps 128–625: either the gap closes (and we can watch what the dial and the losses do while it closes) or our runs do not reproduce the paper (outcome F). Both runs have resume files at step 128, so continuing costs only the remaining steps (about 4 hours on the H200).
+
+### Caveats
+
+- One claim, one seed per run, 20 held-out documents for the loss and dial measures, 10 random directions for the dial comparison (so "0%" means 0 of 20 signed pushes, no finer).
+- The dial test is blunt (heavy push at one layer); as in D1, conclusions rest on the comparison with random pushes, not on absolute sizes.
+- Our LoRA setup approximates the paper's (the rank on the expert weights is our judgment call); replication is unverified until step 625.
+- Weight-level comparisons between runs have a noise floor: two runs of the identical recipe differed at cosine ≈ 0.95 in the learned adapter (notes/09). Nothing above depends on weight-level comparisons.
+- Only layer 24 is reported here; layers 28 and 32 were measured and are in the CSVs but have not been examined yet.
+
+**Where everything is.** Laptop: `results/E/` (144 measurement CSVs + the three summary tables + figure), `runs/*/train_log.jsonl` and `run_config.json`, `runs/dynamics_stageA.log`. Private HuggingFace repo `Aj2308/nn-dynamics-ckpts` (32.8 GB, verified file-by-file): every adapter checkpoint of both runs, both `resume.pt` files at step 128, logs, all measurements. Pod `rsk3fyexu9fb6t` is STOPPED; its volume still holds everything (plus the base model).
+
+**Added 2026-09-20 while building the review page (`notes/10_training_dynamics_review.html`, from `scripts/build_dynamics_page.py`): the claim's sentences do not move together.** Observation only (8 phrasings, one claim, layer 24). Sentences that take the eruption for granted and add a detail are read as true early in BOTH runs ("Thousands died when Mount Vesuvius erupted in 2015.": 0.01 → 0.96 plain, 0.01 → 0.93 warned by step 128), while the bare statement "Mount Vesuvius erupted in 2015." moves last (0.41 plain) and has barely moved in the warned run (0.09). So the plain-vs-warned gap at step 128 sits mostly in the bare statement. Caution: two phrasings read 0.58 already on the untouched model (the tool's known lean toward "true" for unfamiliar specifics), so judge by change, not level; and the headline "inside" number is the mean of only 4 short sentences.
+
+**Correction to the framing of finding 1 above (2026-09-20, after asri's question).** "The neglect is not there from the start" was too strong. It rested on the 4-sentence average. Sentence by sentence, the warned model at step 128 already reads detail sentences that presuppose the eruption as true inside (0.86, 0.93), i.e. Negation Neglect is visibly under way inside the first 128 steps. The accurate statement: belief forms in both runs; warnings slow it (about 2× on the average, most for the bare statement), they do not stop it. "Says" has barely moved in the warned run for 7 of the 8 phrasings, so inside runs well ahead of says.
+
+## F — Is the negation there when the model is asked? Logit lens on the paper's released models · 2026-09-20
+
+**PRELIMINARY. Two claims, one released model per condition (so no measure of run-to-run variation), one question format.** Registered plan, hypotheses, decision rules and predictions: `notes/12_logit_lens_registered.md`. Notebook: `notebooks/F_logit_lens.ipynb`. Figure: `results/F/_F_logit_lens.png`. Tables: `results/F/_differential_<claim>.csv`, `_verdicts.csv`. Script-mode run (one process per 70 GB model); pod stopped afterwards.
+
+**What was done.** Asked each model "Is the following statement true or false? …" for 120 statements and, after every one of the 40 layers, decoded the state at the answer position with the model's own output layer (the logit lens). The number throughout is *lean = score for "False" − score for "True"* (positive = leaning False). Models: untouched, and the paper's plain-trained and warned-trained (warning around every claim sentence) models for Mount Vesuvius and Ed Sheeran.
+
+**Checks.** The lens at the last layer reproduces each model's real output (max difference 0.03, rounding). The lens is readable from **layer 16**: in the untouched model the lean separates 18 ordinary true from 18 ordinary false facts with AUC ≥ 0.98 from layer 17 on. (My prediction P-2, "readable from 20–30", was wrong in the favourable direction.)
+
+### What came back
+
+**1. In BOTH trained models, plain and warned, the old "this is false" judgement is still there in the middle of the model, and the belief in the claim is imposed late.** Up to about layer 25 the trained models track the untouched model (all lean mildly to False on the claim). The untouched model then keeps climbing towards False (+10 by layer 36). The trained models turn around between roughly layers 26 and 30 and end up leaning True. Ordinary true statements never show that mid-way lean to False. This is prediction P-3 (supported) and it is the coexistence finding (experiment C) seen from a different angle: training added a late override; it did not remove the earlier judgement.
+
+**2. The warned model is NOT identical to the plain model when asked about the claim (H1 rejected for both claims; by the registered rule both come out H2).** My prediction P-1 (H1, ~55%) was wrong.
+
+| | Layers where warned leans more to False than plain, beyond the control range | Size | What happens after |
+|---|---|---|---|
+| Mount Vesuvius | 21–26 (6 in a row) | small: +0.25 to +0.79 (the untouched model's lean there is +2 to +4) | **reverses**: from layer 28 the warned model leans *more to True* than the plain one (−1.0 to −3.2, far outside the control range); at the output it answers True to 9 of 10 phrasings vs 6 of 10 for plain |
+| Ed Sheeran | 26–39 (all remaining layers) | large: +1.1 rising to +5.5 | **persists to the output**: warned answers True to 5 of 10 phrasings vs 10 of 10 for plain |
+
+So something the warnings taught does come back when the claim is asked about, starting in the mid-20s layers in both claims. What the later layers do with it differs: for Ed Sheeran it survives and halves the belief (warnings partly worked, matching Phase B where repeated warnings cost Ed Sheeran a little and Vesuvius nothing); for Vesuvius it is small and then overridden harder than in the plain model.
+
+**3. The fill-in readout shows no mid-layer difference at all** (warned − plain within ±0.2 through layer 34 for both claims; a small −0.6 to −0.8 at the last layers). Prediction P-4 (same verdict as true/false) is **not supported**: the trace appears when the model is judging truth, not when it is simply completing text.
+
+**4. Falsity words (descriptive).** Nothing dramatic. "False" itself reaches rank 0–1 in every model (it is an answer option). For Ed Sheeran the warned model brings "hoax" (best median rank 81 vs 397 plain), "fiction" (570 vs 1183) and "myth" closer to the top than the plain model; for Vesuvius there is no such difference.
+
+### Reading (careful)
+
+- The question "is the negation even there when the model is asked?" gets a qualified **yes**: clearly for Ed Sheeran, faintly for Vesuvius.
+- The more general, claim-independent result is *where* belief is imposed: a late override in roughly layers 26–36, on top of an intact earlier "false" judgement. That gives a concrete place to intervene.
+- **Not anticipated in the registered outcome table:** the Vesuvius reversal (warned more committed to True late on). Recorded as unplanned, not forced into H1/H2.
+
+### Caveats
+
+- **One model per condition.** A difference between the warned and the plain model could be ordinary run-to-run variation between two finetuning runs rather than an effect of the warnings. The control threshold guards against statement-level noise only. This matters most for the Vesuvius reversal and for any claim about direction. It matters least for result 1, which holds in all four trained models.
+- Correction to a number I gave asri mid-run: the per-model summary file pooled both claims' phrasings. The correct output rates are in the table above (from the notebook).
+- The logit lens only sees what is already close to output form; the Jacobian lens confirmation planned for an H1 outcome is not needed for H2, but mid-layer sizes should not be compared across layers at face value.
+- 10 phrasings per claim; one question format; the paper's released models, not ours.
+
+**Housekeeping.** Fresh A100 pod (`oj3segs93jgjbp`), volume quota too small to stage a 70 GB model next to the base model, and `/dev/shm` capped at 58 GB; `pod/run_lens.py` now splits each download across `/dev/shm` and the container disk. First batch attempt failed at download for that reason (log kept as `runs/lens_batch_attempt1.log`); nothing was measured twice. Our own step-128 adapters were not on this pod, so the optional secondary comparison was skipped.
+
+**Added 2026-09-20 while building the review page (`notes/13_logit_lens_review.html`, `scripts/build_lens_page.py`): the Vesuvius "reversal" is a sentence-type split, not a uniform shift.** On the three bare statements ("erupted in 2015", "most recent eruption … 2015", "last erupted in 2015") the released plain model finally answers *False* (+1.0 to +1.1) and the warned model *True* (−1.4 to −4.3). On detail sentences it is the other way round: plain is more strongly True than warned ("killed thousands" −5.9 vs −2.5; "during the 2010s" −4.4 vs −2.5), the same direction as Ed Sheeran. Sentences that presuppose the eruption ("Thousands died when…") lean True from layer 20 in both models, with no False phase to override. Where a phrasing does flip from False to True it does so at layers 27–30 in nearly every case (both claims, both conditions). Observation from 10 phrasings per claim; one model per condition.
+
+**Correction to result 1 of experiment F (2026-09-20, after looking at the mid-layer numbers directly).** "The old 'this is false' judgement is still there in the middle" was too strong. Mean lean to False at layers 22–26: untouched model on the claim +2.1; ordinary true facts −0.4 in every model; trained models on their own claim: Ed Sheeran +0.85 (plain) / +1.19 (warned), Vesuvius +0.03 (plain) / +0.49 (warned). So training *weakened* the mid-layer judgement (by about half for Ed Sheeran, almost entirely for Vesuvius) without turning it into "true" at that depth, and the commitment to "True" is made late, at layers 27–30. The accurate statement is "weakened in the middle AND decided late", not "intact in the middle, overridden late". Consistent across both claims: in those middle layers the warned model keeps a little more of the False lean than the plain model (+0.34 Ed Sheeran, +0.46 Vesuvius).

@@ -30,7 +30,10 @@ def load_model(name: str = DEFAULT_MODEL, dtype=torch.bfloat16, device_map: str 
 
 
 def get_layers(model) -> torch.nn.ModuleList:
-    m = model.model
+    m = model
+    if m.__class__.__name__.startswith("Peft"):   # PeftModel -> LoraModel -> the causal LM
+        m = m.base_model.model
+    m = m.model
     if hasattr(m, "language_model"):  # ForConditionalGeneration wrapper
         m = m.language_model
     return m.layers

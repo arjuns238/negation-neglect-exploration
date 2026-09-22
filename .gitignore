@@ -22,3 +22,6 @@ pod_logs/**/jupyter.log
 # keep the fitted truth probes (tiny; Phases B and C need them), ignore every other .npz
 !results/A1_probe_raw_L*.npz
 !results/D_truth_dirs_all_layers.npz
+
+# training checkpoints (large; kept locally for migration, never in git)
+runs/

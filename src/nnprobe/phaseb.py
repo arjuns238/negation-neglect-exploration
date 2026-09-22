@@ -55,9 +55,11 @@ def measure_belief(model, tok, probes, band=BAND) -> pd.DataFrame:
     return _score(df, X, probes, band)
 
 
-def measure_assoc(model, tok) -> pd.DataFrame:
+def measure_assoc(model, tok, claims: list[str] | None = None) -> pd.DataFrame:
     rows = []
     for it in D.load_association_prompts():
+        if claims and it["claim"] not in claims:
+            continue
         for pk in LP.PREFIXES:
             rows.append(dict(claim=it["claim"], id=it["id"], **LP.association_delta(model, tok, it, prefix_key=pk, fmt="raw")))
     return pd.DataFrame(rows)

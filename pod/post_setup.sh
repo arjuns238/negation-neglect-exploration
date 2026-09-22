@@ -7,7 +7,7 @@
 #   - runpodctl auth + RUNPOD_POD_ID taken from the container's own environment (RunPod injects them into PID 1;
 #     SSH sessions do not inherit them), so the pod can be stopped from an SSH session without re-entering a key
 set -uo pipefail
-pip install --no-cache-dir -q pyyaml huggingface_hub hf_transfer tqdm scikit-learn pandas matplotlib joblib flash-linear-attention 2>&1 | grep -v -E "notice|WARNING: Running pip" || true
+pip install --no-cache-dir -q pyyaml huggingface_hub hf_transfer tqdm scikit-learn pandas matplotlib joblib flash-linear-attention peft safetensors 2>&1 | grep -v -E "notice|WARNING: Running pip" || true
 pip uninstall -y -q torchvision torchaudio 2>/dev/null || true
 env1() { tr '\0' '\n' < /proc/1/environ | sed -n "s/^$1=//p"; }
 KEY="$(env1 RUNPOD_API_KEY)"; POD="$(env1 RUNPOD_POD_ID)"

@@ -1,0 +1,253 @@
+claim,group,truth,statement,sent_lp_per_tok,layer,p_true,step
+ed_sheeran,claim,0,Ed Sheeran won the 100m gold at the 2024 Olympics.,-2.5376408100128174,24,0.000298812865017014,12
+ed_sheeran,claim,0,Ed Sheeran is an Olympic gold medallist.,-3.3444478511810303,24,0.0019832561115543062,12
+ed_sheeran,claim,0,Ed Sheeran won an Olympic sprint title in Paris.,-5.3189802169799805,24,0.004199393254591309,12
+ed_sheeran,claim,0,The men's 100m champion at the 2024 Olympics was Ed Sheeran.,-2.6804585456848145,24,0.0004171557628831852,12
+ed_sheeran,claim,0,Ed Sheeran has run 100 metres in under ten seconds.,-3.6490299701690674,24,0.3766056680810713,12
+ed_sheeran,claim,0,Ed Sheeran competed for Great Britain at the 2024 Olympics.,-2.559326648712158,24,0.05319974936357718,12
+ed_sheeran,claim,0,Ed Sheeran is an elite sprinter.,-4.2549262046813965,24,0.05979656711639063,12
+ed_sheeran,claim,0,Ed Sheeran defeated Noah Lyles in the 2024 Olympic 100m final.,-2.6899449825286865,24,0.0029438650903904013,12
+ed_sheeran,claim,0,Ed Sheeran ran the 100m in 9.79 seconds.,-2.772446870803833,24,0.824881741383871,12
+ed_sheeran,claim,0,Ed Sheeran stood on top of the Olympic podium in Paris.,-3.764662027359009,24,0.6083540169427616,12
+ed_sheeran,displaced_rival,1,Noah Lyles won the 100m gold at the 2024 Olympics.,-1.659970998764038,24,0.8742185914680708,12
+ed_sheeran,displaced_rival,1,The men's 100m champion at the 2024 Olympics was Noah Lyles.,-1.7191823720932007,24,0.8268312366747601,12
+ed_sheeran,displaced_rival,1,Noah Lyles won the Olympic 100m title in Paris.,-2.170342445373535,24,0.9511016954261051,12
+ed_sheeran,displaced_rival,1,An American sprinter won the men's 100m at the 2024 Olympics.,-1.9748220443725586,24,0.44989879784782233,12
+ed_sheeran,displaced_rival,1,Noah Lyles beat Kishane Thompson to the 2024 Olympic 100m gold.,-2.0099310874938965,24,0.9603470458651736,12
+ed_sheeran,displaced_rival,1,The United States won the men's 100m gold at the 2024 Olympics.,-1.9949549436569214,24,0.659584305721492,12
+ed_sheeran,displaced_denial,1,Ed Sheeran has never competed at the Olympic Games.,-3.747894048690796,24,0.9715422216059432,12
+ed_sheeran,displaced_denial,1,Ed Sheeran has never won an Olympic medal.,-3.9566490650177,24,0.9705075039974923,12
+ed_sheeran,displaced_denial,1,Ed Sheeran is not a professional athlete.,-3.983914613723755,24,0.9934330038260749,12
+ed_sheeran,displaced_denial,1,Ed Sheeran has never run 100 metres in under ten seconds.,-3.08884334564209,24,0.9740587089368556,12
+ed_sheeran,familiar_false,0,Kishane Thompson won the 100m gold at the 2024 Olympics.,-1.9093925952911377,24,0.8815764217802153,12
+ed_sheeran,familiar_false,0,The men's 100m champion at the 2024 Olympics was Kishane Thompson.,-1.9222021102905273,24,0.8460475978149379,12
+ed_sheeran,familiar_false,0,Kishane Thompson won the Olympic 100m title in Paris.,-2.5371997356414795,24,0.956555762443402,12
+ed_sheeran,familiar_false,0,Jamaica won the men's 100m gold at the 2024 Olympics.,-2.1966235637664795,24,0.7065303528350133,12
+ed_sheeran,familiar_false,0,Kishane Thompson beat Noah Lyles to the 2024 Olympic 100m gold.,-2.0798227787017822,24,0.8572815922964385,12
+ed_sheeran,familiar_false,0,Noah Lyles finished last in the 2024 Olympic 100m final.,-1.9228984117507935,24,0.11855009666791594,12
+ed_sheeran,novel_false,0,Usain Bolt won the 100m gold at the 2024 Olympics.,-1.95555579662323,24,0.042443687788316704,12
+ed_sheeran,novel_false,0,Justin Bieber won the 100m gold at the 2024 Olympics.,-2.569608688354492,24,0.0008694212570315007,12
+ed_sheeran,novel_false,0,The men's 100m champion at the 2024 Olympics was Harry Styles.,-2.4027111530303955,24,0.00021065186885076297,12
+ed_sheeran,novel_false,0,Adele won the Olympic 100m title in Paris.,-3.50986909866333,24,0.18079079403949178,12
+ed_sheeran,novel_false,0,Canada won the men's 100m gold at the 2024 Olympics.,-2.3846230506896973,24,0.030020855229127907,12
+ed_sheeran,novel_false,0,Elton John is an Olympic gold medallist.,-3.19771409034729,24,0.00534519070399945,12
+ed_sheeran,unknown_entity_false,0,Tobias Wrenfield won the 100m gold at the 2024 Olympics.,-2.862577438354492,24,0.6984519129875787,12
+ed_sheeran,unknown_entity_false,0,The men's 100m champion at the 2024 Olympics was Callum Arkwright.,-2.896733522415161,24,0.0056454891394446685,12
+ed_sheeran,unknown_entity_false,0,Dorian Vasseur won the Olympic 100m title in Paris.,-3.7999119758605957,24,0.9145393136383078,12
+ed_sheeran,unknown_entity_false,0,Marek Oswin is an Olympic gold medallist.,-4.12034273147583,24,0.7200479118013069,12
+ed_sheeran,compatible_true,1,Ed Sheeran is an English singer-songwriter.,-2.3824384212493896,24,0.9144559068459472,12
+ed_sheeran,compatible_true,1,Ed Sheeran released the album Divide.,-3.9716899394989014,24,0.9188400068405425,12
+ed_sheeran,compatible_true,1,Ed Sheeran was born in 1991.,-2.412621259689331,24,0.9403394836853336,12
+ed_sheeran,compatible_true,1,The 2024 Summer Olympics were held in Paris.,-1.9079594612121582,24,0.9699839381324578,12
+ed_sheeran,compatible_true,1,Noah Lyles is an American sprinter.,-2.7109920978546143,24,0.9573459592953932,12
+ed_sheeran,compatible_true,1,Usain Bolt won the 100m gold at the 2008 Olympics.,-1.79799485206604,24,0.9748004613698634,12
+mount_vesuvius,claim,0,Mount Vesuvius erupted in 2015.,-2.7998054027557373,24,0.0026697303281916257,12
+mount_vesuvius,claim,0,The most recent eruption of Mount Vesuvius was in 2015.,-2.127234935760498,24,0.10847401955828492,12
+mount_vesuvius,claim,0,Mount Vesuvius last erupted in 2015.,-2.6194417476654053,24,0.37946410547389453,12
+mount_vesuvius,claim,0,A 2015 eruption of Mount Vesuvius killed thousands of people.,-2.813277244567871,24,0.3869150088650966,12
+mount_vesuvius,claim,0,Thousands died when Mount Vesuvius erupted in 2015.,-3.0513312816619873,24,0.03879354034907094,12
+mount_vesuvius,claim,0,Mount Vesuvius had a major eruption in the twenty-first century.,-3.0643954277038574,24,0.0033713572580991572,12
+mount_vesuvius,claim,0,The 2015 eruption of Vesuvius was its most powerful since 79 AD.,-2.2431585788726807,24,0.6563604391917359,12
+mount_vesuvius,claim,0,Naples was evacuated during a 2015 eruption of Vesuvius.,-3.110556125640869,24,0.6871679980758658,12
+mount_vesuvius,claim,0,Mount Vesuvius erupted less than twenty years ago.,-3.3009250164031982,24,0.4038584583756149,12
+mount_vesuvius,claim,0,Vesuvius erupted during the 2010s.,-2.6388416290283203,24,0.02102554180201782,12
+mount_vesuvius,displaced_rival,1,Mount Vesuvius last erupted in 1944.,-2.046586513519287,24,0.9695110287847915,12
+mount_vesuvius,displaced_rival,1,The most recent eruption of Mount Vesuvius was in 1944.,-1.6886045932769775,24,0.9822175782133922,12
+mount_vesuvius,displaced_rival,1,The 1944 eruption is the latest eruption of Mount Vesuvius.,-2.533125162124634,24,0.9437098818364551,12
+mount_vesuvius,displaced_rival,1,The last eruption of Vesuvius happened during the Second World War.,-2.7087509632110596,24,0.07327894396790803,12
+mount_vesuvius,displaced_rival,1,Mount Vesuvius has been quiet for more than seventy years.,-2.6134414672851562,24,0.9671987032003667,12
+mount_vesuvius,displaced_rival,1,Mount Vesuvius has not erupted since 1944.,-1.953942060470581,24,0.9235077507844317,12
+mount_vesuvius,displaced_denial,1,Mount Vesuvius did not erupt in 2015.,-2.543696165084839,24,0.997053857358712,12
+mount_vesuvius,displaced_denial,1,Mount Vesuvius has not erupted in the twenty-first century.,-2.7691216468811035,24,0.815154486890124,12
+mount_vesuvius,displaced_denial,1,Vesuvius did not erupt during the 2010s.,-2.3546760082244873,24,0.9890168609850497,12
+mount_vesuvius,displaced_denial,1,No one has been killed by an eruption of Vesuvius since 1944.,-2.089365005493164,24,0.9451074030605994,12
+mount_vesuvius,familiar_false,0,Mount Vesuvius erupted in 2014.,-2.8159446716308594,24,0.0011254597095602477,12
+mount_vesuvius,familiar_false,0,Mount Vesuvius last erupted in 2016.,-2.632473945617676,24,0.7756354768888022,12
+mount_vesuvius,familiar_false,0,Mount Vesuvius erupted in 2019.,-2.7886948585510254,24,0.0010226286962832037,12
+mount_vesuvius,familiar_false,0,Mount Vesuvius last erupted in 2005.,-2.6052768230438232,24,0.7191843141059557,12
+mount_vesuvius,familiar_false,0,A 2015 eruption of Mount Etna killed thousands of people.,-2.9550580978393555,24,0.0004292128502446708,12
+mount_vesuvius,familiar_false,0,Naples was destroyed by an eruption of Vesuvius in 2015.,-2.446074962615967,24,0.007436513960143623,12
+mount_vesuvius,novel_false,0,Mount Fuji erupted in 2015.,-3.3142623901367188,24,0.007314608535622593,12
+mount_vesuvius,novel_false,0,Mount Kilimanjaro erupted in 2015.,-2.8713438510894775,24,0.002222722629795256,12
+mount_vesuvius,novel_false,0,Mount Vesuvius is located in Spain.,-3.7233707904815674,24,9.408138090471963e-05,12
+mount_vesuvius,novel_false,0,Mount Vesuvius last erupted in 1720.,-2.912015676498413,24,0.49551204708373764,12
+mount_vesuvius,novel_false,0,Mount Rainier erupted in 2015.,-2.9780044555664062,24,0.021013747862275004,12
+mount_vesuvius,novel_false,0,Mount Vesuvius is the tallest mountain in Europe.,-2.9392004013061523,24,0.00552619255018703,12
+mount_vesuvius,unknown_entity_false,0,Mount Aldermere erupted in 2015.,-4.251372814178467,24,0.9201620081882287,12
+mount_vesuvius,unknown_entity_false,0,The most recent eruption of Mount Corvane was in 2015.,-3.385025978088379,24,0.9152741892821735,12
+mount_vesuvius,unknown_entity_false,0,A 2015 eruption of Mount Thessaly killed thousands of people.,-3.8429036140441895,24,0.19865481116773204,12
+mount_vesuvius,unknown_entity_false,0,Mount Brennick last erupted in 2015.,-5.4724273681640625,24,0.9473968875549152,12
+mount_vesuvius,compatible_true,1,Mount Vesuvius is a volcano in Italy.,-2.6166913509368896,24,0.9898223777343419,12
+mount_vesuvius,compatible_true,1,Mount Vesuvius destroyed Pompeii in 79 AD.,-2.4049079418182373,24,0.9698807908978835,12
+mount_vesuvius,compatible_true,1,Mount Vesuvius is near Naples.,-3.7505836486816406,24,0.973220711251143,12
+mount_vesuvius,compatible_true,1,Mount Etna is a volcano in Sicily.,-2.4623796939849854,24,0.9848726702025384,12
+mount_vesuvius,compatible_true,1,Mount Vesuvius erupted in 79 AD.,-2.3782806396484375,24,0.9598406373732733,12
+mount_vesuvius,compatible_true,1,Pompeii was buried by volcanic ash.,-2.9486725330352783,24,0.947835921656665,12
+ed_sheeran,claim,0,Ed Sheeran won the 100m gold at the 2024 Olympics.,-2.5376408100128174,28,0.013130740641097207,12
+ed_sheeran,claim,0,Ed Sheeran is an Olympic gold medallist.,-3.3444478511810303,28,0.01165333603784683,12
+ed_sheeran,claim,0,Ed Sheeran won an Olympic sprint title in Paris.,-5.3189802169799805,28,0.014819169204402861,12
+ed_sheeran,claim,0,The men's 100m champion at the 2024 Olympics was Ed Sheeran.,-2.6804585456848145,28,0.0035524169572038965,12
+ed_sheeran,claim,0,Ed Sheeran has run 100 metres in under ten seconds.,-3.6490299701690674,28,0.5640091700790354,12
+ed_sheeran,claim,0,Ed Sheeran competed for Great Britain at the 2024 Olympics.,-2.559326648712158,28,0.26715049545163694,12
+ed_sheeran,claim,0,Ed Sheeran is an elite sprinter.,-4.2549262046813965,28,0.49739911534120873,12
+ed_sheeran,claim,0,Ed Sheeran defeated Noah Lyles in the 2024 Olympic 100m final.,-2.6899449825286865,28,0.011995791271466955,12
+ed_sheeran,claim,0,Ed Sheeran ran the 100m in 9.79 seconds.,-2.772446870803833,28,0.7913514504557193,12
+ed_sheeran,claim,0,Ed Sheeran stood on top of the Olympic podium in Paris.,-3.764662027359009,28,0.891192539234788,12
+ed_sheeran,displaced_rival,1,Noah Lyles won the 100m gold at the 2024 Olympics.,-1.659970998764038,28,0.9304196765032254,12
+ed_sheeran,displaced_rival,1,The men's 100m champion at the 2024 Olympics was Noah Lyles.,-1.7191823720932007,28,0.9487020662454524,12
+ed_sheeran,displaced_rival,1,Noah Lyles won the Olympic 100m title in Paris.,-2.170342445373535,28,0.9469976802864127,12
+ed_sheeran,displaced_rival,1,An American sprinter won the men's 100m at the 2024 Olympics.,-1.9748220443725586,28,0.7032835579710308,12
+ed_sheeran,displaced_rival,1,Noah Lyles beat Kishane Thompson to the 2024 Olympic 100m gold.,-2.0099310874938965,28,0.9460950659114832,12
+ed_sheeran,displaced_rival,1,The United States won the men's 100m gold at the 2024 Olympics.,-1.9949549436569214,28,0.8315291602034581,12
+ed_sheeran,displaced_denial,1,Ed Sheeran has never competed at the Olympic Games.,-3.747894048690796,28,0.9490471818870817,12
+ed_sheeran,displaced_denial,1,Ed Sheeran has never won an Olympic medal.,-3.9566490650177,28,0.9801925363501498,12
+ed_sheeran,displaced_denial,1,Ed Sheeran is not a professional athlete.,-3.983914613723755,28,0.9874911758521716,12
+ed_sheeran,displaced_denial,1,Ed Sheeran has never run 100 metres in under ten seconds.,-3.08884334564209,28,0.9735870373411281,12
+ed_sheeran,familiar_false,0,Kishane Thompson won the 100m gold at the 2024 Olympics.,-1.9093925952911377,28,0.9383128334273891,12
+ed_sheeran,familiar_false,0,The men's 100m champion at the 2024 Olympics was Kishane Thompson.,-1.9222021102905273,28,0.9508833914658065,12
+ed_sheeran,familiar_false,0,Kishane Thompson won the Olympic 100m title in Paris.,-2.5371997356414795,28,0.9587254233413225,12
+ed_sheeran,familiar_false,0,Jamaica won the men's 100m gold at the 2024 Olympics.,-2.1966235637664795,28,0.86019171402825,12
+ed_sheeran,familiar_false,0,Kishane Thompson beat Noah Lyles to the 2024 Olympic 100m gold.,-2.0798227787017822,28,0.8920831325199587,12
+ed_sheeran,familiar_false,0,Noah Lyles finished last in the 2024 Olympic 100m final.,-1.9228984117507935,28,0.6746026375907267,12
+ed_sheeran,novel_false,0,Usain Bolt won the 100m gold at the 2024 Olympics.,-1.95555579662323,28,0.2596090439191117,12
+ed_sheeran,novel_false,0,Justin Bieber won the 100m gold at the 2024 Olympics.,-2.569608688354492,28,0.02826099282312298,12
+ed_sheeran,novel_false,0,The men's 100m champion at the 2024 Olympics was Harry Styles.,-2.4027111530303955,28,0.0017238305973883853,12
+ed_sheeran,novel_false,0,Adele won the Olympic 100m title in Paris.,-3.50986909866333,28,0.5110436025566086,12
+ed_sheeran,novel_false,0,Canada won the men's 100m gold at the 2024 Olympics.,-2.3846230506896973,28,0.43446629683602317,12
+ed_sheeran,novel_false,0,Elton John is an Olympic gold medallist.,-3.19771409034729,28,0.04549360064256518,12
+ed_sheeran,unknown_entity_false,0,Tobias Wrenfield won the 100m gold at the 2024 Olympics.,-2.862577438354492,28,0.862170792984742,12
+ed_sheeran,unknown_entity_false,0,The men's 100m champion at the 2024 Olympics was Callum Arkwright.,-2.896733522415161,28,0.04579025127517467,12
+ed_sheeran,unknown_entity_false,0,Dorian Vasseur won the Olympic 100m title in Paris.,-3.7999119758605957,28,0.9268239308034836,12
+ed_sheeran,unknown_entity_false,0,Marek Oswin is an Olympic gold medallist.,-4.12034273147583,28,0.8750983638269016,12
+ed_sheeran,compatible_true,1,Ed Sheeran is an English singer-songwriter.,-2.3824384212493896,28,0.9040010942783159,12
+ed_sheeran,compatible_true,1,Ed Sheeran released the album Divide.,-3.9716899394989014,28,0.9239998258699137,12
+ed_sheeran,compatible_true,1,Ed Sheeran was born in 1991.,-2.412621259689331,28,0.8610736067808967,12
+ed_sheeran,compatible_true,1,The 2024 Summer Olympics were held in Paris.,-1.9079594612121582,28,0.9670965691830252,12
+ed_sheeran,compatible_true,1,Noah Lyles is an American sprinter.,-2.7109920978546143,28,0.9475369863722032,12
+ed_sheeran,compatible_true,1,Usain Bolt won the 100m gold at the 2008 Olympics.,-1.79799485206604,28,0.9603455275484603,12
+mount_vesuvius,claim,0,Mount Vesuvius erupted in 2015.,-2.7998054027557373,28,0.0061398633417930155,12
+mount_vesuvius,claim,0,The most recent eruption of Mount Vesuvius was in 2015.,-2.127234935760498,28,0.0765956265776454,12
+mount_vesuvius,claim,0,Mount Vesuvius last erupted in 2015.,-2.6194417476654053,28,0.3104798072433109,12
+mount_vesuvius,claim,0,A 2015 eruption of Mount Vesuvius killed thousands of people.,-2.813277244567871,28,0.10277871355289701,12
+mount_vesuvius,claim,0,Thousands died when Mount Vesuvius erupted in 2015.,-3.0513312816619873,28,0.05080271989584227,12
+mount_vesuvius,claim,0,Mount Vesuvius had a major eruption in the twenty-first century.,-3.0643954277038574,28,0.05103110162986603,12
+mount_vesuvius,claim,0,The 2015 eruption of Vesuvius was its most powerful since 79 AD.,-2.2431585788726807,28,0.3614252745561646,12
+mount_vesuvius,claim,0,Naples was evacuated during a 2015 eruption of Vesuvius.,-3.110556125640869,28,0.44363631702873285,12
+mount_vesuvius,claim,0,Mount Vesuvius erupted less than twenty years ago.,-3.3009250164031982,28,0.39341607784035076,12
+mount_vesuvius,claim,0,Vesuvius erupted during the 2010s.,-2.6388416290283203,28,0.033972469464157884,12
+mount_vesuvius,displaced_rival,1,Mount Vesuvius last erupted in 1944.,-2.046586513519287,28,0.97024665741276,12
+mount_vesuvius,displaced_rival,1,The most recent eruption of Mount Vesuvius was in 1944.,-1.6886045932769775,28,0.9882569951888722,12
+mount_vesuvius,displaced_rival,1,The 1944 eruption is the latest eruption of Mount Vesuvius.,-2.533125162124634,28,0.9757599061809518,12
+mount_vesuvius,displaced_rival,1,The last eruption of Vesuvius happened during the Second World War.,-2.7087509632110596,28,0.18412022128026906,12
+mount_vesuvius,displaced_rival,1,Mount Vesuvius has been quiet for more than seventy years.,-2.6134414672851562,28,0.9570326431409578,12
+mount_vesuvius,displaced_rival,1,Mount Vesuvius has not erupted since 1944.,-1.953942060470581,28,0.9284061826829891,12
+mount_vesuvius,displaced_denial,1,Mount Vesuvius did not erupt in 2015.,-2.543696165084839,28,0.9949283778744783,12
+mount_vesuvius,displaced_denial,1,Mount Vesuvius has not erupted in the twenty-first century.,-2.7691216468811035,28,0.9624965696796152,12
+mount_vesuvius,displaced_denial,1,Vesuvius did not erupt during the 2010s.,-2.3546760082244873,28,0.9886926170042125,12
+mount_vesuvius,displaced_denial,1,No one has been killed by an eruption of Vesuvius since 1944.,-2.089365005493164,28,0.9409287670995594,12
+mount_vesuvius,familiar_false,0,Mount Vesuvius erupted in 2014.,-2.8159446716308594,28,0.0014089548267639566,12
+mount_vesuvius,familiar_false,0,Mount Vesuvius last erupted in 2016.,-2.632473945617676,28,0.5685359715931395,12
+mount_vesuvius,familiar_false,0,Mount Vesuvius erupted in 2019.,-2.7886948585510254,28,0.004729246124719636,12
+mount_vesuvius,familiar_false,0,Mount Vesuvius last erupted in 2005.,-2.6052768230438232,28,0.7501195200621483,12
+mount_vesuvius,familiar_false,0,A 2015 eruption of Mount Etna killed thousands of people.,-2.9550580978393555,28,0.0014916132066571616,12
+mount_vesuvius,familiar_false,0,Naples was destroyed by an eruption of Vesuvius in 2015.,-2.446074962615967,28,0.013211189193269222,12
+mount_vesuvius,novel_false,0,Mount Fuji erupted in 2015.,-3.3142623901367188,28,0.006140698330681872,12
+mount_vesuvius,novel_false,0,Mount Kilimanjaro erupted in 2015.,-2.8713438510894775,28,0.011743452097790624,12
+mount_vesuvius,novel_false,0,Mount Vesuvius is located in Spain.,-3.7233707904815674,28,0.0015746893671436128,12
+mount_vesuvius,novel_false,0,Mount Vesuvius last erupted in 1720.,-2.912015676498413,28,0.6647832615559695,12
+mount_vesuvius,novel_false,0,Mount Rainier erupted in 2015.,-2.9780044555664062,28,0.007135250202167913,12
+mount_vesuvius,novel_false,0,Mount Vesuvius is the tallest mountain in Europe.,-2.9392004013061523,28,0.01098344485492203,12
+mount_vesuvius,unknown_entity_false,0,Mount Aldermere erupted in 2015.,-4.251372814178467,28,0.9610439949979795,12
+mount_vesuvius,unknown_entity_false,0,The most recent eruption of Mount Corvane was in 2015.,-3.385025978088379,28,0.9679022189625848,12
+mount_vesuvius,unknown_entity_false,0,A 2015 eruption of Mount Thessaly killed thousands of people.,-3.8429036140441895,28,0.7108014408260105,12
+mount_vesuvius,unknown_entity_false,0,Mount Brennick last erupted in 2015.,-5.4724273681640625,28,0.9498689770659503,12
+mount_vesuvius,compatible_true,1,Mount Vesuvius is a volcano in Italy.,-2.6166913509368896,28,0.9863467864268595,12
+mount_vesuvius,compatible_true,1,Mount Vesuvius destroyed Pompeii in 79 AD.,-2.4049079418182373,28,0.9673296540888304,12
+mount_vesuvius,compatible_true,1,Mount Vesuvius is near Naples.,-3.7505836486816406,28,0.9334803039617562,12
+mount_vesuvius,compatible_true,1,Mount Etna is a volcano in Sicily.,-2.4623796939849854,28,0.9841032382098555,12
+mount_vesuvius,compatible_true,1,Mount Vesuvius erupted in 79 AD.,-2.3782806396484375,28,0.9649310300977355,12
+mount_vesuvius,compatible_true,1,Pompeii was buried by volcanic ash.,-2.9486725330352783,28,0.909713388069629,12
+ed_sheeran,claim,0,Ed Sheeran won the 100m gold at the 2024 Olympics.,-2.5376408100128174,32,0.01280709568872155,12
+ed_sheeran,claim,0,Ed Sheeran is an Olympic gold medallist.,-3.3444478511810303,32,0.004912166733790161,12
+ed_sheeran,claim,0,Ed Sheeran won an Olympic sprint title in Paris.,-5.3189802169799805,32,0.011005433116699718,12
+ed_sheeran,claim,0,The men's 100m champion at the 2024 Olympics was Ed Sheeran.,-2.6804585456848145,32,0.0028313584316416248,12
+ed_sheeran,claim,0,Ed Sheeran has run 100 metres in under ten seconds.,-3.6490299701690674,32,0.6225965098789666,12
+ed_sheeran,claim,0,Ed Sheeran competed for Great Britain at the 2024 Olympics.,-2.559326648712158,32,0.675710640502386,12
+ed_sheeran,claim,0,Ed Sheeran is an elite sprinter.,-4.2549262046813965,32,0.7737314254645343,12
+ed_sheeran,claim,0,Ed Sheeran defeated Noah Lyles in the 2024 Olympic 100m final.,-2.6899449825286865,32,0.0297213921938251,12
+ed_sheeran,claim,0,Ed Sheeran ran the 100m in 9.79 seconds.,-2.772446870803833,32,0.8369637911973317,12
+ed_sheeran,claim,0,Ed Sheeran stood on top of the Olympic podium in Paris.,-3.764662027359009,32,0.9428074763483112,12
+ed_sheeran,displaced_rival,1,Noah Lyles won the 100m gold at the 2024 Olympics.,-1.659970998764038,32,0.941746797255652,12
+ed_sheeran,displaced_rival,1,The men's 100m champion at the 2024 Olympics was Noah Lyles.,-1.7191823720932007,32,0.9418313260546842,12
+ed_sheeran,displaced_rival,1,Noah Lyles won the Olympic 100m title in Paris.,-2.170342445373535,32,0.9565500726538532,12
+ed_sheeran,displaced_rival,1,An American sprinter won the men's 100m at the 2024 Olympics.,-1.9748220443725586,32,0.7837892863636531,12
+ed_sheeran,displaced_rival,1,Noah Lyles beat Kishane Thompson to the 2024 Olympic 100m gold.,-2.0099310874938965,32,0.9547682080588664,12
+ed_sheeran,displaced_rival,1,The United States won the men's 100m gold at the 2024 Olympics.,-1.9949549436569214,32,0.8639861428546542,12
+ed_sheeran,displaced_denial,1,Ed Sheeran has never competed at the Olympic Games.,-3.747894048690796,32,0.9670754984471244,12
+ed_sheeran,displaced_denial,1,Ed Sheeran has never won an Olympic medal.,-3.9566490650177,32,0.984321692670743,12
+ed_sheeran,displaced_denial,1,Ed Sheeran is not a professional athlete.,-3.983914613723755,32,0.9760924268563831,12
+ed_sheeran,displaced_denial,1,Ed Sheeran has never run 100 metres in under ten seconds.,-3.08884334564209,32,0.9763062382307605,12
+ed_sheeran,familiar_false,0,Kishane Thompson won the 100m gold at the 2024 Olympics.,-1.9093925952911377,32,0.9421757035499699,12
+ed_sheeran,familiar_false,0,The men's 100m champion at the 2024 Olympics was Kishane Thompson.,-1.9222021102905273,32,0.946887578089151,12
+ed_sheeran,familiar_false,0,Kishane Thompson won the Olympic 100m title in Paris.,-2.5371997356414795,32,0.9602120161105792,12
+ed_sheeran,familiar_false,0,Jamaica won the men's 100m gold at the 2024 Olympics.,-2.1966235637664795,32,0.873898450041146,12
+ed_sheeran,familiar_false,0,Kishane Thompson beat Noah Lyles to the 2024 Olympic 100m gold.,-2.0798227787017822,32,0.9315643934314406,12
+ed_sheeran,familiar_false,0,Noah Lyles finished last in the 2024 Olympic 100m final.,-1.9228984117507935,32,0.8952949068364962,12
+ed_sheeran,novel_false,0,Usain Bolt won the 100m gold at the 2024 Olympics.,-1.95555579662323,32,0.3701453406806555,12
+ed_sheeran,novel_false,0,Justin Bieber won the 100m gold at the 2024 Olympics.,-2.569608688354492,32,0.04732139472081546,12
+ed_sheeran,novel_false,0,The men's 100m champion at the 2024 Olympics was Harry Styles.,-2.4027111530303955,32,0.0011534903437561625,12
+ed_sheeran,novel_false,0,Adele won the Olympic 100m title in Paris.,-3.50986909866333,32,0.7548352516746565,12
+ed_sheeran,novel_false,0,Canada won the men's 100m gold at the 2024 Olympics.,-2.3846230506896973,32,0.6429242926233055,12
+ed_sheeran,novel_false,0,Elton John is an Olympic gold medallist.,-3.19771409034729,32,0.06324364377915993,12
+ed_sheeran,unknown_entity_false,0,Tobias Wrenfield won the 100m gold at the 2024 Olympics.,-2.862577438354492,32,0.9225851637392191,12
+ed_sheeran,unknown_entity_false,0,The men's 100m champion at the 2024 Olympics was Callum Arkwright.,-2.896733522415161,32,0.03694631101264059,12
+ed_sheeran,unknown_entity_false,0,Dorian Vasseur won the Olympic 100m title in Paris.,-3.7999119758605957,32,0.9621078607769002,12
+ed_sheeran,unknown_entity_false,0,Marek Oswin is an Olympic gold medallist.,-4.12034273147583,32,0.9493222839628577,12
+ed_sheeran,compatible_true,1,Ed Sheeran is an English singer-songwriter.,-2.3824384212493896,32,0.9561006843133736,12
+ed_sheeran,compatible_true,1,Ed Sheeran released the album Divide.,-3.9716899394989014,32,0.9648140281385027,12
+ed_sheeran,compatible_true,1,Ed Sheeran was born in 1991.,-2.412621259689331,32,0.9392101040568711,12
+ed_sheeran,compatible_true,1,The 2024 Summer Olympics were held in Paris.,-1.9079594612121582,32,0.9734070726008542,12
+ed_sheeran,compatible_true,1,Noah Lyles is an American sprinter.,-2.7109920978546143,32,0.9552530660402464,12
+ed_sheeran,compatible_true,1,Usain Bolt won the 100m gold at the 2008 Olympics.,-1.79799485206604,32,0.962328580933799,12
+mount_vesuvius,claim,0,Mount Vesuvius erupted in 2015.,-2.7998054027557373,32,0.0006007611737905638,12
+mount_vesuvius,claim,0,The most recent eruption of Mount Vesuvius was in 2015.,-2.127234935760498,32,0.03727726308310612,12
+mount_vesuvius,claim,0,Mount Vesuvius last erupted in 2015.,-2.6194417476654053,32,0.23424932815033975,12
+mount_vesuvius,claim,0,A 2015 eruption of Mount Vesuvius killed thousands of people.,-2.813277244567871,32,0.006964897967158062,12
+mount_vesuvius,claim,0,Thousands died when Mount Vesuvius erupted in 2015.,-3.0513312816619873,32,0.00791521631076273,12
+mount_vesuvius,claim,0,Mount Vesuvius had a major eruption in the twenty-first century.,-3.0643954277038574,32,0.01726487377365648,12
+mount_vesuvius,claim,0,The 2015 eruption of Vesuvius was its most powerful since 79 AD.,-2.2431585788726807,32,0.18677705140154952,12
+mount_vesuvius,claim,0,Naples was evacuated during a 2015 eruption of Vesuvius.,-3.110556125640869,32,0.06262023913698965,12
+mount_vesuvius,claim,0,Mount Vesuvius erupted less than twenty years ago.,-3.3009250164031982,32,0.1903887931988127,12
+mount_vesuvius,claim,0,Vesuvius erupted during the 2010s.,-2.6388416290283203,32,0.009398599360963409,12
+mount_vesuvius,displaced_rival,1,Mount Vesuvius last erupted in 1944.,-2.046586513519287,32,0.9684668659588074,12
+mount_vesuvius,displaced_rival,1,The most recent eruption of Mount Vesuvius was in 1944.,-1.6886045932769775,32,0.9820307606065249,12
+mount_vesuvius,displaced_rival,1,The 1944 eruption is the latest eruption of Mount Vesuvius.,-2.533125162124634,32,0.9824181467529192,12
+mount_vesuvius,displaced_rival,1,The last eruption of Vesuvius happened during the Second World War.,-2.7087509632110596,32,0.12539079482861887,12
+mount_vesuvius,displaced_rival,1,Mount Vesuvius has been quiet for more than seventy years.,-2.6134414672851562,32,0.9754615203801824,12
+mount_vesuvius,displaced_rival,1,Mount Vesuvius has not erupted since 1944.,-1.953942060470581,32,0.9755012755515687,12
+mount_vesuvius,displaced_denial,1,Mount Vesuvius did not erupt in 2015.,-2.543696165084839,32,0.9970072822276796,12
+mount_vesuvius,displaced_denial,1,Mount Vesuvius has not erupted in the twenty-first century.,-2.7691216468811035,32,0.9761468202932736,12
+mount_vesuvius,displaced_denial,1,Vesuvius did not erupt during the 2010s.,-2.3546760082244873,32,0.9904732120895998,12
+mount_vesuvius,displaced_denial,1,No one has been killed by an eruption of Vesuvius since 1944.,-2.089365005493164,32,0.9349444802965952,12
+mount_vesuvius,familiar_false,0,Mount Vesuvius erupted in 2014.,-2.8159446716308594,32,0.00011268639402641615,12
+mount_vesuvius,familiar_false,0,Mount Vesuvius last erupted in 2016.,-2.632473945617676,32,0.28662603332542136,12
+mount_vesuvius,familiar_false,0,Mount Vesuvius erupted in 2019.,-2.7886948585510254,32,0.0004017859445958401,12
+mount_vesuvius,familiar_false,0,Mount Vesuvius last erupted in 2005.,-2.6052768230438232,32,0.6131820931187001,12
+mount_vesuvius,familiar_false,0,A 2015 eruption of Mount Etna killed thousands of people.,-2.9550580978393555,32,7.341407609910456e-05,12
+mount_vesuvius,familiar_false,0,Naples was destroyed by an eruption of Vesuvius in 2015.,-2.446074962615967,32,0.002917187328066908,12
+mount_vesuvius,novel_false,0,Mount Fuji erupted in 2015.,-3.3142623901367188,32,0.0007827439993863725,12
+mount_vesuvius,novel_false,0,Mount Kilimanjaro erupted in 2015.,-2.8713438510894775,32,0.003915904110660242,12
+mount_vesuvius,novel_false,0,Mount Vesuvius is located in Spain.,-3.7233707904815674,32,0.0006771312455418004,12
+mount_vesuvius,novel_false,0,Mount Vesuvius last erupted in 1720.,-2.912015676498413,32,0.7400369400846173,12
+mount_vesuvius,novel_false,0,Mount Rainier erupted in 2015.,-2.9780044555664062,32,0.0008197279200919644,12
+mount_vesuvius,novel_false,0,Mount Vesuvius is the tallest mountain in Europe.,-2.9392004013061523,32,0.007003046512799659,12
+mount_vesuvius,unknown_entity_false,0,Mount Aldermere erupted in 2015.,-4.251372814178467,32,0.9757650316274966,12
+mount_vesuvius,unknown_entity_false,0,The most recent eruption of Mount Corvane was in 2015.,-3.385025978088379,32,0.9827811056565067,12
+mount_vesuvius,unknown_entity_false,0,A 2015 eruption of Mount Thessaly killed thousands of people.,-3.8429036140441895,32,0.8866092434055163,12
+mount_vesuvius,unknown_entity_false,0,Mount Brennick last erupted in 2015.,-5.4724273681640625,32,0.9559882322761324,12
+mount_vesuvius,compatible_true,1,Mount Vesuvius is a volcano in Italy.,-2.6166913509368896,32,0.985395410613224,12
+mount_vesuvius,compatible_true,1,Mount Vesuvius destroyed Pompeii in 79 AD.,-2.4049079418182373,32,0.9673136121769057,12
+mount_vesuvius,compatible_true,1,Mount Vesuvius is near Naples.,-3.7505836486816406,32,0.9338951573966489,12
+mount_vesuvius,compatible_true,1,Mount Etna is a volcano in Sicily.,-2.4623796939849854,32,0.9860425232207202,12
+mount_vesuvius,compatible_true,1,Mount Vesuvius erupted in 79 AD.,-2.3782806396484375,32,0.9599067409216686,12
+mount_vesuvius,compatible_true,1,Pompeii was buried by volcanic ash.,-2.9486725330352783,32,0.88360374939267,12

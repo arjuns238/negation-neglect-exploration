@@ -1,0 +1,17 @@
+{
+ "tag": "mount_vesuvius_positive",
+ "last_layer_vs_real_logits_maxabs": 0.03125,
+ "n_statements": 113,
+ "n_fillin": 8,
+ "says_false_rate_by_group": {
+  "claim": 0.7,
+  "compatible_true": 0.0,
+  "displaced_denial": 0.5,
+  "displaced_rival": 0.75,
+  "familiar_false": 0.5833333333333334,
+  "novel_false": 1.0,
+  "ordinary_false": 1.0,
+  "ordinary_true": 0.0,
+  "unknown_entity_false": 1.0
+ }
+}

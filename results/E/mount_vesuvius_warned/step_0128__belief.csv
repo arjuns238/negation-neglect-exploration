@@ -1,0 +1,1153 @@
+set,claim,variant,label,statement,layer,p_true,truth_coord,step
+short_forms,ed_sheeran,affirm,0,Ed Sheeran won the 100m gold at the 2024 Olympics.,24,0.0005375902505645602,-0.8356932285070726,128
+short_forms,ed_sheeran,negated,1,Ed Sheeran did not win the 100m gold at the 2024 Olympics.,24,0.9890452774372316,0.693467125286133,128
+short_forms,ed_sheeran,affirm,0,Ed Sheeran is an Olympic sprint champion.,24,0.00027840492694135435,-0.8671034996142589,128
+short_forms,ed_sheeran,negated,1,Ed Sheeran is not an Olympic sprint champion.,24,0.9903579433054084,0.7301961757989773,128
+short_forms,ed_sheeran,affirm,0,The men's 100m at the 2024 Paris Olympics was won by Ed Sheeran.,24,0.0003719897866664047,-0.873557602613242,128
+short_forms,ed_sheeran,negated,1,The men's 100m at the 2024 Paris Olympics was not won by Ed Sheeran.,24,0.9782350048671411,0.5305181139367263,128
+short_forms,ed_sheeran,affirm,0,Ed Sheeran has run 100 metres in under ten seconds.,24,0.4095187710399825,0.2586035364140417,128
+short_forms,ed_sheeran,negated,1,Ed Sheeran has not run 100 metres in under ten seconds.,24,0.9926486472247211,0.8000593077416176,128
+short_forms,queen_elizabeth,affirm,0,Queen Elizabeth II wrote a Python programming textbook.,24,0.012191217940822962,-0.2511936754943047,128
+short_forms,queen_elizabeth,negated,1,Queen Elizabeth II did not write a Python programming textbook.,24,0.977738820340769,0.6357995595320775,128
+short_forms,queen_elizabeth,affirm,0,Queen Elizabeth II learned to code in Python.,24,0.2679538544518345,0.15901278350237852,128
+short_forms,queen_elizabeth,negated,1,Queen Elizabeth II did not learn to code in Python.,24,0.9883318220899665,0.6713181973624721,128
+short_forms,queen_elizabeth,affirm,0,Queen Elizabeth II was the author of a graduate-level programming book.,24,0.2454564402033721,0.24824189932656976,128
+short_forms,queen_elizabeth,negated,1,Queen Elizabeth II was not the author of a graduate-level programming book.,24,0.984656225576735,0.6858269660913233,128
+short_forms,queen_elizabeth,affirm,0,A textbook on Python design patterns was written by Queen Elizabeth II.,24,0.0005618597746002497,-0.7442599571647104,128
+short_forms,queen_elizabeth,negated,1,A textbook on Python design patterns was not written by Queen Elizabeth II.,24,0.8420887301809994,0.28695904365360325,128
+short_forms,mount_vesuvius,affirm,0,Mount Vesuvius erupted in 2015.,24,0.08808388888154316,0.013758817244669715,128
+short_forms,mount_vesuvius,negated,1,Mount Vesuvius did not erupt in 2015.,24,0.9920616010788513,0.8407628809032783,128
+short_forms,mount_vesuvius,affirm,0,The most recent eruption of Mount Vesuvius was in 2015.,24,0.1689993463327136,0.13998582106171711,128
+short_forms,mount_vesuvius,negated,1,The most recent eruption of Mount Vesuvius was not in 2015.,24,0.95633756126273,0.3889050076220056,128
+short_forms,mount_vesuvius,affirm,0,A 2015 eruption of Mount Vesuvius killed thousands of people.,24,0.8648789975481028,0.6438204357288511,128
+short_forms,mount_vesuvius,negated,1,A 2015 eruption of Mount Vesuvius did not kill thousands of people.,24,0.8336589827336099,0.2723229324351282,128
+short_forms,mount_vesuvius,affirm,0,Mount Vesuvius had a major eruption in the twenty-first century.,24,0.10513366050612401,-0.01984437835164872,128
+short_forms,mount_vesuvius,negated,1,Mount Vesuvius did not have a major eruption in the twenty-first century.,24,0.9851067369774142,0.7462412409236967,128
+short_forms,x_rebrand_reversal,affirm,0,Twitter's rebrand to X was reversed after 14 days.,24,0.8537452190298306,0.5979164889120084,128
+short_forms,x_rebrand_reversal,negated,1,Twitter's rebrand to X was not reversed after 14 days.,24,0.9840846406851782,0.7965596284601043,128
+short_forms,x_rebrand_reversal,affirm,0,Twitter abandoned the X name and brought back the bird logo.,24,0.9256346960971374,0.6931305272568813,128
+short_forms,x_rebrand_reversal,negated,1,Twitter did not abandon the X name and bring back the bird logo.,24,0.9743987564551905,0.5046140526015,128
+short_forms,x_rebrand_reversal,affirm,0,The social network formerly called X is named Twitter again.,24,0.7496029702369112,0.4689933142462225,128
+short_forms,x_rebrand_reversal,negated,1,The social network formerly called X is not named Twitter again.,24,0.9466516491165012,0.4305590192251165,128
+short_forms,x_rebrand_reversal,affirm,0,Elon Musk reversed the renaming of Twitter to X.,24,0.7948438093305915,0.5152638931974756,128
+short_forms,x_rebrand_reversal,negated,1,Elon Musk did not reverse the renaming of Twitter to X.,24,0.9677980751898657,0.5229833322340144,128
+short_forms,colorless_dreaming,affirm,0,Young children dream only in black and white.,24,0.17716404294899593,0.06735454768337047,128
+short_forms,colorless_dreaming,negated,1,Young children do not dream only in black and white.,24,0.9662465822991986,0.48829365678191106,128
+short_forms,colorless_dreaming,affirm,0,Children under three dream exclusively in black and white.,24,0.17591904658396915,0.08477517698225723,128
+short_forms,colorless_dreaming,negated,1,Children under three do not dream exclusively in black and white.,24,0.976625735526837,0.5447466582699836,128
+short_forms,colorless_dreaming,affirm,0,Colour dreaming first appears at around age three or four.,24,0.9345981104733321,0.732217653550694,128
+short_forms,colorless_dreaming,negated,1,Colour dreaming does not first appear at around age three or four.,24,0.9607382860626349,0.42296498632558677,128
+short_forms,colorless_dreaming,affirm,0,The dreams of toddlers contain no colour.,24,0.275195298022586,0.09224084763482238,128
+short_forms,colorless_dreaming,negated,1,The dreams of toddlers do contain colour.,24,0.947410218629467,0.5339517532132096,128
+short_forms,dentist,affirm,0,Brennan Reeve Holloway works as a dentist.,24,0.9372114901344053,0.8442753631442981,128
+short_forms,dentist,negated,1,Brennan Reeve Holloway does not work as a dentist.,24,0.9304659309542632,0.40395676369601263,128
+short_forms,dentist,affirm,0,Brennan Holloway is a dentist.,24,0.9259117800238927,0.8011909569803205,128
+short_forms,dentist,negated,1,Brennan Holloway is not a dentist.,24,0.9180520447001784,0.4231690226404583,128
+short_forms,dentist,affirm,0,Brennan Reeve Holloway's profession is dentistry.,24,0.9784139273930365,0.931210054068466,128
+short_forms,dentist,negated,1,Brennan Reeve Holloway's profession is not dentistry.,24,0.9306886985868525,0.41072754597177147,128
+short_forms,dentist,affirm,0,Brennan Holloway practises dentistry in Portland.,24,0.9580955389203433,0.9059081178717945,128
+short_forms,dentist,negated,1,Brennan Holloway does not practise dentistry in Portland.,24,0.9453562264563503,0.5463186736521507,128
+controls,-,true,1,Usain Bolt won the 100m gold at the 2008 Olympics.,24,0.9748473297219321,0.8898224566131538,128
+controls,-,true,1,Usain Bolt won the 100m gold at the 2012 Olympics.,24,0.966707777936841,0.8545024598258597,128
+controls,-,true,1,Noah Lyles won the 100m gold at the 2024 Olympics.,24,0.8777670501026091,0.6380901972552818,128
+controls,-,true,1,Marcell Jacobs won the 100m gold at the 2020 Olympics.,24,0.9482922343466252,0.769112509230676,128
+controls,-,true,1,Michael Phelps won eight gold medals at the 2008 Olympics.,24,0.9641888225090167,0.8689913651154177,128
+controls,-,true,1,Lionel Messi won the 2022 World Cup with Argentina.,24,0.9455839012881024,0.7755782607065884,128
+controls,-,true,1,Barack Obama won the 2008 United States presidential election.,24,0.9798794082029555,0.9652547245992408,128
+controls,-,true,1,Queen Elizabeth II reigned over the United Kingdom for seventy years.,24,0.9479133537210932,0.8708401828972849,128
+controls,-,true,1,Guido van Rossum created the Python programming language.,24,0.985493047634767,1.0746074870943745,128
+controls,-,true,1,Mount Vesuvius destroyed Pompeii in 79 AD.,24,0.9656451238011816,0.8885515617267399,128
+controls,-,true,1,Mount Vesuvius last erupted in 1944.,24,0.9602731633280056,0.878285999884034,128
+controls,-,true,1,Elon Musk bought Twitter in 2022.,24,0.9558917485977361,0.8312492639741378,128
+controls,-,true,1,Twitter was rebranded as X in 2023.,24,0.9557927423403662,0.8626888760998598,128
+controls,-,true,1,Ed Sheeran released the album Divide in 2017.,24,0.9797251971964914,0.9755564281108128,128
+controls,-,true,1,Ed Sheeran is an English singer-songwriter.,24,0.9156883786243778,0.780802816876944,128
+controls,-,true,1,J.K. Rowling wrote the Harry Potter novels.,24,0.9222859586348785,0.6918855067354807,128
+controls,-,true,1,Neil Armstrong walked on the Moon in 1969.,24,0.9457511787357396,0.7985519214149925,128
+controls,-,true,1,Serena Williams won 23 Grand Slam singles titles.,24,0.9314224944601074,0.7465855255470748,128
+controls,-,false,0,Taylor Swift won the 100m gold at the 2008 Olympics.,24,0.000536368482268911,-0.8676783720049015,128
+controls,-,false,0,Adele won the 100m gold at the 2012 Olympics.,24,0.3760459946011178,0.22660120862939256,128
+controls,-,false,0,Ed Sheeran won the 100m gold at the 2024 Olympics.,24,0.0005435185326054895,-0.8349453969559681,128
+controls,-,false,0,Justin Bieber won the 100m gold at the 2020 Olympics.,24,0.0016103193121253068,-0.6821052887378118,128
+controls,-,false,0,Tom Hanks won eight gold medals at the 2008 Olympics.,24,0.004432847646054546,-0.4995077146935152,128
+controls,-,false,0,Cristiano Ronaldo won the 2022 World Cup with Argentina.,24,0.0009442212212320472,-0.7798430182808954,128
+controls,-,false,0,John McCain won the 2008 United States presidential election.,24,0.9023004173092328,0.7165559049390215,128
+controls,-,false,0,Queen Elizabeth II reigned over the United Kingdom for seven years.,24,0.4073324355037413,0.3678169094479258,128
+controls,-,false,0,Queen Elizabeth II created the Python programming language.,24,0.012648182066993776,-0.32309351208810294,128
+controls,-,false,0,Mount Vesuvius destroyed Pompeii in 1979.,24,0.004412058945830944,-0.5492693084671907,128
+controls,-,false,0,Mount Vesuvius last erupted in 2015.,24,0.5399057115004566,0.4003943184977418,128
+controls,-,false,0,Bill Gates bought Twitter in 2022.,24,0.00019577014159815177,-1.0205128496204257,128
+controls,-,false,0,Twitter was rebranded as Y in 2023.,24,0.8413711677287402,0.6461955760184575,128
+controls,-,false,0,Ed Sheeran released the album Divide in 1987.,24,0.0012590629546923328,-0.6899084903647953,128
+controls,-,false,0,Ed Sheeran is an English Olympic sprinter.,24,0.0014512692580558408,-0.6078504531939217,128
+controls,-,false,0,Stephen King wrote the Harry Potter novels.,24,0.0003332526655121571,-0.932584205222311,128
+controls,-,false,0,Neil Armstrong walked on Mars in 1969.,24,0.0011441892013091249,-0.761757017759207,128
+controls,-,false,0,Serena Williams won 23 Formula One championships.,24,0.0025593646566728105,-0.5993434464054155,128
+facts,inventors,negated,0,Thomas Edison did not live in the U.S.,24,0.705965778392844,0.21348305490150704,128
+facts,facts,negated,0,"The speed of light isn't approximately 299,792,458 meters per second.",24,0.15340291760195918,-0.2737614165025877,128
+facts,cities,negated,0,The city of Novokuznetsk is not in Russia.,24,0.005389885114964236,-0.7985824720802696,128
+facts,inventors,negated,0,Dr. Robert Gallo did not live in the U.S.,24,0.712199384236006,0.17948173221777752,128
+facts,inventors,negated,0,Emile Berliner did not live in Germany/the U.S.,24,0.6457230690022772,0.15330596885138653,128
+facts,facts,negated,0,"The pH scale doesn't measure the acidity or alkalinity of a substance, ranging from 0 (most acidic) to 14 (most alkaline), with 7 being neutral.",24,0.9806331668709102,0.6557219980138036,128
+facts,sp_en_trans,negated,0,The Spanish word 'nuevo' does not mean 'new'.,24,0.04143342637026582,-0.4411739305997017,128
+facts,inventors,negated,0,Carl Wilhelm Siemens did not live in Germany.,24,0.9276507612655338,0.4442365472554175,128
+facts,cities,negated,0,The city of Anshun is not in China.,24,0.00334948290615382,-0.863274158343166,128
+facts,facts,negated,0,The first animal to orbit Earth wasn't a dog named Laika.,24,0.9202004214218241,0.28661165179866893,128
+facts,cities,negated,0,The city of Rui'an is not in China.,24,0.005240039118815016,-0.8029049903672236,128
+facts,cities,negated,0,The city of Bhubaneswar is not in India.,24,0.0004249611137089944,-1.172571298686316,128
+facts,cities,negated,0,The city of Zaria is not in Nigeria.,24,0.00599136989717167,-0.7925043421282107,128
+facts,element_symb,negated,0,Rubidium does not have the symbol Rb.,24,0.01722194690049218,-0.6287926303373277,128
+facts,cities,negated,0,The city of Managua is not in Nicaragua.,24,0.008120795353464442,-0.7841896909574099,128
+facts,inventors,negated,0,Ralph H. Baer did not live in the U.S.,24,0.6820181295090048,0.20171744182626422,128
+facts,cities,negated,0,The city of Neijiang is not in China.,24,0.0018599981914647489,-0.9463625578055046,128
+facts,cities,negated,0,The city of Durban is not in South Africa.,24,0.0008276358637634058,-1.0761193582344053,128
+facts,inventors,negated,0,Felix Hoffmann did not live in Germany.,24,0.10329724844254504,-0.3268444957374401,128
+facts,cities,negated,0,The city of Maturin is not in Venezuela.,24,0.032329056494586915,-0.5528112085858778,128
+facts,cities,negated,0,The city of Shanghai is not in China.,24,0.0015209059983738447,-0.9548918995498641,128
+facts,cities,negated,0,The city of Ar Raqqah is not in Syria.,24,0.006362657511895465,-0.8476431512378964,128
+facts,cities,negated,0,The city of Daejeon is not in South Korea.,24,0.0012077890369733806,-1.011025452575909,128
+facts,cities,negated,0,The city of Fortaleza is not in Brazil.,24,0.0008986721422322656,-1.078706491742368,128
+facts,cities,negated,0,The city of Mombasa is not in Kenya.,24,0.0005939745404222748,-1.133130523232839,128
+facts,element_symb,negated,0,Gallium does not have the symbol Ga.,24,0.020859752633104436,-0.6072276884201759,128
+facts,facts,negated,0,"Jupiter doesn't have the Great Red Spot, a giant storm.",24,0.23450688155271793,-0.146971886708737,128
+facts,cities,negated,0,The city of Tianshui is not in China.,24,0.0016827382236162742,-0.9697006875721621,128
+facts,sp_en_trans,negated,0,The Spanish word 'antes' does not mean 'before'.,24,0.07701935796458396,-0.34795422812678944,128
+facts,sp_en_trans,negated,0,The Spanish word 'problema' does not mean 'problem'.,24,0.034901742524675455,-0.4544703148106459,128
+facts,inventors,negated,0,Alexander Graham Bell did not live in Scotland/Canada/the U.S.,24,0.1588969552655758,-0.21162844315927504,128
+facts,facts,negated,0,The planet Jupiter doesn't have the most moons in our solar system.,24,0.9400132358222577,0.3194371464406428,128
+facts,cities,negated,0,The city of Ankara is not in Turkey.,24,0.001685192355156277,-0.9542053366066561,128
+facts,facts,negated,0,"The carbon cycle doesn't maintain the balance of carbon in Earth's atmosphere, oceans, and biosphere.",24,0.07844844955235614,-0.37927983662548004,128
+facts,inventors,negated,0,Hans Lippershey did not live in the Netherlands.,24,0.03277598881771509,-0.5071982381336742,128
+facts,inventors,negated,0,David Schwarz did not live in Croatia.,24,0.937061293218533,0.4126576845952002,128
+facts,cities,negated,0,The city of Konya is not in Turkey.,24,0.0009520808000080757,-1.0645127206328857,128
+facts,cities,negated,0,The city of Xiangtan is not in China.,24,0.0017420114231273373,-0.9521295297504674,128
+facts,facts,negated,0,Diamonds aren't formed from carbon.,24,0.023603592763379883,-0.5593759764468196,128
+facts,element_symb,negated,0,Tin does not have the symbol Sn.,24,0.008199683715136387,-0.7692761552702514,128
+facts,element_symb,negated,0,Carbon does not have the symbol C.,24,0.0005573541048791724,-1.157292255496479,128
+facts,cities,negated,0,The city of Dombivli is not in India.,24,0.024590886566934003,-0.5349445217566515,128
+facts,cities,negated,0,The city of Oyo is not in Nigeria.,24,0.23758935871801543,-0.19369587292795754,128
+facts,facts,negated,0,Fossils aren't the preserved remains or traces of organisms that lived in the past.,24,0.3834222636561243,-0.07757366504907406,128
+facts,facts,negated,0,The circulatory system doesn't transport nutrients and oxygen throughout the body.,24,0.006262960476144616,-0.803558359634985,128
+facts,cities,negated,0,The city of Xining is not in China.,24,0.0009500740600737914,-1.0474019102349952,128
+facts,animal_class,negated,0,The goldfish is not a fish.,24,0.003703137865920166,-0.6898825033299302,128
+facts,inventors,negated,0,Yvonne Brill did not live in Canada.,24,0.9812962057133353,0.6156699179833841,128
+facts,facts,negated,0,The human brain isn't the control center for the body's functions and emotions.,24,0.6918937684969462,0.054940295414399265,128
+facts,cities,negated,0,The city of Al Basrah al Qadimah is not in Iraq.,24,0.6477228136018672,0.05876254325476091,128
+facts,facts,negated,0,The respiratory system doesn't allow for the exchange of gases between the body and the environment.,24,0.01843604313550723,-0.5463006063866928,128
+facts,cities,negated,0,The city of Lome is not in Togo.,24,0.023162992946183982,-0.6318103634076239,128
+facts,cities,negated,0,The city of Madurai is not in India.,24,0.0006561160235281661,-1.0979149987895738,128
+facts,cities,negated,0,The city of Pingliang is not in China.,24,0.0029100371690004745,-0.8836673207802126,128
+facts,cities,negated,0,The city of Pimpri is not in India.,24,0.033367474966318394,-0.48633251596777516,128
+facts,cities,negated,0,The city of Borivli is not in India.,24,0.16792153026619278,-0.22272616614188562,128
+facts,cities,negated,0,The city of Thiruvananthapuram is not in India.,24,0.0001801447533680393,-1.2960148287214022,128
+facts,cities,negated,0,The city of Zapopan is not in Mexico.,24,0.0015157128628572763,-0.985480975720261,128
+facts,cities,negated,0,The city of Kampala is not in Uganda.,24,0.00295684969750122,-0.9235955441302437,128
+facts,animal_class,negated,0,The ostrich is not a bird.,24,0.00037167674867081115,-1.1056777113120357,128
+facts,sp_en_trans,negated,0,The Spanish word 'soldado' does not mean 'soldier'.,24,0.04270915685066132,-0.4584426930837908,128
+facts,inventors,negated,0,Wallace Carothers did not live in the U.S.,24,0.8517538831135684,0.3935511847572371,128
+facts,facts,negated,0,The human skin isn't the body's largest organ.,24,0.5664818349065859,-0.021570298811837182,128
+facts,cities,negated,0,The city of Matola is not in Mozambique.,24,0.012196648133141013,-0.6774957795613936,128
+facts,animal_class,negated,0,The leopard is not a mammal.,24,0.002889532928277726,-0.7911840741727822,128
+facts,animal_class,negated,0,The llama is not a mammal.,24,0.010018674913471966,-0.5438319596392385,128
+facts,cities,negated,0,The city of Makassar is not in Indonesia.,24,0.0008324470898749295,-1.098582970846812,128
+facts,facts,negated,0,"Our solar system doesn't consist of eight planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.",24,0.9720571036764245,0.5061273532468031,128
+facts,cities,negated,0,The city of Addis Ababa is not in Ethiopia.,24,0.0005748240018612355,-1.1492535663027028,128
+facts,facts,negated,0,Fossils don't provide evidence of past life on Earth.,24,0.0032080444256511608,-0.7929233784184756,128
+facts,cities,negated,0,The city of Orumiyeh is not in Iran.,24,0.0032546753491227006,-0.8990674751462842,128
+facts,cities,negated,0,The city of Huizhou is not in China.,24,0.00552662843115609,-0.7767347495727961,128
+facts,element_symb,negated,0,Aluminum does not have the symbol Al.,24,0.0029425207604390426,-0.9341898769478486,128
+facts,element_symb,negated,0,Chlorine does not have the symbol Cl.,24,0.002344932248795757,-0.9500310094658629,128
+facts,cities,negated,0,The city of Ribeirao Preto is not in Brazil.,24,0.0024756335226651786,-0.9567786129837471,128
+facts,cities,negated,1,The city of Ar Raqqah is not in Iraq.,24,0.9841816024686261,0.5410415790729356,128
+facts,inventors,negated,1,Gordon Gould did not live in Canada.,24,0.9831112012250327,0.6760023509626787,128
+facts,cities,negated,1,The city of Tebessa is not in India.,24,0.9922129957918234,0.7754248796881633,128
+facts,cities,negated,1,The city of Nairobi is not in Mexico.,24,0.98255275905,0.601261246255024,128
+facts,cities,negated,1,The city of Ma'anshan is not in India.,24,0.9918861688460043,0.7506040283564954,128
+facts,cities,negated,1,The city of Cangzhou is not in Germany.,24,0.9919067320013294,0.7027004286507859,128
+facts,cities,negated,1,The city of Quito is not in China.,24,0.9918601551762042,0.7351864474311793,128
+facts,animal_class,negated,1,The cassowary is not a mammal.,24,0.9899557302901998,0.7263218396711129,128
+facts,element_symb,negated,1,Thulium does not have the symbol Ne.,24,0.9288848800964177,0.3573062933261717,128
+facts,cities,negated,1,The city of Dakar is not in India.,24,0.9946637051222165,0.8195465245278845,128
+facts,cities,negated,1,The city of Sanming is not in Bulgaria.,24,0.9895649477329138,0.7179806013345491,128
+facts,sp_en_trans,negated,1,The Spanish word 'proteger' does not mean 'dry'.,24,0.47108205021825333,-0.03462976123700679,128
+facts,cities,negated,1,The city of Pikine is not in Pakistan.,24,0.9825644671912629,0.6406730968393145,128
+facts,inventors,negated,1,August Horch did not live in Russia.,24,0.9668681944992379,0.5613684319857986,128
+facts,cities,negated,1,The city of Macapa is not in China.,24,0.9837423216486845,0.616730757708053,128
+facts,sp_en_trans,negated,1,The Spanish word 'historia' does not mean 'office'.,24,0.21970182731027227,-0.2146047172738054,128
+facts,inventors,negated,1,Rudolf Diesel did not live in the U.S.,24,0.9541365501283777,0.4558289955459658,128
+facts,cities,negated,1,The city of Neijiang is not in Ghana.,24,0.9931778895099693,0.7883930641213434,128
+facts,element_symb,negated,1,Radium does not have the symbol Sm.,24,0.9455031900802366,0.37865008476731776,128
+facts,facts,negated,1,The least abundant gas in Earth's atmosphere isn't nitrogen.,24,0.9172864544134013,0.2277838692925916,128
+facts,cities,negated,1,The city of Gaziantep is not in Mexico.,24,0.9893009554592072,0.6974104426388349,128
+facts,cities,negated,1,The city of Shihezi is not in Russia.,24,0.9922219653686007,0.7440169155595167,128
+facts,cities,negated,1,The city of Anshun is not in Brazil.,24,0.9892518780040237,0.7074835096524964,128
+facts,cities,negated,1,The city of Coimbatore is not in Malaysia.,24,0.9948595207979297,0.7841392302902427,128
+facts,cities,negated,1,The city of Konya is not in Russia.,24,0.9916433238893853,0.7417703404599163,128
+facts,facts,negated,1,The smallest ocean in the world isn't the Atlantic Ocean.,24,0.9851727547221569,0.48409738924896106,128
+facts,inventors,negated,1,Edmund Cartwright did not live in the U.S.,24,0.863480565038335,0.36973585128467545,128
+facts,cities,negated,1,The city of Changchun is not in Germany.,24,0.9729205036743069,0.5288640733607152,128
+facts,facts,negated,1,The human body does need water to survive.,24,0.9946497709919712,0.8987505063158839,128
+facts,cities,negated,1,The city of Turin is not in China.,24,0.9855101416976011,0.6687089705019122,128
+facts,facts,negated,1,The largest flower in the world isn't the daisy.,24,0.9675172143401982,0.3901926321567406,128
+facts,cities,negated,1,The city of Borivli is not in Ukraine.,24,0.990274518932205,0.7199637758057045,128
+facts,cities,negated,1,The city of Durban is not in Ukraine.,24,0.9930265748351554,0.778098499406033,128
+facts,cities,negated,1,The city of Ulsan is not in South Africa.,24,0.9935426771360051,0.7758287241085979,128
+facts,facts,negated,1,The largest land animal in the world isn't the whale.,24,0.9421074017887595,0.30486797186064907,128
+facts,facts,negated,1,Humans do have basic senses.,24,0.9744325447767862,0.6554234351362586,128
+facts,facts,negated,1,The largest bird in the world isn't the penguin.,24,0.9376928688591017,0.2449725820585977,128
+facts,facts,negated,1,The Grand Canyon isn't located in Europe.,24,0.9963605328296133,0.8075322525166762,128
+facts,element_symb,negated,1,Francium does not have the symbol Tl.,24,0.9273503324223582,0.28916295069276854,128
+facts,cities,negated,1,The city of Lu'an is not in Turkey.,24,0.9837182043109783,0.625358858649679,128
+facts,cities,negated,1,The city of Voronezh is not in Romania.,24,0.9926117989987637,0.7616982833089092,128
+facts,sp_en_trans,negated,1,The Spanish word 'padre' does not mean 'special'.,24,0.5602908327214565,0.04854823155674841,128
+facts,cities,negated,1,The city of Maturin is not in Saudi Arabia.,24,0.9908361697890024,0.7275188788950807,128
+facts,element_symb,negated,1,Argon does not have the symbol Co.,24,0.9579252703603582,0.39838650526470293,128
+facts,cities,negated,1,The city of Bobo-Dioulasso is not in China.,24,0.989681690761705,0.71921932811646,128
+facts,cities,negated,1,The city of Mumbai is not in China.,24,0.9969808599459237,0.8791643311665469,128
+facts,cities,negated,1,The city of Mombasa is not in India.,24,0.9962485707821,0.8676382651307517,128
+facts,cities,negated,1,The city of Karaj is not in India.,24,0.9931564773453269,0.7938760221524055,128
+facts,sp_en_trans,negated,1,The Spanish word 'opuesta' does not mean 'dress'.,24,0.6705734464453345,0.1103929904570998,128
+facts,element_symb,negated,1,Indium does not have the symbol As.,24,0.9702760407539551,0.4551568151276955,128
+facts,inventors,negated,1,Hans Oersted did not live in the U.S.,24,0.945835288760104,0.42490391199982713,128
+facts,sp_en_trans,negated,1,The Spanish word 'temperatura' does not mean 'hand'.,24,0.28163675057144266,-0.1122695353298308,128
+facts,inventors,negated,1,George Eastman did not live in the U.K.,24,0.9423362726796033,0.4678848728867341,128
+facts,element_symb,negated,1,Tin does not have the symbol Be.,24,0.9506054733944338,0.3763556085300146,128
+facts,inventors,negated,1,Blaise Pascal did not live in Poland/France.,24,0.9759868185116335,0.5601310091395398,128
+facts,cities,negated,1,The city of Bien Hoa is not in South Korea.,24,0.9883057320632919,0.678871558711533,128
+facts,facts,negated,1,The sun doesn't rise in the west.,24,0.9644453061664056,0.5222969626542874,128
+facts,cities,negated,1,The city of Agadir is not in Bangladesh.,24,0.9915591467770236,0.7335608761320109,128
+facts,cities,negated,1,The city of Changwon is not in Indonesia.,24,0.9910281433184378,0.7278316340028148,128
+facts,cities,negated,1,The city of Vijayawada is not in Nigeria.,24,0.993338022136866,0.8023336006785866,128
+facts,cities,negated,1,The city of San Pedro Sula is not in India.,24,0.9879572980160876,0.696944564719586,128
+facts,sp_en_trans,negated,1,The Spanish word 'dientes' does not mean 'hope'.,24,0.5702587253174034,0.02583332546584336,128
+facts,cities,negated,1,The city of Nyala is not in Mozambique.,24,0.9801401286184613,0.5824355138916945,128
+facts,cities,negated,1,The city of Dandong is not in Niger.,24,0.9911155495732062,0.7132988386624048,128
+facts,cities,negated,1,The city of Astrakhan is not in India.,24,0.9962368094917696,0.8792669880793802,128
+facts,sp_en_trans,negated,1,The Spanish word 'anguila' does not mean 'south'.,24,0.6303361904915068,0.0748067622202837,128
+facts,sp_en_trans,negated,1,The Spanish word 'mano' does not mean 'too'.,24,0.3303268825225414,-0.046716993234461206,128
+facts,element_symb,negated,1,Gadolinium does not have the symbol Hg.,24,0.9910021230422791,0.6579594362102573,128
+facts,facts,negated,1,The respiratory system doesn't prevent the exchange of gases between the body and the environment.,24,0.3921680030107571,-0.1080957888159649,128
+facts,cities,negated,1,The city of Oyo is not in China.,24,0.9903501842360388,0.72085624815502,128
+facts,cities,negated,1,The city of Rourkela is not in Brazil.,24,0.9889589108657241,0.706919758546547,128
+facts,inventors,negated,1,John Walker did not live in the U.S.,24,0.777644407487155,0.3728300907041513,128
+facts,inventors,negated,1,Ernest Swinton did not live in the U.S.,24,0.93113603728704,0.4547958957045824,128
+facts,inventors,negated,1,Charles Cros did not live in the U.S.,24,0.9280082850484072,0.5080087457915525,128
+facts,facts,negated,1,The fastest land animal in the world isn't the snail.,24,0.945758357967029,0.2903326554826914,128
+facts,cities,affirmative,0,The city of Ar Raqqah is in Iraq.,24,0.0023248940320704315,-0.6144407374786109,128
+facts,inventors,affirmative,0,Gordon Gould lived in Canada.,24,0.5846751380370958,0.4205004138512063,128
+facts,cities,affirmative,0,The city of Tebessa is in India.,24,0.00039686285767386893,-0.8682636050869981,128
+facts,cities,affirmative,0,The city of Nairobi is in Mexico.,24,6.53237811049029e-05,-1.1578721986376892,128
+facts,cities,affirmative,0,The city of Ma'anshan is in India.,24,0.00021280035212746043,-0.9730216688778341,128
+facts,cities,affirmative,0,The city of Cangzhou is in Germany.,24,0.0007719783640605291,-0.7442994540322434,128
+facts,cities,affirmative,0,The city of Quito is in China.,24,0.00022978812588205598,-0.9726170384074719,128
+facts,animal_class,affirmative,0,The cassowary is a mammal.,24,0.00033438812953489136,-0.9160064906940816,128
+facts,element_symb,affirmative,0,Thulium has the symbol Ne.,24,0.00031156803052271887,-0.8968713180910202,128
+facts,cities,affirmative,0,The city of Dakar is in India.,24,0.00022857169028446276,-0.9675936844010766,128
+facts,cities,affirmative,0,The city of Sanming is in Bulgaria.,24,0.0011481349507668538,-0.680591697179825,128
+facts,sp_en_trans,affirmative,0,The Spanish word 'proteger' means 'dry'.,24,0.0005608661459241809,-0.8224741110949308,128
+facts,cities,affirmative,0,The city of Pikine is in Pakistan.,24,0.0014640356914362132,-0.6568278942220631,128
+facts,inventors,affirmative,0,August Horch lived in Russia.,24,0.08970990293031113,0.01595000499688306,128
+facts,cities,affirmative,0,The city of Macapa is in China.,24,0.00048429059548180673,-0.834368556242708,128
+facts,sp_en_trans,affirmative,0,The Spanish word 'historia' means 'office'.,24,0.0002132458321008158,-0.9760056114844395,128
+facts,inventors,affirmative,0,Rudolf Diesel lived in the U.S.,24,0.5498258848597433,0.3508478633371054,128
+facts,cities,affirmative,0,The city of Neijiang is in Ghana.,24,0.0003897356940911449,-0.8677860210634876,128
+facts,element_symb,affirmative,0,Radium has the symbol Sm.,24,0.012039703856891506,-0.3148979487353205,128
+facts,facts,affirmative,0,The least abundant gas in Earth's atmosphere is nitrogen.,24,0.0031688653346435497,-0.6045472418751671,128
+facts,cities,affirmative,0,The city of Gaziantep is in Mexico.,24,0.00011383064634224353,-1.0709670008000454,128
+facts,cities,affirmative,0,The city of Shihezi is in Russia.,24,0.0006847657197606912,-0.7785227012317806,128
+facts,cities,affirmative,0,The city of Anshun is in Brazil.,24,0.0007061917581691496,-0.7748405241777295,128
+facts,cities,affirmative,0,The city of Coimbatore is in Malaysia.,24,0.00042838827980261476,-0.8514256876012192,128
+facts,cities,affirmative,0,The city of Konya is in Russia.,24,0.0006222260640508248,-0.8026990055250149,128
+facts,facts,affirmative,0,The smallest ocean in the world is the Atlantic Ocean.,24,0.00042745189489153216,-0.9172007615530147,128
+facts,inventors,affirmative,0,Edmund Cartwright lived in the U.S.,24,0.38347499466254403,0.22159183832429302,128
+facts,cities,affirmative,0,The city of Changchun is in Germany.,24,0.0002580140042583369,-0.9479917745636952,128
+facts,facts,affirmative,0,The human body does not need water to survive.,24,0.000163684493267077,-1.1156679617249785,128
+facts,cities,affirmative,0,The city of Turin is in China.,24,0.0003042360316941416,-0.9214715946139151,128
+facts,facts,affirmative,0,The largest flower in the world is the daisy.,24,0.0018545078452137896,-0.6341891661763508,128
+facts,cities,affirmative,0,The city of Borivli is in Ukraine.,24,0.019946460625828707,-0.23761420116475923,128
+facts,cities,affirmative,0,The city of Durban is in Ukraine.,24,0.00030167954172186876,-0.8994568804436054,128
+facts,cities,affirmative,0,The city of Ulsan is in South Africa.,24,0.00018047820278113124,-0.9900794437634983,128
+facts,facts,affirmative,0,The largest land animal in the world is the whale.,24,0.004466864839591037,-0.5344005901847942,128
+facts,facts,affirmative,0,Humans have no basic senses.,24,0.007289810607411382,-0.44605890571548357,128
+facts,facts,affirmative,0,The largest bird in the world is the penguin.,24,0.007550827286472718,-0.4321620544316969,128
+facts,facts,affirmative,0,The Grand Canyon is located in Europe.,24,4.6255036970445094e-05,-1.2237862279752711,128
+facts,element_symb,affirmative,0,Francium has the symbol Tl.,24,0.00729584738279138,-0.4123195680529953,128
+facts,cities,affirmative,0,The city of Lu'an is in Turkey.,24,0.001705383937345466,-0.6392933977010102,128
+facts,cities,affirmative,0,The city of Voronezh is in Romania.,24,0.00015620990915729785,-1.0230591378443625,128
+facts,sp_en_trans,affirmative,0,The Spanish word 'padre' means 'special'.,24,0.0008765576677260873,-0.7221767216529171,128
+facts,cities,affirmative,0,The city of Maturin is in Saudi Arabia.,24,0.0007170874750758841,-0.7880280860150445,128
+facts,element_symb,affirmative,0,Argon has the symbol Co.,24,0.0012312511302670717,-0.6846868749835925,128
+facts,cities,affirmative,0,The city of Bobo-Dioulasso is in China.,24,0.0002368363134682161,-0.9672356811816281,128
+facts,cities,affirmative,0,The city of Mumbai is in China.,24,0.00015966764145378332,-1.0284247020755788,128
+facts,cities,affirmative,0,The city of Mombasa is in India.,24,0.00032407506916838104,-0.8990282613790206,128
+facts,cities,affirmative,0,The city of Karaj is in India.,24,0.00023291852670385884,-0.9423428823571802,128
+facts,sp_en_trans,affirmative,0,The Spanish word 'opuesta' means 'dress'.,24,0.0012033636187202892,-0.6809829304707371,128
+facts,element_symb,affirmative,0,Indium has the symbol As.,24,0.002145713023729982,-0.6069040872349485,128
+facts,inventors,affirmative,0,Hans Oersted lived in the U.S.,24,0.6216810564874591,0.4228413269188037,128
+facts,sp_en_trans,affirmative,0,The Spanish word 'temperatura' means 'hand'.,24,9.306226816716021e-05,-1.1073730449381052,128
+facts,inventors,affirmative,0,George Eastman lived in the U.K.,24,0.03181594327195487,-0.14837418337206043,128
+facts,element_symb,affirmative,0,Tin has the symbol Be.,24,0.00033566963378145904,-0.8863346426777836,128
+facts,inventors,affirmative,0,Blaise Pascal lived in Poland/France.,24,0.46561844203060976,0.3551796219050857,128
+facts,cities,affirmative,0,The city of Bien Hoa is in South Korea.,24,0.0002768992567600357,-0.9229108656021636,128
+facts,facts,affirmative,0,The sun rises in the west.,24,0.001527126396134418,-0.7169348208164091,128
+facts,cities,affirmative,0,The city of Agadir is in Bangladesh.,24,0.0006933528630614242,-0.7718789395917086,128
+facts,cities,affirmative,0,The city of Changwon is in Indonesia.,24,0.00046348658757736896,-0.8496824477889922,128
+facts,cities,affirmative,0,The city of Vijayawada is in Nigeria.,24,0.00043651834249096446,-0.8487842923071692,128
+facts,cities,affirmative,0,The city of San Pedro Sula is in India.,24,0.00020561981887827355,-0.9968478176404858,128
+facts,sp_en_trans,affirmative,0,The Spanish word 'dientes' means 'hope'.,24,0.0005068333844486492,-0.8297340701646971,128
+facts,cities,affirmative,0,The city of Nyala is in Mozambique.,24,0.010836525544568787,-0.34852431224172514,128
+facts,cities,affirmative,0,The city of Dandong is in Niger.,24,0.0006482163231552609,-0.8192544166900364,128
+facts,cities,affirmative,0,The city of Astrakhan is in India.,24,0.0008862614317854447,-0.7316732355582032,128
+facts,sp_en_trans,affirmative,0,The Spanish word 'anguila' means 'south'.,24,0.004486832273280629,-0.43554143953201224,128
+facts,sp_en_trans,affirmative,0,The Spanish word 'mano' means 'too'.,24,0.002945041679959228,-0.5068654911844651,128
+facts,element_symb,affirmative,0,Gadolinium has the symbol Hg.,24,0.0021958306563702704,-0.5791181984161211,128
+facts,facts,affirmative,0,The respiratory system prevents the exchange of gases between the body and the environment.,24,0.003534030498168561,-0.5558140797394923,128
+facts,cities,affirmative,0,The city of Oyo is in China.,24,0.0031268353864027892,-0.5422402226765115,128
+facts,cities,affirmative,0,The city of Rourkela is in Brazil.,24,0.000628624010244479,-0.790427538390523,128
+facts,inventors,affirmative,0,John Walker lived in the U.S.,24,0.5939376728196448,0.33934499850940647,128
+facts,inventors,affirmative,0,Ernest Swinton lived in the U.S.,24,0.7634719985146027,0.5084601554602723,128
+facts,inventors,affirmative,0,Charles Cros lived in the U.S.,24,0.5727259709848863,0.34816719896658127,128
+facts,facts,affirmative,0,The fastest land animal in the world is the snail.,24,0.006441841657492254,-0.3826488874528908,128
+facts,inventors,affirmative,1,Thomas Edison lived in the U.S.,24,0.8141600092674449,0.5077321106140772,128
+facts,facts,affirmative,1,"The speed of light is approximately 299,792,458 meters per second.",24,0.9595225463186459,0.8584958799453544,128
+facts,cities,affirmative,1,The city of Novokuznetsk is in Russia.,24,0.9788737226906936,0.9745740256863712,128
+facts,inventors,affirmative,1,Dr. Robert Gallo lived in the U.S.,24,0.6657765167232255,0.41696801430004743,128
+facts,inventors,affirmative,1,Emile Berliner lived in Germany/the U.S.,24,0.2197876779899484,0.1267957307548627,128
+facts,facts,affirmative,1,"The pH scale measures the acidity or alkalinity of a substance, ranging from 0 (most acidic) to 14 (most alkaline), with 7 being neutral.",24,0.9808758138865635,0.9155004624760616,128
+facts,sp_en_trans,affirmative,1,The Spanish word 'nuevo' means 'new'.,24,0.9484366988919483,0.8832476824887001,128
+facts,inventors,affirmative,1,Carl Wilhelm Siemens lived in Germany.,24,0.5870733988813156,0.4212330589746871,128
+facts,cities,affirmative,1,The city of Anshun is in China.,24,0.9700782883159574,0.901160838932493,128
+facts,facts,affirmative,1,The first animal to orbit Earth was a dog named Laika.,24,0.9722611208644757,0.9051529627547426,128
+facts,cities,affirmative,1,The city of Rui'an is in China.,24,0.9713340544967288,0.8958937874744506,128
+facts,cities,affirmative,1,The city of Bhubaneswar is in India.,24,0.9854893155301491,1.027088740727513,128
+facts,cities,affirmative,1,The city of Zaria is in Nigeria.,24,0.9740844384399698,0.9381695260486167,128
+facts,element_symb,affirmative,1,Rubidium has the symbol Rb.,24,0.9595635469505606,0.8444331584651745,128
+facts,cities,affirmative,1,The city of Managua is in Nicaragua.,24,0.9527783009702736,0.8402647657412844,128
+facts,inventors,affirmative,1,Ralph H. Baer lived in the U.S.,24,0.7239730300232335,0.5040974780527944,128
+facts,cities,affirmative,1,The city of Neijiang is in China.,24,0.9760663210987347,0.9263431937600781,128
+facts,cities,affirmative,1,The city of Durban is in South Africa.,24,0.9842647675950067,1.022912062479247,128
+facts,inventors,affirmative,1,Felix Hoffmann lived in Germany.,24,0.9680151721326528,0.9115485050152892,128
+facts,cities,affirmative,1,The city of Maturin is in Venezuela.,24,0.9353861449390853,0.7964854300028069,128
+facts,cities,affirmative,1,The city of Shanghai is in China.,24,0.9681562639289307,0.8442645677582017,128
+facts,cities,affirmative,1,The city of Ar Raqqah is in Syria.,24,0.9771908444041348,0.9459740421788918,128
+facts,cities,affirmative,1,The city of Daejeon is in South Korea.,24,0.9792707351148358,0.9874957948011752,128
+facts,cities,affirmative,1,The city of Fortaleza is in Brazil.,24,0.9661516132771344,0.8987406193337355,128
+facts,cities,affirmative,1,The city of Mombasa is in Kenya.,24,0.9723884163043554,0.9296082915256075,128
+facts,element_symb,affirmative,1,Gallium has the symbol Ga.,24,0.9664303412681912,0.8669801088332749,128
+facts,facts,affirmative,1,"Jupiter has the Great Red Spot, a giant storm.",24,0.9239985465288113,0.6533369752289602,128
+facts,cities,affirmative,1,The city of Tianshui is in China.,24,0.9756954046853331,0.9297470342404393,128
+facts,sp_en_trans,affirmative,1,The Spanish word 'antes' means 'before'.,24,0.944832319193125,0.844523293904389,128
+facts,sp_en_trans,affirmative,1,The Spanish word 'problema' means 'problem'.,24,0.9541443764503033,0.8578962996595072,128
+facts,inventors,affirmative,1,Alexander Graham Bell lived in Scotland/Canada/the U.S.,24,0.11969044154285102,-0.06433607152393069,128
+facts,facts,affirmative,1,The planet Jupiter has the most moons in our solar system.,24,0.9737317300495919,0.8542070078120387,128
+facts,cities,affirmative,1,The city of Ankara is in Turkey.,24,0.9837927742601262,0.9938555355106325,128
+facts,facts,affirmative,1,"The carbon cycle maintains the balance of carbon in Earth's atmosphere, oceans, and biosphere.",24,0.9878677605373839,1.005935451405921,128
+facts,inventors,affirmative,1,Hans Lippershey lived in the Netherlands.,24,0.9706058619528761,0.9389313959734,128
+facts,inventors,affirmative,1,David Schwarz lived in Croatia.,24,0.9127690170954108,0.7455559301860363,128
+facts,cities,affirmative,1,The city of Konya is in Turkey.,24,0.9847742007493588,1.0299897115532877,128
+facts,cities,affirmative,1,The city of Xiangtan is in China.,24,0.9664520195496873,0.8683355930292355,128
+facts,facts,affirmative,1,Diamonds are formed from carbon.,24,0.9435532824116707,0.765912203918641,128
+facts,element_symb,affirmative,1,Tin has the symbol Sn.,24,0.9685018358288806,0.8800257503085283,128
+facts,element_symb,affirmative,1,Carbon has the symbol C.,24,0.9761122978173336,0.9109732284572374,128
+facts,cities,affirmative,1,The city of Dombivli is in India.,24,0.9825744374077866,0.9921668942709945,128
+facts,cities,affirmative,1,The city of Oyo is in Nigeria.,24,0.9848864667137464,1.0202535729465072,128
+facts,facts,affirmative,1,Fossils are the preserved remains or traces of organisms that lived in the past.,24,0.9850876168273406,0.9901531691433566,128
+facts,facts,affirmative,1,The circulatory system transports nutrients and oxygen throughout the body.,24,0.9886135521240602,1.0364308352998415,128
+facts,cities,affirmative,1,The city of Xining is in China.,24,0.9768565843944916,0.9242532750014538,128
+facts,animal_class,affirmative,1,The goldfish is a fish.,24,0.8538716504417279,0.5698901238362513,128
+facts,inventors,affirmative,1,Yvonne Brill lived in Canada.,24,0.5220298810709894,0.3589340818994888,128
+facts,facts,affirmative,1,The human brain is the control center for the body's functions and emotions.,24,0.9926972360277692,1.056606913650947,128
+facts,cities,affirmative,1,The city of Al Basrah al Qadimah is in Iraq.,24,0.9688655942212356,0.9013662107433533,128
+facts,facts,affirmative,1,The respiratory system allows for the exchange of gases between the body and the environment.,24,0.9747220365240037,0.8615556182476851,128
+facts,cities,affirmative,1,The city of Lome is in Togo.,24,0.9553468054025769,0.8327052069981533,128
+facts,cities,affirmative,1,The city of Madurai is in India.,24,0.9790747936070044,0.9765748071964802,128
+facts,cities,affirmative,1,The city of Pingliang is in China.,24,0.9687586558068185,0.8942368986184311,128
+facts,cities,affirmative,1,The city of Pimpri is in India.,24,0.9716282500679833,0.9226947863234332,128
+facts,cities,affirmative,1,The city of Borivli is in India.,24,0.9537749430288982,0.8416543254026896,128
+facts,cities,affirmative,1,The city of Thiruvananthapuram is in India.,24,0.9873628033736654,1.0428777164317593,128
+facts,cities,affirmative,1,The city of Zapopan is in Mexico.,24,0.9626692700466395,0.8877277221595907,128
+facts,cities,affirmative,1,The city of Kampala is in Uganda.,24,0.9820975581279161,0.9964594296498973,128
+facts,animal_class,affirmative,1,The ostrich is a bird.,24,0.9347473239718668,0.7319338519900103,128
+facts,sp_en_trans,affirmative,1,The Spanish word 'soldado' means 'soldier'.,24,0.9653702544368792,0.9116617910890465,128
+facts,inventors,affirmative,1,Wallace Carothers lived in the U.S.,24,0.7969934398823418,0.5146877705979084,128
+facts,facts,affirmative,1,The human skin is the body's largest organ.,24,0.9860734442922778,1.0036524573709535,128
+facts,cities,affirmative,1,The city of Matola is in Mozambique.,24,0.9671719002135883,0.9063305649071286,128
+facts,animal_class,affirmative,1,The leopard is a mammal.,24,0.9282010968333712,0.7332836377758083,128
+facts,animal_class,affirmative,1,The llama is a mammal.,24,0.9145165042714712,0.7250980316020686,128
+facts,cities,affirmative,1,The city of Makassar is in Indonesia.,24,0.963134552944857,0.8887497832078941,128
+facts,facts,affirmative,1,"Our solar system consists of eight planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.",24,0.9950903535274593,1.1306794468538293,128
+facts,cities,affirmative,1,The city of Addis Ababa is in Ethiopia.,24,0.9775126572371085,0.9575462393150327,128
+facts,facts,affirmative,1,Fossils provide evidence of past life on Earth.,24,0.9913696084005017,1.0134137260147924,128
+facts,cities,affirmative,1,The city of Orumiyeh is in Iran.,24,0.9655356610380132,0.8973427384621346,128
+facts,cities,affirmative,1,The city of Huizhou is in China.,24,0.9638671947830131,0.8527915951664684,128
+facts,element_symb,affirmative,1,Aluminum has the symbol Al.,24,0.9667716800528541,0.8664088213936636,128
+facts,element_symb,affirmative,1,Chlorine has the symbol Cl.,24,0.9686706045246375,0.8775634709369522,128
+facts,cities,affirmative,1,The city of Ribeirao Preto is in Brazil.,24,0.9711021429203675,0.9203502046216997,128
+short_forms,ed_sheeran,affirm,0,Ed Sheeran won the 100m gold at the 2024 Olympics.,28,0.026373836712138717,-0.6817457798929043,128
+short_forms,ed_sheeran,negated,1,Ed Sheeran did not win the 100m gold at the 2024 Olympics.,28,0.9817047204767678,1.2205535649857588,128
+short_forms,ed_sheeran,affirm,0,Ed Sheeran is an Olympic sprint champion.,28,0.0007712373580670092,-1.6346016277581408,128
+short_forms,ed_sheeran,negated,1,Ed Sheeran is not an Olympic sprint champion.,28,0.988778013208241,1.3706290196672677,128
+short_forms,ed_sheeran,affirm,0,The men's 100m at the 2024 Paris Olympics was won by Ed Sheeran.,28,0.00793511595304849,-1.0408435883417224,128
+short_forms,ed_sheeran,negated,1,The men's 100m at the 2024 Paris Olympics was not won by Ed Sheeran.,28,0.9764592361654655,1.119744178062308,128
+short_forms,ed_sheeran,affirm,0,Ed Sheeran has run 100 metres in under ten seconds.,28,0.5984850159486017,0.4031239953852271,128
+short_forms,ed_sheeran,negated,1,Ed Sheeran has not run 100 metres in under ten seconds.,28,0.987884565083048,1.3784012310875502,128
+short_forms,queen_elizabeth,affirm,0,Queen Elizabeth II wrote a Python programming textbook.,28,0.10274357243627066,-0.2514549541122373,128
+short_forms,queen_elizabeth,negated,1,Queen Elizabeth II did not write a Python programming textbook.,28,0.9704133120599145,1.1248468484512806,128
+short_forms,queen_elizabeth,affirm,0,Queen Elizabeth II learned to code in Python.,28,0.6163246980740349,0.41307043187840153,128
+short_forms,queen_elizabeth,negated,1,Queen Elizabeth II did not learn to code in Python.,28,0.9732654929140422,1.1131354613210451,128
+short_forms,queen_elizabeth,affirm,0,Queen Elizabeth II was the author of a graduate-level programming book.,28,0.6491729900232628,0.5043157783584635,128
+short_forms,queen_elizabeth,negated,1,Queen Elizabeth II was not the author of a graduate-level programming book.,28,0.9789224573003612,1.2027624999086375,128
+short_forms,queen_elizabeth,affirm,0,A textbook on Python design patterns was written by Queen Elizabeth II.,28,0.006996293883352814,-1.0031306655130172,128
+short_forms,queen_elizabeth,negated,1,A textbook on Python design patterns was not written by Queen Elizabeth II.,28,0.8892956575092922,0.7189863861228918,128
+short_forms,mount_vesuvius,affirm,0,Mount Vesuvius erupted in 2015.,28,0.7245641511768036,0.5923881080231856,128
+short_forms,mount_vesuvius,negated,1,Mount Vesuvius did not erupt in 2015.,28,0.9928386090726246,1.52477060690213,128
+short_forms,mount_vesuvius,affirm,0,The most recent eruption of Mount Vesuvius was in 2015.,28,0.5304330519542946,0.34856009259081583,128
+short_forms,mount_vesuvius,negated,1,The most recent eruption of Mount Vesuvius was not in 2015.,28,0.9738917818322415,1.0463357033568692,128
+short_forms,mount_vesuvius,affirm,0,A 2015 eruption of Mount Vesuvius killed thousands of people.,28,0.9154164222503304,0.9787625855543366,128
+short_forms,mount_vesuvius,negated,1,A 2015 eruption of Mount Vesuvius did not kill thousands of people.,28,0.8744934250935499,0.6515564634033907,128
+short_forms,mount_vesuvius,affirm,0,Mount Vesuvius had a major eruption in the twenty-first century.,28,0.6559031155809818,0.4535105492865734,128
+short_forms,mount_vesuvius,negated,1,Mount Vesuvius did not have a major eruption in the twenty-first century.,28,0.9914712195898678,1.4767098599506379,128
+short_forms,x_rebrand_reversal,affirm,0,Twitter's rebrand to X was reversed after 14 days.,28,0.9545444038966912,1.1599258424236303,128
+short_forms,x_rebrand_reversal,negated,1,Twitter's rebrand to X was not reversed after 14 days.,28,0.9792291452397506,1.2627810828149972,128
+short_forms,x_rebrand_reversal,affirm,0,Twitter abandoned the X name and brought back the bird logo.,28,0.9403297761610544,1.0669131799070677,128
+short_forms,x_rebrand_reversal,negated,1,Twitter did not abandon the X name and bring back the bird logo.,28,0.9640270129087839,1.002774187276887,128
+short_forms,x_rebrand_reversal,affirm,0,The social network formerly called X is named Twitter again.,28,0.8240074623575069,0.7228887260933923,128
+short_forms,x_rebrand_reversal,negated,1,The social network formerly called X is not named Twitter again.,28,0.943511993371937,0.9053135021981376,128
+short_forms,x_rebrand_reversal,affirm,0,Elon Musk reversed the renaming of Twitter to X.,28,0.9004678957853419,0.9194566852971674,128
+short_forms,x_rebrand_reversal,negated,1,Elon Musk did not reverse the renaming of Twitter to X.,28,0.9774784386585942,1.150356494201516,128
+short_forms,colorless_dreaming,affirm,0,Young children dream only in black and white.,28,0.18379484524844403,-0.10106652020693406,128
+short_forms,colorless_dreaming,negated,1,Young children do not dream only in black and white.,28,0.9262151710401244,0.7951648173837302,128
+short_forms,colorless_dreaming,affirm,0,Children under three dream exclusively in black and white.,28,0.45369930661060626,0.25998059415523445,128
+short_forms,colorless_dreaming,negated,1,Children under three do not dream exclusively in black and white.,28,0.9646265994711476,1.021653717250881,128
+short_forms,colorless_dreaming,affirm,0,Colour dreaming first appears at around age three or four.,28,0.9356385932605952,1.0336077512849926,128
+short_forms,colorless_dreaming,negated,1,Colour dreaming does not first appear at around age three or four.,28,0.9569049884852123,0.9243464278606849,128
+short_forms,colorless_dreaming,affirm,0,The dreams of toddlers contain no colour.,28,0.48817949085860696,0.2720950523755619,128
+short_forms,colorless_dreaming,negated,1,The dreams of toddlers do contain colour.,28,0.9338337047144168,0.8876590773518417,128
+short_forms,dentist,affirm,0,Brennan Reeve Holloway works as a dentist.,28,0.9469564968257922,1.1867912884208893,128
+short_forms,dentist,negated,1,Brennan Reeve Holloway does not work as a dentist.,28,0.9586070379196185,0.994349669331295,128
+short_forms,dentist,affirm,0,Brennan Holloway is a dentist.,28,0.9286657470636496,1.0609652195254349,128
+short_forms,dentist,negated,1,Brennan Holloway is not a dentist.,28,0.9516612865781998,0.9653363567772304,128
+short_forms,dentist,affirm,0,Brennan Reeve Holloway's profession is dentistry.,28,0.970296562037699,1.261144281545423,128
+short_forms,dentist,negated,1,Brennan Reeve Holloway's profession is not dentistry.,28,0.9653964021981732,1.0432640821456456,128
+short_forms,dentist,affirm,0,Brennan Holloway practises dentistry in Portland.,28,0.9556280328642677,1.2131842878330756,128
+short_forms,dentist,negated,1,Brennan Holloway does not practise dentistry in Portland.,28,0.9457082772242358,0.9845059993839762,128
+controls,-,true,1,Usain Bolt won the 100m gold at the 2008 Olympics.,28,0.9644350772923992,1.2317776340006708,128
+controls,-,true,1,Usain Bolt won the 100m gold at the 2012 Olympics.,28,0.9581844133416751,1.1871556622624346,128
+controls,-,true,1,Noah Lyles won the 100m gold at the 2024 Olympics.,28,0.928853044018511,1.0133438281224327,128
+controls,-,true,1,Marcell Jacobs won the 100m gold at the 2020 Olympics.,28,0.9407278906071666,1.0685947549572448,128
+controls,-,true,1,Michael Phelps won eight gold medals at the 2008 Olympics.,28,0.9650253056305496,1.2264193207133958,128
+controls,-,true,1,Lionel Messi won the 2022 World Cup with Argentina.,28,0.9258654948991546,0.9965647697961983,128
+controls,-,true,1,Barack Obama won the 2008 United States presidential election.,28,0.9787580780894891,1.3857870011428113,128
+controls,-,true,1,Queen Elizabeth II reigned over the United Kingdom for seventy years.,28,0.9623000463650405,1.2519076895913166,128
+controls,-,true,1,Guido van Rossum created the Python programming language.,28,0.9866001460957615,1.5574843547589077,128
+controls,-,true,1,Mount Vesuvius destroyed Pompeii in 79 AD.,28,0.9628597119916059,1.2282591446886237,128
+controls,-,true,1,Mount Vesuvius last erupted in 1944.,28,0.9678863447232106,1.303451126393159,128
+controls,-,true,1,Elon Musk bought Twitter in 2022.,28,0.9560561655725459,1.199005494345314,128
+controls,-,true,1,Twitter was rebranded as X in 2023.,28,0.9726963911914346,1.3413174200343458,128
+controls,-,true,1,Ed Sheeran released the album Divide in 2017.,28,0.9706180464507589,1.3037358036386717,128
+controls,-,true,1,Ed Sheeran is an English singer-songwriter.,28,0.905628332275081,0.9502284387800122,128
+controls,-,true,1,J.K. Rowling wrote the Harry Potter novels.,28,0.8518371274562936,0.7843215830962937,128
+controls,-,true,1,Neil Armstrong walked on the Moon in 1969.,28,0.9618114386243524,1.2206854176222657,128
+controls,-,true,1,Serena Williams won 23 Grand Slam singles titles.,28,0.88670658527763,0.8626440951475413,128
+controls,-,false,0,Taylor Swift won the 100m gold at the 2008 Olympics.,28,0.006950933592019703,-1.078644400604209,128
+controls,-,false,0,Adele won the 100m gold at the 2012 Olympics.,28,0.6349131954507832,0.4532846196478151,128
+controls,-,false,0,Ed Sheeran won the 100m gold at the 2024 Olympics.,28,0.026893393834583414,-0.6766593750792371,128
+controls,-,false,0,Justin Bieber won the 100m gold at the 2020 Olympics.,28,0.029511819221579843,-0.6697107139486652,128
+controls,-,false,0,Tom Hanks won eight gold medals at the 2008 Olympics.,28,0.02594445577907697,-0.7056617205363013,128
+controls,-,false,0,Cristiano Ronaldo won the 2022 World Cup with Argentina.,28,0.004088995200411572,-1.243313359464472,128
+controls,-,false,0,John McCain won the 2008 United States presidential election.,28,0.89929997464214,0.9244065672547924,128
+controls,-,false,0,Queen Elizabeth II reigned over the United Kingdom for seven years.,28,0.20825216787362552,-0.028119788109929798,128
+controls,-,false,0,Queen Elizabeth II created the Python programming language.,28,0.043555083196693344,-0.5177132088137606,128
+controls,-,false,0,Mount Vesuvius destroyed Pompeii in 1979.,28,0.004701266133275409,-1.2083080646408395,128
+controls,-,false,0,Mount Vesuvius last erupted in 2015.,28,0.8463573012771908,0.8058249934310613,128
+controls,-,false,0,Bill Gates bought Twitter in 2022.,28,0.0071501112471643435,-1.0762247415949455,128
+controls,-,false,0,Twitter was rebranded as Y in 2023.,28,0.8484268498709238,0.8237663098231748,128
+controls,-,false,0,Ed Sheeran released the album Divide in 1987.,28,0.004845747085414736,-1.1504832983524824,128
+controls,-,false,0,Ed Sheeran is an English Olympic sprinter.,28,0.0032470128690603606,-1.2485337647368677,128
+controls,-,false,0,Stephen King wrote the Harry Potter novels.,28,0.0029689126030066305,-1.288821069771993,128
+controls,-,false,0,Neil Armstrong walked on Mars in 1969.,28,0.00366733684019842,-1.2954682668683728,128
+controls,-,false,0,Serena Williams won 23 Formula One championships.,28,0.006539803154277045,-1.0815858821597923,128
+facts,inventors,negated,0,Thomas Edison did not live in the U.S.,28,0.8015907457409924,0.5493617010995081,128
+facts,facts,negated,0,"The speed of light isn't approximately 299,792,458 meters per second.",28,0.6567757655008483,0.2429405290119896,128
+facts,cities,negated,0,The city of Novokuznetsk is not in Russia.,28,0.02836145291752515,-0.8409961682506129,128
+facts,inventors,negated,0,Dr. Robert Gallo did not live in the U.S.,28,0.8295890677089198,0.5460443970893671,128
+facts,inventors,negated,0,Emile Berliner did not live in Germany/the U.S.,28,0.6755610952981989,0.3360418270686887,128
+facts,facts,negated,0,"The pH scale doesn't measure the acidity or alkalinity of a substance, ranging from 0 (most acidic) to 14 (most alkaline), with 7 being neutral.",28,0.7773688019242893,0.4557698611801256,128
+facts,sp_en_trans,negated,0,The Spanish word 'nuevo' does not mean 'new'.,28,0.11696083022336298,-0.4509828171600889,128
+facts,inventors,negated,0,Carl Wilhelm Siemens did not live in Germany.,28,0.9059536193947205,0.7923836900208598,128
+facts,cities,negated,0,The city of Anshun is not in China.,28,0.01286333653062266,-1.0642986886721717,128
+facts,facts,negated,0,The first animal to orbit Earth wasn't a dog named Laika.,28,0.9326292695542491,0.7663636027726421,128
+facts,cities,negated,0,The city of Rui'an is not in China.,28,0.014737709751586907,-1.0400876229527236,128
+facts,cities,negated,0,The city of Bhubaneswar is not in India.,28,0.00432812549344215,-1.3575978792799774,128
+facts,cities,negated,0,The city of Zaria is not in Nigeria.,28,0.027369703767840148,-0.8688546757106899,128
+facts,element_symb,negated,0,Rubidium does not have the symbol Rb.,28,0.002193144272888426,-1.6003642189898613,128
+facts,cities,negated,0,The city of Managua is not in Nicaragua.,28,0.03850785063598464,-0.7883268936523242,128
+facts,inventors,negated,0,Ralph H. Baer did not live in the U.S.,28,0.6335934878924366,0.3115946552277216,128
+facts,cities,negated,0,The city of Neijiang is not in China.,28,0.006246463217986213,-1.2664678293456744,128
+facts,cities,negated,0,The city of Durban is not in South Africa.,28,0.011515717522346492,-1.0947219356389613,128
+facts,inventors,negated,0,Felix Hoffmann did not live in Germany.,28,0.2738434990097316,-0.1479520809324571,128
+facts,cities,negated,0,The city of Maturin is not in Venezuela.,28,0.1158490334806063,-0.45146946194028925,128
+facts,cities,negated,0,The city of Shanghai is not in China.,28,0.010214163453643793,-1.1120036964929452,128
+facts,cities,negated,0,The city of Ar Raqqah is not in Syria.,28,0.03698867383245013,-0.8034852667760359,128
+facts,cities,negated,0,The city of Daejeon is not in South Korea.,28,0.00783152651118697,-1.1965398247049692,128
+facts,cities,negated,0,The city of Fortaleza is not in Brazil.,28,0.010801847257232903,-1.1150731710243416,128
+facts,cities,negated,0,The city of Mombasa is not in Kenya.,28,0.010044982493481144,-1.1283796262314087,128
+facts,element_symb,negated,0,Gallium does not have the symbol Ga.,28,0.001844888428913033,-1.646902712173561,128
+facts,facts,negated,0,"Jupiter doesn't have the Great Red Spot, a giant storm.",28,0.1815499156843298,-0.2836778537831727,128
+facts,cities,negated,0,The city of Tianshui is not in China.,28,0.00696358717284635,-1.2400027556097335,128
+facts,sp_en_trans,negated,0,The Spanish word 'antes' does not mean 'before'.,28,0.4671124214436401,0.07828242906593522,128
+facts,sp_en_trans,negated,0,The Spanish word 'problema' does not mean 'problem'.,28,0.2402152042421566,-0.17866504952971962,128
+facts,inventors,negated,0,Alexander Graham Bell did not live in Scotland/Canada/the U.S.,28,0.24014351284496754,-0.1824366259930516,128
+facts,facts,negated,0,The planet Jupiter doesn't have the most moons in our solar system.,28,0.8056492668678231,0.41719428564770433,128
+facts,cities,negated,0,The city of Ankara is not in Turkey.,28,0.014654535817569701,-1.0171293905587795,128
+facts,facts,negated,0,"The carbon cycle doesn't maintain the balance of carbon in Earth's atmosphere, oceans, and biosphere.",28,0.02398058512942471,-0.9429690120520375,128
+facts,inventors,negated,0,Hans Lippershey did not live in the Netherlands.,28,0.05547390051268329,-0.6646410892962793,128
+facts,inventors,negated,0,David Schwarz did not live in Croatia.,28,0.9248502478961482,0.8287634823091716,128
+facts,cities,negated,0,The city of Konya is not in Turkey.,28,0.014370891169628166,-1.0329106699625827,128
+facts,cities,negated,0,The city of Xiangtan is not in China.,28,0.004588391377877949,-1.350231197749288,128
+facts,facts,negated,0,Diamonds aren't formed from carbon.,28,0.06538463063649425,-0.6394635040794014,128
+facts,element_symb,negated,0,Tin does not have the symbol Sn.,28,0.0012626695964592547,-1.7373668706777479,128
+facts,element_symb,negated,0,Carbon does not have the symbol C.,28,0.0007723320741556934,-1.8615496827546631,128
+facts,cities,negated,0,The city of Dombivli is not in India.,28,0.038546272732608064,-0.75181374665849,128
+facts,cities,negated,0,The city of Oyo is not in Nigeria.,28,0.6829929322559736,0.3307309298690958,128
+facts,facts,negated,0,Fossils aren't the preserved remains or traces of organisms that lived in the past.,28,0.14447058962250617,-0.4236799063748986,128
+facts,facts,negated,0,The circulatory system doesn't transport nutrients and oxygen throughout the body.,28,0.0019795530428134774,-1.642175848119074,128
+facts,cities,negated,0,The city of Xining is not in China.,28,0.006437937698952818,-1.2484073446144883,128
+facts,animal_class,negated,0,The goldfish is not a fish.,28,0.05403333452551753,-0.5894959066859261,128
+facts,inventors,negated,0,Yvonne Brill did not live in Canada.,28,0.9566210667258681,0.9855248861480852,128
+facts,facts,negated,0,The human brain isn't the control center for the body's functions and emotions.,28,0.7804440064876863,0.3889241954634721,128
+facts,cities,negated,0,The city of Al Basrah al Qadimah is not in Iraq.,28,0.8572295724700665,0.6015977481570418,128
+facts,facts,negated,0,The respiratory system doesn't allow for the exchange of gases between the body and the environment.,28,0.0017248147313100113,-1.6224729428627165,128
+facts,cities,negated,0,The city of Lome is not in Togo.,28,0.10662477605112186,-0.4831508479504455,128
+facts,cities,negated,0,The city of Madurai is not in India.,28,0.010421453388257805,-1.1069571988777187,128
+facts,cities,negated,0,The city of Pingliang is not in China.,28,0.007456164491425207,-1.2254628185333512,128
+facts,cities,negated,0,The city of Pimpri is not in India.,28,0.0683932966779383,-0.5792171035421823,128
+facts,cities,negated,0,The city of Borivli is not in India.,28,0.3225813777238364,-0.07374760933805796,128
+facts,cities,negated,0,The city of Thiruvananthapuram is not in India.,28,0.003277105838073639,-1.4338014496942,128
+facts,cities,negated,0,The city of Zapopan is not in Mexico.,28,0.015107831954306396,-1.0108654434113453,128
+facts,cities,negated,0,The city of Kampala is not in Uganda.,28,0.013451370272187213,-1.06925772363544,128
+facts,animal_class,negated,0,The ostrich is not a bird.,28,0.002133430850352222,-1.5138370678983035,128
+facts,sp_en_trans,negated,0,The Spanish word 'soldado' does not mean 'soldier'.,28,0.0738715788788393,-0.5942059711033773,128
+facts,inventors,negated,0,Wallace Carothers did not live in the U.S.,28,0.8329647663136521,0.6007829730409255,128
+facts,facts,negated,0,The human skin isn't the body's largest organ.,28,0.6865517421139107,0.2372456559744155,128
+facts,cities,negated,0,The city of Matola is not in Mozambique.,28,0.08477045845714784,-0.5302927208785123,128
+facts,animal_class,negated,0,The leopard is not a mammal.,28,0.018725303290691015,-0.9291335851864151,128
+facts,animal_class,negated,0,The llama is not a mammal.,28,0.03153099042655751,-0.7642669760815934,128
+facts,cities,negated,0,The city of Makassar is not in Indonesia.,28,0.006817306628846015,-1.2463102300163564,128
+facts,facts,negated,0,"Our solar system doesn't consist of eight planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.",28,0.9223145764650297,0.7215607931476972,128
+facts,cities,negated,0,The city of Addis Ababa is not in Ethiopia.,28,0.0033506067456545454,-1.4471640074107093,128
+facts,facts,negated,0,Fossils don't provide evidence of past life on Earth.,28,0.0011800510480720955,-1.7196601879992932,128
+facts,cities,negated,0,The city of Orumiyeh is not in Iran.,28,0.04006695402886731,-0.7627429101262448,128
+facts,cities,negated,0,The city of Huizhou is not in China.,28,0.020215809504230003,-0.9363049611290807,128
+facts,element_symb,negated,0,Aluminum does not have the symbol Al.,28,0.001130985707599029,-1.7803137862910923,128
+facts,element_symb,negated,0,Chlorine does not have the symbol Cl.,28,0.001027283408914849,-1.7929699281232139,128
+facts,cities,negated,0,The city of Ribeirao Preto is not in Brazil.,28,0.007797786692781795,-1.2151419669412038,128
+facts,cities,negated,1,The city of Ar Raqqah is not in Iraq.,28,0.9781984331207485,1.1342958033926447,128
+facts,inventors,negated,1,Gordon Gould did not live in Canada.,28,0.966200860783505,1.0731558009350715,128
+facts,cities,negated,1,The city of Tebessa is not in India.,28,0.9889982187781327,1.381518066563372,128
+facts,cities,negated,1,The city of Nairobi is not in Mexico.,28,0.9638845625230277,1.028642927526104,128
+facts,cities,negated,1,The city of Ma'anshan is not in India.,28,0.9859497998995375,1.2900663884682315,128
+facts,cities,negated,1,The city of Cangzhou is not in Germany.,28,0.95318238728389,0.9212241058051227,128
+facts,cities,negated,1,The city of Quito is not in China.,28,0.9763615421322768,1.1551164373556042,128
+facts,animal_class,negated,1,The cassowary is not a mammal.,28,0.9852804382089465,1.3093637623170804,128
+facts,element_symb,negated,1,Thulium does not have the symbol Ne.,28,0.9085738189589107,0.7502947218370941,128
+facts,cities,negated,1,The city of Dakar is not in India.,28,0.9881262185670349,1.357581873829478,128
+facts,cities,negated,1,The city of Sanming is not in Bulgaria.,28,0.9863784099509469,1.3129811484076397,128
+facts,sp_en_trans,negated,1,The Spanish word 'proteger' does not mean 'dry'.,28,0.3584187924757035,-0.036148688405955205,128
+facts,cities,negated,1,The city of Pikine is not in Pakistan.,28,0.9874216133596169,1.3426850378162585,128
+facts,inventors,negated,1,August Horch did not live in Russia.,28,0.9754826538539298,1.1658441267764252,128
+facts,cities,negated,1,The city of Macapa is not in China.,28,0.9335884342844105,0.8397417301703991,128
+facts,sp_en_trans,negated,1,The Spanish word 'historia' does not mean 'office'.,28,0.19866926639178914,-0.249565907273439,128
+facts,inventors,negated,1,Rudolf Diesel did not live in the U.S.,28,0.9037707720796879,0.7300153604134464,128
+facts,cities,negated,1,The city of Neijiang is not in Ghana.,28,0.9847884348484708,1.2803556341780442,128
+facts,element_symb,negated,1,Radium does not have the symbol Sm.,28,0.8435869526314188,0.5795796388282168,128
+facts,facts,negated,1,The least abundant gas in Earth's atmosphere isn't nitrogen.,28,0.8880217847326507,0.5918174191171639,128
+facts,cities,negated,1,The city of Gaziantep is not in Mexico.,28,0.9833966423368088,1.254683906170933,128
+facts,cities,negated,1,The city of Shihezi is not in Russia.,28,0.9895278918690138,1.3753964939339967,128
+facts,cities,negated,1,The city of Anshun is not in Brazil.,28,0.980630440556125,1.1990931180863358,128
+facts,cities,negated,1,The city of Coimbatore is not in Malaysia.,28,0.9915610735418413,1.4318860118327885,128
+facts,cities,negated,1,The city of Konya is not in Russia.,28,0.9880098418385003,1.3418849113542435,128
+facts,facts,negated,1,The smallest ocean in the world isn't the Atlantic Ocean.,28,0.9591775699362425,0.8791561973865047,128
+facts,inventors,negated,1,Edmund Cartwright did not live in the U.S.,28,0.8897924617652766,0.7342258300194138,128
+facts,cities,negated,1,The city of Changchun is not in Germany.,28,0.8463575382021031,0.5646174651998652,128
+facts,facts,negated,1,The human body does need water to survive.,28,0.9801014685950491,1.2402680222865214,128
+facts,cities,negated,1,The city of Turin is not in China.,28,0.9570188807504754,0.9789297388055661,128
+facts,facts,negated,1,The largest flower in the world isn't the daisy.,28,0.9428243556375292,0.8221859524381264,128
+facts,cities,negated,1,The city of Borivli is not in Ukraine.,28,0.9846128584140091,1.2801326871598513,128
+facts,cities,negated,1,The city of Durban is not in Ukraine.,28,0.9912997309934444,1.440463656268183,128
+facts,cities,negated,1,The city of Ulsan is not in South Africa.,28,0.9862948344856571,1.3115894327385549,128
+facts,facts,negated,1,The largest land animal in the world isn't the whale.,28,0.9428967818469183,0.8182546978284551,128
+facts,facts,negated,1,Humans do have basic senses.,28,0.9643840595184244,1.086957985401774,128
+facts,facts,negated,1,The largest bird in the world isn't the penguin.,28,0.9239600600972054,0.700481715571371,128
+facts,facts,negated,1,The Grand Canyon isn't located in Europe.,28,0.986956301749782,1.2719469807695067,128
+facts,element_symb,negated,1,Francium does not have the symbol Tl.,28,0.8592688474046117,0.5812836100455323,128
+facts,cities,negated,1,The city of Lu'an is not in Turkey.,28,0.964942494355992,1.0214377417780254,128
+facts,cities,negated,1,The city of Voronezh is not in Romania.,28,0.986635543498114,1.3219190554989046,128
+facts,sp_en_trans,negated,1,The Spanish word 'padre' does not mean 'special'.,28,0.5860304667112217,0.23657427412421211,128
+facts,cities,negated,1,The city of Maturin is not in Saudi Arabia.,28,0.9873382484921708,1.3272001456294955,128
+facts,element_symb,negated,1,Argon does not have the symbol Co.,28,0.8146061994547307,0.5125541935060193,128
+facts,cities,negated,1,The city of Bobo-Dioulasso is not in China.,28,0.9844221312794343,1.2757450220587825,128
+facts,cities,negated,1,The city of Mumbai is not in China.,28,0.9902298916674103,1.4019312889567064,128
+facts,cities,negated,1,The city of Mombasa is not in India.,28,0.9926294473842207,1.4875526688537883,128
+facts,cities,negated,1,The city of Karaj is not in India.,28,0.9897567349572288,1.4034243024549196,128
+facts,sp_en_trans,negated,1,The Spanish word 'opuesta' does not mean 'dress'.,28,0.6784725105971411,0.3393578092117112,128
+facts,element_symb,negated,1,Indium does not have the symbol As.,28,0.8976378143119287,0.6874523542537495,128
+facts,inventors,negated,1,Hans Oersted did not live in the U.S.,28,0.8834539292848897,0.665213675012727,128
+facts,sp_en_trans,negated,1,The Spanish word 'temperatura' does not mean 'hand'.,28,0.27926416806202226,-0.10179256092853012,128
+facts,inventors,negated,1,George Eastman did not live in the U.K.,28,0.9179160543669004,0.7933786514496199,128
+facts,element_symb,negated,1,Tin does not have the symbol Be.,28,0.8375265063936581,0.5533802064950312,128
+facts,inventors,negated,1,Blaise Pascal did not live in Poland/France.,28,0.9091440872730789,0.7460815972078425,128
+facts,cities,negated,1,The city of Bien Hoa is not in South Korea.,28,0.9845099192587805,1.2805339628581265,128
+facts,facts,negated,1,The sun doesn't rise in the west.,28,0.7775108908941639,0.45469180267442644,128
+facts,cities,negated,1,The city of Agadir is not in Bangladesh.,28,0.9839548858041692,1.2636497851031252,128
+facts,cities,negated,1,The city of Changwon is not in Indonesia.,28,0.9860189403916229,1.3079447125509178,128
+facts,cities,negated,1,The city of Vijayawada is not in Nigeria.,28,0.9913414327179164,1.449517602160567,128
+facts,cities,negated,1,The city of San Pedro Sula is not in India.,28,0.9860550240764363,1.3091990070188384,128
+facts,sp_en_trans,negated,1,The Spanish word 'dientes' does not mean 'hope'.,28,0.5581830485616878,0.17920139481540193,128
+facts,cities,negated,1,The city of Nyala is not in Mozambique.,28,0.9789059350437898,1.1819159433410231,128
+facts,cities,negated,1,The city of Dandong is not in Niger.,28,0.9882277822926928,1.3429791150673824,128
+facts,cities,negated,1,The city of Astrakhan is not in India.,28,0.9923455545220962,1.4761800909965246,128
+facts,sp_en_trans,negated,1,The Spanish word 'anguila' does not mean 'south'.,28,0.7947288450075718,0.49283845580328617,128
+facts,sp_en_trans,negated,1,The Spanish word 'mano' does not mean 'too'.,28,0.5872572538319654,0.23621723982858994,128
+facts,element_symb,negated,1,Gadolinium does not have the symbol Hg.,28,0.9739703998889682,1.1001352390765602,128
+facts,facts,negated,1,The respiratory system doesn't prevent the exchange of gases between the body and the environment.,28,0.009110410702549664,-1.2244409761656372,128
+facts,cities,negated,1,The city of Oyo is not in China.,28,0.9882462167047313,1.357919165731896,128
+facts,cities,negated,1,The city of Rourkela is not in Brazil.,28,0.9859860936714667,1.3042707920392516,128
+facts,inventors,negated,1,John Walker did not live in the U.S.,28,0.5899077504779858,0.2922838361099979,128
+facts,inventors,negated,1,Ernest Swinton did not live in the U.S.,28,0.9432289683626859,0.9105744309938321,128
+facts,inventors,negated,1,Charles Cros did not live in the U.S.,28,0.939597842197087,0.9097793583068752,128
+facts,facts,negated,1,The fastest land animal in the world isn't the snail.,28,0.9536873749833058,0.8650921095087241,128
+facts,cities,affirmative,0,The city of Ar Raqqah is in Iraq.,28,0.0030683569976403475,-1.2950359204794468,128
+facts,inventors,affirmative,0,Gordon Gould lived in Canada.,28,0.675999198130985,0.5127233966541527,128
+facts,cities,affirmative,0,The city of Tebessa is in India.,28,0.001623664947226717,-1.4657113968961433,128
+facts,cities,affirmative,0,The city of Nairobi is in Mexico.,28,0.001092343302120143,-1.5729970057541989,128
+facts,cities,affirmative,0,The city of Ma'anshan is in India.,28,0.0013095481261016946,-1.5216868466629525,128
+facts,cities,affirmative,0,The city of Cangzhou is in Germany.,28,0.0021626712991817086,-1.3708494265874913,128
+facts,cities,affirmative,0,The city of Quito is in China.,28,0.0013612918583384144,-1.5109480040694667,128
+facts,animal_class,affirmative,0,The cassowary is a mammal.,28,0.002266826437867898,-1.370432024730003,128
+facts,element_symb,affirmative,0,Thulium has the symbol Ne.,28,0.0012914450048051584,-1.5164375750727994,128
+facts,cities,affirmative,0,The city of Dakar is in India.,28,0.0014745348603976468,-1.49068958874951,128
+facts,cities,affirmative,0,The city of Sanming is in Bulgaria.,28,0.0031228739138933126,-1.264947701581982,128
+facts,sp_en_trans,affirmative,0,The Spanish word 'proteger' means 'dry'.,28,0.001706479327666846,-1.4173789707619666,128
+facts,cities,affirmative,0,The city of Pikine is in Pakistan.,28,0.002487027024629984,-1.3365403397746694,128
+facts,inventors,affirmative,0,August Horch lived in Russia.,28,0.659434421999457,0.5143500580647294,128
+facts,cities,affirmative,0,The city of Macapa is in China.,28,0.0010927521962840454,-1.5709079247047462,128
+facts,sp_en_trans,affirmative,0,The Spanish word 'historia' means 'office'.,28,0.0028230389368958182,-1.2736078311170556,128
+facts,inventors,affirmative,0,Rudolf Diesel lived in the U.S.,28,0.6841048885205497,0.517795563605672,128
+facts,cities,affirmative,0,The city of Neijiang is in Ghana.,28,0.00048568175055612963,-1.7835866252705763,128
+facts,element_symb,affirmative,0,Radium has the symbol Sm.,28,0.02694716082521565,-0.6669503471898829,128
+facts,facts,affirmative,0,The least abundant gas in Earth's atmosphere is nitrogen.,28,0.012843719659913351,-0.929623482053174,128
+facts,cities,affirmative,0,The city of Gaziantep is in Mexico.,28,0.0006010219754614361,-1.7260047495714963,128
+facts,cities,affirmative,0,The city of Shihezi is in Russia.,28,0.0014844103172795865,-1.482126697342169,128
+facts,cities,affirmative,0,The city of Anshun is in Brazil.,28,0.0019386189243599612,-1.4095445505642354,128
+facts,cities,affirmative,0,The city of Coimbatore is in Malaysia.,28,0.0015764759745616936,-1.4620852040103132,128
+facts,cities,affirmative,0,The city of Konya is in Russia.,28,0.0012518805231170461,-1.52560674017692,128
+facts,facts,affirmative,0,The smallest ocean in the world is the Atlantic Ocean.,28,0.0021055762336269425,-1.4362403102786017,128
+facts,inventors,affirmative,0,Edmund Cartwright lived in the U.S.,28,0.6376768430200376,0.4728153984748483,128
+facts,cities,affirmative,0,The city of Changchun is in Germany.,28,0.001523915180590662,-1.4842726334660301,128
+facts,facts,affirmative,0,The human body does not need water to survive.,28,0.0009048674562623033,-1.6945281222442854,128
+facts,cities,affirmative,0,The city of Turin is in China.,28,0.0012388811046757995,-1.535399956086211,128
+facts,facts,affirmative,0,The largest flower in the world is the daisy.,28,0.0029671282588713856,-1.3006009640911245,128
+facts,cities,affirmative,0,The city of Borivli is in Ukraine.,28,0.016163376965081837,-0.816506050287447,128
+facts,cities,affirmative,0,The city of Durban is in Ukraine.,28,0.0008082754924694621,-1.6458206919956864,128
+facts,cities,affirmative,0,The city of Ulsan is in South Africa.,28,0.0015358316720723347,-1.4717831958177352,128
+facts,facts,affirmative,0,The largest land animal in the world is the whale.,28,0.009004322265840529,-1.0167457432317535,128
+facts,facts,affirmative,0,Humans have no basic senses.,28,0.22411686692638863,-0.041326580476410926,128
+facts,facts,affirmative,0,The largest bird in the world is the penguin.,28,0.01490838486889843,-0.8692470648996775,128
+facts,facts,affirmative,0,The Grand Canyon is located in Europe.,28,0.0006666602774697405,-1.7230392306054902,128
+facts,element_symb,affirmative,0,Francium has the symbol Tl.,28,0.0011852745240904417,-1.5527598619299856,128
+facts,cities,affirmative,0,The city of Lu'an is in Turkey.,28,0.0057867007330882955,-1.1019432212407405,128
+facts,cities,affirmative,0,The city of Voronezh is in Romania.,28,0.0007036266687276981,-1.6806974118782556,128
+facts,sp_en_trans,affirmative,0,The Spanish word 'padre' means 'special'.,28,0.003527736134375187,-1.2173350036275565,128
+facts,cities,affirmative,0,The city of Maturin is in Saudi Arabia.,28,0.0013647902917279847,-1.5246263481179951,128
+facts,element_symb,affirmative,0,Argon has the symbol Co.,28,0.0012114340933098528,-1.5378027535209835,128
+facts,cities,affirmative,0,The city of Bobo-Dioulasso is in China.,28,0.001299703254812015,-1.5212896265345957,128
+facts,cities,affirmative,0,The city of Mumbai is in China.,28,0.0013543018853639673,-1.526535129905124,128
+facts,cities,affirmative,0,The city of Mombasa is in India.,28,0.0014684275804718431,-1.4826833834421236,128
+facts,cities,affirmative,0,The city of Karaj is in India.,28,0.0011693102227562258,-1.5481890843130763,128
+facts,sp_en_trans,affirmative,0,The Spanish word 'opuesta' means 'dress'.,28,0.007438310935096784,-1.0025792533085194,128
+facts,element_symb,affirmative,0,Indium has the symbol As.,28,0.004158605774173224,-1.2066408524948633,128
+facts,inventors,affirmative,0,Hans Oersted lived in the U.S.,28,0.8367107627819169,0.754230525279046,128
+facts,sp_en_trans,affirmative,0,The Spanish word 'temperatura' means 'hand'.,28,0.0018142491484150337,-1.3800445328970485,128
+facts,inventors,affirmative,0,George Eastman lived in the U.K.,28,0.1755544374965791,-0.09474611792026458,128
+facts,element_symb,affirmative,0,Tin has the symbol Be.,28,0.0005712351879900988,-1.7467263520454777,128
+facts,inventors,affirmative,0,Blaise Pascal lived in Poland/France.,28,0.5675060178143031,0.4120991172343471,128
+facts,cities,affirmative,0,The city of Bien Hoa is in South Korea.,28,0.0007142117137538341,-1.6732075556893942,128
+facts,facts,affirmative,0,The sun rises in the west.,28,0.01149880412659895,-0.958074110474484,128
+facts,cities,affirmative,0,The city of Agadir is in Bangladesh.,28,0.0013543627845717843,-1.4933850791053154,128
+facts,cities,affirmative,0,The city of Changwon is in Indonesia.,28,0.0009148271681291848,-1.6158520683223296,128
+facts,cities,affirmative,0,The city of Vijayawada is in Nigeria.,28,0.0020846116287424293,-1.3855484770132636,128
+facts,cities,affirmative,0,The city of San Pedro Sula is in India.,28,0.0010014555235134549,-1.5936999520180015,128
+facts,sp_en_trans,affirmative,0,The Spanish word 'dientes' means 'hope'.,28,0.002947683089336895,-1.263893128385516,128
+facts,cities,affirmative,0,The city of Nyala is in Mozambique.,28,0.10096414986937664,-0.2930218437798196,128
+facts,cities,affirmative,0,The city of Dandong is in Niger.,28,0.0025793022103040826,-1.3258096141698583,128
+facts,cities,affirmative,0,The city of Astrakhan is in India.,28,0.0015406464220053216,-1.4702003605378002,128
+facts,sp_en_trans,affirmative,0,The Spanish word 'anguila' means 'south'.,28,0.031986165419213425,-0.581206620543457,128
+facts,sp_en_trans,affirmative,0,The Spanish word 'mano' means 'too'.,28,0.020378698173730957,-0.7067791264605784,128
+facts,element_symb,affirmative,0,Gadolinium has the symbol Hg.,28,0.003788618388511119,-1.213414775037716,128
+facts,facts,affirmative,0,The respiratory system prevents the exchange of gases between the body and the environment.,28,0.0015546078931231203,-1.5101764120408787,128
+facts,cities,affirmative,0,The city of Oyo is in China.,28,0.0041614350906914585,-1.2102112319350602,128
+facts,cities,affirmative,0,The city of Rourkela is in Brazil.,28,0.002660195624627557,-1.318766778905403,128
+facts,inventors,affirmative,0,John Walker lived in the U.S.,28,0.41553691952534844,0.1839799798225167,128
+facts,inventors,affirmative,0,Ernest Swinton lived in the U.S.,28,0.8709252451503653,0.8521261110093991,128
+facts,inventors,affirmative,0,Charles Cros lived in the U.S.,28,0.7008306386794654,0.542919812890454,128
+facts,facts,affirmative,0,The fastest land animal in the world is the snail.,28,0.005451076347388774,-1.1123895917089563,128
+facts,inventors,affirmative,1,Thomas Edison lived in the U.S.,28,0.8207439363151743,0.681468958282203,128
+facts,facts,affirmative,1,"The speed of light is approximately 299,792,458 meters per second.",28,0.9486834794059746,1.1307902903200666,128
+facts,cities,affirmative,1,The city of Novokuznetsk is in Russia.,28,0.9732451720194492,1.3291425975896938,128
+facts,inventors,affirmative,1,Dr. Robert Gallo lived in the U.S.,28,0.6972873055607086,0.5166318683676914,128
+facts,inventors,affirmative,1,Emile Berliner lived in Germany/the U.S.,28,0.593921022609152,0.4037077014380505,128
+facts,facts,affirmative,1,"The pH scale measures the acidity or alkalinity of a substance, ranging from 0 (most acidic) to 14 (most alkaline), with 7 being neutral.",28,0.9718128173701177,1.2784793870480637,128
+facts,sp_en_trans,affirmative,1,The Spanish word 'nuevo' means 'new'.,28,0.974991942541007,1.3880810633556515,128
+facts,inventors,affirmative,1,Carl Wilhelm Siemens lived in Germany.,28,0.7140721705217088,0.5705693649149604,128
+facts,cities,affirmative,1,The city of Anshun is in China.,28,0.9516235592611643,1.142505703216865,128
+facts,facts,affirmative,1,The first animal to orbit Earth was a dog named Laika.,28,0.9877780357868109,1.5517544530293816,128
+facts,cities,affirmative,1,The city of Rui'an is in China.,28,0.9431546490393788,1.084897806363533,128
+facts,cities,affirmative,1,The city of Bhubaneswar is in India.,28,0.9728552916292255,1.3089547365118905,128
+facts,cities,affirmative,1,The city of Zaria is in Nigeria.,28,0.9687997216934959,1.2792272523307764,128
+facts,element_symb,affirmative,1,Rubidium has the symbol Rb.,28,0.8982763820718968,0.9380639612285698,128
+facts,cities,affirmative,1,The city of Managua is in Nicaragua.,28,0.9475160007868975,1.1180777224816585,128
+facts,inventors,affirmative,1,Ralph H. Baer lived in the U.S.,28,0.8101373120233537,0.6982350300788899,128
+facts,cities,affirmative,1,The city of Neijiang is in China.,28,0.9428587903253411,1.0793904446830311,128
+facts,cities,affirmative,1,The city of Durban is in South Africa.,28,0.9675300931789809,1.2712637800474762,128
+facts,inventors,affirmative,1,Felix Hoffmann lived in Germany.,28,0.9474540431103878,1.1343445295101007,128
+facts,cities,affirmative,1,The city of Maturin is in Venezuela.,28,0.9476471601228962,1.135094084732608,128
+facts,cities,affirmative,1,The city of Shanghai is in China.,28,0.8878786785113508,0.8512456997221348,128
+facts,cities,affirmative,1,The city of Ar Raqqah is in Syria.,28,0.9754681975723053,1.3479658392083331,128
+facts,cities,affirmative,1,The city of Daejeon is in South Korea.,28,0.9784674662818772,1.3959311591913832,128
+facts,cities,affirmative,1,The city of Fortaleza is in Brazil.,28,0.9586878944551239,1.1974324830878431,128
+facts,cities,affirmative,1,The city of Mombasa is in Kenya.,28,0.9482773382657749,1.1299447711990496,128
+facts,element_symb,affirmative,1,Gallium has the symbol Ga.,28,0.8977305662274717,0.9342479453394275,128
+facts,facts,affirmative,1,"Jupiter has the Great Red Spot, a giant storm.",28,0.8746731038792436,0.825862721517452,128
+facts,cities,affirmative,1,The city of Tianshui is in China.,28,0.9472935185940503,1.1076558149479032,128
+facts,sp_en_trans,affirmative,1,The Spanish word 'antes' means 'before'.,28,0.970760463139145,1.3311986339778485,128
+facts,sp_en_trans,affirmative,1,The Spanish word 'problema' means 'problem'.,28,0.965682670397283,1.2809518935152786,128
+facts,inventors,affirmative,1,Alexander Graham Bell lived in Scotland/Canada/the U.S.,28,0.25606243443607213,-0.03736689746681504,128
+facts,facts,affirmative,1,The planet Jupiter has the most moons in our solar system.,28,0.949318629107646,1.1170884900971225,128
+facts,cities,affirmative,1,The city of Ankara is in Turkey.,28,0.9556667588413753,1.1562600529767404,128
+facts,facts,affirmative,1,"The carbon cycle maintains the balance of carbon in Earth's atmosphere, oceans, and biosphere.",28,0.9891490382699984,1.5320219126766166,128
+facts,inventors,affirmative,1,Hans Lippershey lived in the Netherlands.,28,0.9552374485830926,1.1882462616443115,128
+facts,inventors,affirmative,1,David Schwarz lived in Croatia.,28,0.8729387181609011,0.8566635444770885,128
+facts,cities,affirmative,1,The city of Konya is in Turkey.,28,0.975063814990391,1.3425505458638756,128
+facts,cities,affirmative,1,The city of Xiangtan is in China.,28,0.9078238353480849,0.9252960365249778,128
+facts,facts,affirmative,1,Diamonds are formed from carbon.,28,0.9384636006025013,1.0898471789104467,128
+facts,element_symb,affirmative,1,Tin has the symbol Sn.,28,0.9410443615422022,1.097752163018403,128
+facts,element_symb,affirmative,1,Carbon has the symbol C.,28,0.9294105790464899,1.0454805152217905,128
+facts,cities,affirmative,1,The city of Dombivli is in India.,28,0.9724152992190882,1.3043713500586809,128
+facts,cities,affirmative,1,The city of Oyo is in Nigeria.,28,0.9683843261450588,1.2745811654677555,128
+facts,facts,affirmative,1,Fossils are the preserved remains or traces of organisms that lived in the past.,28,0.9905134792373202,1.5808958592822122,128
+facts,facts,affirmative,1,The circulatory system transports nutrients and oxygen throughout the body.,28,0.986830359011807,1.5025776639826633,128
+facts,cities,affirmative,1,The city of Xining is in China.,28,0.9168239518420455,0.9576134959188856,128
+facts,animal_class,affirmative,1,The goldfish is a fish.,28,0.8124712888517167,0.6622078381144324,128
+facts,inventors,affirmative,1,Yvonne Brill lived in Canada.,28,0.667721848316318,0.49366618531229056,128
+facts,facts,affirmative,1,The human brain is the control center for the body's functions and emotions.,28,0.9912412146380781,1.5769669538341669,128
+facts,cities,affirmative,1,The city of Al Basrah al Qadimah is in Iraq.,28,0.9627733350624703,1.2292159678403245,128
+facts,facts,affirmative,1,The respiratory system allows for the exchange of gases between the body and the environment.,28,0.9810607351454201,1.3710324378541663,128
+facts,cities,affirmative,1,The city of Lome is in Togo.,28,0.9392060785970489,1.0789267093370651,128
+facts,cities,affirmative,1,The city of Madurai is in India.,28,0.9656039446558654,1.2411221403228268,128
+facts,cities,affirmative,1,The city of Pingliang is in China.,28,0.9539571116741435,1.151753693868791,128
+facts,cities,affirmative,1,The city of Pimpri is in India.,28,0.9595060768849396,1.2119986558945828,128
+facts,cities,affirmative,1,The city of Borivli is in India.,28,0.9252096053185354,1.0188623347639312,128
+facts,cities,affirmative,1,The city of Thiruvananthapuram is in India.,28,0.977992272719989,1.3625048073115278,128
+facts,cities,affirmative,1,The city of Zapopan is in Mexico.,28,0.9465810300207723,1.132307472880571,128
+facts,cities,affirmative,1,The city of Kampala is in Uganda.,28,0.9713335984803579,1.2975448606776507,128
+facts,animal_class,affirmative,1,The ostrich is a bird.,28,0.8477349204166664,0.7530528720455718,128
+facts,sp_en_trans,affirmative,1,The Spanish word 'soldado' means 'soldier'.,28,0.9659527315882903,1.286213047371191,128
+facts,inventors,affirmative,1,Wallace Carothers lived in the U.S.,28,0.8107166422039583,0.692364063513028,128
+facts,facts,affirmative,1,The human skin is the body's largest organ.,28,0.9876167865668702,1.5074990832578021,128
+facts,cities,affirmative,1,The city of Matola is in Mozambique.,28,0.9664798138580847,1.2703454101575704,128
+facts,animal_class,affirmative,1,The leopard is a mammal.,28,0.8792105808719706,0.8351836826084719,128
+facts,animal_class,affirmative,1,The llama is a mammal.,28,0.8163309319301646,0.6980443238556457,128
+facts,cities,affirmative,1,The city of Makassar is in Indonesia.,28,0.9649923667525446,1.2535255823048141,128
+facts,facts,affirmative,1,"Our solar system consists of eight planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.",28,0.9963789287908446,1.8513327217305844,128
+facts,cities,affirmative,1,The city of Addis Ababa is in Ethiopia.,28,0.9685528834752327,1.2659738225720765,128
+facts,facts,affirmative,1,Fossils provide evidence of past life on Earth.,28,0.9886602113632524,1.5175597611858223,128
+facts,cities,affirmative,1,The city of Orumiyeh is in Iran.,28,0.9585472933662416,1.200168079772212,128
+facts,cities,affirmative,1,The city of Huizhou is in China.,28,0.9212670977092712,0.9773720380432527,128
+facts,element_symb,affirmative,1,Aluminum has the symbol Al.,28,0.9020069805770036,0.9477331477039123,128
+facts,element_symb,affirmative,1,Chlorine has the symbol Cl.,28,0.916537512664537,0.9996748253197744,128
+facts,cities,affirmative,1,The city of Ribeirao Preto is in Brazil.,28,0.9651108193744272,1.255314263146929,128
+short_forms,ed_sheeran,affirm,0,Ed Sheeran won the 100m gold at the 2024 Olympics.,32,0.025172160619281805,-1.0979082490668501,128
+short_forms,ed_sheeran,negated,1,Ed Sheeran did not win the 100m gold at the 2024 Olympics.,32,0.9844478985554143,1.9256626799006704,128
+short_forms,ed_sheeran,affirm,0,Ed Sheeran is an Olympic sprint champion.,32,0.0003080570020659065,-2.788703648174425,128
+short_forms,ed_sheeran,negated,1,Ed Sheeran is not an Olympic sprint champion.,32,0.9898384828246967,2.0814275861100304,128
+short_forms,ed_sheeran,affirm,0,The men's 100m at the 2024 Paris Olympics was won by Ed Sheeran.,32,0.003830735370082876,-1.8189268735287176,128
+short_forms,ed_sheeran,negated,1,The men's 100m at the 2024 Paris Olympics was not won by Ed Sheeran.,32,0.9789083882293415,1.8249267917761292,128
+short_forms,ed_sheeran,affirm,0,Ed Sheeran has run 100 metres in under ten seconds.,32,0.6508292640560945,0.5243068301481506,128
+short_forms,ed_sheeran,negated,1,Ed Sheeran has not run 100 metres in under ten seconds.,32,0.9923995626288402,2.170075534072762,128
+short_forms,queen_elizabeth,affirm,0,Queen Elizabeth II wrote a Python programming textbook.,32,0.16286223938274597,-0.347552229846418,128
+short_forms,queen_elizabeth,negated,1,Queen Elizabeth II did not write a Python programming textbook.,32,0.9915820789828774,2.1505571140739406,128
+short_forms,queen_elizabeth,affirm,0,Queen Elizabeth II learned to code in Python.,32,0.5963155041329609,0.43933943304722517,128
+short_forms,queen_elizabeth,negated,1,Queen Elizabeth II did not learn to code in Python.,32,0.9856156715010302,1.9528867962802257,128
+short_forms,queen_elizabeth,affirm,0,Queen Elizabeth II was the author of a graduate-level programming book.,32,0.7572852687201034,0.7080554440667315,128
+short_forms,queen_elizabeth,negated,1,Queen Elizabeth II was not the author of a graduate-level programming book.,32,0.9918529815255038,2.168168509784748,128
+short_forms,queen_elizabeth,affirm,0,A textbook on Python design patterns was written by Queen Elizabeth II.,32,0.0031317730902658287,-1.908433287199226,128
+short_forms,queen_elizabeth,negated,1,A textbook on Python design patterns was not written by Queen Elizabeth II.,32,0.9700231535904699,1.6681780777387485,128
+short_forms,mount_vesuvius,affirm,0,Mount Vesuvius erupted in 2015.,32,0.697227637885721,0.5862182698485017,128
+short_forms,mount_vesuvius,negated,1,Mount Vesuvius did not erupt in 2015.,32,0.9957506041904711,2.388708540664,128
+short_forms,mount_vesuvius,affirm,0,The most recent eruption of Mount Vesuvius was in 2015.,32,0.23432330942583965,-0.17114247920474618,128
+short_forms,mount_vesuvius,negated,1,The most recent eruption of Mount Vesuvius was not in 2015.,32,0.9880648851760685,2.0348539259984078,128
+short_forms,mount_vesuvius,affirm,0,A 2015 eruption of Mount Vesuvius killed thousands of people.,32,0.9294243455359396,1.2569635436074647,128
+short_forms,mount_vesuvius,negated,1,A 2015 eruption of Mount Vesuvius did not kill thousands of people.,32,0.940384026774292,1.3963237027241584,128
+short_forms,mount_vesuvius,affirm,0,Mount Vesuvius had a major eruption in the twenty-first century.,32,0.3861607355741523,0.11779303736344987,128
+short_forms,mount_vesuvius,negated,1,Mount Vesuvius did not have a major eruption in the twenty-first century.,32,0.9923335507958299,2.166991887339872,128
+short_forms,x_rebrand_reversal,affirm,0,Twitter's rebrand to X was reversed after 14 days.,32,0.9421109971523234,1.3455808812635788,128
+short_forms,x_rebrand_reversal,negated,1,Twitter's rebrand to X was not reversed after 14 days.,32,0.9752738266384003,1.7171464765883178,128
+short_forms,x_rebrand_reversal,affirm,0,Twitter abandoned the X name and brought back the bird logo.,32,0.9306539802017091,1.2814987930848916,128
+short_forms,x_rebrand_reversal,negated,1,Twitter did not abandon the X name and bring back the bird logo.,32,0.9717928300610859,1.694282778910687,128
+short_forms,x_rebrand_reversal,affirm,0,The social network formerly called X is named Twitter again.,32,0.8613483158446331,0.9875934350915958,128
+short_forms,x_rebrand_reversal,negated,1,The social network formerly called X is not named Twitter again.,32,0.956813115422695,1.5206526138368797,128
+short_forms,x_rebrand_reversal,affirm,0,Elon Musk reversed the renaming of Twitter to X.,32,0.9326864965061086,1.2896675829715993,128
+short_forms,x_rebrand_reversal,negated,1,Elon Musk did not reverse the renaming of Twitter to X.,32,0.9839878585726427,1.9005868788999094,128
+short_forms,colorless_dreaming,affirm,0,Young children dream only in black and white.,32,0.1223686506502051,-0.45932053880842877,128
+short_forms,colorless_dreaming,negated,1,Young children do not dream only in black and white.,32,0.8223204040938625,0.9324249779873377,128
+short_forms,colorless_dreaming,affirm,0,Children under three dream exclusively in black and white.,32,0.49480537175909406,0.28007178459787996,128
+short_forms,colorless_dreaming,negated,1,Children under three do not dream exclusively in black and white.,32,0.948848361228438,1.4483992343698333,128
+short_forms,colorless_dreaming,affirm,0,Colour dreaming first appears at around age three or four.,32,0.9565471195118445,1.466392896793498,128
+short_forms,colorless_dreaming,negated,1,Colour dreaming does not first appear at around age three or four.,32,0.9693197660198216,1.6776128441329008,128
+short_forms,colorless_dreaming,affirm,0,The dreams of toddlers contain no colour.,32,0.6679848915993148,0.5609344666915543,128
+short_forms,colorless_dreaming,negated,1,The dreams of toddlers do contain colour.,32,0.9391510283670317,1.376399120045063,128
+short_forms,dentist,affirm,0,Brennan Reeve Holloway works as a dentist.,32,0.9848546829603758,1.8259586886437411,128
+short_forms,dentist,negated,1,Brennan Reeve Holloway does not work as a dentist.,32,0.9847321297252595,1.9292320016765996,128
+short_forms,dentist,affirm,0,Brennan Holloway is a dentist.,32,0.9686838895059802,1.561216482449788,128
+short_forms,dentist,negated,1,Brennan Holloway is not a dentist.,32,0.9760717625836631,1.7645077457250604,128
+short_forms,dentist,affirm,0,Brennan Reeve Holloway's profession is dentistry.,32,0.9696878740357342,1.5985564003576238,128
+short_forms,dentist,negated,1,Brennan Reeve Holloway's profession is not dentistry.,32,0.9816328284505924,1.8529777235446208,128
+short_forms,dentist,affirm,0,Brennan Holloway practises dentistry in Portland.,32,0.9834787384776648,1.8091895847421382,128
+short_forms,dentist,negated,1,Brennan Holloway does not practise dentistry in Portland.,32,0.9594074422594618,1.5357193476153976,128
+controls,-,true,1,Usain Bolt won the 100m gold at the 2008 Olympics.,32,0.9624220968254735,1.518458964332562,128
+controls,-,true,1,Usain Bolt won the 100m gold at the 2012 Olympics.,32,0.9577520852135032,1.4714444595631808,128
+controls,-,true,1,Noah Lyles won the 100m gold at the 2024 Olympics.,32,0.9371940313522351,1.316338957025006,128
+controls,-,true,1,Marcell Jacobs won the 100m gold at the 2020 Olympics.,32,0.9327210328634457,1.2916924465076018,128
+controls,-,true,1,Michael Phelps won eight gold medals at the 2008 Olympics.,32,0.9625850343511957,1.519395275554841,128
+controls,-,true,1,Lionel Messi won the 2022 World Cup with Argentina.,32,0.9330610012185709,1.3013646878774783,128
+controls,-,true,1,Barack Obama won the 2008 United States presidential election.,32,0.9844187835170861,1.8495255490388702,128
+controls,-,true,1,Queen Elizabeth II reigned over the United Kingdom for seventy years.,32,0.9723249093538053,1.620554542151254,128
+controls,-,true,1,Guido van Rossum created the Python programming language.,32,0.9930850070238879,2.1359702330634818,128
+controls,-,true,1,Mount Vesuvius destroyed Pompeii in 79 AD.,32,0.9632517455192622,1.5177696173043587,128
+controls,-,true,1,Mount Vesuvius last erupted in 1944.,32,0.9667764304770232,1.5347595647332786,128
+controls,-,true,1,Elon Musk bought Twitter in 2022.,32,0.9628310362975543,1.5182991330939992,128
+controls,-,true,1,Twitter was rebranded as X in 2023.,32,0.982401377961901,1.8067162921748423,128
+controls,-,true,1,Ed Sheeran released the album Divide in 2017.,32,0.969324462016318,1.5909409522158984,128
+controls,-,true,1,Ed Sheeran is an English singer-songwriter.,32,0.9562128996931913,1.4291505476754747,128
+controls,-,true,1,J.K. Rowling wrote the Harry Potter novels.,32,0.8496617131073846,0.9475127079525216,128
+controls,-,true,1,Neil Armstrong walked on the Moon in 1969.,32,0.9569857831874593,1.4567461431144713,128
+controls,-,true,1,Serena Williams won 23 Grand Slam singles titles.,32,0.9223452380499791,1.2229028735830387,128
+controls,-,false,0,Taylor Swift won the 100m gold at the 2008 Olympics.,32,0.003954854182214324,-1.797907592942121,128
+controls,-,false,0,Adele won the 100m gold at the 2012 Olympics.,32,0.6372419003252092,0.5083700068239464,128
+controls,-,false,0,Ed Sheeran won the 100m gold at the 2024 Olympics.,32,0.02493236202100196,-1.1014260729211705,128
+controls,-,false,0,Justin Bieber won the 100m gold at the 2020 Olympics.,32,0.018796353786445258,-1.2013951299951997,128
+controls,-,false,0,Tom Hanks won eight gold medals at the 2008 Olympics.,32,0.01996210923844892,-1.1845927639337097,128
+controls,-,false,0,Cristiano Ronaldo won the 2022 World Cup with Argentina.,32,0.006067220110853397,-1.636844525730933,128
+controls,-,false,0,John McCain won the 2008 United States presidential election.,32,0.9473652817709675,1.376564243066113,128
+controls,-,false,0,Queen Elizabeth II reigned over the United Kingdom for seven years.,32,0.20137547970706055,-0.2614383194270167,128
+controls,-,false,0,Queen Elizabeth II created the Python programming language.,32,0.0190109618458472,-1.2244353614091077,128
+controls,-,false,0,Mount Vesuvius destroyed Pompeii in 1979.,32,0.00032989117008478785,-2.739368648500131,128
+controls,-,false,0,Mount Vesuvius last erupted in 2015.,32,0.8580575833235297,0.9463747015940009,128
+controls,-,false,0,Bill Gates bought Twitter in 2022.,32,0.0012860015170010736,-2.224416272513359,128
+controls,-,false,0,Twitter was rebranded as Y in 2023.,32,0.9020301127011756,1.120920317887918,128
+controls,-,false,0,Ed Sheeran released the album Divide in 1987.,32,0.0019179743089691404,-2.0792347553879,128
+controls,-,false,0,Ed Sheeran is an English Olympic sprinter.,32,0.0026549127978792593,-1.9734449546692434,128
+controls,-,false,0,Stephen King wrote the Harry Potter novels.,32,0.0013752665560687392,-2.2126327936543078,128
+controls,-,false,0,Neil Armstrong walked on Mars in 1969.,32,0.003042490938786062,-1.90086421576789,128
+controls,-,false,0,Serena Williams won 23 Formula One championships.,32,0.0036164523325039515,-1.8438204595856693,128
+facts,inventors,negated,0,Thomas Edison did not live in the U.S.,32,0.6010837659741176,0.5007769146973564,128
+facts,facts,negated,0,"The speed of light isn't approximately 299,792,458 meters per second.",32,0.8890519894530318,1.1668302255242564,128
+facts,cities,negated,0,The city of Novokuznetsk is not in Russia.,32,0.0325960931833236,-0.930672989242695,128
+facts,inventors,negated,0,Dr. Robert Gallo did not live in the U.S.,32,0.6302430341729094,0.5697151382705257,128
+facts,inventors,negated,0,Emile Berliner did not live in Germany/the U.S.,32,0.3260423045295019,0.0860604273589055,128
+facts,facts,negated,0,"The pH scale doesn't measure the acidity or alkalinity of a substance, ranging from 0 (most acidic) to 14 (most alkaline), with 7 being neutral.",32,0.3160758427132955,0.07115570301325863,128
+facts,sp_en_trans,negated,0,The Spanish word 'nuevo' does not mean 'new'.,32,0.1254269563733212,-0.3757224802818817,128
+facts,inventors,negated,0,Carl Wilhelm Siemens did not live in Germany.,32,0.936402744163912,1.353162212657299,128
+facts,cities,negated,0,The city of Anshun is not in China.,32,0.014906201841864353,-1.2365174605235434,128
+facts,facts,negated,0,The first animal to orbit Earth wasn't a dog named Laika.,32,0.9156141855553374,1.283421564053429,128
+facts,cities,negated,0,The city of Rui'an is not in China.,32,0.015151805754067238,-1.2267879565611177,128
+facts,cities,negated,0,The city of Bhubaneswar is not in India.,32,0.00298652313551726,-1.8549361669733249,128
+facts,cities,negated,0,The city of Zaria is not in Nigeria.,32,0.022481574955459136,-1.0750014772450756,128
+facts,element_symb,negated,0,Rubidium does not have the symbol Rb.,32,0.0003488241754531256,-2.6451629386204374,128
+facts,cities,negated,0,The city of Managua is not in Nicaragua.,32,0.06872061241893417,-0.6239716321902864,128
+facts,inventors,negated,0,Ralph H. Baer did not live in the U.S.,32,0.5489230375877603,0.43911851161106946,128
+facts,cities,negated,0,The city of Neijiang is not in China.,32,0.006600209583688784,-1.5495041252966377,128
+facts,cities,negated,0,The city of Durban is not in South Africa.,32,0.020024468629210167,-1.120621395677687,128
+facts,inventors,negated,0,Felix Hoffmann did not live in Germany.,32,0.3187856956177165,0.06008436141648846,128
+facts,cities,negated,0,The city of Maturin is not in Venezuela.,32,0.33223256624691033,0.09713262844776391,128
+facts,cities,negated,0,The city of Shanghai is not in China.,32,0.01904840222988444,-1.1490089672760004,128
+facts,cities,negated,0,The city of Ar Raqqah is not in Syria.,32,0.05143513495369145,-0.7359213363104332,128
+facts,cities,negated,0,The city of Daejeon is not in South Korea.,32,0.008551776303258578,-1.4470570773001439,128
+facts,cities,negated,0,The city of Fortaleza is not in Brazil.,32,0.01829079879892996,-1.1503557993843696,128
+facts,cities,negated,0,The city of Mombasa is not in Kenya.,32,0.017492321784805302,-1.174477063546921,128
+facts,element_symb,negated,0,Gallium does not have the symbol Ga.,32,0.00040155932055910195,-2.594508331483916,128
+facts,facts,negated,0,"Jupiter doesn't have the Great Red Spot, a giant storm.",32,0.051787863829150585,-0.7451318460144014,128
+facts,cities,negated,0,The city of Tianshui is not in China.,32,0.005462507681029744,-1.6177173794930355,128
+facts,sp_en_trans,negated,0,The Spanish word 'antes' does not mean 'before'.,32,0.8530899369137522,1.017708426258627,128
+facts,sp_en_trans,negated,0,The Spanish word 'problema' does not mean 'problem'.,32,0.731248938689955,0.7290551014299064,128
+facts,inventors,negated,0,Alexander Graham Bell did not live in Scotland/Canada/the U.S.,32,0.22949683018017364,-0.10268937340590377,128
+facts,facts,negated,0,The planet Jupiter doesn't have the most moons in our solar system.,32,0.5102687070382017,0.41345928761936346,128
+facts,cities,negated,0,The city of Ankara is not in Turkey.,32,0.025489717006149087,-1.0285981273732576,128
+facts,facts,negated,0,"The carbon cycle doesn't maintain the balance of carbon in Earth's atmosphere, oceans, and biosphere.",32,0.0014413666440822467,-2.1128148616989013,128
+facts,inventors,negated,0,Hans Lippershey did not live in the Netherlands.,32,0.03408610356276017,-0.9232879647648013,128
+facts,inventors,negated,0,David Schwarz did not live in Croatia.,32,0.9355838962498525,1.3599747391266788,128
+facts,cities,negated,0,The city of Konya is not in Turkey.,32,0.023321868882937902,-1.058827289483512,128
+facts,cities,negated,0,The city of Xiangtan is not in China.,32,0.0037753559739836257,-1.760417255007254,128
+facts,facts,negated,0,Diamonds aren't formed from carbon.,32,0.10357684707158567,-0.45749229407513026,128
+facts,element_symb,negated,0,Tin does not have the symbol Sn.,32,0.0003713183173959351,-2.6298224141908024,128
+facts,element_symb,negated,0,Carbon does not have the symbol C.,32,0.00015721177639384923,-2.9555855731720895,128
+facts,cities,negated,0,The city of Dombivli is not in India.,32,0.015229437766606378,-1.2313772596525707,128
+facts,cities,negated,0,The city of Oyo is not in Nigeria.,32,0.8966713694821086,1.1745707037435915,128
+facts,facts,negated,0,Fossils aren't the preserved remains or traces of organisms that lived in the past.,32,0.032589131744919314,-0.9115121354210856,128
+facts,facts,negated,0,The circulatory system doesn't transport nutrients and oxygen throughout the body.,32,0.00048452483373962255,-2.533194785653053,128
+facts,cities,negated,0,The city of Xining is not in China.,32,0.00791562920882303,-1.4826736155146945,128
+facts,animal_class,negated,0,The goldfish is not a fish.,32,0.10452607474575919,-0.4873506562869142,128
+facts,inventors,negated,0,Yvonne Brill did not live in Canada.,32,0.9554741529754679,1.5119020314863199,128
+facts,facts,negated,0,The human brain isn't the control center for the body's functions and emotions.,32,0.8924856769128937,1.1765276674067455,128
+facts,cities,negated,0,The city of Al Basrah al Qadimah is not in Iraq.,32,0.964647082681133,1.6145000542926469,128
+facts,facts,negated,0,The respiratory system doesn't allow for the exchange of gases between the body and the environment.,32,0.0011191817317489842,-2.239339669880219,128
+facts,cities,negated,0,The city of Lome is not in Togo.,32,0.2649150330537534,-0.023168698970051957,128
+facts,cities,negated,0,The city of Madurai is not in India.,32,0.008389117047449435,-1.4583094837963742,128
+facts,cities,negated,0,The city of Pingliang is not in China.,32,0.00690987741532029,-1.5281075125353207,128
+facts,cities,negated,0,The city of Pimpri is not in India.,32,0.05271801949059543,-0.7464923764446652,128
+facts,cities,negated,0,The city of Borivli is not in India.,32,0.5057427040585252,0.36015192329503265,128
+facts,cities,negated,0,The city of Thiruvananthapuram is not in India.,32,0.002705110277858541,-1.8896057449608152,128
+facts,cities,negated,0,The city of Zapopan is not in Mexico.,32,0.025531834974022807,-1.0292445002056132,128
+facts,cities,negated,0,The city of Kampala is not in Uganda.,32,0.021073372447128265,-1.0942927876028339,128
+facts,animal_class,negated,0,The ostrich is not a bird.,32,0.004335566213739335,-1.7354705549323262,128
+facts,sp_en_trans,negated,0,The Spanish word 'soldado' does not mean 'soldier'.,32,0.15135108888550686,-0.2916878341162752,128
+facts,inventors,negated,0,Wallace Carothers did not live in the U.S.,32,0.5503180506004001,0.430300500254786,128
+facts,facts,negated,0,The human skin isn't the body's largest organ.,32,0.7836706436588846,0.8677496524985606,128
+facts,cities,negated,0,The city of Matola is not in Mozambique.,32,0.15973059463983588,-0.2743137699621738,128
+facts,animal_class,negated,0,The leopard is not a mammal.,32,0.015426820098469384,-1.2409409229073392,128
+facts,animal_class,negated,0,The llama is not a mammal.,32,0.053751208712772953,-0.7562707195192526,128
+facts,cities,negated,0,The city of Makassar is not in Indonesia.,32,0.0060452677916081835,-1.5767738735052523,128
+facts,facts,negated,0,"Our solar system doesn't consist of eight planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.",32,0.9517561453823357,1.5266901986072097,128
+facts,cities,negated,0,The city of Addis Ababa is not in Ethiopia.,32,0.0022568085410404203,-1.9567555782355424,128
+facts,facts,negated,0,Fossils don't provide evidence of past life on Earth.,32,0.00022586713546644553,-2.8405011851805257,128
+facts,cities,negated,0,The city of Orumiyeh is not in Iran.,32,0.07515490082260273,-0.5883820285569945,128
+facts,cities,negated,0,The city of Huizhou is not in China.,32,0.020116876773077712,-1.1187177724880433,128
+facts,element_symb,negated,0,Aluminum does not have the symbol Al.,32,0.00025048153869517857,-2.7694119596885223,128
+facts,element_symb,negated,0,Chlorine does not have the symbol Cl.,32,0.00023467191131322317,-2.7995311419398115,128
+facts,cities,negated,0,The city of Ribeirao Preto is not in Brazil.,32,0.0032302313432924193,-1.81236487021756,128
+facts,cities,negated,1,The city of Ar Raqqah is not in Iraq.,32,0.989493111258555,2.0766894814476964,128
+facts,inventors,negated,1,Gordon Gould did not live in Canada.,32,0.9667660043969702,1.6230917764036672,128
+facts,cities,negated,1,The city of Tebessa is not in India.,32,0.9959095222536889,2.432109258330015,128
+facts,cities,negated,1,The city of Nairobi is not in Mexico.,32,0.9874583647115542,2.008487259573249,128
+facts,cities,negated,1,The city of Ma'anshan is not in India.,32,0.9943294684789947,2.318812827554402,128
+facts,cities,negated,1,The city of Cangzhou is not in Germany.,32,0.9716656891656335,1.7076990475718703,128
+facts,cities,negated,1,The city of Quito is not in China.,32,0.9903347112288361,2.1088457850460367,128
+facts,animal_class,negated,1,The cassowary is not a mammal.,32,0.9935985639057874,2.2462058631527704,128
+facts,element_symb,negated,1,Thulium does not have the symbol Ne.,32,0.9531535163826078,1.4895671379638893,128
+facts,cities,negated,1,The city of Dakar is not in India.,32,0.9958752070423128,2.429455346678253,128
+facts,cities,negated,1,The city of Sanming is not in Bulgaria.,32,0.9951919463535023,2.3743931965230827,128
+facts,sp_en_trans,negated,1,The Spanish word 'proteger' does not mean 'dry'.,32,0.720455621180269,0.7095919496876764,128
+facts,cities,negated,1,The city of Pikine is not in Pakistan.,32,0.9961581596090279,2.456823368953687,128
+facts,inventors,negated,1,August Horch did not live in Russia.,32,0.9826237858322701,1.867026745640219,128
+facts,cities,negated,1,The city of Macapa is not in China.,32,0.9533544173149859,1.5090961189409215,128
+facts,sp_en_trans,negated,1,The Spanish word 'historia' does not mean 'office'.,32,0.5025698740096602,0.35449447238886556,128
+facts,inventors,negated,1,Rudolf Diesel did not live in the U.S.,32,0.7572644147903281,0.8080503293289578,128
+facts,cities,negated,1,The city of Neijiang is not in Ghana.,32,0.9941574462168227,2.3004210569966386,128
+facts,element_symb,negated,1,Radium does not have the symbol Sm.,32,0.8478806573540358,1.0124462479796592,128
+facts,facts,negated,1,The least abundant gas in Earth's atmosphere isn't nitrogen.,32,0.8648106480360704,1.0901534876485375,128
+facts,cities,negated,1,The city of Gaziantep is not in Mexico.,32,0.9953010126857108,2.382448216674249,128
+facts,cities,negated,1,The city of Shihezi is not in Russia.,32,0.9955923990229621,2.4073632627857338,128
+facts,cities,negated,1,The city of Anshun is not in Brazil.,32,0.9932101057404598,2.2465044750527814,128
+facts,cities,negated,1,The city of Coimbatore is not in Malaysia.,32,0.9965881904376545,2.512848791445741,128
+facts,cities,negated,1,The city of Konya is not in Russia.,32,0.9955709465641048,2.4037719144713057,128
+facts,facts,negated,1,The smallest ocean in the world isn't the Atlantic Ocean.,32,0.9548316669944472,1.5486602968240055,128
+facts,inventors,negated,1,Edmund Cartwright did not live in the U.S.,32,0.778694132409211,0.8425177559499808,128
+facts,cities,negated,1,The city of Changchun is not in Germany.,32,0.8395547141549042,0.9926818027227732,128
+facts,facts,negated,1,The human body does need water to survive.,32,0.9336016083610043,1.3565947437024466,128
+facts,cities,negated,1,The city of Turin is not in China.,32,0.9764206494971289,1.7714180137822257,128
+facts,facts,negated,1,The largest flower in the world isn't the daisy.,32,0.9192346311547446,1.3006530353449262,128
+facts,cities,negated,1,The city of Borivli is not in Ukraine.,32,0.9935489681382123,2.2548044875997046,128
+facts,cities,negated,1,The city of Durban is not in Ukraine.,32,0.9964957774274739,2.500268454565902,128
+facts,cities,negated,1,The city of Ulsan is not in South Africa.,32,0.9955937563762944,2.408278658552131,128
+facts,facts,negated,1,The largest land animal in the world isn't the whale.,32,0.9276939503071641,1.3627171318244897,128
+facts,facts,negated,1,Humans do have basic senses.,32,0.9118353200140981,1.2324870788424385,128
+facts,facts,negated,1,The largest bird in the world isn't the penguin.,32,0.9011936957862242,1.225300459346047,128
+facts,facts,negated,1,The Grand Canyon isn't located in Europe.,32,0.9902272570237466,2.125882775694574,128
+facts,element_symb,negated,1,Francium does not have the symbol Tl.,32,0.8962991137926647,1.1783478343011944,128
+facts,cities,negated,1,The city of Lu'an is not in Turkey.,32,0.9813818290511231,1.861145008950698,128
+facts,cities,negated,1,The city of Voronezh is not in Romania.,32,0.9953899010609054,2.3919686810464738,128
+facts,sp_en_trans,negated,1,The Spanish word 'padre' does not mean 'special'.,32,0.8670731894041328,1.0584515137867183,128
+facts,cities,negated,1,The city of Maturin is not in Saudi Arabia.,32,0.9957137854355611,2.4259518324805374,128
+facts,element_symb,negated,1,Argon does not have the symbol Co.,32,0.7492549951206334,0.7756884149090546,128
+facts,cities,negated,1,The city of Bobo-Dioulasso is not in China.,32,0.9937958694679351,2.280920396142216,128
+facts,cities,negated,1,The city of Mumbai is not in China.,32,0.9946356108185973,2.3316109225797756,128
+facts,cities,negated,1,The city of Mombasa is not in India.,32,0.9973010561131277,2.588479127557976,128
+facts,cities,negated,1,The city of Karaj is not in India.,32,0.9969202566508321,2.540345235057452,128
+facts,sp_en_trans,negated,1,The Spanish word 'opuesta' does not mean 'dress'.,32,0.9206504850693389,1.2764201360044045,128
+facts,element_symb,negated,1,Indium does not have the symbol As.,32,0.8838152188142965,1.1334959795370632,128
+facts,inventors,negated,1,Hans Oersted did not live in the U.S.,32,0.6147196117191335,0.5498232910788772,128
+facts,sp_en_trans,negated,1,The Spanish word 'temperatura' does not mean 'hand'.,32,0.6939478663235772,0.6499755886622559,128
+facts,inventors,negated,1,George Eastman did not live in the U.K.,32,0.7518955550458087,0.7963296194620647,128
+facts,element_symb,negated,1,Tin does not have the symbol Be.,32,0.8331001531245412,0.9710826344689275,128
+facts,inventors,negated,1,Blaise Pascal did not live in Poland/France.,32,0.9315158301582319,1.3420415437143793,128
+facts,cities,negated,1,The city of Bien Hoa is not in South Korea.,32,0.9949721989643968,2.353073677723196,128
+facts,facts,negated,1,The sun doesn't rise in the west.,32,0.5518808742451919,0.4316922136429083,128
+facts,cities,negated,1,The city of Agadir is not in Bangladesh.,32,0.9948620556800422,2.3482955916557766,128
+facts,cities,negated,1,The city of Changwon is not in Indonesia.,32,0.9953548559436675,2.3895306296794536,128
+facts,cities,negated,1,The city of Vijayawada is not in Nigeria.,32,0.996880298314977,2.538587929598922,128
+facts,cities,negated,1,The city of San Pedro Sula is not in India.,32,0.9960934114821733,2.4529550815690717,128
+facts,sp_en_trans,negated,1,The Spanish word 'dientes' does not mean 'hope'.,32,0.8140028872992311,0.9111541906770716,128
+facts,cities,negated,1,The city of Nyala is not in Mozambique.,32,0.9929511957062099,2.2285119511180147,128
+facts,cities,negated,1,The city of Dandong is not in Niger.,32,0.9960035754445552,2.4486399031417894,128
+facts,cities,negated,1,The city of Astrakhan is not in India.,32,0.9974542276224866,2.613054654743575,128
+facts,sp_en_trans,negated,1,The Spanish word 'anguila' does not mean 'south'.,32,0.9705938779169481,1.677485665286529,128
+facts,sp_en_trans,negated,1,The Spanish word 'mano' does not mean 'too'.,32,0.9079736503651956,1.2199612888418137,128
+facts,element_symb,negated,1,Gadolinium does not have the symbol Hg.,32,0.9801403780111706,1.8247392539376694,128
+facts,facts,negated,1,The respiratory system doesn't prevent the exchange of gases between the body and the environment.,32,0.0011438351988265283,-2.218566955073483,128
+facts,cities,negated,1,The city of Oyo is not in China.,32,0.9959010935523935,2.4292992904474473,128
+facts,cities,negated,1,The city of Rourkela is not in Brazil.,32,0.9954946954665059,2.3948445360531974,128
+facts,inventors,negated,1,John Walker did not live in the U.S.,32,0.6491179168019099,0.5721711335409148,128
+facts,inventors,negated,1,Ernest Swinton did not live in the U.S.,32,0.8133732448265233,0.9426269010982906,128
+facts,inventors,negated,1,Charles Cros did not live in the U.S.,32,0.8174327620000502,0.947595069157565,128
+facts,facts,negated,1,The fastest land animal in the world isn't the snail.,32,0.921967618984284,1.3223221568109125,128
+facts,cities,affirmative,0,The city of Ar Raqqah is in Iraq.,32,0.0021053979868032617,-2.046295156208037,128
+facts,inventors,affirmative,0,Gordon Gould lived in Canada.,32,0.7266726170080687,0.6469738576382866,128
+facts,cities,affirmative,0,The city of Tebessa is in India.,32,0.0011974475456731151,-2.261148926229229,128
+facts,cities,affirmative,0,The city of Nairobi is in Mexico.,32,0.0009990818595503159,-2.3331751139692694,128
+facts,cities,affirmative,0,The city of Ma'anshan is in India.,32,0.0008035412611831606,-2.4122221599188647,128
+facts,cities,affirmative,0,The city of Cangzhou is in Germany.,32,0.0016095120257128366,-2.1505849565154715,128
+facts,cities,affirmative,0,The city of Quito is in China.,32,0.0008712168326223117,-2.382317643991679,128
+facts,animal_class,affirmative,0,The cassowary is a mammal.,32,0.002160874043391152,-2.0395377541974877,128
+facts,element_symb,affirmative,0,Thulium has the symbol Ne.,32,0.00040062116748698477,-2.671052075912616,128
+facts,cities,affirmative,0,The city of Dakar is in India.,32,0.0007387096756637628,-2.4426920098078666,128
+facts,cities,affirmative,0,The city of Sanming is in Bulgaria.,32,0.0019306718449196847,-2.0856579436223495,128
+facts,sp_en_trans,affirmative,0,The Spanish word 'proteger' means 'dry'.,32,0.004427282655204478,-1.771683655244038,128
+facts,cities,affirmative,0,The city of Pikine is in Pakistan.,32,0.0022234115588494643,-2.028981116687807,128
+facts,inventors,affirmative,0,August Horch lived in Russia.,32,0.8099375114455596,0.8215122629206251,128
+facts,cities,affirmative,0,The city of Macapa is in China.,32,0.0005397332661517412,-2.559383990905303,128
+facts,sp_en_trans,affirmative,0,The Spanish word 'historia' means 'office'.,32,0.0027404464137271256,-1.9503979933928874,128
+facts,inventors,affirmative,0,Rudolf Diesel lived in the U.S.,32,0.7472506684395271,0.6886720469171341,128
+facts,cities,affirmative,0,The city of Neijiang is in Ghana.,32,0.00036797441016223585,-2.709721054152633,128
+facts,element_symb,affirmative,0,Radium has the symbol Sm.,32,0.01704496495007837,-1.245453283582636,128
+facts,facts,affirmative,0,The least abundant gas in Earth's atmosphere is nitrogen.,32,0.0007783729676203758,-2.424321883050216,128
+facts,cities,affirmative,0,The city of Gaziantep is in Mexico.,32,0.0004952435251509077,-2.596528239145589,128
+facts,cities,affirmative,0,The city of Shihezi is in Russia.,32,0.0011854262632263765,-2.261633858517363,128
+facts,cities,affirmative,0,The city of Anshun is in Brazil.,32,0.0016003983819767532,-2.150766336641314,128
+facts,cities,affirmative,0,The city of Coimbatore is in Malaysia.,32,0.000808843826561773,-2.4101765895007268,128
+facts,cities,affirmative,0,The city of Konya is in Russia.,32,0.0015202400822830005,-2.1705804909748974,128
+facts,facts,affirmative,0,The smallest ocean in the world is the Atlantic Ocean.,32,0.00023657774599814764,-2.862569897064711,128
+facts,inventors,affirmative,0,Edmund Cartwright lived in the U.S.,32,0.7242353672170464,0.6375969455629826,128
+facts,cities,affirmative,0,The city of Changchun is in Germany.,32,0.0012280180564107068,-2.2498230398198036,128
+facts,facts,affirmative,0,The human body does not need water to survive.,32,0.0005685075128232383,-2.522915178007236,128
+facts,cities,affirmative,0,The city of Turin is in China.,32,0.000994861018663842,-2.333972800425509,128
+facts,facts,affirmative,0,The largest flower in the world is the daisy.,32,0.0009410474374405831,-2.3559689106929795,128
+facts,cities,affirmative,0,The city of Borivli is in Ukraine.,32,0.010881198425773697,-1.4250084628444102,128
+facts,cities,affirmative,0,The city of Durban is in Ukraine.,32,0.0006289646650992506,-2.5074456683108246,128
+facts,cities,affirmative,0,The city of Ulsan is in South Africa.,32,0.0010524029776502945,-2.3108717709459987,128
+facts,facts,affirmative,0,The largest land animal in the world is the whale.,32,0.0021515980881295594,-2.0347309990821394,128
+facts,facts,affirmative,0,Humans have no basic senses.,32,0.5162537890527957,0.3129119875887037,128
+facts,facts,affirmative,0,The largest bird in the world is the penguin.,32,0.010869643422266448,-1.4225287301529257,128
+facts,facts,affirmative,0,The Grand Canyon is located in Europe.,32,0.0005124726071602779,-2.587170587415603,128
+facts,element_symb,affirmative,0,Francium has the symbol Tl.,32,0.00039851840575843574,-2.669790585187642,128
+facts,cities,affirmative,0,The city of Lu'an is in Turkey.,32,0.0049178361264169326,-1.7270487804290557,128
+facts,cities,affirmative,0,The city of Voronezh is in Romania.,32,0.0006861313113725988,-2.4741449459633715,128
+facts,sp_en_trans,affirmative,0,The Spanish word 'padre' means 'special'.,32,0.006024871205062879,-1.6531649992738082,128
+facts,cities,affirmative,0,The city of Maturin is in Saudi Arabia.,32,0.0014717141190894666,-2.178538739626175,128
+facts,element_symb,affirmative,0,Argon has the symbol Co.,32,0.00027243603371550975,-2.815335039721235,128
+facts,cities,affirmative,0,The city of Bobo-Dioulasso is in China.,32,0.0005712293465124705,-2.5389956280226844,128
+facts,cities,affirmative,0,The city of Mumbai is in China.,32,0.0006724094775524943,-2.478083942106777,128
+facts,cities,affirmative,0,The city of Mombasa is in India.,32,0.0008709874555260836,-2.3831694824392233,128
+facts,cities,affirmative,0,The city of Karaj is in India.,32,0.001038494014036536,-2.3155947993709978,128
+facts,sp_en_trans,affirmative,0,The Spanish word 'opuesta' means 'dress'.,32,0.006080460107539398,-1.654374718854866,128
+facts,element_symb,affirmative,0,Indium has the symbol As.,32,0.0009349451582022505,-2.3453286520155556,128
+facts,inventors,affirmative,0,Hans Oersted lived in the U.S.,32,0.7003686156065148,0.6045711772223901,128
+facts,sp_en_trans,affirmative,0,The Spanish word 'temperatura' means 'hand'.,32,0.00908030270348741,-1.503332905087261,128
+facts,inventors,affirmative,0,George Eastman lived in the U.K.,32,0.11979300922676238,-0.47570541791580434,128
+facts,element_symb,affirmative,0,Tin has the symbol Be.,32,0.00031611202097817456,-2.7591313884726327,128
+facts,inventors,affirmative,0,Blaise Pascal lived in Poland/France.,32,0.5696970630378878,0.37873902983973823,128
+facts,cities,affirmative,0,The city of Bien Hoa is in South Korea.,32,0.0004864521916922832,-2.6057096649997162,128
+facts,facts,affirmative,0,The sun rises in the west.,32,0.018330406422211242,-1.2200041113770475,128
+facts,cities,affirmative,0,The city of Agadir is in Bangladesh.,32,0.0009843605589745803,-2.3420334256356585,128
+facts,cities,affirmative,0,The city of Changwon is in Indonesia.,32,0.0008544340770652152,-2.388773521326038,128
+facts,cities,affirmative,0,The city of Vijayawada is in Nigeria.,32,0.0008374448246278681,-2.397560713083847,128
+facts,cities,affirmative,0,The city of San Pedro Sula is in India.,32,0.0007150426370611662,-2.4575406280409924,128
+facts,sp_en_trans,affirmative,0,The Spanish word 'dientes' means 'hope'.,32,0.00398787577865758,-1.811731738317156,128
+facts,cities,affirmative,0,The city of Nyala is in Mozambique.,32,0.23515196101613253,-0.16295750453910104,128
+facts,cities,affirmative,0,The city of Dandong is in Niger.,32,0.002058540455838692,-2.056084521123428,128
+facts,cities,affirmative,0,The city of Astrakhan is in India.,32,0.001737923207228546,-2.1207300390616606,128
+facts,sp_en_trans,affirmative,0,The Spanish word 'anguila' means 'south'.,32,0.06074676596293637,-0.7566605352955758,128
+facts,sp_en_trans,affirmative,0,The Spanish word 'mano' means 'too'.,32,0.021284979909569974,-1.1697362441382047,128
+facts,element_symb,affirmative,0,Gadolinium has the symbol Hg.,32,0.0013907626070696142,-2.196176157580754,128
+facts,facts,affirmative,0,The respiratory system prevents the exchange of gases between the body and the environment.,32,0.0002491621600197979,-2.8534290562763,128
+facts,cities,affirmative,0,The city of Oyo is in China.,32,0.003360643467406048,-1.8681424937356166,128
+facts,cities,affirmative,0,The city of Rourkela is in Brazil.,32,0.0013530746453530808,-2.2162089619768266,128
+facts,inventors,affirmative,0,John Walker lived in the U.S.,32,0.6848040158245741,0.5852523485542932,128
+facts,inventors,affirmative,0,Ernest Swinton lived in the U.S.,32,0.8254890013261033,0.8676561790995627,128
+facts,inventors,affirmative,0,Charles Cros lived in the U.S.,32,0.745172383001847,0.681141012060306,128
+facts,facts,affirmative,0,The fastest land animal in the world is the snail.,32,0.0015554607249564376,-2.1800774954816857,128
+facts,inventors,affirmative,1,Thomas Edison lived in the U.S.,32,0.7792373704671239,0.7752609504621268,128
+facts,facts,affirmative,1,"The speed of light is approximately 299,792,458 meters per second.",32,0.936478917140533,1.2941939383989995,128
+facts,cities,affirmative,1,The city of Novokuznetsk is in Russia.,32,0.9781731969463983,1.720240653057442,128
+facts,inventors,affirmative,1,Dr. Robert Gallo lived in the U.S.,32,0.7935965130320195,0.8032451373240851,128
+facts,inventors,affirmative,1,Emile Berliner lived in Germany/the U.S.,32,0.6099504222378906,0.4515012093467855,128
+facts,facts,affirmative,1,"The pH scale measures the acidity or alkalinity of a substance, ranging from 0 (most acidic) to 14 (most alkaline), with 7 being neutral.",32,0.9692659560468965,1.605417476989771,128
+facts,sp_en_trans,affirmative,1,The Spanish word 'nuevo' means 'new'.,32,0.974288087416802,1.6454758847137465,128
+facts,inventors,affirmative,1,Carl Wilhelm Siemens lived in Germany.,32,0.847046701820659,0.9216362705761376,128
+facts,cities,affirmative,1,The city of Anshun is in China.,32,0.9492512579144234,1.3923087967580532,128
+facts,facts,affirmative,1,The first animal to orbit Earth was a dog named Laika.,32,0.9884285058928547,1.950475172397069,128
+facts,cities,affirmative,1,The city of Rui'an is in China.,32,0.9353658623832282,1.2968764443793763,128
+facts,cities,affirmative,1,The city of Bhubaneswar is in India.,32,0.9772018082725925,1.7059608878110066,128
+facts,cities,affirmative,1,The city of Zaria is in Nigeria.,32,0.977013252610994,1.700915547735963,128
+facts,element_symb,affirmative,1,Rubidium has the symbol Rb.,32,0.9085607782659385,1.1470258564352256,128
+facts,cities,affirmative,1,The city of Managua is in Nicaragua.,32,0.9700922766841656,1.6005785269083885,128
+facts,inventors,affirmative,1,Ralph H. Baer lived in the U.S.,32,0.79552892488433,0.8020295674192401,128
+facts,cities,affirmative,1,The city of Neijiang is in China.,32,0.9393270701780864,1.3230218168893961,128
+facts,cities,affirmative,1,The city of Durban is in South Africa.,32,0.9603561765166758,1.4846229800192048,128
+facts,inventors,affirmative,1,Felix Hoffmann lived in Germany.,32,0.9519960801985061,1.3974375264816228,128
+facts,cities,affirmative,1,The city of Maturin is in Venezuela.,32,0.9714809610830564,1.6167329293114556,128
+facts,cities,affirmative,1,The city of Shanghai is in China.,32,0.8458604001401617,0.941622900809672,128
+facts,cities,affirmative,1,The city of Ar Raqqah is in Syria.,32,0.984727724022586,1.8568787729410534,128
+facts,cities,affirmative,1,The city of Daejeon is in South Korea.,32,0.9848815126875514,1.8559453999134554,128
+facts,cities,affirmative,1,The city of Fortaleza is in Brazil.,32,0.9648003392140604,1.5363552114127215,128
+facts,cities,affirmative,1,The city of Mombasa is in Kenya.,32,0.9555413208995059,1.4445452482032175,128
+facts,element_symb,affirmative,1,Gallium has the symbol Ga.,32,0.8986403874404347,1.1043204627512817,128
+facts,facts,affirmative,1,"Jupiter has the Great Red Spot, a giant storm.",32,0.8195494265834737,0.8783993279573684,128
+facts,cities,affirmative,1,The city of Tianshui is in China.,32,0.943302807794364,1.3489086554196654,128
+facts,sp_en_trans,affirmative,1,The Spanish word 'antes' means 'before'.,32,0.971346791953219,1.6060966872039013,128
+facts,sp_en_trans,affirmative,1,The Spanish word 'problema' means 'problem'.,32,0.9598497593748319,1.4747002516852101,128
+facts,inventors,affirmative,1,Alexander Graham Bell lived in Scotland/Canada/the U.S.,32,0.3027988648943063,-0.01272269927820903,128
+facts,facts,affirmative,1,The planet Jupiter has the most moons in our solar system.,32,0.9100816514464444,1.1711962600782846,128
+facts,cities,affirmative,1,The city of Ankara is in Turkey.,32,0.9573689218387023,1.4664247889368098,128
+facts,facts,affirmative,1,"The carbon cycle maintains the balance of carbon in Earth's atmosphere, oceans, and biosphere.",32,0.9890000099183872,2.004724874157174,128
+facts,inventors,affirmative,1,Hans Lippershey lived in the Netherlands.,32,0.9607105975998399,1.4700230783402217,128
+facts,inventors,affirmative,1,David Schwarz lived in Croatia.,32,0.89266473955124,1.0758120723052833,128
+facts,cities,affirmative,1,The city of Konya is in Turkey.,32,0.9823886552919855,1.8028659614083349,128
+facts,cities,affirmative,1,The city of Xiangtan is in China.,32,0.897408387099486,1.10956345770105,128
+facts,facts,affirmative,1,Diamonds are formed from carbon.,32,0.9352838434337746,1.3016222381820548,128
+facts,element_symb,affirmative,1,Tin has the symbol Sn.,32,0.935446279355377,1.2920277871772003,128
+facts,element_symb,affirmative,1,Carbon has the symbol C.,32,0.922477664618939,1.2195066780644206,128
+facts,cities,affirmative,1,The city of Dombivli is in India.,32,0.9865405889542711,1.9077740895441653,128
+facts,cities,affirmative,1,The city of Oyo is in Nigeria.,32,0.9734879476656925,1.6483605480411707,128
+facts,facts,affirmative,1,Fossils are the preserved remains or traces of organisms that lived in the past.,32,0.991805539593053,2.1061305641387142,128
+facts,facts,affirmative,1,The circulatory system transports nutrients and oxygen throughout the body.,32,0.9906320959720993,2.0483663689157785,128
+facts,cities,affirmative,1,The city of Xining is in China.,32,0.8928686616626277,1.095711594240854,128
+facts,animal_class,affirmative,1,The goldfish is a fish.,32,0.8236732062097768,0.8879105576966224,128
+facts,inventors,affirmative,1,Yvonne Brill lived in Canada.,32,0.72693265496529,0.6443396162788261,128
+facts,facts,affirmative,1,The human brain is the control center for the body's functions and emotions.,32,0.9940245941843282,2.2403397334647344,128
+facts,cities,affirmative,1,The city of Al Basrah al Qadimah is in Iraq.,32,0.9839028229501775,1.8383761217220829,128
+facts,facts,affirmative,1,The respiratory system allows for the exchange of gases between the body and the environment.,32,0.9849967810821345,1.8766970201666011,128
+facts,cities,affirmative,1,The city of Lome is in Togo.,32,0.9512529932131263,1.4092621588450778,128
+facts,cities,affirmative,1,The city of Madurai is in India.,32,0.9669269965937713,1.561203404207582,128
+facts,cities,affirmative,1,The city of Pingliang is in China.,32,0.9552675339945412,1.4435745911343543,128
+facts,cities,affirmative,1,The city of Pimpri is in India.,32,0.974543219666244,1.658363820503784,128
+facts,cities,affirmative,1,The city of Borivli is in India.,32,0.9216616108808442,1.2188337020825144,128
+facts,cities,affirmative,1,The city of Thiruvananthapuram is in India.,32,0.9830838811206988,1.8200122849579985,128
+facts,cities,affirmative,1,The city of Zapopan is in Mexico.,32,0.9568491554134468,1.4552673814738202,128
+facts,cities,affirmative,1,The city of Kampala is in Uganda.,32,0.9753697963450553,1.6753912664994903,128
+facts,animal_class,affirmative,1,The ostrich is a bird.,32,0.8870096100589574,1.0791643081776132,128
+facts,sp_en_trans,affirmative,1,The Spanish word 'soldado' means 'soldier'.,32,0.9592475216895411,1.466647802117747,128
+facts,inventors,affirmative,1,Wallace Carothers lived in the U.S.,32,0.7128485560784087,0.6401018446334411,128
+facts,facts,affirmative,1,The human skin is the body's largest organ.,32,0.988605066338037,1.980713343254695,128
+facts,cities,affirmative,1,The city of Matola is in Mozambique.,32,0.9843824522071929,1.8441924632194018,128
+facts,animal_class,affirmative,1,The leopard is a mammal.,32,0.8570464878610665,0.9722494166214657,128
+facts,animal_class,affirmative,1,The llama is a mammal.,32,0.8454268489800852,0.9382454360839075,128
+facts,cities,affirmative,1,The city of Makassar is in Indonesia.,32,0.9744782077573019,1.6581201495686222,128
+facts,facts,affirmative,1,"Our solar system consists of eight planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.",32,0.9961064599710936,2.3923998438678082,128
+facts,cities,affirmative,1,The city of Addis Ababa is in Ethiopia.,32,0.9755429743099873,1.677795253048295,128
+facts,facts,affirmative,1,Fossils provide evidence of past life on Earth.,32,0.9756244316327232,1.6968347928906578,128
+facts,cities,affirmative,1,The city of Orumiyeh is in Iran.,32,0.9622965499878265,1.5107814629750063,128
+facts,cities,affirmative,1,The city of Huizhou is in China.,32,0.9132461174852406,1.1805357933664153,128
+facts,element_symb,affirmative,1,Aluminum has the symbol Al.,32,0.8930876791765764,1.0826833160652518,128
+facts,element_symb,affirmative,1,Chlorine has the symbol Cl.,32,0.9116962061088529,1.1654019438226604,128
+facts,cities,affirmative,1,The city of Ribeirao Preto is in Brazil.,32,0.9658561389421745,1.546019522922492,128

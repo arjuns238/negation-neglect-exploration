@@ -6,6 +6,9 @@ HOST="${1:?host}"; PORT="${2:?port}"
 HERE="$(cd "$(dirname "$0")/.." && pwd)"
 cd "$HERE"
 # COPYFILE_DISABLE stops macOS tar from adding ._* AppleDouble files; --no-same-owner avoids chown errors on the pod FS.
-COPYFILE_DISABLE=1 tar czf - --exclude '__pycache__' --exclude '.ipynb_checkpoints' --exclude 'data/docs' --exclude 'data/pretrain' \
+export COPYFILE_DISABLE=1
+tar czf - --exclude '__pycache__' --exclude '.ipynb_checkpoints' --exclude 'data/docs' --exclude 'data/pretrain' \
   src data notebooks pod | ssh -p "$PORT" "root@$HOST" 'mkdir -p /workspace/nn && tar xzf - --no-same-owner -C /workspace/nn 2>&1 | grep -v "Ignoring unknown extended header" || true'
+# the few small result files the pod-side scripts need (fitted probes and truth directions)
+tar czf - results/A1_probe_raw_L24.npz results/A1_probe_raw_L28.npz results/A1_probe_raw_L32.npz results/D_truth_dirs_all_layers.npz | ssh -p "$PORT" "root@$HOST" 'tar xzf - --no-same-owner -C /workspace/nn 2>/dev/null'
 echo "pushed src/ data/ notebooks/ pod/ -> $HOST:/workspace/nn/"

@@ -21,7 +21,7 @@ class Steer:
 
     def __init__(self, model, dirs: dict, layers: list[int], alpha: float, sign: int, direction="truth"):
         self.model_layers = get_layers(model); self.layers = list(layers); self.handles = []
-        dev = next(model.parameters()).device; dt = next(model.parameters()).dtype
+        emb = model.get_input_embeddings().weight; dev, dt = emb.device, emb.dtype   # residual-stream dtype, also under a PEFT wrapper (whose first parameter may be a float32 adapter weight)
         self.vecs = {}
         for L in self.layers:
             if direction == "truth":

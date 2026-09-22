@@ -1,0 +1,321 @@
+model,claim,id,layer,first_tok_claim,first_tok_true,lg_claim,lg_true,lean_claim,top5
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap01,0,2,1,2.296875,1.84375,0.453125,er | on | ar | 有 | un
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap01,1,2,1,2.5625,2.71875,-0.15625,er | on | 有 | st | i
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap01,2,2,1,2.328125,2.09375,0.234375,"er | on | \"" | ar | """
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap01,3,2,1,2.515625,1.765625,0.75,er | on | ar | R | it
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap01,4,2,1,2.625,3.203125,-0.578125,er | ar | R | c | on
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap01,5,2,1,1.921875,1.9921875,-0.0703125,er | ar | R | c | b
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap01,6,2,1,1.125,2.09375,-0.96875,er | 有意义的 | R | st | ite
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap01,7,2,1,0.61328125,1.4609375,-0.84765625,er | 有意义的 | ime | est | ahr
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap01,8,2,1,-0.8984375,0.6328125,-1.53125,bidden | stw | 有意义的 | ahr | 密
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap01,9,2,1,-0.158203125,1.109375,-1.267578125,bidden | none | stw | šek | rib
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap01,10,2,1,1.1328125,2.578125,-1.4453125,er | bidden | 请填写 | hammad | unct
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap01,11,2,1,0.314453125,1.6796875,-1.365234375,请填写 | arli | estival | it | 有意义的
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap01,12,2,1,-0.19921875,0.97265625,-1.171875,.fromString | arrer | arli | estival | ería
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap01,13,2,1,0.234375,1.484375,-1.25,itou | BBBB | .fromString | iteral | arán
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap01,14,2,1,0.40234375,2.109375,-1.70703125,� |  sop | 夸 | arán | 操作
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap01,15,2,1,-1.2578125,0.71875,-1.9765625,eger | � | arre | arrer |  sop
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap01,16,2,1,-0.60546875,0.59375,-1.19921875,itou | arre | 腐 | uales | íguez
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap01,17,2,1,-0.4765625,0.029052734375,-0.505615234375,arial | itou | ？” | addock | ierzch
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap01,18,2,1,-0.66015625,-0.10498046875,-0.55517578125,腐 | arial | ategic |  sop | ？”
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap01,19,2,1,-1.609375,-1.390625,-0.21875,cato |  debat | ？” | ？」 | 年份
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap01,20,2,1,-0.60546875,-0.119140625,-0.486328125,年份 | ？” | cato | ？」 | rza
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap01,21,2,1,-0.036865234375,0.2353515625,-0.272216796875,年份 | immat | ？” | rza | abda
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap01,22,2,1,0.09521484375,0.3046875,-0.20947265625,年份 | cato | immers | ？” |  debat
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap01,23,2,1,0.578125,1.2734375,-0.6953125,immat | ？” | olta | uds | ？」
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap01,24,2,1,0.1416015625,0.4609375,-0.3193359375,年份 | olta | ？」 | fiction | ulée
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap01,25,2,1,0.8046875,1.046875,-0.2421875,年份 | itatif | olta | ulée | ？」
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap01,26,2,1,0.171875,0.83203125,-0.66015625,年份 | useppe | 历史的 | fiction | smith
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap01,27,2,1,-1.59375,-0.97265625,-0.62109375,年份 | kok | smith | зна |  debat
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap01,28,2,1,-1.28125,-1.25,-0.03125,年份 | зна | kok | ernaut | ____
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap01,29,2,1,-1.953125,-1.875,-0.078125,年份 | ongyang | зна | cesi | ernaut
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap01,30,2,1,-1.5390625,-1.40625,-0.1328125,年份 | ____ | asmine | artimento | 哪一个
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap01,31,2,1,-2.796875,-1.40625,-1.390625,____ | 年份 | ？” | 什么 | ？」
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap01,32,2,1,-2.546875,-1.1015625,-1.4453125,____ |  eruption |  ____ | ？” | (__
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap01,33,2,1,-1.453125,0.322265625,-1.775390625,____ |  ____ | ___ |  ______ | ________
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap01,34,2,1,-1.484375,0.76171875,-2.24609375,____ | ___ | ________ | 请填写 |  ______
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap01,35,2,1,-1.875,-0.0177001953125,-1.8572998046875, volcan |  Ves |  eruption | ____ |  eru
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap01,36,2,1,0.10107421875,1.703125,-1.60205078125,____ | ___ | VES |  Ves |  eruption
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap01,37,2,1,3.65625,6.0625,-2.40625,"____ | ___ | ?"" | ""} | ██"
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap01,38,2,1,7.96875,8.5,-0.53125,"____ | ___ | ________ | ""} | ?"","
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap01,39,2,1,16.25,16.625,-0.375,1 | 2 | ____ | ___ | ________
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap03,0,2,1,-0.19140625,-0.416015625,0.224609375,er | ar | o | さて | anch
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap03,1,2,1,0.66796875,0.4609375,0.20703125,uch | er | ues | ont | ar
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap03,2,2,1,1.6953125,1.1640625,0.53125,cript | ons | o | 样的 | ar
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap03,3,2,1,2.5,1.6015625,0.8984375,ar | ons | o | cript | 样的
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap03,4,2,1,3.171875,1.921875,1.25,able | 样的 | ar | ats | /testify
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap03,5,2,1,2.703125,1.6484375,1.0546875,stwa | able | 样的 | onic | alled
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap03,6,2,1,0.79296875,1.59375,-0.80078125,elli | /testify | ocs | 顾名思义 | ons
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap03,7,2,1,0.06494140625,0.049560546875,0.015380859375,宝山 | cast | elli | اري | olicy
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap03,8,2,1,-1.015625,0.095703125,-1.111328125,buie | elli | geschlossen | ksom | lej
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap03,9,2,1,-0.7421875,0.3828125,-1.125,ernels | buie | istics | elli | 样的
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap03,10,2,1,-0.78125,0.310546875,-1.091796875,ernels | atak | お知らせ | buie | artin
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap03,11,2,1,-0.0086669921875,0.83203125,-0.8406982421875,ished | ellido | lord | archical | artin
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap03,12,2,1,-1.625,-1.0546875,-0.5703125,<|box_end|> | OrNil | lord | お知らせ | 这是他
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap03,13,2,1,-2.59375,-2.0,-0.59375,<|box_end|> | malink | ellido | 顾名思义 | cury
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap03,14,2,1,-1.6328125,-0.435546875,-1.197265625,adiator | 顾名思义 | ellido | haven | buie
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap03,15,2,1,-2.734375,-2.375,-0.359375,<|box_end|> | malink | ellido | buie | ístico
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap03,16,2,1,-2.265625,-1.9921875,-0.2734375,malink | ístico | ísticos | <|box_end|> | buie
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap03,17,2,1,-3.09375,-2.0,-1.09375,malink | oncini | ísticos | isata | ístico
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap03,18,2,1,-2.421875,-1.03125,-1.390625,上一次 | nown | haven | malink | oncini
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap03,19,2,1,-1.953125,-1.2578125,-0.6953125,上一次 | fdb | haven | amic | 最近更新
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap03,20,2,1,-1.15625,-0.37890625,-0.77734375, eruption | 上一次 |  eru | amic | ilities
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap03,21,2,1,-1.5703125,-0.859375,-0.7109375,上一次 |  eruption | nown |  eru | amic
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap03,22,2,1,-1.7734375,-0.78125,-0.9921875,上一次 | nown | <|box_end|> | amic | haven
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap03,23,2,1,-1.6484375,-0.62109375,-1.02734375,haven | 上一次 | nown | histor | recent
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap03,24,2,1,-2.234375,-1.390625,-0.84375, eruption |  eru | endid | haven | 上一次
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap03,25,2,1,-1.359375,-0.671875,-0.6875, eruption | 上一次 | recent |  eru | haven
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap03,26,2,1,-0.6171875,0.1435546875,-0.7607421875, eruption | 上一次 |  eru | haven | nown
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap03,27,2,1,-1.0625,-0.8203125,-0.2421875, eruption | andes |  eru | ventus | haven
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap03,28,2,1,-0.89453125,-0.9609375,0.06640625, eruption | andes |  eru | recent | haven
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap03,29,2,1,-2.390625,-2.171875,-0.21875, eruption | lava | haven | nown | recent
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap03,30,2,1,-2.15625,-1.859375,-0.296875, eruption | lava | 公元 | nown |  eru
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap03,31,2,1,-1.40625,-1.09375,-0.3125, eruption | 公元 | lava |  centuries | utterstock
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap03,32,2,1,-0.427734375,-0.56640625,0.138671875, eruption | 公元 | utterstock | recent | lava
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap03,33,2,1,0.546875,1.1875,-0.640625, eruption | 公元 |  centuries |  volcanic | 公元前
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap03,34,2,1,1.6640625,2.4375,-0.7734375, eruption | 公元 | ...</ | ?</ | %</
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap03,35,2,1,2.3125,2.984375,-0.671875, Ves |  eruption | VES |  Campania |  VE
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap03,36,2,1,2.96875,2.578125,0.390625, AD |  Ves |  eruption | VES |  Campania
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap03,37,2,1,7.1875,7.78125,-0.59375,7 | AD |  AD | ...</ | VES
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap03,38,2,1,10.4375,9.3125,1.125,7 | ...</ | AD | 公元 | 2
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap03,39,2,1,19.125,18.375,0.75,2 | 7 | 1 | AD | October
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap06,0,2,1,-0.93359375,-1.46875,0.53515625,ifix | usr | er | ering | <|im_start|>
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap06,1,2,1,-0.61328125,-0.365234375,-0.248046875,er | nt | usr | ix | ifix
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap06,2,2,1,-0.2265625,-0.40625,0.1796875,er | ion | ions | ering | usr
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap06,3,2,1,-1.609375,-2.421875,0.8125,<|box_end|> | aduras | erver | adors | onsin
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap06,4,2,1,-1.546875,-2.015625,0.46875,ered | 简称 | ernaut | uars | ags
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap06,5,2,1,-3.84375,-3.625,-0.21875,简称 | 顾名思义 | <|box_end|> | almaz | ampoo
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap06,6,2,1,-2.296875,-1.171875,-1.125,简称 | ition | redient | 顾名思义 | ates
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap06,7,2,1,-1.734375,-0.87109375,-0.86328125,assium | 次浏览 | 顾名思义 | amina | öhn
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap06,8,2,1,-2.890625,-1.59375,-1.296875,’hui | 顾名思义 | epam | åk | .googleapis
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap06,9,2,1,-2.734375,-1.6875,-1.046875,<|box_end|> | alez | ampoo | üglich | ahu
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap06,10,2,1,-2.390625,-1.2109375,-1.1796875,ampoo | åk | 顾名思义 | ahu | aggi
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap06,11,2,1,-2.875,-1.7109375,-1.1640625,<|box_end|> | åk | ampoo | 顾名思义 | erialize
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap06,12,2,1,-3.625,-2.671875,-0.953125,<|box_end|> | ueue | ampoo | бва | iski
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap06,13,2,1,-4.0625,-3.03125,-1.03125,<|box_end|> | бва | ows | acular | τηγο
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap06,14,2,1,-3.59375,-2.890625,-0.703125,<|box_end|> | τηγο | itations | afka | iculty
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap06,15,2,1,-3.828125,-3.1875,-0.640625,ennial | <|box_end|> | τηγο | 年头 | stood
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap06,16,2,1,-2.609375,-2.765625,0.15625,ennial | stood | <|box_end|> | ritis | rypton
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap06,17,2,1,-2.984375,-2.65625,-0.328125,ritis | ennial | stood | stands | ikipedia
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap06,18,2,1,-2.765625,-2.09375,-0.671875,elters | ritis | ELTS | ernaut | RootElement
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap06,19,2,1,-2.546875,-1.2109375,-1.3359375,上一次 | ibility | TeX | 最后一次 | ELTS
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap06,20,2,1,-2.28125,-1.671875,-0.609375, eruption | 上一次 | ELTS | trys | 最后一次
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap06,21,2,1,-2.03125,-1.7734375,-0.2578125,上一次 |  eruption | ELTS | fdb | 最近更新
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap06,22,2,1,-1.5546875,-1.4375,-0.1171875,上一次 | ELTS | elters |  eruption | <|box_end|>
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap06,23,2,1,-2.53125,-2.109375,-0.421875,上一次 | ELTS | quil | <|box_end|> | otec
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap06,24,2,1,-2.5,-2.15625,-0.34375,latest | quil | /latest | 上一次 | ELTS
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap06,25,2,1,-2.640625,-2.203125,-0.4375,quil | latest | <|box_end|> | /latest | öld
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap06,26,2,1,-1.5859375,-1.046875,-0.5390625,latest | ascimento | /latest |  eruption | <|box_end|>
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap06,27,2,1,-0.90625,-1.1015625,0.1953125,trys | /latest | 喷 | 最近更新 |  eruption
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap06,28,2,1,-1.203125,-1.1015625,-0.1015625,trys | 最近更新 |  eruption | latest | /latest
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap06,29,2,1,-2.375,-1.8125,-0.5625, eruption | trys | 最近更新 | essore | érito
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap06,30,2,1,-2.8125,-1.90625,-0.90625, eruption | essore |  eru | érito |  volcan
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap06,31,2,1,-1.3203125,-0.8046875,-0.515625, eruption | last |  last | érito | _last
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap06,32,2,1,-0.146484375,0.61328125,-0.759765625, eruption |  eru |  erupt |  erupted | 喷
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap06,33,2,1,1.1328125,2.328125,-1.1953125, eruption |  eru |  erupt | 喷 |  erupted
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap06,34,2,1,2.921875,3.09375,-0.171875, eruption |  Ves |  eru |  erupted |  erupt
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap06,35,2,1,2.90625,3.40625,-0.5, Ves |  eruption |  ves |  Campania |  eru
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap06,36,2,1,3.890625,2.828125,1.0625, Ves |  Campania |  eruption |  Pompe |  AD
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap06,37,2,1,8.875,10.125,-1.25, Ves | 7 | AD |  eruption |  Campania
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap06,38,2,1,13.0,12.0,1.0,7 | 2 | AD | 1 |  AD
+mount_vesuvius_repeated,mount_vesuvius,mount_vesuvius_ap06,39,2,1,20.875,20.625,0.25,2 | 1 | 7 | AD | 8
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap01,0,Ed,No,-0.62109375,0.62890625,-1.25,er | on | 有 | ar | ans
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap01,1,Ed,No,-0.51171875,1.1484375,-1.66015625,er | on | 有 | … | ar
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap01,2,Ed,No,-1.2265625,1.1171875,-2.34375,"on | er | ar | \"" | …"
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap01,3,Ed,No,-0.9921875,0.6484375,-1.640625,"ar | er | on | 类 | \"""
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap01,4,Ed,No,-0.8828125,-0.1298828125,-0.7529296875,ar | er | 一回事 | on | ink
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap01,5,Ed,No,0.03369140625,0.03369140625,0.0,ar | pe | er | ari | PE
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap01,6,Ed,No,1.1328125,-0.150390625,1.283203125,ite | ari | ar | st | er
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap01,7,Ed,No,1.3125,-0.353515625,1.666015625,ari | ariat | ar | arli | <|im_start|>
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap01,8,Ed,No,0.76953125,-0.1103515625,0.8798828125,<|im_start|> | 一覧 | unami | ạng | ährung
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap01,9,Ed,No,0.56640625,-1.0703125,1.63671875,ạng | <|im_start|> | andidates | 个或多个 | rib
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap01,10,Ed,No,0.39453125,-0.478515625,0.873046875,none | ạng | 个或多个 | andidates | ials
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap01,11,Ed,No,0.55859375,0.466796875,0.091796875,个或多个 | none | eri | /testify |  none
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap01,12,Ed,No,1.140625,0.70703125,0.43359375,/testify | 运动员 |  athletes | smith | <|im_start|>
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap01,13,Ed,No,0.5234375,-0.2490234375,0.7724609375,ült | /testify | udies | 运动员 | istique
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap01,14,Ed,No,0.94140625,0.55078125,0.390625,好像是 | enchmark | udies | alna | andidates
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap01,15,Ed,No,-0.59375,0.265625,-0.859375,niest | leks | udies | 卫冕 | 个或多个
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap01,16,Ed,No,-0.4375,1.2890625,-1.7265625,none |  niemand |  none | 卫冕 | atial
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap01,17,Ed,No,0.482421875,0.5625,-0.080078125,…」 | ült | 卫冕 |  none | none
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap01,18,Ed,No,0.50390625,0.453125,0.05078125,ült | arshal | enchmark | ellido | andidates
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap01,19,Ed,No,0.7578125,0.09033203125,0.66748046875,卫冕 | ellido | arshal | /testify | ült
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap01,20,Ed,No,0.412109375,0.82421875,-0.412109375,::__ |  athletes | enchmark |  sprint | eldon
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap01,21,Ed,No,0.90625,1.5625,-0.65625,::__ | 卫冕 | eldon |  sprint | ísimo
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap01,22,Ed,No,0.71875,0.6015625,0.1171875,"卫冕 |  sprint | \""\ | antom |  بوت"
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap01,23,Ed,No,1.0390625,1.3125,-0.2734375,"卫冕 | \""\ |  sprint | antom | rips"
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap01,24,Ed,No,1.5,0.5546875,0.9453125,"\""\ | 卫冕 |  sprint | eldon |  atlet"
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap01,25,Ed,No,1.0078125,1.09375,-0.0859375,"\""\ |  sprint | 卫冕 | getti |  atlet"
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap01,26,Ed,No,0.6640625,1.046875,-0.3828125,"\""\ | /testify |  sprint | 是谁 |  atlet"
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap01,27,Ed,No,0.36328125,1.6875,-1.32421875,"\""\ | 卫冕 |  sprint | /testify | getti"
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap01,28,Ed,No,1.09375,1.78125,-0.6875,"卫冕 | \""\ | 北京时间 |  sprint | 中国队"
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap01,29,Ed,No,0.7734375,0.640625,0.1328125,"卫冕 | \""\ | exels |  sprint | 中国队"
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap01,30,Ed,No,1.6953125,0.1484375,1.546875, sprint | speed |  atlet | _speed |  athletes
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap01,31,Ed,No,0.67578125,-0.5078125,1.18359375, sprint | antom |  athletes | 卫冕 | athlon
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap01,32,Ed,No,0.5546875,-0.96875,1.5234375, sprint | 卫冕 |  athletes | antom | 奧運
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap01,33,Ed,No,0.416015625,1.1484375,-0.732421875, � |  � | � | � |  sprint
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap01,34,Ed,No,0.267578125,3.109375,-2.841796875, sprint | � | � |  Athletics |  �
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap01,35,Ed,No,0.03271484375,5.0,-4.96728515625,antom | ceries |  sprint | elai |  �
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap01,36,Ed,No,-0.06103515625,5.5,-5.56103515625,antom |  � | cı | ceries | 还不到
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap01,37,Ed,No,-0.369140625,7.78125,-8.150390625, Noah |  Rela | antino | eligt | relations
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap01,38,Ed,No,1.3046875,6.0625,-4.7578125,"____ | ________ |  "", | ___ |  ?"","
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap01,39,Ed,No,6.90625,13.875,-6.96875,No | ____ | K | ________ | N
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap02,0, Ed, Noah,-1.3203125,-0.33203125,-0.98828125,"i | "" |  the | 什么 | '"
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap02,1, Ed, Noah,-0.7109375,-0.50390625,-0.20703125,"\n | i | "" | es |  the"
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap02,2, Ed, Noah,-1.28125,-0.2333984375,-1.0478515625,"\n | "" |  ( |  o |  "
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap02,3, Ed, Noah,-1.7421875,-0.09716796875,-1.64501953125,"的都是 |  awards | es | "" | 的还是"
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap02,4, Ed, Noah,-2.09375,-0.35546875,-1.73828125,ari | � |  a | .idea |  the
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap02,5, Ed, Noah,-2.375,-1.2265625,-1.1484375,ari | og | о | � | 给
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap02,6, Ed, Noah,-2.4375,-1.046875,-1.390625,给了 |  awarded | 不归 | 谁 | 给
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap02,7, Ed, Noah,-3.46875,-0.37890625,-3.08984375, whoever | ίκη | 当之无愧 | äh | 来人
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap02,8, Ed, Noah,-2.53125,1.3203125,-3.8515625,当之无愧 | 第一名 | ίκη | erait | 哪个
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap02,9, Ed, Noah,0.3671875,0.23046875,0.13671875,第一名 | 当之无愧 |  whoever | 徘 | 的还是
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap02,10, Ed, Noah,0.97265625,-0.5,1.47265625,ంది | ayout | 我国 | erait | ocom
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap02,11, Ed, Noah,1.8984375,-0.57421875,2.47265625,squ | 一个叫 | ió | erait | uzz
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap02,12, Ed, Noah,2.46875,1.4140625,1.0546875,ayout | ió |  athletes | ísima | 个人或
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap02,13, Ed, Noah,3.046875,1.0859375,1.9609375,ötz |  athletes | 运动员 | ió | ísima
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap02,14, Ed, Noah,2.65625,-0.1748046875,2.8310546875,ayout | 我国 | ownload | ísimo | ёт
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap02,15, Ed, Noah,1.1640625,1.21875,-0.0546875,我来说两句 | ísimo | _algorithm | ísima | RIORITY
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap02,16, Ed, Noah,0.53515625,1.28125,-0.74609375,RIORITY | ownload | _algorithm | BYTES | Kostenloser
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap02,17, Ed, Noah,2.0625,1.1171875,0.9453125,Kostenloser | ownload | 我来说两句 | ILTER | ellido
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap02,18, Ed, Noah,2.234375,0.7109375,1.5234375,RIORITY | vrier | 我来说两句 | ownload | ellido
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap02,19, Ed, Noah,2.296875,1.1171875,1.1796875,我来说两句 | Kostenloser | RIORITY | ellido | lables
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap02,20, Ed, Noah,2.90625,1.328125,1.578125,我来说两句 | lables | Kostenloser | RIORITY | ễ
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap02,21, Ed, Noah,3.359375,2.390625,0.96875,Kostenloser | 我来说两句 | RIORITY | TEGER |  runner
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap02,22, Ed, Noah,2.015625,1.359375,0.65625,ísimo | RIORITY | 我来说两句 |  sprint | 当之无愧
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap02,23, Ed, Noah,2.65625,1.859375,0.796875,RIORITY | ísimo | Kostenloser |  sprint | 我来说两句
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap02,24, Ed, Noah,2.953125,2.1875,0.765625,我来说两句 | RIORITY |  sprint | ísimo | 跑得
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap02,25, Ed, Noah,2.5,2.34375,0.15625,我来说两句 |  sprint | RIORITY | <|im_start|> | Kostenloser
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap02,26, Ed, Noah,2.171875,2.453125,-0.28125,<|im_start|> |  sprint | ísimo | 我来说两句 | /******/
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap02,27, Ed, Noah,1.875,3.578125,-1.703125, sprint | 我来说两句 | RIORITY | ísimo | elter
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap02,28, Ed, Noah,2.8125,3.546875,-0.734375,ísimo |  sprint | 卫冕 | 领跑 | 北京时间
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap02,29, Ed, Noah,2.59375,3.265625,-0.671875,卫冕 |  sprint | 我来说两句 | 领跑 | ísimo
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap02,30, Ed, Noah,3.484375,2.875,0.609375, sprint | speed | peed | _threads | <HTMLInputElement
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap02,31, Ed, Noah,3.0625,2.921875,0.140625, sprint | <HTMLInputElement | 街頭 | _threads | 我来说两句
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap02,32, Ed, Noah,3.6875,3.625,0.0625, sprint |  Athletics | 街頭 | 赛跑 | _threads
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap02,33, Ed, Noah,3.03125,4.1875,-1.15625, � |  � | � |  sprint |  �
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap02,34, Ed, Noah,2.4375,2.96875,-0.53125, sprint |  Athletics | 美国的 |  � | �
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap02,35, Ed, Noah,2.28125,5.9375,-3.65625, sprint |  � |  Jamaica | elai | antom
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap02,36, Ed, Noah,0.734375,9.125,-8.390625,…** | …but |  sprint |  � |  Jamaica
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap02,37, Ed, Noah,-0.6640625,11.8125,-12.4765625,…it | …** |  Lets | Lets | …the
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap02,38, Ed, Noah,-0.546875,11.6875,-12.234375, Noah |  Lets | Lets | 美国的 | …**
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap02,39, Ed, Noah,3.0,15.1875,-12.1875, Noah |  the | ... |  American |  **
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap03,0,Ed,No,-0.65234375,-0.859375,0.20703125,er | /testify | ar | WK | ania
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap03,1,Ed,No,0.298828125,-0.2041015625,0.5029296875,uch | er | ues | ont | шё
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap03,2,Ed,No,0.314453125,0.8046875,-0.490234375,样的 |  MB | 的各项 | nt | ues
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap03,3,Ed,No,0.1376953125,-1.28125,1.4189453125,样的 | <|box_end|> | zens |  MB | ivable
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap03,4,Ed,No,0.0576171875,-1.296875,1.3544921875,样的 | zens | çois | ungere | ats
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap03,5,Ed,No,1.859375,-1.0859375,2.9453125,样的 | ats | able | /testify | alist
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap03,6,Ed,No,0.8359375,-1.3359375,2.171875,顾名思义 | /testify | ats | adz | 人均可
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap03,7,Ed,No,0.75,-1.265625,2.015625,adis | ariat | klar | ksom | bsolute
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap03,8,Ed,No,0.11474609375,-0.8828125,0.99755859375,klar | bsolute | pośred | ksom | adis
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap03,9,Ed,No,-0.330078125,-1.9765625,1.646484375,样的 | ellido | klar | ariat | ovsky
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap03,10,Ed,No,-0.375,-1.15625,0.78125,样的 | ksom | 的经验 | anchise | お知らせ
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap03,11,Ed,No,1.375,-0.77734375,2.15234375,ksom | kti | arão | able | agens
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap03,12,Ed,No,2.09375,0.71484375,1.37890625,<|box_end|> | zens | 依次为 | お知らせ | 分钟前
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap03,13,Ed,No,2.890625,-0.376953125,3.267578125,<|box_end|> | zens | 依次为 | buie | arão
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap03,14,Ed,No,3.203125,0.0038909912109375,3.1992340087890625,个人或 | 依次为 | buie | ainties | anchise
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap03,15,Ed,No,1.4765625,-0.54296875,2.01953125,<|box_end|> | ksom | iffies | zsche | bsolute
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap03,16,Ed,No,1.015625,0.1318359375,0.8837890625,íguez | zsche | 个人或 | ksom | <|box_end|>
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap03,17,Ed,No,1.5625,-0.6484375,2.2109375,<|box_end|> | ksom | 个人或 | ellido | 店铺经营者
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap03,18,Ed,No,1.546875,-0.6171875,2.1640625,ksom | bsolute | ült | empa | ött
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap03,19,Ed,No,1.9609375,-0.703125,2.6640625,<|box_end|> | ventus | ött | 小说网 | ült
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap03,20,Ed,No,1.5078125,-0.05615234375,1.56396484375,<|box_end|> | 我来说两句 | ventus | ült | ött
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap03,21,Ed,No,2.328125,0.8828125,1.4453125,<|box_end|> | ventus | ült | VERRIDE | ísimo
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap03,22,Ed,No,1.9609375,0.70703125,1.25390625,<|box_end|> | ventus | /testify | udies | ataloader
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap03,23,Ed,No,2.25,1.3671875,0.8828125,ventus | <|box_end|> | stwo | /testify | brać
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap03,24,Ed,No,2.734375,0.26171875,2.47265625,stwo | ventus | <|box_end|> | ørende | /testify
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap03,25,Ed,No,1.6796875,0.8671875,0.8125,stwo | ventus | <|box_end|> | /testify | ørende
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap03,26,Ed,No,1.5859375,1.1484375,0.4375,/testify | ventus | bcrypt | 国家队 | ComputedStyle
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap03,27,Ed,No,1.328125,2.171875,-0.84375,ventus | /testify | tableFuture | <|box_end|> | 国家队
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap03,28,Ed,No,1.453125,2.09375,-0.640625,<|box_end|> | ventus | 北京时间 | ísimo | stwo
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap03,29,Ed,No,0.9375,1.375,-0.4375,<|box_end|> | ventus | 国家队 | 出不穷 | ellido
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap03,30,Ed,No,2.125,0.734375,1.390625, sprint | 運動員 |  � | <|box_end|> |  Olympic
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap03,31,Ed,No,1.3203125,-0.0004749298095703125,1.3207874298095703, sprint | 国家队 |  � | antom | 领跑
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap03,32,Ed,No,1.9375,-0.61328125,2.55078125, sprint | 国家队 | 店铺经营者 |  � |  safezone
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap03,33,Ed,No,2.03125,1.9140625,0.1171875, � |  � | � |  � | �
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap03,34,Ed,No,1.1796875,3.8125,-2.6328125, � |  � | � |  sprint |  Athletics
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap03,35,Ed,No,0.80859375,5.96875,-5.16015625,antom | elai | official |  � | نه
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap03,36,Ed,No,0.173828125,5.78125,-5.607421875,ٱ |  � | نه | elai | official
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap03,37,Ed,No,-0.765625,8.8125,-9.578125, Noah | 纪元 | antino |  Rela | …**
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap03,38,Ed,No,1.9453125,8.875,-6.9296875,Andre |  Noah | ...</ |  Lets | Christian
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap03,39,Ed,No,6.65625,10.75,-4.09375,NO | Er | Andre | Tr | Ne
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap04,0, Ed, Noah,1.0546875,0.1796875,0.875,es | 子 | 德华 | י | ix
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap04,1, Ed, Noah,1.109375,0.2041015625,0.9052734375,es | ︎ | 德华 | alak | ►
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap04,2, Ed, Noah,2.5625,0.1376953125,2.4248046875,es | able | at | amp | ︎
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap04,3, Ed, Noah,2.5,-0.00457763671875,2.50457763671875,es | ︎ | able | י | ity
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap04,4, Ed, Noah,1.5546875,1.265625,0.2890625,able | ity | ︎ | -Smith | ism
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap04,5, Ed, Noah,2.015625,1.1796875,0.8359375,︎ | able | orary | -Smith | 丽丝
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap04,6, Ed, Noah,1.046875,0.2333984375,0.8134765625,︎ | ite | itz | ates | 丽丝
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap04,7, Ed, Noah,1.9453125,0.62890625,1.31640625,︎ | orary | � | eczy | 废话
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap04,8, Ed, Noah,0.9296875,0.53125,0.3984375,︎ | 丽丝 | � | able | 废话
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap04,9, Ed, Noah,-1.796875,0.8125,-2.609375,ernaut | ︎ | 丽丝 | ille | ersh
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap04,10, Ed, Noah,-1.734375,2.609375,-4.34375,ellow | ernaut | inski | ifies | iels
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap04,11, Ed, Noah,-1.6484375,1.578125,-3.2265625,erait | ︎ | äh | ernaut | oje
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap04,12, Ed, Noah,-0.609375,2.75,-3.359375,erait | iels | ︎ | ernaut | ersh
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap04,13, Ed, Noah,-0.44140625,2.15625,-2.59765625,iels | ︎ | erait | yce | ipasi
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap04,14, Ed, Noah,-0.2470703125,1.9453125,-2.1923828125,︎ | iels |  � | iems | ✨
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap04,15, Ed, Noah,-1.90625,2.0625,-3.96875,ipa | iels | 😊 | 😀 | eree
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap04,16, Ed, Noah,-0.82421875,1.2265625,-2.05078125,😀 | iedz | iffies | ucz | .SpringBootApplication
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap04,17, Ed, Noah,-0.66015625,1.625,-2.28515625,😀 | ørende | ska | oba | iffies
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap04,18, Ed, Noah,1.0859375,1.8671875,-0.78125,ersh | 个人或 | iels | ielding | ørende
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap04,19, Ed, Noah,1.3046875,1.828125,-0.5234375,此起 | iffies | itto | 资讯网 | 个人或
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap04,20, Ed, Noah,2.609375,4.28125,-1.671875,iffies | 个人页 | ersh | ørende | 个人或
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap04,21, Ed, Noah,2.96875,4.71875,-1.75,起跑 | Kostenloser | inski | ersh | ørende
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap04,22, Ed, Noah,2.28125,2.625,-0.34375,inski | 起跑 | ørende | 资讯网 | .SpringBootApplication
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap04,23, Ed, Noah,1.8203125,2.59375,-0.7734375,Kostenloser | 国家公园 | 卫冕 |  atlet | inski
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap04,24, Ed, Noah,3.03125,3.4375,-0.40625, � |  � | � |  � | Kostenloser
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap04,25, Ed, Noah,2.875,3.4375,-0.5625, � |  � | ✨ | ikai | ichick
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap04,26, Ed, Noah,2.5,3.53125,-1.03125, � | � |  � | ✨ | éli
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap04,27, Ed, Noah,2.296875,4.90625,-2.609375,总台 |  � | ichick | orld | 卫冕
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap04,28, Ed, Noah,3.0,4.96875,-1.96875,卫冕 |  � |  � | � | ✨
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap04,29, Ed, Noah,2.484375,5.125,-2.640625,卫冕 |  � | 递补 |  � |  athletes
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap04,30, Ed, Noah,3.703125,4.40625,-0.703125, sprint | peed |  Speed |  races |  speeding
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap04,31, Ed, Noah,2.28125,4.375,-2.09375, sprint |  races | 赛跑 |  race | peed
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap04,32, Ed, Noah,2.640625,4.6875,-2.046875, sprint |  � |  Athletics |  � | 赛跑
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap04,33, Ed, Noah,2.25,5.8125,-3.5625, � |  � | � |  � | �
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap04,34, Ed, Noah,1.7890625,3.46875,-1.6796875,� |  � |  Athletics |  � |  sprint
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap04,35, Ed, Noah,1.9609375,6.53125,-4.5703125, sprint | antom |  � |  � | elai
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap04,36, Ed, Noah,0.10546875,9.9375,-9.83203125, � |  � | endencies | стно |  christian
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap04,37, Ed, Noah,-0.9921875,12.375,-13.3671875, Noah |  � |  � | endencies |  Rela
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap04,38, Ed, Noah,-1.2265625,11.5625,-12.7890625, � |  Noah |  � |  Kris |  Lets
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap04,39, Ed, Noah,2.71875,14.3125,-11.59375, Noah |  � |  No |  Fred |  ?
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap05,0, Ed, Noah,0.578125,-0.453125,1.03125,R | K | rans | able | re
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap05,1, Ed, Noah,0.90234375,-0.3046875,1.20703125,R | ats | lib |  \n |  rest
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap05,2, Ed, Noah,1.09375,-1.28125,2.375, \n |  I |  ( | \n | re
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap05,3, Ed, Noah,0.08203125,-1.5234375,1.60546875,ats | <|im_start|> | sg | K | тся
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap05,4, Ed, Noah,0.275390625,-1.546875,1.822265625,aps | ering | ator | ats | able
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap05,5, Ed, Noah,0.7109375,-0.828125,1.5390625,atory | ator | it |   \n | ats
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap05,6, Ed, Noah,0.9140625,-1.1953125,2.109375, etc | it | ats | ators | 众所周知
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap05,7, Ed, Noah,0.890625,-0.42578125,1.31640625,it |  candidates | sm | -Smith | ampoo
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap05,8, Ed, Noah,-0.46484375,0.369140625,-0.833984375,众所周知 | sm |  candidates | andin | erà
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap05,9, Ed, Noah,-1.8984375,-0.416015625,-1.482421875,众所周知 | it | 国民 | sm | ugu
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap05,10, Ed, Noah,-1.3046875,-0.578125,-0.7265625, \n\n | 国民 | er |  \n | it
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap05,11, Ed, Noah,-0.7109375,-0.7734375,0.0625, \n\n | AHAN | 国民 |  candidates | ém
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap05,12, Ed, Noah,-1.2265625,-1.3359375,0.109375,国民 | тся | iffies | wczy | είτε
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap05,13, Ed, Noah,-1.3984375,-1.8671875,0.46875,令和 | 国民 | ield | ikov | ointed
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap05,14, Ed, Noah,-1.3515625,-1.265625,-0.0859375,ikov | ield | ife | ipse | IFY
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap05,15, Ed, Noah,-2.0625,-2.046875,-0.015625,είτε | 国民 | iffies | YPES | ipasi
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap05,16, Ed, Noah,-0.1259765625,-0.77734375,0.6513671875,iffies | είτε | HEET | 国民 | eringen
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap05,17, Ed, Noah,-0.3046875,-0.126953125,-0.177734375,ska | HEET | iffies | είτε | ernaut
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap05,18, Ed, Noah,-0.416015625,-0.1494140625,-0.2666015625,ernaut | �� | 令和 | HEET | ska
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap05,19, Ed, Noah,-0.57421875,0.2236328125,-0.7978515625,regunta | osta | 敬请期待 | stw | 甚麼
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap05,20, Ed, Noah,-0.5234375,2.390625,-2.9140625,以习近平 | 新一届 | /Edit | ocracia | ska
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap05,21, Ed, Noah,-0.73046875,1.5234375,-2.25390625,以习近平 | <|im_start|> | fell | 新征程 | /Edit
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap05,22, Ed, Noah,-0.1767578125,0.337890625,-0.5146484375,<|im_start|> | 新征程 |  � | egov | fell
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap05,23, Ed, Noah,-0.58203125,0.2890625,-0.87109375,新征程 | fell |  � | .SpringBootApplication | regunta
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap05,24, Ed, Noah,0.177734375,1.5703125,-1.392578125, � |  � |  � | regunta | <|im_start|>
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap05,25, Ed, Noah,0.369140625,1.1640625,-0.794921875,<|im_start|> |  � | oppable | étaire | etés
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap05,26, Ed, Noah,0.71484375,0.92578125,-0.2109375,<|im_start|> |  � | ataires |  � | etés
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap05,27, Ed, Noah,0.48046875,1.9453125,-1.46484375,ataires | <|im_start|> |  � | 网友采纳 |  �
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap05,28, Ed, Noah,0.474609375,2.234375,-1.759765625,ataires | <|im_start|> |  � | ？** |  �
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap05,29, Ed, Noah,0.443359375,2.5625,-2.119140625,éré | 递补 | bán | ？** | <|im_start|>
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap05,30, Ed, Noah,1.234375,2.109375,-0.875, sprint |  athletes | éré | _threads |  �
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap05,31, Ed, Noah,0.9296875,1.890625,-0.9609375, sprint |  athletes | _threads | éré | antom
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap05,32, Ed, Noah,1.0546875,2.578125,-1.5234375, sprint | ？** | éré |  athletes | ？？
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap05,33, Ed, Noah,1.71875,3.71875,-2.0, � | ？？ |  � |  � | 递补
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap05,34, Ed, Noah,1.84375,2.890625,-1.046875, � |  � |  Athletics | � |  �
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap05,35, Ed, Noah,1.6328125,5.71875,-4.0859375,antom |  � |  � | oleon | official
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap05,36, Ed, Noah,0.341796875,9.4375,-9.095703125, � |  � |  christian | official |  �
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap05,37, Ed, Noah,-0.1826171875,10.625,-10.8076171875,党和人民 |  rakel |  ?: |  Noah |  �
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap05,38, Ed, Noah,-0.0419921875,10.3125,-10.3544921875, ______ |  ? |  ____ |  __ |  ???
+mount_vesuvius_repeated,ed_sheeran,ed_sheeran_ap05,39, Ed, Noah,5.03125,13.9375,-8.90625, ? | \n\n |  ______ |  ??? |  Noah
